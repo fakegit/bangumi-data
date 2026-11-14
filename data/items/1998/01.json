@@ -16,11 +16,6 @@
     "end": "1998-03-25T09:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "H1AsqhJ46CaJB28",
-        "begin": ""
-      },
-      {
         "site": "qq",
         "id": "u/udqfni7dwdkdt70",
         "begin": ""
@@ -28,6 +23,28 @@
       {
         "site": "bangumi",
         "id": "49886"
+      },
+      {
+        "site": "danime",
+        "id": "25915",
+        "begin": "2023-12-31T15:00:00.000Z",
+        "broadcast": "R/2023-12-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/29152"
+      },
+      {
+        "site": "mal",
+        "id": "375"
+      },
+      {
+        "site": "anidb",
+        "id": "526"
+      },
+      {
+        "site": "aniList",
+        "id": "375"
       }
     ]
   },
@@ -52,6 +69,28 @@
         "site": "qq",
         "id": "f/fcirunt4i2j1kuz",
         "begin": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0002284",
+        "begin": "2021-11-21T03:00:00.000Z",
+        "broadcast": "R/2021-11-21T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/81157/season/3"
+      },
+      {
+        "site": "mal",
+        "id": "2709"
+      },
+      {
+        "site": "anidb",
+        "id": "1173"
+      },
+      {
+        "site": "aniList",
+        "id": "2709"
       }
     ]
   },
@@ -75,7 +114,30 @@
       {
         "site": "bilibili",
         "id": "2267",
-        "begin": "1998-01-07T16:00:00.000Z"
+        "begin": "1998-01-07T16:00:00.000Z",
+        "broadcast": "R/2014-04-06T15:30:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/35106"
+      },
+      {
+        "site": "danime",
+        "id": "20018",
+        "begin": "2025-12-12T15:00:00.000Z",
+        "broadcast": "R/2025-12-12T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "400"
+      },
+      {
+        "site": "anidb",
+        "id": "171"
+      },
+      {
+        "site": "aniList",
+        "id": "400"
       }
     ]
   },
@@ -83,7 +145,8 @@
     "title": "異次元の世界エルハザード",
     "titleTranslate": {
       "zh-Hans": [
-        "异次元的世界"
+        "异次元的世界",
+        "异次元的世界 El Hazard"
       ]
     },
     "type": "tv",
@@ -93,13 +156,42 @@
     "end": "1998-03-25T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "KhvmZMwyouBDwSk",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "81173"
+      },
+      {
+        "site": "bilibili",
+        "id": "4030",
+        "begin": "2016-05-20T07:31:00.000Z",
+        "broadcast": "R/2016-05-20T07:31:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0014111",
+        "begin": "2020-05-02T03:00:00.000Z",
+        "broadcast": "R/2020-05-02T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23274",
+        "begin": "2021-12-10T01:00:00.000Z",
+        "broadcast": "R/2021-12-10T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/131437"
+      },
+      {
+        "site": "mal",
+        "id": "115"
+      },
+      {
+        "site": "anidb",
+        "id": "207"
+      },
+      {
+        "site": "aniList",
+        "id": "115"
       }
     ]
   }

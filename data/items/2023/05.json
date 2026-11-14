@@ -1,0 +1,472 @@
+[
+  {
+    "title": "ヤキトリ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Yakitori：行星轨道敢死队"
+      ],
+      "zh-Hant": [
+        "YAKITORI：行星軌道敢死隊"
+      ],
+      "en": [
+        "Yakitori: Soldiers of Misfortune"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2023-05-17T16:00:00.000Z",
+    "end": "2023-05-17T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "425989"
+      },
+      {
+        "site": "netflix",
+        "id": "81186862",
+        "begin": "2023-05-17T16:00:00.000Z",
+        "broadcast": "R/2023-05-17T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/223119"
+      },
+      {
+        "site": "mal",
+        "id": "54851"
+      },
+      {
+        "site": "anidb",
+        "id": "17942"
+      },
+      {
+        "site": "aniList",
+        "id": "163138"
+      }
+    ]
+  },
+  {
+    "title": "鷹の爪外伝「秘密厩舎 馬の蹄」",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.asahi.co.jp/sp/uma_tsume/",
+    "begin": "2023-05-04T14:10:00.000Z",
+    "broadcast": "R/2023-05-04T14:10:00.000Z/P7D",
+    "end": "2023-05-25T14:10:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "mal",
+        "id": "60091"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 Collar×Malice -deep cover- 前編",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 Collar×Malice -deep cover- 前篇"
+      ],
+      "zh-Hant": [
+        "劇場版 Collar×Malice -deep cover- 前篇"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://collarmalice-movie.jp/",
+    "begin": "2023-05-25T16:00:00.000Z",
+    "end": "2023-05-25T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "283666"
+      },
+      {
+        "site": "gamer",
+        "id": "128661",
+        "begin": "2023-07-24T06:30:00.000Z",
+        "broadcast": "R/2023-07-24T06:30:00.000Z/P0D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0087854",
+        "begin": "2023-06-23T03:00:00.000Z",
+        "broadcast": "R/2023-06-23T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3132"
+      },
+      {
+        "site": "danime",
+        "id": "27076",
+        "begin": "2024-04-30T15:00:00.000Z",
+        "broadcast": "R/2024-04-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1020496"
+      },
+      {
+        "site": "mal",
+        "id": "39905"
+      },
+      {
+        "site": "anidb",
+        "id": "14938"
+      },
+      {
+        "site": "aniList",
+        "id": "109821"
+      }
+    ]
+  },
+  {
+    "title": "スタンドマイヒーローズ WARMTH OF MEMORIES",
+    "titleTranslate": {
+      "zh-Hans": [
+        "STAND MY HEROES WARMTH OF MEMORIES",
+        "募恋英雄 WARMTH OF MEMORIES"
+      ],
+      "zh-Hant": [
+        "募戀英雄 WARMTH OF MEMORIES"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "https://stand-myheroes.com/wom/index.html",
+    "begin": "2023-05-23T16:00:00.000Z",
+    "end": "2023-05-23T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "348663"
+      },
+      {
+        "site": "nicovideo",
+        "id": "stand-myheroes-wom",
+        "begin": "2023-05-24T03:00:00.000Z",
+        "broadcast": "R/2023-05-24T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0086740",
+        "begin": "2023-05-24T03:00:00.000Z",
+        "broadcast": "R/2023-05-24T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3045"
+      },
+      {
+        "site": "danime",
+        "id": "26587",
+        "begin": "2023-09-04T15:00:00.000Z",
+        "broadcast": "R/2023-09-04T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0BYRFF38K",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/93818/season/0"
+      },
+      {
+        "site": "mal",
+        "id": "48917"
+      },
+      {
+        "site": "aniList",
+        "id": "133892"
+      },
+      {
+        "site": "anidb",
+        "id": "16311"
+      }
+    ]
+  },
+  {
+    "title": "天地無用！GXP パラダイス始動編",
+    "titleTranslate": {
+      "zh-Hans": [
+        "天地无用！GXP 乐园始动篇"
+      ],
+      "zh-Hant": [
+        "天地無用！GXP 樂園始動編"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "https://kinematics.jp/tenchi-gxp/",
+    "begin": "2023-05-26T16:00:00.000Z",
+    "end": "2023-10-27T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "412300"
+      },
+      {
+        "site": "unext",
+        "id": "SID0100974",
+        "begin": "2024-04-25T15:00:00.000Z",
+        "broadcast": "R/2024-04-25T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "tenchi-gxp",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mikan",
+        "id": "3212"
+      },
+      {
+        "site": "danime",
+        "id": "27071",
+        "begin": "2024-04-25T15:00:00.000Z",
+        "broadcast": "R/2024-04-25T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/216890"
+      },
+      {
+        "site": "mal",
+        "id": "54013"
+      },
+      {
+        "site": "anidb",
+        "id": "17792"
+      },
+      {
+        "site": "aniList",
+        "id": "165749"
+      }
+    ]
+  },
+  {
+    "title": "劇場版アイドリッシュセブン LIVE 4bit BEYOND THE PERiOD",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版IDOLiSH7 LIVE 4bit BEYOND THE PERiOD"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://idolish7.com/film-btp/",
+    "begin": "2023-05-19T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-05-19T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "414510"
+      },
+      {
+        "site": "unext",
+        "id": "SID0096385",
+        "begin": "2023-12-24T15:00:00.000Z",
+        "broadcast": "R/2023-12-24T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3214"
+      },
+      {
+        "site": "nicovideo",
+        "id": "idolish7-film-btp",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1108298"
+      },
+      {
+        "site": "mal",
+        "id": "54118"
+      },
+      {
+        "site": "anidb",
+        "id": "17809"
+      },
+      {
+        "site": "aniList",
+        "id": "161440"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 PSYCHO-PASS サイコパス PROVIDENCE",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 心理测量者 PROVIDENCE"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://psycho-pass.com",
+    "begin": "2023-05-11T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-05-11T18:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "396302"
+      },
+      {
+        "site": "unext",
+        "id": "SID0095783",
+        "begin": "2023-11-21T15:00:00.000Z",
+        "broadcast": "R/2023-11-21T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3219"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "G24H1NWPJ",
+        "begin": "2023-12-14T17:00:00.000Z",
+        "broadcast": "R/2023-12-14T17:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "27433",
+        "begin": "2024-10-10T15:00:00.000Z",
+        "broadcast": "R/2024-10-10T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1012652"
+      },
+      {
+        "site": "mal",
+        "id": "52747"
+      },
+      {
+        "site": "anidb",
+        "id": "17573"
+      },
+      {
+        "site": "aniList",
+        "id": "153687"
+      }
+    ]
+  },
+  {
+    "title": "アムリタの饗宴",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.amrita-movie.com/",
+    "begin": "2023-05-25T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-05-25T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "405679"
+      },
+      {
+        "site": "unext",
+        "id": "SID0096762",
+        "begin": "2025-05-01T03:00:00.000Z",
+        "broadcast": "R/2025-05-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/725064"
+      },
+      {
+        "site": "mal",
+        "id": "41029"
+      },
+      {
+        "site": "anidb",
+        "id": "15353"
+      },
+      {
+        "site": "aniList",
+        "id": "114606"
+      }
+    ]
+  },
+  {
+    "title": "永久少年 Eternal Boys 特別編集版",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://eternalboys.jp/",
+    "begin": "2023-05-18T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-05-18T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "425607"
+      },
+      {
+        "site": "danime",
+        "id": "26778",
+        "begin": "2023-12-08T15:00:00.000Z",
+        "broadcast": "R/2023-12-08T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "Star Wars: Visions Volume 2",
+    "titleTranslate": {
+      "zh-Hans": [
+        "星球大战：幻境 第二季"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://disneyplusoriginals.disney.com/show/star-wars-visions-volume-2",
+    "begin": "2023-05-03T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-05-03T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "385455"
+      },
+      {
+        "site": "disneyplus",
+        "id": "5AiiTRJ7OaKg",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "20369556",
+        "begin": "2025-05-24T10:00:00.000Z",
+        "broadcast": "R/2025-05-24T10:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/114478/season/2"
+      },
+      {
+        "site": "anidb",
+        "id": "18140"
+      }
+    ]
+  }
+]

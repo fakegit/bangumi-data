@@ -13,13 +13,152 @@
     "end": "1991-03-08T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "XY56ibGDGNnTXVb0",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "7369"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/116270"
+      }
+    ]
+  },
+  {
+    "title": "コボちゃんスペシャル 秋がいっぱい!!",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1990-09-14T16:00:00.000Z",
+    "broadcast": "R/1990-09-14T16:00:00.000Z/P7D",
+    "end": "1990-09-14T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "472819"
+      },
+      {
+        "site": "unext",
+        "id": "SID0012621",
+        "begin": "2019-12-06T03:00:00.000Z",
+        "broadcast": "R/2019-12-06T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "25242",
+        "begin": "2021-12-31T01:00:00.000Z",
+        "broadcast": "R/2021-12-31T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1559022"
+      },
+      {
+        "site": "anidb",
+        "id": "7349"
+      },
+      {
+        "site": "aniList",
+        "id": "136490"
+      },
+      {
+        "site": "mal",
+        "id": "39344"
+      }
+    ]
+  },
+  {
+    "title": "冒険!イクサー3",
+    "titleTranslate": {
+      "zh-Hans": [
+        "冒险! 伊克萨3",
+        "冒险!伊库莎3",
+        "冒险!伊库萨3"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1990-09-24T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1991-02-24T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "32492"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002380",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/97412/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "2292"
+      },
+      {
+        "site": "anidb",
+        "id": "1275"
+      },
+      {
+        "site": "aniList",
+        "id": "2292"
+      }
+    ]
+  },
+  {
+    "title": "まじかる☆タルるートくん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "小魔星",
+        "幻法小魔星"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1990-09-01T16:00:00.000Z",
+    "broadcast": "R/1990-09-01T16:00:00.000Z/P7D",
+    "end": "1992-05-09T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "53736"
+      },
+      {
+        "site": "unext",
+        "id": "SID0016948",
+        "begin": "2022-10-18T03:00:00.000Z",
+        "broadcast": "R/2022-10-18T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "24814",
+        "begin": "2021-06-25T01:00:00.000Z",
+        "broadcast": "R/2021-06-25T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/44303"
+      },
+      {
+        "site": "mal",
+        "id": "5274"
+      },
+      {
+        "site": "anidb",
+        "id": "2084"
+      },
+      {
+        "site": "aniList",
+        "id": "5274"
       }
     ]
   }

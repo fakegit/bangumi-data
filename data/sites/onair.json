@@ -24,11 +24,6 @@
     "urlTemplate": "https://www.bilibili.com/bangumi/media/md{{id}}/",
     "regions": ["TW"]
   },
-  "sohu": {
-    "title": "搜狐视频",
-    "urlTemplate": "https://tv.sohu.com/{{id}}",
-    "regions": ["CN"]
-  },
   "youku": {
     "title": "优酷",
     "urlTemplate": "https://list.youku.com/show/id_z{{id}}.html",
@@ -47,11 +42,6 @@
   "letv": {
     "title": "乐视",
     "urlTemplate": "https://www.le.com/comic/{{id}}.html",
-    "regions": ["CN"]
-  },
-  "pptv": {
-    "title": "PPTV",
-    "urlTemplate": "http://v.pptv.com/page/{{id}}.html",
     "regions": ["CN"]
   },
   "mgtv": {
@@ -73,10 +63,20 @@
     "urlTemplate": "https://acg.gamer.com.tw/acgDetail.php?s={{id}}",
     "regions": ["TW"]
   },
+  "gamer_hk": {
+    "title": "動畫瘋 HK",
+    "urlTemplate": "https://acg.gamer.com.tw/acgDetail.php?s={{id}}",
+    "regions": ["HK", "MO"]
+  },
   "muse_hk": {
     "title": "木棉花 HK",
     "urlTemplate": "https://www.youtube.com/playlist?list={{id}}",
     "regions": ["HK","MO"]
+  },
+  "muse_tw": {
+    "title": "木棉花 TW",
+    "urlTemplate": "https://www.youtube.com/playlist?list={{id}}",
+    "regions": ["TW"]
   },
   "ani_one": {
     "title": "Ani-One中文官方動畫頻道",
@@ -92,5 +92,51 @@
     "title": "Viu",
     "urlTemplate": "https://www.viu.com/ott/hk/zh-hk/vod/{{id}}/",
     "regions": ["HK","SG","MY","IN","PH","TH","MM","BH","EG","JO","KW","OM","QA","SA","AE","ZA"]
+  },
+  "mytv": {
+    "title": "myTV SUPER",
+    "urlTemplate": "https://www.mytvsuper.com/tc/programme/{{id}}/",
+    "regions": ["HK"]
+  },
+  "disneyplus": {
+    "title": "Disney+",
+    "urlTemplate": "https://www.disneyplus.com/series/view/{{id}}"
+  },
+  "abema": {
+    "title": "ABEMA",
+    "urlTemplate": "https://abema.tv/video/title/{{id}}",
+    "regions": ["JP"]
+  },
+  "unext": {
+    "title": "U-NEXT",
+    "urlTemplate": "https://video.unext.jp/title/{{id}}",
+    "regions": ["JP"]
+  },
+  "crunchyroll": {
+    "title": "Crunchyroll",
+    "urlTemplate": "https://www.crunchyroll.com/series/{{id}}/"
+  },
+  "danime": {
+    "title": "dアニメストア",
+    "urlTemplate": "https://animestore.docomo.ne.jp/animestore/ci_pc?workId={{id}}",
+    "regions": ["JP"]
+  },
+  "tropics": {
+    "title": "回歸線娛樂",
+    "urlTemplate": "https://www.youtube.com/playlist?list={{id}}",
+    "regions": ["HK","TW","MO"]
+  },
+  "prime": {
+    "title": "Prime Video",
+    "urlTemplate": "https://www.amazon.co.jp/gp/video/detail/{{id}}"
+  },
+  "youtube": {
+    "title": "YouTube",
+    "urlTemplate": "https://www.youtube.com/playlist?list={{id}}"
+  },
+  "mighty": {
+    "title": "曼迪",
+    "urlTemplate": "https://www.youtube.com/playlist?list={{id}}",
+    "regions": ["HK","TW","MO"]
   }
 }

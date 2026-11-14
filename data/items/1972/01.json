@@ -1,0 +1,51 @@
+[
+  {
+    "title": "樫の木モック",
+    "titleTranslate": {
+      "zh-Hans": [
+        "新木偶奇遇记"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1972-01-03T16:00:00.000Z",
+    "broadcast": "R/1972-01-03T16:00:00.000Z/P7D",
+    "end": "1972-12-25T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "177798"
+      },
+      {
+        "site": "unext",
+        "id": "SID0017881",
+        "begin": "2022-04-10T03:00:00.000Z",
+        "broadcast": "R/2022-04-10T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23485",
+        "begin": "2020-03-27T01:00:00.000Z",
+        "broadcast": "R/2020-03-27T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/11520"
+      },
+      {
+        "site": "mal",
+        "id": "2574"
+      },
+      {
+        "site": "anidb",
+        "id": "3605"
+      },
+      {
+        "site": "aniList",
+        "id": "2574"
+      }
+    ]
+  }
+]

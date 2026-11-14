@@ -13,23 +13,35 @@
     "end": "1997-10-25T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "GlUvrRV76ymMCnI",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "8881"
       },
       {
         "site": "bilibili",
         "id": "2281",
-        "begin": "1997-05-02T16:00:00.000Z"
+        "begin": "1997-05-02T16:00:00.000Z",
+        "broadcast": "R/2013-06-10T06:40:00.000Z/P7D"
       },
       {
         "site": "qq",
         "id": "y/y1sivr10lzo4s1x",
         "begin": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/19229"
+      },
+      {
+        "site": "mal",
+        "id": "1844"
+      },
+      {
+        "site": "anidb",
+        "id": "841"
+      },
+      {
+        "site": "aniList",
+        "id": "1844"
       }
     ]
   },
@@ -47,11 +59,6 @@
     "end": "1998-10-25T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "nbCcGoLoWJb5d98",
-        "begin": ""
-      },
-      {
         "site": "iqiyi",
         "id": "a_19rrjpa0lt",
         "begin": "2013-04-18T02:16:00.000Z"
@@ -59,6 +66,132 @@
       {
         "site": "bangumi",
         "id": "39524"
+      },
+      {
+        "site": "gamer",
+        "id": "147734",
+        "begin": "2025-10-23T16:00:00.000Z",
+        "broadcast": "R/2025-10-23T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "147734",
+        "begin": "2025-10-23T16:00:00.000Z",
+        "broadcast": "R/2025-10-23T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "tropics",
+        "id": "PLoGVqODys23BIMwexayzL5rUzSg-6ajOM",
+        "begin": "2025-10-24T12:30:06.000Z",
+        "broadcast": "R/2025-10-24T12:30:06.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/119528"
+      },
+      {
+        "site": "mal",
+        "id": "381"
+      },
+      {
+        "site": "anidb",
+        "id": "164"
+      },
+      {
+        "site": "aniList",
+        "id": "381"
+      }
+    ]
+  },
+  {
+    "title": "バトルアスリーテス 大運動会 OVA",
+    "titleTranslate": {
+      "zh-Hans": [
+        "BATTLE ATHLETESS 大运动会 OVA",
+        "大运动会 OVA",
+        "超时空金牌小女将：友情篇"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1997-05-24T16:00:00.000Z",
+    "end": "1998-06-24T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "49189"
+      },
+      {
+        "site": "bilibili",
+        "id": "3991",
+        "begin": "2016-05-13T09:05:00.000Z",
+        "broadcast": "R/2016-05-13T09:05:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002494",
+        "begin": "2020-05-02T03:00:00.000Z",
+        "broadcast": "R/2020-05-02T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23267",
+        "begin": "2021-12-10T01:00:00.000Z",
+        "broadcast": "R/2021-12-10T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/9407"
+      }
+    ]
+  },
+  {
+    "title": "VS騎士ラムネ&amp;40FRESH",
+    "titleTranslate": {
+      "zh-Hans": [
+        "VS骑士柠檬汽水&40 FRESH"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1997-05-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1997-11-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "37253"
+      },
+      {
+        "site": "unext",
+        "id": "SID0010713",
+        "begin": "2016-03-24T03:00:00.000Z",
+        "broadcast": "R/2016-03-24T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10138",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/128828"
+      },
+      {
+        "site": "mal",
+        "id": "1411"
+      },
+      {
+        "site": "anidb",
+        "id": "547"
+      },
+      {
+        "site": "aniList",
+        "id": "1411"
       }
     ]
   }

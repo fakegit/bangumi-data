@@ -15,6 +15,153 @@
       {
         "site": "bangumi",
         "id": "49424"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/530715"
+      },
+      {
+        "site": "mal",
+        "id": "2077"
+      },
+      {
+        "site": "anidb",
+        "id": "1585"
+      },
+      {
+        "site": "aniList",
+        "id": "2077"
+      }
+    ]
+  },
+  {
+    "title": "イーハトーブ幻想〜KENjIの春",
+    "titleTranslate": {
+      "zh-Hans": [
+        "贤治之春",
+        "春与修罗"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1996-12-13T16:00:00.000Z",
+    "end": "1996-12-13T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "3697"
+      },
+      {
+        "site": "bilibili",
+        "id": "3044",
+        "begin": "2015-11-20T11:53:00.000Z",
+        "broadcast": "R/2015-11-20T11:53:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/26368"
+      },
+      {
+        "site": "mal",
+        "id": "1206"
+      },
+      {
+        "site": "anidb",
+        "id": "820"
+      },
+      {
+        "site": "aniList",
+        "id": "1206"
+      }
+    ]
+  },
+  {
+    "title": "元祖 爆れつハンター",
+    "titleTranslate": {
+      "zh-Hans": [
+        "暴走猎人OVA",
+        "魔法猎人OVA",
+        "火爆猎人OVA"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1996-12-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1997-04-22T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "49277"
+      },
+      {
+        "site": "danime",
+        "id": "10403",
+        "begin": "2020-03-13T01:00:00.000Z",
+        "broadcast": "R/2020-03-13T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/34210/season/0"
+      },
+      {
+        "site": "mal",
+        "id": "808"
+      },
+      {
+        "site": "anidb",
+        "id": "939"
+      },
+      {
+        "site": "aniList",
+        "id": "808"
+      }
+    ]
+  },
+  {
+    "title": "エンジェル伝説",
+    "titleTranslate": {
+      "zh-Hans": [
+        "冷面天使",
+        "天使传说"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1996-12-12T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1996-12-12T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "9387"
+      },
+      {
+        "site": "danime",
+        "id": "28248",
+        "begin": "2025-10-03T15:00:00.000Z",
+        "broadcast": "R/2025-10-03T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/125464"
+      },
+      {
+        "site": "mal",
+        "id": "5251"
+      },
+      {
+        "site": "anidb",
+        "id": "3611"
+      },
+      {
+        "site": "aniList",
+        "id": "5251"
       }
     ]
   }

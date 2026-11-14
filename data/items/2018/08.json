@@ -19,7 +19,9 @@
       {
         "site": "bilibili",
         "id": "121632",
-        "begin": "2018-08-10T02:00:00.000Z"
+        "begin": "2018-08-10T02:00:00.000Z",
+        "broadcast": "R/2018-08-10T02:00:00.000Z/P7D",
+        "comment": "第二季: 28220802, 第三季: 28228449"
       },
       {
         "site": "iqiyi",
@@ -30,6 +32,26 @@
         "site": "youku",
         "id": "2b3198dba4224afeb63c",
         "begin": ""
+      },
+      {
+        "site": "mikan",
+        "id": "1734"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/88459"
+      },
+      {
+        "site": "mal",
+        "id": "37980"
+      },
+      {
+        "site": "anidb",
+        "id": "14223"
+      },
+      {
+        "site": "aniList",
+        "id": "104187"
       }
     ]
   },
@@ -58,7 +80,46 @@
       {
         "site": "nicovideo",
         "id": "mahouritsu-anime",
-        "begin": "2020-03-31T15:00:00.000Z"
+        "begin": "2020-03-31T15:00:00.000Z",
+        "broadcast": "R/2020-03-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "5b38c4c5b3d4e8ef387d7ef3"
+      },
+      {
+        "site": "mikan",
+        "id": "1715"
+      },
+      {
+        "site": "danime",
+        "id": "22355",
+        "begin": "2022-03-04T01:00:00.000Z",
+        "broadcast": "R/2022-03-04T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/80853"
+      },
+      {
+        "site": "mal",
+        "id": "37487"
+      },
+      {
+        "site": "anidb",
+        "id": "13916"
+      },
+      {
+        "site": "aniList",
+        "id": "101340"
+      },
+      {
+        "site": "acgnx",
+        "id": "魔法律"
+      },
+      {
+        "site": "dmhy",
+        "id": "魔法律"
       }
     ]
   },
@@ -67,6 +128,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "K SEVEN STORIES Episode 2「SIDE:BLUE ～犹如天狼～」"
+      ],
+      "zh-Hant": [
+        "K Seven Stories SIDE:BLUE ～猶如天狼～"
       ]
     },
     "type": "movie",
@@ -82,7 +146,36 @@
       {
         "site": "nicovideo",
         "id": "k-seven-stories",
-        "begin": "2018-07-07T03:00:00.000Z"
+        "begin": "2018-07-07T03:00:00.000Z",
+        "broadcast": "R/2018-07-07T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0035461",
+        "begin": "2018-08-04T03:00:00.000Z",
+        "broadcast": "R/2018-08-04T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "1820"
+      },
+      {
+        "site": "danime",
+        "id": "22837",
+        "begin": "2019-07-01T03:00:00.000Z",
+        "broadcast": "R/2019-07-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/550087"
+      },
+      {
+        "site": "mal",
+        "id": "37303"
+      },
+      {
+        "site": "aniList",
+        "id": "102346"
       }
     ]
   },
@@ -107,6 +200,24 @@
         "site": "iqiyi",
         "id": "a_19rrgxoyjx",
         "begin": "2018-08-26T03:54:40.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0048629",
+        "begin": "2020-06-01T03:00:00.000Z",
+        "broadcast": "R/2020-06-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/545742"
+      },
+      {
+        "site": "mal",
+        "id": "37902"
+      },
+      {
+        "site": "aniList",
+        "id": "101918"
       }
     ]
   },
@@ -130,7 +241,8 @@
       {
         "site": "bilibili",
         "id": "16899731",
-        "begin": "2019-02-27T01:00:00.000Z"
+        "begin": "2019-02-27T01:00:00.000Z",
+        "broadcast": "R/2019-02-27T01:00:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -140,7 +252,40 @@
       {
         "site": "nicovideo",
         "id": "nonnontv-movie",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0044524",
+        "begin": "2019-11-24T03:00:00.000Z",
+        "broadcast": "R/2019-11-24T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "1893"
+      },
+      {
+        "site": "danime",
+        "id": "22980",
+        "begin": "2019-09-01T01:00:00.000Z",
+        "broadcast": "R/2019-09-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/494471"
+      },
+      {
+        "site": "mal",
+        "id": "36990"
+      },
+      {
+        "site": "anidb",
+        "id": "13187"
+      },
+      {
+        "site": "aniList",
+        "id": "98779"
       }
     ]
   },
@@ -149,6 +294,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "剧场版 七大罪 天空的囚人"
+      ],
+      "zh-Hant": [
+        "七大罪劇場版：天空的囚人"
+      ],
+      "en": [
+        "The Seven Deadly Sins the Movie: Prisoners of the Sky"
       ]
     },
     "type": "movie",
@@ -164,7 +315,40 @@
       {
         "site": "nicovideo",
         "id": "7-taizai-movie",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "netflix",
+        "id": "81006261",
+        "begin": "2018-12-30T00:00:00.000Z",
+        "broadcast": "R/2018-12-30T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0040012",
+        "begin": "2019-02-27T03:00:00.000Z",
+        "broadcast": "R/2019-02-27T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "1870"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/507569"
+      },
+      {
+        "site": "mal",
+        "id": "35946"
+      },
+      {
+        "site": "anidb",
+        "id": "13286"
+      },
+      {
+        "site": "aniList",
+        "id": "99540"
       }
     ]
   },
@@ -199,7 +383,442 @@
       {
         "site": "bilibili",
         "id": "28222933",
-        "begin": "2019-10-02T10:00:00.000Z"
+        "begin": "2019-10-02T10:00:00.000Z",
+        "broadcast": "R/2019-10-02T10:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0062778",
+        "begin": "2021-10-10T13:00:00.000Z",
+        "broadcast": "R/2021-10-10T13:00:00.000Z/P7D",
+        "comment": "乾・海堂 vs 宍戸・鳳／大石・菊丸 vs 仁王・柳生: SID0062779, 不二 vs 切原: SID0062780"
+      },
+      {
+        "site": "nicovideo",
+        "id": "tenipri-best-games",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "25124",
+        "begin": "2021-11-10T01:00:00.000Z",
+        "broadcast": "R/2021-11-10T01:00:00.000Z/P7D",
+        "comment": "乾・海堂 vs 宍戸・鳳／大石・菊丸 vs 仁王・柳生: 25159, 不二 vs 切原: 25160"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/747979"
+      },
+      {
+        "site": "mal",
+        "id": "36952"
+      },
+      {
+        "site": "aniList",
+        "id": "109097"
+      },
+      {
+        "site": "anidb",
+        "id": "12484"
+      }
+    ]
+  },
+  {
+    "title": "詩季織々",
+    "titleTranslate": {
+      "zh-Hans": [
+        "肆式青春"
+      ],
+      "zh-Hant": [
+        "詩季織織"
+      ],
+      "en": [
+        "Flavors of Youth"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://shikioriori.jp/",
+    "begin": "2018-08-03T16:00:00.000Z",
+    "end": "2018-08-03T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "238986"
+      },
+      {
+        "site": "netflix",
+        "id": "80234491",
+        "begin": "2018-08-03T16:00:00.000Z",
+        "broadcast": "R/2018-08-03T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "126792",
+        "begin": "2018-08-31T08:19:56.000Z",
+        "broadcast": "R/2018-08-31T08:19:56.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0060485",
+        "begin": "2021-08-23T15:00:00.000Z",
+        "broadcast": "R/2021-08-23T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "1663"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/513347"
+      },
+      {
+        "site": "mal",
+        "id": "37396"
+      },
+      {
+        "site": "anidb",
+        "id": "13846"
+      },
+      {
+        "site": "aniList",
+        "id": "101231"
+      }
+    ]
+  },
+  {
+    "title": "僕のヒーローアカデミア THE MOVIE ～2人の英雄～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "我的英雄学院：两位英雄"
+      ],
+      "zh-Hant": [
+        "我的英雄學院：兩個人的英雄：電影版",
+        "我的英雄學院劇場版：兩個人的英雄",
+        "我的英雄學院：兩個人的英雄"
+      ],
+      "en": [
+        "My Hero Academia: Two Heroes"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://heroaca-movie.com/",
+    "begin": "2018-08-02T16:00:00.000Z",
+    "end": "2018-08-02T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "231647"
+      },
+      {
+        "site": "netflix",
+        "id": "81051689",
+        "begin": "2021-05-13T16:00:00.000Z",
+        "broadcast": "R/2021-05-13T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0039141",
+        "begin": "2020-07-08T03:00:00.000Z",
+        "broadcast": "R/2020-07-08T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "1888"
+      },
+      {
+        "site": "prime",
+        "id": "B07N17SRQ2",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "26565",
+        "begin": "2025-07-31T15:00:00.000Z",
+        "broadcast": "R/2025-07-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/505262"
+      },
+      {
+        "site": "mal",
+        "id": "36896"
+      },
+      {
+        "site": "anidb",
+        "id": "13633"
+      },
+      {
+        "site": "aniList",
+        "id": "100723"
+      }
+    ]
+  },
+  {
+    "title": "ちいさな英雄-カニとタマゴと透明人間-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "小英雄-蟹和蛋和透明人-",
+        "普乐卡短片剧场系列：谦虚的英雄"
+      ],
+      "zh-Hant": [
+        "普樂卡短片劇場系列：謙虛的英雄"
+      ],
+      "en": [
+        "Modest Heroes: Ponoc Short Films Theatre"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.ponoc.jp/eiyu/",
+    "begin": "2018-08-23T16:00:00.000Z",
+    "end": "2018-08-23T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "241441"
+      },
+      {
+        "site": "netflix",
+        "id": "81143068",
+        "begin": "2019-09-05T16:00:00.000Z",
+        "broadcast": "R/2019-09-05T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "1947"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/514710"
+      },
+      {
+        "site": "mal",
+        "id": "37623"
+      },
+      {
+        "site": "anidb",
+        "id": "13992"
+      },
+      {
+        "site": "aniList",
+        "id": "103887"
+      }
+    ]
+  },
+  {
+    "title": "ペンギン・ハイウェイ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "企鹅公路"
+      ],
+      "zh-Hant": [
+        "企鵝公路"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://penguin-highway.com/",
+    "begin": "2018-08-16T16:00:00.000Z",
+    "end": "2018-08-16T17:48:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "239270"
+      },
+      {
+        "site": "unext",
+        "id": "SID0041912",
+        "begin": "2024-10-31T15:00:00.000Z",
+        "broadcast": "R/2024-10-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "94236",
+        "begin": "2024-11-01T03:00:00.000Z",
+        "broadcast": "R/2024-11-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23092",
+        "begin": "2019-12-01T01:00:00.000Z",
+        "broadcast": "R/2019-12-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "28221478",
+        "begin": "2025-02-05T03:00:00.000Z",
+        "broadcast": "R/2025-02-05T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "1884"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/508422"
+      },
+      {
+        "site": "mal",
+        "id": "37407"
+      },
+      {
+        "site": "anidb",
+        "id": "13853"
+      },
+      {
+        "site": "aniList",
+        "id": "101249"
+      }
+    ]
+  },
+  {
+    "title": "ざんねんないきもの事典",
+    "titleTranslate": {
+      "zh-Hans": [
+        "遗憾生物事典",
+        "残念生物事典"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://fanworks.co.jp/project/zannennaikimono/",
+    "begin": "2018-08-05T16:00:00.000Z",
+    "broadcast": "R/2018-08-05T16:00:00.000Z/P7D",
+    "end": "2018-08-16T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "333267"
+      },
+      {
+        "site": "unext",
+        "id": "SID0036449",
+        "begin": "2019-08-23T03:00:00.000Z",
+        "broadcast": "R/2019-08-23T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "22354",
+        "begin": "2018-08-14T01:00:00.000Z",
+        "broadcast": "R/2018-08-14T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/136029"
+      },
+      {
+        "site": "mal",
+        "id": "38016"
+      },
+      {
+        "site": "anidb",
+        "id": "14166"
+      },
+      {
+        "site": "aniList",
+        "id": "126843"
+      }
+    ]
+  },
+  {
+    "title": "ドライブヘッド〜トミカハイパーレスキュー 機動救急警察〜",
+    "titleTranslate": {
+      "zh-Hans": [
+        "多美卡超救援 DRIVEHEAD 机动救急警察〜"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2018-08-23T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2018-08-23T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "247819"
+      },
+      {
+        "site": "danime",
+        "id": "23450",
+        "begin": "2020-03-13T01:00:00.000Z",
+        "broadcast": "R/2020-03-13T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/551803"
+      },
+      {
+        "site": "mal",
+        "id": "36857"
+      },
+      {
+        "site": "anidb",
+        "id": "13606"
+      },
+      {
+        "site": "aniList",
+        "id": "100655"
+      }
+    ]
+  },
+  {
+    "title": "アラーニェの虫籠",
+    "titleTranslate": {
+      "zh-Hans": [
+        "阿拉涅的虫笼",
+        "阿拉尼耶的蟲籠",
+        "阿拉克涅的虫笼"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.ara-mushi.com/",
+    "begin": "2018-08-17T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2018-08-17T17:13:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "226807"
+      },
+      {
+        "site": "mikan",
+        "id": "1889"
+      },
+      {
+        "site": "prime",
+        "id": "B0CMZZ7R6R",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/536108"
+      },
+      {
+        "site": "mal",
+        "id": "34974"
+      },
+      {
+        "site": "anidb",
+        "id": "12898"
+      },
+      {
+        "site": "aniList",
+        "id": "104330"
       }
     ]
   }

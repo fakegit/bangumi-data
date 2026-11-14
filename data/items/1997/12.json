@@ -15,6 +15,28 @@
       {
         "site": "bangumi",
         "id": "36810"
+      },
+      {
+        "site": "danime",
+        "id": "11322",
+        "begin": "2014-06-27T01:00:00.000Z",
+        "broadcast": "R/2014-06-27T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/43417"
+      },
+      {
+        "site": "mal",
+        "id": "370"
+      },
+      {
+        "site": "aniList",
+        "id": "370"
+      },
+      {
+        "site": "anidb",
+        "id": "493"
       }
     ]
   },
@@ -23,6 +45,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "超时空要塞 Dynamite 7"
+      ],
+      "zh-Hant": [
+        "超時空要塞 Dynamite 7"
+      ],
+      "en": [
+        "Macross Dynamite 7"
       ]
     },
     "type": "ova",
@@ -39,6 +67,34 @@
       {
         "site": "bangumi",
         "id": "3175"
+      },
+      {
+        "site": "unext",
+        "id": "SID0016941",
+        "begin": "2019-12-02T03:00:00.000Z",
+        "broadcast": "R/2019-12-02T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "3LASMOXob8Fi",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1373767"
+      },
+      {
+        "site": "mal",
+        "id": "1398"
+      },
+      {
+        "site": "anidb",
+        "id": "497"
+      },
+      {
+        "site": "aniList",
+        "id": "1398"
       }
     ]
   },
@@ -47,6 +103,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "浪客剑心 维新志士的镇魂歌"
+      ],
+      "zh-Hant": [
+        "神劍闖江湖 維新志士的鎮魂歌"
       ]
     },
     "type": "movie",
@@ -56,11 +115,6 @@
     "end": "1997-12-20T17:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "zmRf3UWrG1m8OqI",
-        "begin": ""
-      },
-      {
         "site": "qq",
         "id": "6/6dypzbjwcdovtjd",
         "begin": ""
@@ -68,6 +122,40 @@
       {
         "site": "bangumi",
         "id": "13554"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/39977"
+      },
+      {
+        "site": "unext",
+        "id": "SID0017448",
+        "begin": "2025-12-19T15:00:00.000Z",
+        "broadcast": "R/2025-12-19T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "rurouni-kenshin-movie",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mal",
+        "id": "46"
+      },
+      {
+        "site": "aniList",
+        "id": "46"
+      },
+      {
+        "site": "anidb",
+        "id": "422"
+      },
+      {
+        "site": "danime",
+        "id": "21729",
+        "begin": "2025-12-19T15:00:00.000Z",
+        "broadcast": "R/2025-12-19T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -89,19 +177,43 @@
         "id": "20929"
       },
       {
-        "site": "pptv",
-        "id": "zgP9eibNJufda2EA",
-        "begin": ""
-      },
-      {
         "site": "bilibili",
         "id": "2291",
-        "begin": "1997-12-17T16:00:00.000Z"
+        "begin": "1997-12-17T16:00:00.000Z",
+        "broadcast": "R/2013-09-03T12:22:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
         "id": "sakura-taisen-ova",
         "begin": "2020-04-11T03:00:00.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0047107",
+        "begin": "2020-04-02T03:00:00.000Z",
+        "broadcast": "R/2020-04-02T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "11093",
+        "begin": "2014-01-10T01:00:00.000Z",
+        "broadcast": "R/2014-01-10T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/74944"
+      },
+      {
+        "site": "mal",
+        "id": "1165"
+      },
+      {
+        "site": "anidb",
+        "id": "489"
+      },
+      {
+        "site": "aniList",
+        "id": "1165"
       }
     ]
   }

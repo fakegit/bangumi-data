@@ -21,6 +21,10 @@
       {
         "site": "bangumi",
         "id": "25716"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/958"
       }
     ]
   },
@@ -45,6 +49,34 @@
         "site": "bilibili",
         "id": "2785",
         "begin": "1996-08-31T16:00:00.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002151",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "20254",
+        "begin": "2015-08-07T01:00:00.000Z",
+        "broadcast": "R/2015-08-07T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/44742"
+      },
+      {
+        "site": "mal",
+        "id": "2829"
+      },
+      {
+        "site": "anidb",
+        "id": "1827"
+      },
+      {
+        "site": "aniList",
+        "id": "2829"
       }
     ]
   },
@@ -54,6 +86,12 @@
       "zh-Hans": [
         "花样男子",
         "流星花园"
+      ],
+      "zh-Hant": [
+        "流星花園"
+      ],
+      "en": [
+        "Hana Yori Dango"
       ]
     },
     "type": "tv",
@@ -70,6 +108,90 @@
       {
         "site": "bangumi",
         "id": "37955"
+      },
+      {
+        "site": "netflix",
+        "id": "70018258",
+        "begin": "2023-10-30T00:00:00.000Z",
+        "broadcast": "R/2023-10-30T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0016371",
+        "begin": "2017-05-18T03:00:00.000Z",
+        "broadcast": "R/2017-05-18T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26190",
+        "begin": "2023-03-31T01:00:00.000Z",
+        "broadcast": "R/2023-03-31T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/27757"
+      },
+      {
+        "site": "mal",
+        "id": "106"
+      },
+      {
+        "site": "anidb",
+        "id": "387"
+      },
+      {
+        "site": "aniList",
+        "id": "106"
+      }
+    ]
+  },
+  {
+    "title": "新破裏拳ポリマー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "新破里拳Polimar",
+        "新旋风侠"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.tatsunoko.co.jp/works/archive/ova_polymar.html",
+    "begin": "1996-09-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1997-02-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "75624"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003360",
+        "begin": "2019-08-27T03:00:00.000Z",
+        "broadcast": "R/2019-08-27T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "20034",
+        "begin": "2020-03-13T01:00:00.000Z",
+        "broadcast": "R/2020-03-13T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/43786"
+      },
+      {
+        "site": "mal",
+        "id": "3398"
+      },
+      {
+        "site": "anidb",
+        "id": "857"
+      },
+      {
+        "site": "aniList",
+        "id": "3398"
       }
     ]
   }

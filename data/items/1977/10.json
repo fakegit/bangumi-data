@@ -13,18 +13,36 @@
     "end": "1978-03-25T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "QpZy8FiaibLmzPTbU",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "37174"
       },
       {
         "site": "bilibili",
         "id": "3082",
-        "begin": "1977-10-07T16:00:00.000Z"
+        "begin": "1977-10-07T16:00:00.000Z",
+        "broadcast": "R/2015-11-28T14:37:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26866",
+        "begin": "2024-12-25T15:00:00.000Z",
+        "broadcast": "R/2024-12-25T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/45095"
+      },
+      {
+        "site": "mal",
+        "id": "2200"
+      },
+      {
+        "site": "anidb",
+        "id": "1812"
+      },
+      {
+        "site": "aniList",
+        "id": "2200"
       }
     ]
   },
@@ -44,6 +62,34 @@
       {
         "site": "bangumi",
         "id": "53754"
+      },
+      {
+        "site": "unext",
+        "id": "SID0038660",
+        "begin": "2019-02-21T03:00:00.000Z",
+        "broadcast": "R/2019-02-21T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23388",
+        "begin": "2020-03-13T01:00:00.000Z",
+        "broadcast": "R/2020-03-13T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/118453/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "15875"
+      },
+      {
+        "site": "anidb",
+        "id": "5517"
+      },
+      {
+        "site": "aniList",
+        "id": "15875"
       }
     ]
   },
@@ -70,9 +116,184 @@
         "begin": "2011-10-26T06:00:00.000Z"
       },
       {
+        "site": "unext",
+        "id": "SID0013496",
+        "begin": "2015-12-25T03:00:00.000Z",
+        "broadcast": "R/2015-12-25T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10859",
+        "begin": "2013-07-05T01:00:00.000Z",
+        "broadcast": "R/2013-07-05T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/31572/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "1425"
+      },
+      {
+        "site": "anidb",
+        "id": "1484"
+      },
+      {
+        "site": "aniList",
+        "id": "1425"
+      }
+    ]
+  },
+  {
+    "title": "家なき子",
+    "titleTranslate": {
+      "zh-Hans": [
+        "咪咪流浪记",
+        "星仔走天涯"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1977-10-01T16:00:00.000Z",
+    "end": "1978-09-30T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "18252"
+      },
+      {
         "site": "bilibili",
-        "id": "2470",
-        "begin": "1977-10-02T16:00:00.000Z"
+        "id": "5925",
+        "begin": "2017-02-07T09:40:00.000Z",
+        "broadcast": "R/2017-02-07T09:40:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0038657",
+        "begin": "2019-02-19T03:00:00.000Z",
+        "broadcast": "R/2019-02-19T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23363",
+        "begin": "2020-03-13T01:00:00.000Z",
+        "broadcast": "R/2020-03-13T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/44725"
+      },
+      {
+        "site": "mal",
+        "id": "2828"
+      },
+      {
+        "site": "anidb",
+        "id": "1829"
+      },
+      {
+        "site": "aniList",
+        "id": "2828"
+      }
+    ]
+  },
+  {
+    "title": "若草のシャルロット",
+    "titleTranslate": {
+      "zh-Hans": [
+        "大地儿女"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1977-10-28T16:00:00.000Z",
+    "broadcast": "R/1977-10-28T16:00:00.000Z/P7D",
+    "end": "1978-05-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "72356"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003318",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "24061",
+        "begin": "2020-08-28T01:00:00.000Z",
+        "broadcast": "R/2020-08-28T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/23591"
+      },
+      {
+        "site": "mal",
+        "id": "3196"
+      },
+      {
+        "site": "anidb",
+        "id": "3486"
+      },
+      {
+        "site": "aniList",
+        "id": "3196"
+      }
+    ]
+  },
+  {
+    "title": "風船少女テンプルちゃん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "飞船流浪记"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1977-09-30T16:00:00.000Z",
+    "broadcast": "R/1977-09-30T16:00:00.000Z/P7D",
+    "end": "1978-03-24T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "258084"
+      },
+      {
+        "site": "unext",
+        "id": "SID0017862",
+        "begin": "2022-04-26T03:00:00.000Z",
+        "broadcast": "R/2022-04-26T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23489",
+        "begin": "2020-03-13T01:00:00.000Z",
+        "broadcast": "R/2020-03-13T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/44254"
+      },
+      {
+        "site": "mal",
+        "id": "2809"
+      },
+      {
+        "site": "anidb",
+        "id": "5518"
+      },
+      {
+        "site": "aniList",
+        "id": "2809"
       }
     ]
   }

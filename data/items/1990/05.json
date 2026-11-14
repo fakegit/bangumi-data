@@ -1,0 +1,178 @@
+[
+  {
+    "title": "八神くんの家庭の事情",
+    "titleTranslate": {
+      "zh-Hans": [
+        "八神君的家庭事件"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1990-05-24T15:00:00.000Z",
+    "end": "1990-05-24T15:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "73436"
+      },
+      {
+        "site": "bilibili",
+        "id": "5927",
+        "begin": "2017-02-09T02:26:00.000Z",
+        "broadcast": "R/2017-02-09T02:26:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/139814"
+      },
+      {
+        "site": "mal",
+        "id": "4537"
+      },
+      {
+        "site": "anidb",
+        "id": "4163"
+      },
+      {
+        "site": "aniList",
+        "id": "4537"
+      }
+    ]
+  },
+  {
+    "title": "魔法のエンジェルスイートミント",
+    "titleTranslate": {
+      "zh-Hans": [
+        "欢欢仙子"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1990-05-01T16:00:00.000Z",
+    "broadcast": "R/1990-05-01T16:00:00.000Z/P7D",
+    "end": "1991-03-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "11731"
+      },
+      {
+        "site": "unext",
+        "id": "SID0004945",
+        "begin": "2016-03-24T03:00:00.000Z",
+        "broadcast": "R/2016-03-24T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10420",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/20208"
+      },
+      {
+        "site": "mal",
+        "id": "2040"
+      },
+      {
+        "site": "anidb",
+        "id": "2332"
+      },
+      {
+        "site": "aniList",
+        "id": "2040"
+      }
+    ]
+  },
+  {
+    "title": "ライトニングトラップ レイナ&amp;ライカ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "闪电陷阱 蕾娜&莱卡"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1990-05-22T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1990-05-22T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "325237"
+      },
+      {
+        "site": "unext",
+        "id": "SID0004304",
+        "begin": "2016-03-24T03:00:00.000Z",
+        "broadcast": "R/2016-03-24T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10437",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/221180"
+      },
+      {
+        "site": "mal",
+        "id": "3596"
+      },
+      {
+        "site": "anidb",
+        "id": "2796"
+      },
+      {
+        "site": "aniList",
+        "id": "3596"
+      }
+    ]
+  },
+  {
+    "title": "ベルサイユのばら 生命あるかぎり愛して",
+    "titleTranslate": {
+      "zh-Hans": [
+        "凡尔赛玫瑰 剧场版"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.tms-e.com/search/index.php?pdt_no=313",
+    "begin": "1990-05-18T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1990-05-18T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "275004"
+      },
+      {
+        "site": "mal",
+        "id": "3868"
+      },
+      {
+        "site": "anidb",
+        "id": "3542"
+      },
+      {
+        "site": "aniList",
+        "id": "3868"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/578762"
+      }
+    ]
+  }
+]

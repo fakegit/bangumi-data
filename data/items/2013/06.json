@@ -4,10 +4,15 @@
     "titleTranslate": {
       "zh-Hans": [
         "王者天下 第二季",
-        "王者天下 第2季"
+        "王者天下 第2季",
+        "王者天下2"
       ],
       "en": [
-        "KINGDOM2"
+        "KINGDOM2",
+        "Kingdom Chapter 2"
+      ],
+      "zh-Hant": [
+        "王者天下 第二季"
       ]
     },
     "type": "tv",
@@ -22,23 +27,72 @@
         "begin": "2013-08-22T08:07:35.000Z"
       },
       {
-        "site": "bilibili",
-        "id": "583",
-        "begin": "2013-06-07T16:00:00.000Z"
-      },
-      {
         "site": "bangumi",
         "id": "62281"
       },
       {
         "site": "nicovideo",
         "id": "kingdom2",
-        "begin": "2016-01-24T15:00:00.000Z"
+        "begin": "2016-01-24T15:00:00.000Z",
+        "broadcast": "R/2016-01-24T15:00:00.000Z/P7D"
       },
       {
-        "site": "acfun",
-        "id": "6002598",
-        "begin": ""
+        "site": "gamer",
+        "id": "61678",
+        "begin": "2020-06-26T02:00:00.000Z",
+        "broadcast": "R/2020-06-26T02:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0014599",
+        "begin": "2013-06-12T06:00:00.000Z",
+        "broadcast": "R/2013-06-12T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "61678",
+        "begin": "2020-06-26T02:00:00.000Z",
+        "broadcast": "R/2020-06-26T02:00:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "天下2"
+      },
+      {
+        "site": "mikan",
+        "id": "230"
+      },
+      {
+        "site": "danime",
+        "id": "20856",
+        "begin": "2016-04-01T01:00:00.000Z",
+        "broadcast": "R/2016-04-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "4C8VrpY7qjib",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/46437/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "17389"
+      },
+      {
+        "site": "anidb",
+        "id": "9672"
+      },
+      {
+        "site": "aniList",
+        "id": "17389"
+      },
+      {
+        "site": "acgnx",
+        "id": "天下2"
       }
     ]
   },
@@ -56,23 +110,23 @@
     "end": "2013-06-22T17:00:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "YfLeXMQqmtg7uSE",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "81145"
       },
       {
         "site": "bilibili",
         "id": "4046",
-        "begin": "2013-06-21T16:00:01.000Z"
+        "begin": "2013-06-21T16:00:01.000Z",
+        "broadcast": "R/2016-05-24T07:26:00.000Z/P7D"
       },
       {
         "site": "youku",
         "id": "10b859d07c0111e38b3f",
         "begin": "2014-01-13T08:46:34.000Z"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/196759"
       }
     ]
   },
@@ -92,6 +146,10 @@
       {
         "site": "bangumi",
         "id": "70322"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1274278"
       }
     ]
   },
@@ -109,11 +167,6 @@
     "end": "2013-06-22T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "SzIenARq2hh7ibWE",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "66523"
       },
@@ -121,6 +174,10 @@
         "site": "youku",
         "id": "c5cd49b6da6711e296ac",
         "begin": "2013-06-21T13:19:25.000Z"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/45953/season/0"
       }
     ]
   },
@@ -129,6 +186,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "甜甜圈猫"
+      ],
+      "en": [
+        "Donyatsu"
       ]
     },
     "type": "movie",
@@ -142,9 +202,38 @@
         "id": "94548"
       },
       {
+        "site": "tmdb",
+        "id": "tv/90325"
+      },
+      {
         "site": "nicovideo",
         "id": "donyatsu",
-        "begin": ""
+        "begin": "2013-06-30T15:00:00.000Z",
+        "broadcast": "R/2013-06-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GYVNEWNZ6",
+        "begin": "2015-03-11T15:00:00.000Z",
+        "broadcast": "R/2015-03-11T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "20024",
+        "begin": "2021-02-12T01:00:00.000Z",
+        "broadcast": "R/2021-02-12T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "18755"
+      },
+      {
+        "site": "anidb",
+        "id": "9889"
+      },
+      {
+        "site": "aniList",
+        "id": "18755"
       }
     ]
   },
@@ -169,14 +258,38 @@
         "id": "61498"
       },
       {
-        "site": "netflix",
-        "id": "80002073",
-        "begin": "2017-01-31T08:00:00.000Z"
-      },
-      {
         "site": "bilibili",
         "id": "5180",
-        "begin": "2013-06-21T16:00:00.000Z"
+        "begin": "2013-06-21T16:00:00.000Z",
+        "broadcast": "R/2016-07-11T09:57:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0014767",
+        "begin": "2020-05-21T03:00:00.000Z",
+        "broadcast": "R/2020-05-21T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kokaku-arise",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "22229",
+        "begin": "2021-09-16T15:00:00.000Z",
+        "broadcast": "R/2021-09-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/196750"
+      },
+      {
+        "site": "prime",
+        "id": "B0GBYFP1XK",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -202,6 +315,242 @@
         "site": "youku",
         "id": "c307a7b8dc4111e296ac",
         "begin": "2013-06-23T21:18:13.000Z"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/56351/season/0/episode/5"
+      },
+      {
+        "site": "mal",
+        "id": "17725"
+      },
+      {
+        "site": "aniList",
+        "id": "17725"
+      },
+      {
+        "site": "anidb",
+        "id": "9825"
+      }
+    ]
+  },
+  {
+    "title": "パパのいうことを聞きなさい! OAD",
+    "titleTranslate": {
+      "zh-Hans": [
+        "听爸爸的话！OAD",
+        "要听爸爸的话! OAD",
+        "听爸爸的话！OVA"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://king-cr.jp/special/papakiki",
+    "begin": "2013-06-24T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2015-03-24T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "65565"
+      },
+      {
+        "site": "unext",
+        "id": "SID0046207",
+        "begin": "2024-11-12T03:00:00.000Z",
+        "broadcast": "R/2024-11-12T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23146",
+        "begin": "2019-12-13T01:00:00.000Z",
+        "broadcast": "R/2019-12-13T01:00:00.000Z/P7D",
+        "comment": "異人たちとの春: 23147"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/46183/season/0/episode/2"
+      },
+      {
+        "site": "mal",
+        "id": "17875"
+      },
+      {
+        "site": "anidb",
+        "id": "9720"
+      },
+      {
+        "site": "aniList",
+        "id": "17875"
+      }
+    ]
+  },
+  {
+    "title": "Peeping Life 手塚プロ・タツノコプロ ワンダーランド",
+    "titleTranslate": {},
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.tatsunoko.co.jp/works/peeping-life-tezukatatsunoko-wonderland",
+    "begin": "2013-06-24T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2013-06-24T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "310514"
+      },
+      {
+        "site": "unext",
+        "id": "SID0013577",
+        "begin": "2013-08-02T06:00:00.000Z",
+        "broadcast": "R/2013-08-02T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10938",
+        "begin": "2013-11-01T01:00:00.000Z",
+        "broadcast": "R/2013-11-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "22631"
+      },
+      {
+        "site": "anidb",
+        "id": "10057"
+      }
+    ]
+  },
+  {
+    "title": "ゆうとくんがいく",
+    "titleTranslate": {
+      "zh-Hans": [
+        "GOGO佑都"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://gogo-yuto.com/index.html",
+    "begin": "2013-06-13T16:00:00.000Z",
+    "broadcast": "R/2013-06-13T16:00:00.000Z/P7D",
+    "end": "2013-12-05T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "93717"
+      },
+      {
+        "site": "unext",
+        "id": "SID0020282",
+        "begin": "2015-11-19T03:00:00.000Z",
+        "broadcast": "R/2015-11-19T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "11304",
+        "begin": "2014-06-13T01:00:00.000Z",
+        "broadcast": "R/2014-06-13T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "18983"
+      },
+      {
+        "site": "anidb",
+        "id": "9932"
+      },
+      {
+        "site": "aniList",
+        "id": "18983"
+      }
+    ]
+  },
+  {
+    "title": "ターニングガールズ",
+    "titleTranslate": {},
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2013-06-17T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2013-06-17T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "112496"
+      },
+      {
+        "site": "unext",
+        "id": "SID0013621",
+        "begin": "2015-06-16T05:00:00.000Z",
+        "broadcast": "R/2015-06-16T05:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23953",
+        "begin": "2023-06-30T15:00:00.000Z",
+        "broadcast": "R/2023-06-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/132015"
+      },
+      {
+        "site": "mal",
+        "id": "19133"
+      },
+      {
+        "site": "aniList",
+        "id": "19133"
+      }
+    ]
+  },
+  {
+    "title": "ハル",
+    "titleTranslate": {
+      "zh-Hans": [
+        "HAL",
+        "春",
+        "京都爱情故事"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://hal-anime.com",
+    "begin": "2013-06-07T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2013-06-07T17:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "56849"
+      },
+      {
+        "site": "bilibili",
+        "id": "28235301",
+        "begin": "2021-10-10T03:00:01.000Z",
+        "broadcast": "R/2021-10-10T03:00:01.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/196761"
+      },
+      {
+        "site": "mal",
+        "id": "16528"
+      },
+      {
+        "site": "anidb",
+        "id": "9557"
+      },
+      {
+        "site": "aniList",
+        "id": "16528"
       }
     ]
   }

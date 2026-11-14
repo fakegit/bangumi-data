@@ -11,12 +11,8 @@
       {
         "site": "bilibili",
         "id": "1700",
-        "begin": "2014-07-24T16:00:00.000Z"
-      },
-      {
-        "site": "pptv",
-        "id": "tQfQT7cdjcsurDA",
-        "begin": ""
+        "begin": "2014-07-24T16:00:00.000Z",
+        "broadcast": "R/2014-06-27T06:07:00.000Z/P7D"
       },
       {
         "site": "qq",
@@ -29,16 +25,6 @@
         "begin": "2014-09-12T06:20:12.000Z"
       },
       {
-        "site": "letv",
-        "id": "10002875",
-        "begin": ""
-      },
-      {
-        "site": "sohu",
-        "id": "s2014/wpys",
-        "begin": ""
-      },
-      {
         "site": "mgtv",
         "id": "100147",
         "begin": ""
@@ -46,6 +32,22 @@
       {
         "site": "bangumi",
         "id": "107443"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/208613"
+      },
+      {
+        "site": "mal",
+        "id": "29087"
+      },
+      {
+        "site": "anidb",
+        "id": "13474"
+      },
+      {
+        "site": "aniList",
+        "id": "98864"
       }
     ]
   },
@@ -70,6 +72,22 @@
         "site": "iqiyi",
         "id": "a_19rrhb4um9",
         "begin": "2016-02-16T07:22:34.000Z"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/287590"
+      },
+      {
+        "site": "mal",
+        "id": "10687"
+      },
+      {
+        "site": "anidb",
+        "id": "8279"
+      },
+      {
+        "site": "aniList",
+        "id": "10687"
       }
     ]
   },
@@ -89,6 +107,10 @@
       {
         "site": "bangumi",
         "id": "107724"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/205335"
       }
     ]
   },
@@ -106,13 +128,24 @@
     "end": "2014-06-13T16:00:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "50AsqhJ46CaJB28",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "103890"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/312173"
+      },
+      {
+        "site": "mal",
+        "id": "24347"
+      },
+      {
+        "site": "aniList",
+        "id": "98225"
+      },
+      {
+        "site": "anidb",
+        "id": "11027"
       }
     ]
   },
@@ -130,13 +163,20 @@
     "end": "2014-06-17T16:04:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "wlo2tByC8jCTEXk",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "104879"
+      },
+      {
+        "site": "mal",
+        "id": "24713"
+      },
+      {
+        "site": "anidb",
+        "id": "10693"
+      },
+      {
+        "site": "aniList",
+        "id": "20747"
       }
     ]
   },
@@ -156,7 +196,30 @@
       {
         "site": "nicovideo",
         "id": "agukaru",
-        "begin": ""
+        "begin": "2014-04-11T08:35:26.000Z",
+        "broadcast": "R/2014-04-11T08:35:26.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "24049",
+        "begin": "2020-06-26T01:00:00.000Z",
+        "broadcast": "R/2020-06-26T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/76704/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "24989"
+      },
+      {
+        "site": "anidb",
+        "id": "10719"
+      },
+      {
+        "site": "aniList",
+        "id": "122241"
       }
     ]
   },
@@ -165,6 +228,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "女神异闻录3 剧场版 第二章 仲夏骑士之梦"
+      ],
+      "zh-Hant": [
+        "女神異聞錄 3 劇場版 第二章 Midsummer Knight's Dream"
       ],
       "en": [
         "Persona 3 the Movie: #2 Midsummer Knight's Dream"
@@ -183,12 +249,8 @@
       {
         "site": "nicovideo",
         "id": "p3m",
-        "begin": ""
-      },
-      {
-        "site": "netflix",
-        "id": "80040329",
-        "begin": "2015-08-07T07:00:00.000Z"
+        "begin": "2018-05-30T15:00:00.000Z",
+        "broadcast": "R/2018-05-30T15:00:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -198,7 +260,38 @@
       {
         "site": "bilibili",
         "id": "3757",
-        "begin": "2014-06-06T16:00:00.000Z"
+        "begin": "2014-06-06T16:00:00.000Z",
+        "broadcast": "R/2017-11-07T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0044897",
+        "begin": "2020-12-30T03:00:00.000Z",
+        "broadcast": "R/2020-12-30T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23605",
+        "begin": "2020-03-13T01:00:00.000Z",
+        "broadcast": "R/2020-03-13T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/297189"
+      },
+      {
+        "site": "abema",
+        "id": "26-42",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mal",
+        "id": "21473"
+      },
+      {
+        "site": "aniList",
+        "id": "20736"
       }
     ]
   },
@@ -223,14 +316,38 @@
         "id": "89486"
       },
       {
-        "site": "netflix",
-        "id": "80021983",
-        "begin": "2017-01-31T08:00:00.000Z"
-      },
-      {
         "site": "bilibili",
         "id": "5180",
-        "begin": "2013-06-21T16:00:00.000Z"
+        "begin": "2013-06-21T16:00:00.000Z",
+        "broadcast": "R/2016-07-11T09:57:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0014767",
+        "begin": "2020-05-21T03:00:00.000Z",
+        "broadcast": "R/2020-05-21T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kokaku-arise",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "22229",
+        "begin": "2021-09-16T15:00:00.000Z",
+        "broadcast": "R/2021-09-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/240341"
+      },
+      {
+        "site": "prime",
+        "id": "B0GBYFP1XK",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -256,6 +373,22 @@
         "site": "qq",
         "id": "q/qm70kbuq3m2cq1r",
         "begin": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/56355/season/0/episode/2"
+      },
+      {
+        "site": "mal",
+        "id": "23153"
+      },
+      {
+        "site": "anidb",
+        "id": "10519"
+      },
+      {
+        "site": "aniList",
+        "id": "20651"
       }
     ]
   },
@@ -280,7 +413,24 @@
       {
         "site": "bilibili",
         "id": "5263",
-        "begin": "2016-08-05T16:00:00.000Z"
+        "begin": "2016-08-05T16:00:00.000Z",
+        "broadcast": "R/2016-07-20T08:50:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/455224"
+      },
+      {
+        "site": "mal",
+        "id": "30473"
+      },
+      {
+        "site": "anidb",
+        "id": "11165"
+      },
+      {
+        "site": "aniList",
+        "id": "21885"
       }
     ]
   },
@@ -305,7 +455,42 @@
       {
         "site": "bilibili",
         "id": "19724023",
-        "begin": "2014-06-20T16:00:00.000Z"
+        "begin": "2014-06-20T16:00:00.000Z",
+        "broadcast": "R/2019-03-05T06:06:15.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0027882",
+        "begin": "2016-12-23T03:00:00.000Z",
+        "broadcast": "R/2016-12-23T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "21308",
+        "begin": "2016-12-23T01:00:00.000Z",
+        "broadcast": "R/2016-12-23T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0F8HVQ68W",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/260516"
+      },
+      {
+        "site": "mal",
+        "id": "23293"
+      },
+      {
+        "site": "anidb",
+        "id": "10535"
+      },
+      {
+        "site": "aniList",
+        "id": "20978"
       }
     ]
   },
@@ -330,7 +515,12 @@
       {
         "site": "bilibili",
         "id": "3849",
-        "begin": "2014-06-06T16:00:00.000Z"
+        "begin": "2014-06-06T16:00:00.000Z",
+        "broadcast": "R/2016-04-25T09:12:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/45088/season/0/episode/3"
       }
     ]
   }

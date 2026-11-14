@@ -1,0 +1,477 @@
+[
+  {
+    "title": "オオクニヌシとスクナビコナ",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.mbs.jp/shortanime/",
+    "begin": "2024-03-01T16:50:00.000Z",
+    "broadcast": "R/2024-03-01T16:50:00.000Z/P7D",
+    "end": "2024-03-01T16:50:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "unext",
+        "id": "SID0100179",
+        "begin": "2024-03-22T17:00:00.000Z",
+        "broadcast": "R/2024-03-22T17:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26976",
+        "begin": "2024-03-08T17:00:00.000Z",
+        "broadcast": "R/2024-03-08T17:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1317560"
+      }
+    ]
+  },
+  {
+    "title": "MOON",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.mbs.jp/shortanime/",
+    "begin": "2024-03-08T16:50:00.000Z",
+    "broadcast": "R/2024-03-08T16:50:00.000Z/P7D",
+    "end": "2024-03-08T16:50:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "unext",
+        "id": "SID0100180",
+        "begin": "2024-03-22T17:00:00.000Z",
+        "broadcast": "R/2024-03-22T17:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26977",
+        "begin": "2024-03-08T17:00:00.000Z",
+        "broadcast": "R/2024-03-08T17:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "パンテオンの鳥",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.mbs.jp/shortanime/",
+    "begin": "2024-03-22T16:50:00.000Z",
+    "broadcast": "R/2024-03-22T16:50:00.000Z/P7D",
+    "end": "2024-03-22T16:50:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "unext",
+        "id": "SID0100181",
+        "begin": "2024-03-22T17:00:00.000Z",
+        "broadcast": "R/2024-03-22T17:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26978",
+        "begin": "2024-03-22T17:00:00.000Z",
+        "broadcast": "R/2024-03-22T17:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/262301"
+      },
+      {
+        "site": "mal",
+        "id": "58006"
+      },
+      {
+        "site": "anidb",
+        "id": "18475"
+      },
+      {
+        "site": "aniList",
+        "id": "174666"
+      },
+      {
+        "site": "bangumi",
+        "id": "478666"
+      }
+    ]
+  },
+  {
+    "title": "SAND LAND: THE SERIES",
+    "titleTranslate": {
+      "zh-Hans": [
+        "沙漠大冒险：剧集"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://sandland.jp/theseries/",
+    "begin": "2024-03-19T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-04-30T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "465348"
+      },
+      {
+        "site": "disneyplus",
+        "id": "7I31jGPKAwz5",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/239478"
+      },
+      {
+        "site": "mal",
+        "id": "57160"
+      },
+      {
+        "site": "anidb",
+        "id": "18277"
+      },
+      {
+        "site": "aniList",
+        "id": "175642"
+      }
+    ]
+  },
+  {
+    "title": "映画おしりたんてい さらば愛しき相棒よ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "电影屁屁侦探 再见亲爱的伙伴"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://oshiri-movie.com/",
+    "begin": "2024-03-19T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-03-19T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "455630"
+      },
+      {
+        "site": "unext",
+        "id": "SID0102525",
+        "begin": "2024-06-21T03:00:00.000Z",
+        "broadcast": "R/2024-06-21T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "27581",
+        "begin": "2025-01-10T03:00:00.000Z",
+        "broadcast": "R/2025-01-10T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1248745"
+      },
+      {
+        "site": "mal",
+        "id": "57590"
+      },
+      {
+        "site": "aniList",
+        "id": "172016"
+      },
+      {
+        "site": "anidb",
+        "id": "18520"
+      }
+    ]
+  },
+  {
+    "title": "映画しまじろう ミラクルじまの なないろカーネーション",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://shimajiro.jp/movie2024/",
+    "begin": "2024-03-07T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-03-07T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "469288"
+      },
+      {
+        "site": "unext",
+        "id": "SID0104042",
+        "begin": "2025-09-01T03:00:00.000Z",
+        "broadcast": "R/2025-09-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "aniList",
+        "id": "172976"
+      },
+      {
+        "site": "mal",
+        "id": "54268"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/871726"
+      },
+      {
+        "site": "danime",
+        "id": "28867",
+        "begin": "2026-04-26T15:00:00.000Z",
+        "broadcast": "R/2026-04-26T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "映画ドラえもん のび太の地球交響楽",
+    "titleTranslate": {
+      "zh-Hans": [
+        "哆啦A梦：大雄的地球交响乐",
+        "哆啦 A 梦：大雄的地球交响乐"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://doraeiga.com/2024/",
+    "begin": "2024-02-29T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-02-29T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "444359"
+      },
+      {
+        "site": "bilibili",
+        "id": "21246716",
+        "begin": "2024-10-19T02:00:00.000Z",
+        "broadcast": "R/2024-10-19T02:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0157264",
+        "begin": "2024-09-27T15:00:00.000Z",
+        "broadcast": "R/2024-09-27T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1148677"
+      },
+      {
+        "site": "mal",
+        "id": "55874"
+      },
+      {
+        "site": "anidb",
+        "id": "18102"
+      },
+      {
+        "site": "aniList",
+        "id": "166976"
+      },
+      {
+        "site": "abema",
+        "id": "35-46",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "わたしの幸せなかたち",
+    "titleTranslate": {
+      "zh-Hans": [
+        "我幸福的形式"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "https://watakon-anime.com/news/post-53",
+    "begin": "2024-03-14T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-03-14T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "471804"
+      },
+      {
+        "site": "nicovideo",
+        "id": "watakon-ova-anime",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0159243",
+        "begin": "2024-11-21T15:00:00.000Z",
+        "broadcast": "R/2024-11-21T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/196944/season/0"
+      },
+      {
+        "site": "mal",
+        "id": "55889"
+      },
+      {
+        "site": "anidb",
+        "id": "18545"
+      },
+      {
+        "site": "aniList",
+        "id": "167486"
+      }
+    ]
+  },
+  {
+    "title": "デッドデッドデーモンズデデデデデストラクション 前章",
+    "titleTranslate": {
+      "zh-Hans": [
+        "恶魔的破坏 DEAD DEAD DEMON'S DEDEDEDE DESTRUCTION 前篇",
+        "灭世Demolition"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://dededede.jp/",
+    "begin": "2024-03-21T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-03-21T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "375425"
+      },
+      {
+        "site": "unext",
+        "id": "SID0162697",
+        "begin": "2024-12-18T03:00:00.000Z",
+        "broadcast": "R/2024-12-18T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1172228"
+      },
+      {
+        "site": "mal",
+        "id": "51358"
+      },
+      {
+        "site": "aniList",
+        "id": "146609"
+      },
+      {
+        "site": "anidb",
+        "id": "17273"
+      }
+    ]
+  },
+  {
+    "title": "あんさんぶるスターズ！！追憶セレクション『チェックメイト』",
+    "titleTranslate": {
+      "zh-Hans": [
+        "偶像梦幻祭 追忆Selection『Checkmate』"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://ensemble-stars.jp/anime/checkmate/",
+    "begin": "2024-03-09T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-03-14T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "456251"
+      },
+      {
+        "site": "danime",
+        "id": "26685",
+        "begin": "2024-04-09T15:00:00.000Z",
+        "broadcast": "R/2024-04-09T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/244089"
+      },
+      {
+        "site": "mal",
+        "id": "56746"
+      },
+      {
+        "site": "aniList",
+        "id": "173639"
+      }
+    ]
+  },
+  {
+    "title": "パリピ孔明 Road to Summer Sonia",
+    "titleTranslate": {
+      "zh-Hans": [
+        "派对浪客诸葛孔明 Road to Summer Sonia"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://paripikoumei-anime.com",
+    "begin": "2024-02-29T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-02-29T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "467732"
+      },
+      {
+        "site": "nicovideo",
+        "id": "paripikoumei-movie",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "27629",
+        "begin": "2025-01-22T15:00:00.000Z",
+        "broadcast": "R/2025-01-22T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0171049",
+        "begin": "2025-02-14T03:00:00.000Z",
+        "broadcast": "R/2025-02-14T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1211650"
+      },
+      {
+        "site": "mal",
+        "id": "57369"
+      },
+      {
+        "site": "anidb",
+        "id": "18598"
+      },
+      {
+        "site": "aniList",
+        "id": "171026"
+      }
+    ]
+  }
+]

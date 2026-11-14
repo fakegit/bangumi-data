@@ -13,11 +13,6 @@
     "end": "1992-09-24T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "zRnjYckvn91AviaY",
-        "begin": ""
-      },
-      {
         "site": "qq",
         "id": "l/l8yeq8hadkbh258",
         "begin": ""
@@ -25,6 +20,40 @@
       {
         "site": "bangumi",
         "id": "804"
+      },
+      {
+        "site": "unext",
+        "id": "SID0012897",
+        "begin": "2008-10-31T15:00:00.000Z",
+        "broadcast": "R/2008-10-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "gundam0083",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "26207",
+        "begin": "2025-04-10T15:00:00.000Z",
+        "broadcast": "R/2025-04-10T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/72677"
+      },
+      {
+        "site": "mal",
+        "id": "84"
+      },
+      {
+        "site": "anidb",
+        "id": "717"
+      },
+      {
+        "site": "aniList",
+        "id": "84"
       }
     ]
   },
@@ -49,6 +78,22 @@
         "site": "bilibili",
         "id": "3963",
         "begin": "1991-05-20T16:00:01.000Z"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/482810"
+      },
+      {
+        "site": "mal",
+        "id": "2459"
+      },
+      {
+        "site": "anidb",
+        "id": "601"
+      },
+      {
+        "site": "aniList",
+        "id": "2459"
       }
     ]
   },
@@ -69,6 +114,109 @@
       {
         "site": "bangumi",
         "id": "46953"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/44546"
+      },
+      {
+        "site": "mal",
+        "id": "1348"
+      },
+      {
+        "site": "anidb",
+        "id": "535"
+      },
+      {
+        "site": "aniList",
+        "id": "1348"
+      }
+    ]
+  },
+  {
+    "title": "とべ! くじらのピーク",
+    "titleTranslate": {
+      "zh-Hans": [
+        "飞吧！鲸鱼皮克",
+        "飞吧！鲸鱼的高峰"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1991-05-21T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1991-05-21T17:20:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "56301"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/172377"
+      },
+      {
+        "site": "mal",
+        "id": "2314"
+      },
+      {
+        "site": "anidb",
+        "id": "2999"
+      },
+      {
+        "site": "aniList",
+        "id": "2314"
+      }
+    ]
+  },
+  {
+    "title": "炎の転校生",
+    "titleTranslate": {
+      "zh-Hans": [
+        "炎之转校生"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1991-05-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1991-05-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "18063"
+      },
+      {
+        "site": "danime",
+        "id": "26911",
+        "begin": "2024-02-24T15:00:00.000Z",
+        "broadcast": "R/2024-02-24T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0098810",
+        "begin": "2024-02-25T03:00:00.000Z",
+        "broadcast": "R/2024-02-25T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/67358"
+      },
+      {
+        "site": "mal",
+        "id": "2050"
+      },
+      {
+        "site": "anidb",
+        "id": "2980"
+      },
+      {
+        "site": "aniList",
+        "id": "2050"
       }
     ]
   }

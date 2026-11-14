@@ -6,7 +6,11 @@
         "卡片战斗先导者外传 -if-"
       ],
       "zh-Hant": [
-        "卡片戰鬥先導者外傳 -if-"
+        "卡片戰鬥先導者外傳 -if-",
+        "卡片戰鬥!! 先導者 外傳 -if-"
+      ],
+      "en": [
+        "CARDFIGHT!! VANGUARD EXTRA STORY -if-"
       ]
     },
     "type": "tv",
@@ -31,10 +35,97 @@
         "begin": ""
       },
       {
-        "site": "viu",
-        "id": "269092",
-        "begin": "2020-05-29T16:00:00.000Z",
-        "broadcast": "R/2020-05-29T16:00:00.000Z/P7D"
+        "site": "unext",
+        "id": "SID0047377",
+        "begin": "2020-05-30T14:30:00.000Z",
+        "broadcast": "R/2020-05-30T14:30:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "5e82288c657e22f4195cc7a2"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GRXJ9X5EY",
+        "begin": "2020-08-21T16:30:00.000Z",
+        "broadcast": "R/2020-08-21T16:30:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23878",
+        "begin": "2020-05-30T14:30:00.000Z",
+        "broadcast": "R/2020-05-30T14:30:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/101562"
+      },
+      {
+        "site": "mal",
+        "id": "41283"
+      },
+      {
+        "site": "anidb",
+        "id": "15480"
+      },
+      {
+        "site": "aniList",
+        "id": "115656"
+      }
+    ]
+  },
+  {
+    "title": "フラグタイム",
+    "titleTranslate": {
+      "zh-Hans": [
+        "时光碎片"
+      ],
+      "zh-Hant": [
+        "時光沙漏 fragtime"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://frag-time.com",
+    "begin": "2020-05-12T16:00:00.000Z",
+    "end": "2020-05-12T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "277727"
+      },
+      {
+        "site": "unext",
+        "id": "SID0052651",
+        "begin": "2020-11-13T03:00:00.000Z",
+        "broadcast": "R/2020-11-13T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2241"
+      },
+      {
+        "site": "danime",
+        "id": "24339",
+        "begin": "2020-11-13T01:00:00.000Z",
+        "broadcast": "R/2020-11-13T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/630027"
+      },
+      {
+        "site": "mal",
+        "id": "39545"
+      },
+      {
+        "site": "aniList",
+        "id": "108487"
+      },
+      {
+        "site": "anidb",
+        "id": "14763"
       }
     ]
   }

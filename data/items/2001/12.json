@@ -11,6 +11,34 @@
       {
         "site": "bangumi",
         "id": "89728"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003370",
+        "begin": "2019-08-31T03:00:00.000Z",
+        "broadcast": "R/2019-08-31T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "5474"
+      },
+      {
+        "site": "aniList",
+        "id": "5474"
+      },
+      {
+        "site": "anidb",
+        "id": "2861"
+      },
+      {
+        "site": "abema",
+        "id": "19-221",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/201092"
       }
     ]
   },
@@ -18,7 +46,12 @@
     "title": "犬夜叉 時代を越える想い",
     "titleTranslate": {
       "zh-Hans": [
-        "犬夜叉 穿越时空的思念"
+        "犬夜叉 穿越时空的思念",
+        "犬夜叉剧场版 穿越时空的思念"
+      ],
+      "zh-Hant": [
+        "犬夜叉劇場版 穿越時空的思念",
+        "犬夜叉劇場版：跨越時代的思念"
       ],
       "en": [
         "InuYasha: Affections Touching Across Time"
@@ -36,23 +69,48 @@
         "begin": ""
       },
       {
-        "site": "letv",
-        "id": "45915",
-        "begin": ""
-      },
-      {
-        "site": "pptv",
-        "id": "56MQjvZczApt61M",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "18617"
       },
       {
-        "site": "netflix",
-        "id": "70012316",
-        "begin": "2017-09-01T07:00:00.000Z"
+        "site": "bilibili_hk_mo_tw",
+        "id": "28339208",
+        "begin": "2022-08-13T10:00:00.000Z",
+        "broadcast": "R/2022-08-13T10:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "28339205",
+        "begin": "2022-08-13T10:00:00.000Z",
+        "broadcast": "R/2022-08-13T10:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0052754",
+        "begin": "2020-11-06T15:00:00.000Z",
+        "broadcast": "R/2020-11-06T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/42360"
+      },
+      {
+        "site": "mal",
+        "id": "452"
+      },
+      {
+        "site": "anidb",
+        "id": "273"
+      },
+      {
+        "site": "aniList",
+        "id": "452"
+      },
+      {
+        "site": "gamer",
+        "id": "21915",
+        "begin": "2026-08-07T04:00:00.000Z",
+        "broadcast": "R/2026-08-07T04:00:00.000Z/P7D"
       }
     ]
   },
@@ -61,6 +119,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "秀逗魔导士PREMIUM"
+      ],
+      "zh-Hant": [
+        "秀逗魔導士 PREMIUM"
       ]
     },
     "type": "movie",
@@ -79,14 +140,26 @@
         "id": "16841"
       },
       {
-        "site": "pptv",
-        "id": "RfTgXsYsnNo9uyM",
-        "begin": ""
-      },
-      {
         "site": "bilibili",
         "id": "3910",
-        "begin": "2001-12-21T16:00:01.000Z"
+        "begin": "2001-12-21T16:00:01.000Z",
+        "broadcast": "R/2019-05-13T05:01:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0013123",
+        "begin": "2019-10-02T03:00:00.000Z",
+        "broadcast": "R/2019-10-02T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10021",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/125513"
       }
     ]
   },
@@ -95,6 +168,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "浪客剑心 星霜篇"
+      ],
+      "zh-Hant": [
+        "神劍闖江湖 星霜篇"
       ]
     },
     "type": "ova",
@@ -103,11 +179,6 @@
     "begin": "2001-12-29T16:00:00.000Z",
     "end": "2002-03-20T16:30:00.000Z",
     "sites": [
-      {
-        "site": "pptv",
-        "id": "zWNe3ESqGlia7OaE",
-        "begin": ""
-      },
       {
         "site": "qq",
         "id": "5/5pat6irkz1zcbem",
@@ -121,6 +192,40 @@
         "site": "nicovideo",
         "id": "rurouni-kenshin-seisou",
         "begin": "2014-09-13T06:00:00.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "28229023",
+        "begin": "2020-06-05T08:33:00.000Z",
+        "broadcast": "R/2020-06-05T08:33:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1502038"
+      },
+      {
+        "site": "unext",
+        "id": "SID0017449",
+        "begin": "2025-12-19T15:00:00.000Z",
+        "broadcast": "R/2025-12-19T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "401"
+      },
+      {
+        "site": "anidb",
+        "id": "195"
+      },
+      {
+        "site": "aniList",
+        "id": "401"
+      },
+      {
+        "site": "danime",
+        "id": "21727",
+        "begin": "2025-12-19T15:00:00.000Z",
+        "broadcast": "R/2025-12-19T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -130,6 +235,9 @@
       "zh-Hans": [
         "不思议游戏 永光传",
         "不可思议的游戏 永光传"
+      ],
+      "zh-Hant": [
+        "夢幻遊戲 -永光傳-"
       ]
     },
     "type": "ova",
@@ -139,11 +247,6 @@
     "end": "2002-06-25T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "nLGbGYHnV5X4dt4",
-        "begin": ""
-      },
-      {
         "site": "iqiyi",
         "id": "a_19rrjpa0rp",
         "begin": "2013-04-18T02:14:03.000Z"
@@ -151,6 +254,41 @@
       {
         "site": "bangumi",
         "id": "39525"
+      },
+      {
+        "site": "gamer",
+        "id": "18989",
+        "begin": "2025-11-07T04:00:00.000Z",
+        "broadcast": "R/2025-11-07T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "18989",
+        "begin": "2025-11-07T04:00:00.000Z",
+        "broadcast": "R/2025-11-07T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "tropics",
+        "id": "PLoGVqODys23CesXgJcMyak9mywMu9s0l2",
+        "begin": "2025-11-07T13:00:07.000Z",
+        "broadcast": "R/2025-11-07T13:00:07.000Z/P7D",
+        "comment": "中文配音: PLoGVqODys23AiVfKKnuxoPO06CTfEt8p3"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/23374/season/0/episode/10"
+      },
+      {
+        "site": "mal",
+        "id": "124"
+      },
+      {
+        "site": "anidb",
+        "id": "165"
+      },
+      {
+        "site": "aniList",
+        "id": "124"
       }
     ]
   },
@@ -168,18 +306,311 @@
     "end": "2001-12-22T17:25:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "tVw4th6E9DKVE3s",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "20928"
       },
       {
         "site": "bilibili",
         "id": "3411",
-        "begin": "2001-12-21T16:00:01.000Z"
+        "begin": "2001-12-21T16:00:01.000Z",
+        "broadcast": "R/2016-03-09T04:42:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0013021",
+        "begin": "2018-08-19T03:00:00.000Z",
+        "broadcast": "R/2018-08-19T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10022",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/27867"
+      },
+      {
+        "site": "mal",
+        "id": "608"
+      },
+      {
+        "site": "anidb",
+        "id": "415"
+      },
+      {
+        "site": "aniList",
+        "id": "608"
+      }
+    ]
+  },
+  {
+    "title": "ポケットモンスタークリスタル ライコウ雷の伝説",
+    "titleTranslate": {
+      "zh-Hans": [
+        "精灵宝可梦：雷公 雷的传说",
+        "水晶版 雷公 雷的传说",
+        "神奇宝贝：雷公·雷之传说",
+        "神奇宝贝：雷皇·雷之传说",
+        "宠物小精灵之雷神传说"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2001-12-29T16:00:00.000Z",
+    "end": "2001-12-29T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "27886"
+      },
+      {
+        "site": "bilibili",
+        "id": "5272",
+        "begin": "2016-07-21T03:56:00.000Z",
+        "broadcast": "R/2016-07-21T03:56:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0088550",
+        "begin": "2023-07-14T03:00:00.000Z",
+        "broadcast": "R/2023-07-14T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/295613"
+      },
+      {
+        "site": "mal",
+        "id": "1525"
+      },
+      {
+        "site": "anidb",
+        "id": "7117"
+      },
+      {
+        "site": "aniList",
+        "id": "1525"
+      },
+      {
+        "site": "danime",
+        "id": "28762",
+        "begin": "2026-03-19T15:00:00.000Z",
+        "broadcast": "R/2026-03-19T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "完全勝利ダイテイオー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "完全胜利大帝王"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2001-12-21T16:00:00.000Z",
+    "end": "2001-12-21T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "93200"
+      },
+      {
+        "site": "bilibili",
+        "id": "5274",
+        "begin": "2016-07-21T06:08:00.000Z",
+        "broadcast": "R/2016-07-21T06:08:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/962205"
+      },
+      {
+        "site": "mal",
+        "id": "9221"
+      },
+      {
+        "site": "anidb",
+        "id": "6317"
+      },
+      {
+        "site": "aniList",
+        "id": "9221"
+      }
+    ]
+  },
+  {
+    "title": "Di Gi Charat 星の旅",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Di Gi Charat 星之旅"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.broccoli.co.jp/dejiko",
+    "begin": "2001-12-21T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2001-12-21T16:22:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "205300"
+      },
+      {
+        "site": "unext",
+        "id": "SID0056598",
+        "begin": "2021-03-25T03:00:00.000Z",
+        "broadcast": "R/2021-03-25T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10023",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/178335"
+      },
+      {
+        "site": "mal",
+        "id": "1752"
+      },
+      {
+        "site": "anidb",
+        "id": "769"
+      },
+      {
+        "site": "aniList",
+        "id": "1752"
+      }
+    ]
+  },
+  {
+    "title": "ハローキティの長靴をはいた猫",
+    "titleTranslate": {
+      "zh-Hans": [
+        "凯蒂猫 穿长靴的猫"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2001-12-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2001-12-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "316818"
+      },
+      {
+        "site": "danime",
+        "id": "25552",
+        "begin": "2023-01-20T01:00:00.000Z",
+        "broadcast": "R/2023-01-20T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "22449"
+      },
+      {
+        "site": "anidb",
+        "id": "7855"
+      }
+    ]
+  },
+  {
+    "title": "魔法遊戯 3D",
+    "titleTranslate": {
+      "zh-Hans": [
+        "魔法游戏 3D",
+        "魔法遊戯（3D version）"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.starchild.co.jp/special/mahou/",
+    "begin": "2001-12-28T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2001-12-28T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "112451"
+      },
+      {
+        "site": "danime",
+        "id": "10386",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/44659/season/0"
+      },
+      {
+        "site": "mal",
+        "id": "2278"
+      },
+      {
+        "site": "anidb",
+        "id": "1391"
+      },
+      {
+        "site": "aniList",
+        "id": "2278"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 とっとこハム太郎 ハムハムランド大冒険",
+    "titleTranslate": {
+      "zh-Hans": [
+        "哈姆太郎：哈姆哈姆乐园大冒险"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2001-12-14T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2001-12-14T16:51:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "317785"
+      },
+      {
+        "site": "abema",
+        "id": "2-30",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/354433"
+      },
+      {
+        "site": "mal",
+        "id": "7329"
+      },
+      {
+        "site": "anidb",
+        "id": "2395"
+      },
+      {
+        "site": "aniList",
+        "id": "7329"
       }
     ]
   }

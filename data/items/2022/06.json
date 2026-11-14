@@ -1,0 +1,606 @@
+[
+  {
+    "title": "スプリガン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "遗迹守护者"
+      ],
+      "zh-Hant": [
+        "轟天高校生",
+        "保衛者"
+      ],
+      "en": [
+        "SPRIGGAN"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://spriggan-anime.jp/",
+    "begin": "2022-06-17T16:00:00.000Z",
+    "end": "2022-06-17T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "277037"
+      },
+      {
+        "site": "netflix",
+        "id": "81050064",
+        "begin": "2022-06-17T16:00:00.000Z",
+        "broadcast": "R/2022-06-17T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/94925"
+      },
+      {
+        "site": "mal",
+        "id": "39489"
+      },
+      {
+        "site": "anidb",
+        "id": "14734"
+      },
+      {
+        "site": "aniList",
+        "id": "108353"
+      }
+    ]
+  },
+  {
+    "title": "BASTARD!! -暗黒の破壊神-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "BASTARD！！暗黑破坏神"
+      ],
+      "zh-Hant": [
+        "BASTARD！！暗黑破壞神"
+      ],
+      "en": [
+        "BASTARD‼ -Heavy Metal, Dark Fantasy-"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://bastard-anime.com/",
+    "begin": "2021-06-29T16:00:00.000Z",
+    "end": "2021-06-29T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "367726"
+      },
+      {
+        "site": "netflix",
+        "id": "81281582",
+        "begin": "2022-06-29T16:00:00.000Z",
+        "broadcast": "R/2022-06-29T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/156898"
+      },
+      {
+        "site": "mal",
+        "id": "50953"
+      },
+      {
+        "site": "aniList",
+        "id": "144677"
+      },
+      {
+        "site": "anidb",
+        "id": "17175"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 からかい上手の高木さん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "擅长捉弄的高木同学 剧场版"
+      ],
+      "zh-Hant": [
+        "劇場版 擅長捉弄人的高木同學"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://takagi3.me/",
+    "begin": "2022-06-10T16:00:00.000Z",
+    "end": "2022-06-10T17:12:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "347888"
+      },
+      {
+        "site": "gamer",
+        "id": "123482",
+        "begin": "2023-01-10T04:00:00.000Z",
+        "broadcast": "R/2023-01-10T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28480940",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "28435376",
+        "begin": "2023-01-11T03:11:00.000Z",
+        "broadcast": "R/2023-01-11T03:11:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0077772",
+        "begin": "2023-01-23T15:00:00.000Z",
+        "broadcast": "R/2023-01-23T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "123482",
+        "begin": "2023-01-10T04:00:00.000Z",
+        "broadcast": "R/2023-01-10T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2865"
+      },
+      {
+        "site": "prime",
+        "id": "B0F6PLFCJ1",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/938567"
+      },
+      {
+        "site": "mal",
+        "id": "49722"
+      },
+      {
+        "site": "anidb",
+        "id": "16560"
+      },
+      {
+        "site": "aniList",
+        "id": "138425"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 異世界かるてっと ～あなざーわーるど～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 异世界四重奏 ～Another World～"
+      ],
+      "zh-Hant": [
+        "劇場版 異世界四重奏 ～Another World～"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://isekai-quartet.com",
+    "begin": "2022-06-09T16:00:00.000Z",
+    "end": "2022-06-09T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "303126"
+      },
+      {
+        "site": "gamer",
+        "id": "118547",
+        "begin": "2023-02-01T04:00:00.000Z",
+        "broadcast": "R/2023-02-01T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "isekai-quartet-movie",
+        "begin": "2023-02-28T15:00:00.000Z",
+        "broadcast": "R/2023-02-28T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0074464",
+        "begin": "2022-10-31T03:00:00.000Z",
+        "broadcast": "R/2022-10-31T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "118547",
+        "begin": "2023-02-01T04:00:00.000Z",
+        "broadcast": "R/2023-02-01T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2858"
+      },
+      {
+        "site": "danime",
+        "id": "26688",
+        "begin": "2023-10-31T15:00:00.000Z",
+        "broadcast": "R/2023-10-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UcjhXd9e2Y3a0Mlbn_NyaLeQ",
+        "url": "https://www.youtube.com/watch?v=1gBtZyiA2SY",
+        "begin": "2023-06-16T16:00:00.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/913612"
+      },
+      {
+        "site": "mal",
+        "id": "41567"
+      },
+      {
+        "site": "aniList",
+        "id": "117074"
+      },
+      {
+        "site": "anidb",
+        "id": "15481"
+      }
+    ]
+  },
+  {
+    "title": "機動戦士ガンダム ククルス・ドアンの島",
+    "titleTranslate": {
+      "zh-Hans": [
+        "机动战士高达 库库鲁斯·杜安之岛"
+      ],
+      "zh-Hant": [
+        "機動戰士高達- 庫克羅斯 德安之島"
+      ],
+      "en": [
+        "MOBILE SUIT GUNDAM Cucuruz Doan's Island",
+        "Kidou Senshi Gundam: Cucuruz Doan no Shima"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://g-doan.net",
+    "begin": "2022-06-02T16:00:00.000Z",
+    "end": "2022-06-02T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "349442"
+      },
+      {
+        "site": "bilibili_hk_mo",
+        "id": "20138339",
+        "begin": "2023-03-10T10:00:00.000Z",
+        "broadcast": "R/2023-03-10T10:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0079417",
+        "begin": "2023-03-31T15:00:00.000Z",
+        "broadcast": "R/2023-03-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "62a103abf707900007b608b3"
+      },
+      {
+        "site": "nicovideo",
+        "id": "gundam-cucuruz-doan",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mikan",
+        "id": "2737"
+      },
+      {
+        "site": "prime",
+        "id": "B0CH9CBF79",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "27903",
+        "begin": "2025-04-10T15:00:00.000Z",
+        "broadcast": "R/2025-04-10T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/883768"
+      },
+      {
+        "site": "mal",
+        "id": "49827"
+      },
+      {
+        "site": "anidb",
+        "id": "16702"
+      },
+      {
+        "site": "aniList",
+        "id": "139273"
+      }
+    ]
+  },
+  {
+    "title": "兄に付ける薬はない！5-快把我哥帯走5-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "快把我哥带走5",
+        "快把我哥带走 第五季"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2022-06-28T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2022-08-02T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "345805"
+      },
+      {
+        "site": "danime",
+        "id": "25322",
+        "begin": "2025-10-03T15:00:00.000Z",
+        "broadcast": "R/2025-10-03T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0071460",
+        "begin": "2025-10-15T03:00:00.000Z",
+        "broadcast": "R/2025-10-15T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/70972/season/5"
+      },
+      {
+        "site": "mal",
+        "id": "49599"
+      },
+      {
+        "site": "anidb",
+        "id": "17503"
+      },
+      {
+        "site": "aniList",
+        "id": "137734"
+      }
+    ]
+  },
+  {
+    "title": "怪盗クイーンはサーカスがお好き",
+    "titleTranslate": {
+      "zh-Hans": [
+        "怪盗皇后喜欢马戏团"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://miragequeen.jp/",
+    "begin": "2022-06-16T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2022-06-16T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "341657"
+      },
+      {
+        "site": "nicovideo",
+        "id": "miragequeen",
+        "begin": "2022-12-20T15:00:00.000Z",
+        "broadcast": "R/2022-12-20T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0076942",
+        "begin": "2022-12-20T15:00:00.000Z",
+        "broadcast": "R/2022-12-20T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2853"
+      },
+      {
+        "site": "danime",
+        "id": "26465",
+        "begin": "2023-06-23T15:00:00.000Z",
+        "broadcast": "R/2023-06-23T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/849907"
+      },
+      {
+        "site": "mal",
+        "id": "49423"
+      },
+      {
+        "site": "anidb",
+        "id": "16434"
+      },
+      {
+        "site": "aniList",
+        "id": "140765"
+      }
+    ]
+  },
+  {
+    "title": "ドラゴンボール超 スーパーヒーロー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "龙珠超 超级英雄",
+        "龙珠超 超级人造人",
+        "龙珠超 SUPER HERO"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://2022dbs.com",
+    "begin": "2022-06-10T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2022-06-10T17:39:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "335502"
+      },
+      {
+        "site": "unext",
+        "id": "SID0075864",
+        "begin": "2022-12-07T03:00:00.000Z",
+        "broadcast": "R/2022-12-07T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2856"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GMTE00199304",
+        "begin": "2023-07-12T17:00:00.000Z",
+        "broadcast": "R/2023-07-12T17:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0F5ZYWR16",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/610150"
+      },
+      {
+        "site": "mal",
+        "id": "48903"
+      },
+      {
+        "site": "anidb",
+        "id": "14626"
+      },
+      {
+        "site": "aniList",
+        "id": "133898"
+      }
+    ]
+  },
+  {
+    "title": "とんがり頭のごん太",
+    "titleTranslate": {
+      "zh-Hans": [
+        "尖头的权太"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.gonta-movie.jp/",
+    "begin": "2022-06-02T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2022-06-02T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "379753"
+      },
+      {
+        "site": "unext",
+        "id": "SID0071219",
+        "begin": "2022-07-25T03:00:00.000Z",
+        "broadcast": "R/2022-07-25T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/803675"
+      },
+      {
+        "site": "mal",
+        "id": "49845"
+      },
+      {
+        "site": "anidb",
+        "id": "16109"
+      },
+      {
+        "site": "aniList",
+        "id": "130705"
+      }
+    ]
+  },
+  {
+    "title": "それいけ！アンパンマン ドロリンとバケ〜るカーニバル",
+    "titleTranslate": {
+      "zh-Hant": [
+        "麵包超人電影版：多洛林與妖怪嘉年華"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://anpan-movie.com/2022/",
+    "begin": "2022-06-23T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2022-06-23T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "tmdb",
+        "id": "movie/963194"
+      }
+    ]
+  },
+  {
+    "title": "それいけ!アンパンマン ドロリンとバケ〜るカーニバル",
+    "titleTranslate": {
+      "zh-Hans": [
+        "面包超人 多洛林与妖怪嘉年华"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://anpan-movie.com/2022/",
+    "begin": "2022-06-23T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2022-06-23T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "480879"
+      },
+      {
+        "site": "mal",
+        "id": "52452"
+      },
+      {
+        "site": "anidb",
+        "id": "17121"
+      },
+      {
+        "site": "aniList",
+        "id": "160856"
+      }
+    ]
+  }
+]

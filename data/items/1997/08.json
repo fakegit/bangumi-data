@@ -22,14 +22,38 @@
         "begin": ""
       },
       {
-        "site": "pptv",
-        "id": "ibZ32dNxCsvBT0Tk",
-        "begin": ""
-      },
-      {
         "site": "bilibili",
         "id": "3943",
-        "begin": "1997-07-31T16:00:01.000Z"
+        "begin": "1997-07-31T16:00:01.000Z",
+        "broadcast": "R/2021-03-31T13:42:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "21771",
+        "begin": "2017-09-08T01:00:00.000Z",
+        "broadcast": "R/2017-09-08T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/31599"
+      },
+      {
+        "site": "mal",
+        "id": "1439"
+      },
+      {
+        "site": "anidb",
+        "id": "976"
+      },
+      {
+        "site": "aniList",
+        "id": "1439"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002947",
+        "begin": "2026-02-28T15:00:00.000Z",
+        "broadcast": "R/2026-02-28T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -38,6 +62,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "秀逗魔导士GREAT"
+      ],
+      "zh-Hant": [
+        "秀逗魔導士 GREAT"
       ]
     },
     "type": "movie",
@@ -56,19 +83,31 @@
         "id": "42097"
       },
       {
-        "site": "pptv",
-        "id": "RfTgXsYsnNo9uyM",
-        "begin": ""
-      },
-      {
         "site": "bilibili",
         "id": "3907",
-        "begin": "1997-08-01T16:00:01.000Z"
+        "begin": "1997-08-01T16:00:01.000Z",
+        "broadcast": "R/2019-05-13T08:48:00.000Z/P7D"
       },
       {
         "site": "iqiyi",
         "id": "a_19rrhwb7ed",
         "begin": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0013120",
+        "begin": "2019-10-02T03:00:00.000Z",
+        "broadcast": "R/2019-10-02T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10017",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/125510"
       }
     ]
   },
@@ -86,11 +125,6 @@
     "end": "1998-01-21T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "gsy4Np4EdLIVkics",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "35970"
       },
@@ -100,9 +134,195 @@
         "begin": "2017-06-14T16:00:12.000Z"
       },
       {
+        "site": "mal",
+        "id": "1736"
+      },
+      {
+        "site": "anidb",
+        "id": "2624"
+      },
+      {
+        "site": "aniList",
+        "id": "1736"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/30386/season/2"
+      }
+    ]
+  },
+  {
+    "title": "地球が動いた日",
+    "titleTranslate": {
+      "zh-Hans": [
+        "地球变动之日"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1997-08-09T16:00:00.000Z",
+    "end": "1997-08-09T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "37527"
+      },
+      {
         "site": "bilibili",
-        "id": "3861",
-        "begin": "1997-08-20T16:00:01.000Z"
+        "id": "3215",
+        "begin": "2015-12-17T02:31:00.000Z",
+        "broadcast": "R/2015-12-17T02:31:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/155607"
+      },
+      {
+        "site": "mal",
+        "id": "2915"
+      },
+      {
+        "site": "anidb",
+        "id": "2532"
+      },
+      {
+        "site": "aniList",
+        "id": "2915"
+      }
+    ]
+  },
+  {
+    "title": "それゆけ! 宇宙戦艦ヤマモト・ヨーコII",
+    "titleTranslate": {
+      "zh-Hans": [
+        "宇宙战舰山本洋子II"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1997-08-05T16:00:00.000Z",
+    "end": "1997-12-21T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "27207"
+      },
+      {
+        "site": "bilibili",
+        "id": "4040",
+        "begin": "2016-05-24T02:33:00.000Z",
+        "broadcast": "R/2016-05-24T02:33:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "24575",
+        "begin": "2021-03-26T01:00:00.000Z",
+        "broadcast": "R/2021-03-26T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/115931/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "1671"
+      },
+      {
+        "site": "anidb",
+        "id": "339"
+      },
+      {
+        "site": "aniList",
+        "id": "1671"
+      }
+    ]
+  },
+  {
+    "title": "ジャングル大帝 劇場版",
+    "titleTranslate": {
+      "zh-Hans": [
+        "森林大帝 剧场版",
+        "森林大帝 剧场版 (1997)"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1997-07-31T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1997-07-31T17:39:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "425951"
+      },
+      {
+        "site": "danime",
+        "id": "24073",
+        "begin": "2020-08-14T01:00:00.000Z",
+        "broadcast": "R/2020-08-14T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002219",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/14368"
+      },
+      {
+        "site": "mal",
+        "id": "2264"
+      },
+      {
+        "site": "aniList",
+        "id": "2264"
+      },
+      {
+        "site": "anidb",
+        "id": "1490"
+      }
+    ]
+  },
+  {
+    "title": "天地無用!真夏のイヴ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "天地无用! 盛夏的夜晚"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1997-08-01T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1997-08-01T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "56628"
+      },
+      {
+        "site": "mal",
+        "id": "1101"
+      },
+      {
+        "site": "anidb",
+        "id": "375"
+      },
+      {
+        "site": "aniList",
+        "id": "1101"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/34194"
       }
     ]
   }

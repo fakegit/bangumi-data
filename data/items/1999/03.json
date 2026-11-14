@@ -26,6 +26,34 @@
         "site": "nicovideo",
         "id": "digimon-adventure",
         "begin": "2015-05-04T08:00:00.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0011448",
+        "begin": "2018-05-01T03:00:00.000Z",
+        "broadcast": "R/2018-05-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "20356",
+        "begin": "2015-10-02T01:00:00.000Z",
+        "broadcast": "R/2015-10-02T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/31654"
+      },
+      {
+        "site": "mal",
+        "id": "2961"
+      },
+      {
+        "site": "aniList",
+        "id": "2961"
+      },
+      {
+        "site": "anidb",
+        "id": "1148"
       }
     ]
   },
@@ -34,6 +62,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "哆啦A梦：大雄的宇宙漂流记"
+      ],
+      "zh-Hant": [
+        "電影 哆啦A夢 大雄的宇宙漂流記"
       ]
     },
     "type": "movie",
@@ -42,11 +73,6 @@
     "begin": "1999-03-06T16:00:00.000Z",
     "end": "1999-03-06T17:30:00.000Z",
     "sites": [
-      {
-        "site": "letv",
-        "id": "80954",
-        "begin": ""
-      },
       {
         "site": "bangumi",
         "id": "463"
@@ -64,7 +90,42 @@
       {
         "site": "bilibili",
         "id": "3903",
-        "begin": "1999-03-05T16:00:01.000Z"
+        "begin": "1999-03-05T16:00:01.000Z",
+        "broadcast": "R/2016-04-28T07:29:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "35-109",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0099865",
+        "begin": "2024-03-05T03:00:00.000Z",
+        "broadcast": "R/2024-03-05T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "32238",
+        "begin": "2023-03-16T02:00:00.000Z",
+        "broadcast": "R/2023-03-16T02:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/162072"
+      },
+      {
+        "site": "mal",
+        "id": "2668"
+      },
+      {
+        "site": "anidb",
+        "id": "6599"
+      },
+      {
+        "site": "aniList",
+        "id": "2668"
       }
     ]
   },
@@ -82,23 +143,41 @@
     "end": "1999-03-05T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "oo149l7ENHLVU7s",
-        "begin": ""
-      },
-      {
         "site": "qq",
         "id": "p/pkazflvu90q9dsq",
         "begin": ""
       },
       {
-        "site": "letv",
-        "id": "10002683",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "1953"
+      },
+      {
+        "site": "unext",
+        "id": "SID0044572",
+        "begin": "2019-12-17T03:00:00.000Z",
+        "broadcast": "R/2019-12-17T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23644",
+        "begin": "2020-03-13T01:00:00.000Z",
+        "broadcast": "R/2020-03-13T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/45462"
+      },
+      {
+        "site": "mal",
+        "id": "326"
+      },
+      {
+        "site": "anidb",
+        "id": "209"
+      },
+      {
+        "site": "aniList",
+        "id": "326"
       }
     ]
   },
@@ -118,6 +197,22 @@
       {
         "site": "bangumi",
         "id": "82728"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/146095"
+      },
+      {
+        "site": "mal",
+        "id": "8550"
+      },
+      {
+        "site": "anidb",
+        "id": "4015"
+      },
+      {
+        "site": "aniList",
+        "id": "8550"
       }
     ]
   },
@@ -139,9 +234,32 @@
         "id": "45905"
       },
       {
-        "site": "pptv",
-        "id": "JxvmZMwyouBDwSk",
-        "begin": ""
+        "site": "unext",
+        "id": "SID0010715",
+        "begin": "2022-05-30T03:00:00.000Z",
+        "broadcast": "R/2022-05-30T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23619",
+        "begin": "2022-12-16T01:00:00.000Z",
+        "broadcast": "R/2022-12-16T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/43032/season/0"
+      },
+      {
+        "site": "mal",
+        "id": "2011"
+      },
+      {
+        "site": "anidb",
+        "id": "931"
+      },
+      {
+        "site": "aniList",
+        "id": "2011"
       }
     ]
   },
@@ -163,9 +281,20 @@
         "id": "68966"
       },
       {
-        "site": "pptv",
-        "id": "7qoHhe1TwwFk4ko",
-        "begin": ""
+        "site": "tmdb",
+        "id": "movie/326919"
+      },
+      {
+        "site": "mal",
+        "id": "2628"
+      },
+      {
+        "site": "anidb",
+        "id": "7764"
+      },
+      {
+        "site": "aniList",
+        "id": "2628"
       }
     ]
   },
@@ -187,9 +316,20 @@
         "id": "121747"
       },
       {
-        "site": "pptv",
-        "id": "7qoHhe1TwwFk4ko",
-        "begin": ""
+        "site": "tmdb",
+        "id": "movie/325567"
+      },
+      {
+        "site": "mal",
+        "id": "2660"
+      },
+      {
+        "site": "anidb",
+        "id": "4765"
+      },
+      {
+        "site": "aniList",
+        "id": "2660"
       }
     ]
   },
@@ -215,6 +355,28 @@
         "site": "qq",
         "id": "r/rnjpu9bsbfirqjt",
         "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "28232389",
+        "begin": "2020-12-14T08:16:00.000Z",
+        "broadcast": "R/2020-12-14T08:16:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1136667"
+      },
+      {
+        "site": "mal",
+        "id": "5578"
+      },
+      {
+        "site": "aniList",
+        "id": "5578"
+      },
+      {
+        "site": "anidb",
+        "id": "4636"
       }
     ]
   }

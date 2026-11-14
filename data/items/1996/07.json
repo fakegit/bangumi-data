@@ -3,7 +3,11 @@
     "title": "赤ちゃんと僕",
     "titleTranslate": {
       "zh-Hans": [
-        "BB有心事"
+        "BB有心事",
+        "天才宝贝",
+        "反斗小宝贝",
+        "BB与我",
+        "智慧反斗星"
       ]
     },
     "type": "tv",
@@ -15,6 +19,40 @@
       {
         "site": "bangumi",
         "id": "61649"
+      },
+      {
+        "site": "bilibili",
+        "id": "3130",
+        "begin": "2015-12-03T06:10:00.000Z",
+        "broadcast": "R/2015-12-03T06:10:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/22077"
+      },
+      {
+        "site": "mal",
+        "id": "1485"
+      },
+      {
+        "site": "anidb",
+        "id": "1419"
+      },
+      {
+        "site": "aniList",
+        "id": "1485"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002428",
+        "begin": "2026-04-23T15:00:00.000Z",
+        "broadcast": "R/2026-04-23T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10868",
+        "begin": "2026-04-23T15:00:00.000Z",
+        "broadcast": "R/2026-04-23T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -34,6 +72,28 @@
       {
         "site": "bangumi",
         "id": "121819"
+      },
+      {
+        "site": "unext",
+        "id": "SID0018771",
+        "begin": "2021-10-17T03:00:00.000Z",
+        "broadcast": "R/2021-10-17T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/494064"
+      },
+      {
+        "site": "mal",
+        "id": "2009"
+      },
+      {
+        "site": "aniList",
+        "id": "2009"
+      },
+      {
+        "site": "anidb",
+        "id": "4267"
       }
     ]
   },
@@ -58,6 +118,34 @@
         "site": "iqiyi",
         "id": "a_19rrhb4kld",
         "begin": "2015-08-11T08:03:32.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003293",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "24691",
+        "begin": "2022-06-15T01:00:00.000Z",
+        "broadcast": "R/2022-06-15T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/76724"
+      },
+      {
+        "site": "mal",
+        "id": "8146"
+      },
+      {
+        "site": "aniList",
+        "id": "8146"
+      },
+      {
+        "site": "anidb",
+        "id": "7356"
       }
     ]
   },
@@ -78,6 +166,34 @@
       {
         "site": "bangumi",
         "id": "158799"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/382464"
+      },
+      {
+        "site": "mal",
+        "id": "8208"
+      },
+      {
+        "site": "anidb",
+        "id": "2101"
+      },
+      {
+        "site": "aniList",
+        "id": "8208"
+      },
+      {
+        "site": "danime",
+        "id": "24708",
+        "begin": "2026-04-09T15:00:00.000Z",
+        "broadcast": "R/2026-04-09T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0018721",
+        "begin": "2026-05-01T03:00:00.000Z",
+        "broadcast": "R/2026-05-01T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -85,7 +201,11 @@
     "title": "スレイヤーズすぺしゃる",
     "titleTranslate": {
       "zh-Hans": [
-        "秀逗魔导士SPECIAL"
+        "秀逗魔导士SPECIAL",
+        "秀逗魔导士 SPECIAL"
+      ],
+      "zh-Hant": [
+        "秀逗魔導士 SPECIAL"
       ]
     },
     "type": "ova",
@@ -103,6 +223,236 @@
         "site": "iqiyi",
         "id": "a_19rrhwb77x",
         "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "3904",
+        "begin": "2016-05-03T03:32:00.000Z",
+        "broadcast": "R/2016-05-03T03:32:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0013122",
+        "begin": "2019-10-02T03:00:00.000Z",
+        "broadcast": "R/2019-10-02T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10015",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/26318/season/0"
+      },
+      {
+        "site": "mal",
+        "id": "1170"
+      },
+      {
+        "site": "anidb",
+        "id": "155"
+      },
+      {
+        "site": "aniList",
+        "id": "1170"
+      }
+    ]
+  },
+  {
+    "title": "BLUE SEED2",
+    "titleTranslate": {
+      "zh-Hans": [
+        "碧奇魂2",
+        "种子特务2"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1996-07-23T16:00:00.000Z",
+    "end": "1998-02-03T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "39263"
+      },
+      {
+        "site": "bilibili",
+        "id": "25586515",
+        "begin": "2019-04-02T06:28:00.000Z",
+        "broadcast": "R/2019-04-02T06:28:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "25919",
+        "begin": "2022-11-11T01:00:00.000Z",
+        "broadcast": "R/2022-11-11T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/123332"
+      },
+      {
+        "site": "mal",
+        "id": "999"
+      },
+      {
+        "site": "anidb",
+        "id": "385"
+      },
+      {
+        "site": "aniList",
+        "id": "999"
+      }
+    ]
+  },
+  {
+    "title": "ガンバリスト! 駿",
+    "titleTranslate": {
+      "zh-Hans": [
+        "奥运高手"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1996-06-30T16:00:00.000Z",
+    "end": "1997-03-09T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "23181"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/197136"
+      },
+      {
+        "site": "mal",
+        "id": "3568"
+      },
+      {
+        "site": "anidb",
+        "id": "4372"
+      },
+      {
+        "site": "aniList",
+        "id": "3568"
+      }
+    ]
+  },
+  {
+    "title": "それいけ!アンパンマン ばいきんまんと3ばいパンチ",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.tms-e.co.jp/alltitles/anpanman/060313.html",
+    "begin": "1996-07-12T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1996-07-12T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "419280"
+      },
+      {
+        "site": "unext",
+        "id": "SID0018531",
+        "begin": "2016-01-04T03:00:00.000Z",
+        "broadcast": "R/2016-01-04T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/360597"
+      },
+      {
+        "site": "mal",
+        "id": "21943"
+      },
+      {
+        "site": "aniList",
+        "id": "145475"
+      },
+      {
+        "site": "anidb",
+        "id": "7748"
+      }
+    ]
+  },
+  {
+    "title": "それいけ!アンパンマン 空とぶ絵本とガラスの靴",
+    "titleTranslate": {
+      "zh-Hans": [
+        "面包超人：飞天绘本与玻璃鞋"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.tms-e.co.jp/alltitles/anpanman/060312.html",
+    "begin": "1996-07-12T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1996-07-12T17:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "318300"
+      },
+      {
+        "site": "unext",
+        "id": "SID0018530",
+        "begin": "2016-01-04T03:00:00.000Z",
+        "broadcast": "R/2016-01-04T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/604569"
+      },
+      {
+        "site": "mal",
+        "id": "10060"
+      },
+      {
+        "site": "aniList",
+        "id": "10060"
+      },
+      {
+        "site": "anidb",
+        "id": "7557"
+      }
+    ]
+  },
+  {
+    "title": "エンジェルがとんだ日",
+    "titleTranslate": {
+      "zh-Hans": [
+        "天使飞起来的日子"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1996-07-26T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1996-07-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "220052"
+      },
+      {
+        "site": "mal",
+        "id": "22959"
+      },
+      {
+        "site": "anidb",
+        "id": "8608"
       }
     ]
   }

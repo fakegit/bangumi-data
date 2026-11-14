@@ -21,6 +21,42 @@
       {
         "site": "bangumi",
         "id": "133510"
+      },
+      {
+        "site": "unext",
+        "id": "SID0089863",
+        "begin": "2023-08-09T03:00:00.000Z",
+        "broadcast": "R/2023-08-09T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26157",
+        "begin": "2023-02-28T01:00:00.000Z",
+        "broadcast": "R/2023-02-28T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/115276"
+      },
+      {
+        "site": "mal",
+        "id": "6971"
+      },
+      {
+        "site": "aniList",
+        "id": "6971"
+      },
+      {
+        "site": "anidb",
+        "id": "1452"
+      },
+      {
+        "site": "acgnx",
+        "id": "鬼太郎"
+      },
+      {
+        "site": "dmhy",
+        "id": "鬼太郎"
       }
     ]
   },
@@ -28,7 +64,8 @@
     "title": "ルパン三世 1stシリーズ",
     "titleTranslate": {
       "zh-Hans": [
-        "鲁邦三世 第一期"
+        "鲁邦三世 第一期",
+        "鲁邦三世 第一季"
       ]
     },
     "type": "tv",
@@ -45,6 +82,129 @@
         "site": "nicovideo",
         "id": "lupin-3rd-1st",
         "begin": "2011-09-20T06:00:00.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "28233252",
+        "begin": "2020-12-29T05:38:00.000Z",
+        "broadcast": "R/2020-12-29T05:38:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0012466",
+        "begin": "2015-12-25T03:00:00.000Z",
+        "broadcast": "R/2015-12-25T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10300",
+        "begin": "2018-03-01T01:00:00.000Z",
+        "broadcast": "R/2018-03-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/31572"
+      },
+      {
+        "site": "mal",
+        "id": "1412"
+      },
+      {
+        "site": "anidb",
+        "id": "421"
+      },
+      {
+        "site": "aniList",
+        "id": "1430"
+      }
+    ]
+  },
+  {
+    "title": "国松さまのお通りだい",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1971-10-05T15:00:00.000Z",
+    "broadcast": "R/1971-10-05T15:00:00.000Z/P7D",
+    "end": "1972-09-24T15:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "53764"
+      },
+      {
+        "site": "unext",
+        "id": "SID0096503",
+        "begin": "2024-01-12T03:00:00.000Z",
+        "broadcast": "R/2024-01-12T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "27982",
+        "begin": "2025-05-30T15:00:00.000Z",
+        "broadcast": "R/2025-05-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/204280"
+      },
+      {
+        "site": "mal",
+        "id": "17669"
+      },
+      {
+        "site": "anidb",
+        "id": "4725"
+      },
+      {
+        "site": "aniList",
+        "id": "17669"
+      }
+    ]
+  },
+  {
+    "title": "ふしぎなメルモ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "神奇糖",
+        "神化娇娇女"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://tezukaosamu.net/jp/anime/39.html",
+    "begin": "1971-10-02T15:00:00.000Z",
+    "broadcast": "R/1971-10-02T15:00:00.000Z/P7D",
+    "end": "1972-03-25T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "87750"
+      },
+      {
+        "site": "danime",
+        "id": "10922",
+        "begin": "2013-08-02T01:00:00.000Z",
+        "broadcast": "R/2013-08-02T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/102750"
+      },
+      {
+        "site": "mal",
+        "id": "5476"
+      },
+      {
+        "site": "anidb",
+        "id": "3050"
+      },
+      {
+        "site": "aniList",
+        "id": "5476"
       }
     ]
   }

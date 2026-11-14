@@ -20,6 +20,34 @@
       {
         "site": "bangumi",
         "id": "9302"
+      },
+      {
+        "site": "unext",
+        "id": "SID0014557",
+        "begin": "2019-10-24T03:00:00.000Z",
+        "broadcast": "R/2019-10-24T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/68411"
+      },
+      {
+        "site": "danime",
+        "id": "10769",
+        "begin": "2025-12-19T15:00:00.000Z",
+        "broadcast": "R/2025-12-19T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "1661"
+      },
+      {
+        "site": "anidb",
+        "id": "1579"
+      },
+      {
+        "site": "aniList",
+        "id": "1661"
       }
     ]
   },
@@ -39,6 +67,34 @@
       {
         "site": "bangumi",
         "id": "65284"
+      },
+      {
+        "site": "unext",
+        "id": "SID0014996",
+        "begin": "2016-06-09T03:00:00.000Z",
+        "broadcast": "R/2016-06-09T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23393",
+        "begin": "2020-03-13T01:00:00.000Z",
+        "broadcast": "R/2020-03-13T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/135917"
+      },
+      {
+        "site": "mal",
+        "id": "9916"
+      },
+      {
+        "site": "anidb",
+        "id": "4454"
+      },
+      {
+        "site": "aniList",
+        "id": "9916"
       }
     ]
   },
@@ -58,6 +114,28 @@
       {
         "site": "bangumi",
         "id": "13561"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/20502"
+      },
+      {
+        "site": "danime",
+        "id": "26236",
+        "begin": "2025-12-19T15:00:00.000Z",
+        "broadcast": "R/2025-12-19T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "1337"
+      },
+      {
+        "site": "anidb",
+        "id": "1685"
+      },
+      {
+        "site": "aniList",
+        "id": "1337"
       }
     ]
   },
@@ -82,6 +160,40 @@
         "site": "bilibili",
         "id": "10572",
         "begin": "2008-10-01T16:00:00.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002651",
+        "begin": "2019-08-27T03:00:00.000Z",
+        "broadcast": "R/2019-08-27T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "20037",
+        "begin": "2018-02-01T01:00:00.000Z",
+        "broadcast": "R/2018-02-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/20046"
+      },
+      {
+        "site": "mal",
+        "id": "4810"
+      },
+      {
+        "site": "anidb",
+        "id": "1561"
+      },
+      {
+        "site": "aniList",
+        "id": "4810"
+      },
+      {
+        "site": "abema",
+        "id": "19-223",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -106,6 +218,34 @@
         "site": "nicovideo",
         "id": "karate",
         "begin": "2012-02-21T06:00:00.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0038233",
+        "begin": "2018-11-20T03:00:00.000Z",
+        "broadcast": "R/2018-11-20T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23392",
+        "begin": "2020-03-13T01:00:00.000Z",
+        "broadcast": "R/2020-03-13T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/129125"
+      },
+      {
+        "site": "mal",
+        "id": "7479"
+      },
+      {
+        "site": "anidb",
+        "id": "5492"
+      },
+      {
+        "site": "aniList",
+        "id": "7479"
       }
     ]
   }

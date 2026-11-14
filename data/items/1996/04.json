@@ -3,7 +3,8 @@
     "title": "スレイヤーズNEXT",
     "titleTranslate": {
       "zh-Hans": [
-        "秀逗魔导士NEXT"
+        "秀逗魔导士NEXT",
+        "秀逗魔导士 第二季"
       ]
     },
     "type": "tv",
@@ -13,13 +14,42 @@
     "end": "1996-09-27T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "QfLNS7MZiaccqqBA",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "2096"
+      },
+      {
+        "site": "bilibili",
+        "id": "1113",
+        "begin": "2011-02-09T05:17:00.000Z",
+        "broadcast": "R/2011-02-09T05:17:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002669",
+        "begin": "2019-11-22T03:00:00.000Z",
+        "broadcast": "R/2019-11-22T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10277",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/26318/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "535"
+      },
+      {
+        "site": "anidb",
+        "id": "95"
+      },
+      {
+        "site": "aniList",
+        "id": "535"
       }
     ]
   },
@@ -37,23 +67,42 @@
     "end": "1998-03-27T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "AzQPjfVbywls6lI",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "1515"
       },
       {
-        "site": "letv",
-        "id": "20949",
-        "begin": ""
-      },
-      {
         "site": "bilibili",
         "id": "2306",
-        "begin": "1996-04-04T16:00:00.000Z"
+        "begin": "1996-04-04T16:00:00.000Z",
+        "broadcast": "R/2012-11-22T08:31:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0027055",
+        "begin": "2020-04-30T03:00:00.000Z",
+        "broadcast": "R/2020-04-30T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "20276",
+        "begin": "2015-08-14T01:00:00.000Z",
+        "broadcast": "R/2015-08-14T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/25722"
+      },
+      {
+        "site": "mal",
+        "id": "1486"
+      },
+      {
+        "site": "anidb",
+        "id": "285"
+      },
+      {
+        "site": "aniList",
+        "id": "1486"
       }
     ]
   },
@@ -77,7 +126,30 @@
       {
         "site": "bilibili",
         "id": "2300",
-        "begin": "1996-04-01T16:00:00.000Z"
+        "begin": "1996-04-01T16:00:00.000Z",
+        "broadcast": "R/2013-07-09T18:19:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "20283",
+        "begin": "2024-12-25T15:00:00.000Z",
+        "broadcast": "R/2024-12-25T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/8779"
+      },
+      {
+        "site": "mal",
+        "id": "182"
+      },
+      {
+        "site": "anidb",
+        "id": "184"
+      },
+      {
+        "site": "aniList",
+        "id": "182"
       }
     ]
   },
@@ -107,6 +179,44 @@
         "site": "nicovideo",
         "id": "nube",
         "begin": "2015-01-14T15:00:00.000Z"
+      },
+      {
+        "site": "danime",
+        "id": "21581",
+        "begin": "2017-05-01T01:00:00.000Z",
+        "broadcast": "R/2017-05-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "750-1",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "6862b06adffbea3b3f911b33"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/23787"
+      },
+      {
+        "site": "mal",
+        "id": "2012"
+      },
+      {
+        "site": "anidb",
+        "id": "2100"
+      },
+      {
+        "site": "aniList",
+        "id": "2012"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003503",
+        "begin": "2026-05-01T03:00:00.000Z",
+        "broadcast": "R/2026-05-01T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -124,11 +234,6 @@
     "end": "1996-12-27T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "NQL9eibNJufda2EA",
-        "begin": ""
-      },
-      {
         "site": "qq",
         "id": "u/uiu4a0bfw9gkkpb",
         "begin": ""
@@ -136,6 +241,34 @@
       {
         "site": "bangumi",
         "id": "3633"
+      },
+      {
+        "site": "unext",
+        "id": "SID0014492",
+        "begin": "2008-11-14T06:00:00.000Z",
+        "broadcast": "R/2008-11-14T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/25504"
+      },
+      {
+        "site": "danime",
+        "id": "22235",
+        "begin": "2025-12-19T15:00:00.000Z",
+        "broadcast": "R/2025-12-19T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "92"
+      },
+      {
+        "site": "anidb",
+        "id": "755"
+      },
+      {
+        "site": "aniList",
+        "id": "92"
       }
     ]
   },
@@ -159,7 +292,36 @@
       {
         "site": "bilibili",
         "id": "2298",
-        "begin": "1996-04-03T16:00:00.000Z"
+        "begin": "1996-04-03T16:00:00.000Z",
+        "broadcast": "R/2012-10-12T08:59:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0004812",
+        "begin": "2016-03-24T03:00:00.000Z",
+        "broadcast": "R/2016-03-24T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10134",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/80522"
+      },
+      {
+        "site": "mal",
+        "id": "2087"
+      },
+      {
+        "site": "aniList",
+        "id": "2087"
+      },
+      {
+        "site": "anidb",
+        "id": "1367"
       }
     ]
   },
@@ -167,7 +329,11 @@
     "title": "クレヨンしんちゃん ヘンダーランドの大冒険",
     "titleTranslate": {
       "zh-Hans": [
-        "蜡笔小新 奇异乐园大冒险"
+        "蜡笔小新 奇异乐园大冒险",
+        "蜡笔小新：奇异乐园大冒险"
+      ],
+      "zh-Hant": [
+        "蠟筆小新：搞怪遊樂園大冒險"
       ]
     },
     "type": "movie",
@@ -176,11 +342,6 @@
     "begin": "1996-04-13T16:00:00.000Z",
     "end": "1996-04-13T17:30:00.000Z",
     "sites": [
-      {
-        "site": "pptv",
-        "id": "3aGLCXHXR4XoZs4",
-        "begin": ""
-      },
       {
         "site": "iqiyi",
         "begin": "",
@@ -199,6 +360,58 @@
         "site": "youku",
         "id": "f06c023261ad11e0bea1",
         "begin": "2012-11-27T11:32:00.000Z"
+      },
+      {
+        "site": "abema",
+        "id": "35-62",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0010784",
+        "begin": "2024-03-06T03:00:00.000Z",
+        "broadcast": "R/2024-03-06T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "26514205",
+        "begin": "2025-06-09T10:00:00.000Z",
+        "broadcast": "R/2025-06-09T10:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "52571",
+        "begin": "2025-08-13T04:00:00.000Z",
+        "broadcast": "R/2025-08-13T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0FS359959",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/128871"
+      },
+      {
+        "site": "mal",
+        "id": "8359"
+      },
+      {
+        "site": "anidb",
+        "id": "4703"
+      },
+      {
+        "site": "aniList",
+        "id": "8359"
+      },
+      {
+        "site": "danime",
+        "id": "28939",
+        "begin": "2026-06-30T15:00:00.000Z",
+        "broadcast": "R/2026-06-30T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -218,6 +431,22 @@
       {
         "site": "bangumi",
         "id": "161682"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/34860"
+      },
+      {
+        "site": "mal",
+        "id": "1199"
+      },
+      {
+        "site": "anidb",
+        "id": "3626"
+      },
+      {
+        "site": "aniList",
+        "id": "1199"
       }
     ]
   },
@@ -235,11 +464,6 @@
     "end": "1996-09-21T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "7EMtqxN56SeKCHA",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "2751"
       },
@@ -249,14 +473,31 @@
         "begin": "2017-06-14T16:00:16.000Z"
       },
       {
-        "site": "bilibili",
-        "id": "2297",
-        "begin": "1996-04-05T16:00:00.000Z"
-      },
-      {
         "site": "qq",
         "id": "l/l5nhqcnxqyarx6w",
         "begin": ""
+      },
+      {
+        "site": "danime",
+        "id": "21206",
+        "begin": "2017-11-01T01:00:00.000Z",
+        "broadcast": "R/2017-11-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/30386"
+      },
+      {
+        "site": "mal",
+        "id": "286"
+      },
+      {
+        "site": "anidb",
+        "id": "945"
+      },
+      {
+        "site": "aniList",
+        "id": "286"
       }
     ]
   },
@@ -274,18 +515,30 @@
     "end": "1997-03-28T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "gMy4Np4EdLIVkics",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "10965"
       },
       {
         "site": "bilibili",
         "id": "2296",
-        "begin": "1996-04-04T16:00:00.000Z"
+        "begin": "1996-04-04T16:00:00.000Z",
+        "broadcast": "R/2013-08-18T18:25:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/17017"
+      },
+      {
+        "site": "mal",
+        "id": "3010"
+      },
+      {
+        "site": "aniList",
+        "id": "3010"
+      },
+      {
+        "site": "anidb",
+        "id": "2863"
       }
     ]
   },
@@ -307,14 +560,403 @@
         "id": "67763"
       },
       {
-        "site": "pptv",
-        "id": "ibZ32dNxCsvBT0Tk",
-        "begin": ""
+        "site": "bilibili",
+        "id": "3932",
+        "begin": "1996-04-19T16:00:01.000Z",
+        "broadcast": "R/2016-05-04T03:50:59.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0077516",
+        "begin": "2023-04-01T03:00:00.000Z",
+        "broadcast": "R/2023-04-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "27970",
+        "begin": "2025-05-31T15:00:00.000Z",
+        "broadcast": "R/2025-05-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/31050"
+      },
+      {
+        "site": "prime",
+        "id": "B0G6FWFP2K",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mal",
+        "id": "1416"
+      },
+      {
+        "site": "anidb",
+        "id": "703"
+      },
+      {
+        "site": "aniList",
+        "id": "1416"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 ハーメルンのバイオリン弾き",
+    "titleTranslate": {
+      "zh-Hans": [
+        "魔法提琴手 剧场版"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1996-04-19T16:00:00.000Z",
+    "end": "1996-04-19T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "98283"
       },
       {
         "site": "bilibili",
-        "id": "3932",
-        "begin": "1996-04-19T16:00:01.000Z"
+        "id": "6037",
+        "begin": "2017-03-29T10:27:00.000Z",
+        "broadcast": "R/2017-03-29T10:27:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/855621"
+      }
+    ]
+  },
+  {
+    "title": "少年サンタの大冒険!",
+    "titleTranslate": {
+      "zh-Hans": [
+        "少年桑塔的大冒险",
+        "天生礼物狂"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1996-04-05T16:00:00.000Z",
+    "end": "1996-09-21T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "82999"
+      },
+      {
+        "site": "bilibili",
+        "id": "132032",
+        "begin": "2018-09-08T06:28:00.000Z",
+        "broadcast": "R/2018-09-08T06:28:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/203860"
+      },
+      {
+        "site": "mal",
+        "id": "7639"
+      },
+      {
+        "site": "anidb",
+        "id": "4053"
+      },
+      {
+        "site": "aniList",
+        "id": "7639"
+      }
+    ]
+  },
+  {
+    "title": "お嬢様捜査網",
+    "titleTranslate": {
+      "zh-Hans": [
+        "大小姐搜查网"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1996-03-31T16:00:00.000Z",
+    "end": "1996-03-31T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "26518"
+      },
+      {
+        "site": "bilibili",
+        "id": "5708",
+        "begin": "2016-11-22T02:46:00.000Z",
+        "broadcast": "R/2016-11-22T02:46:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/148301"
+      },
+      {
+        "site": "mal",
+        "id": "2057"
+      },
+      {
+        "site": "anidb",
+        "id": "1592"
+      },
+      {
+        "site": "aniList",
+        "id": "2057"
+      }
+    ]
+  },
+  {
+    "title": "新機動戦記ガンダムW ODD&amp;EVEN NUMBERSオペレーション・メテオ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "新机动战记高达W 总集编"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.gundam-w.jp/",
+    "begin": "1996-04-24T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1996-10-24T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "36357"
+      },
+      {
+        "site": "unext",
+        "id": "SID0013092",
+        "begin": "2008-10-31T15:00:00.000Z",
+        "broadcast": "R/2008-10-31T15:00:00.000Z/P7D",
+        "comment": "ＩＩ: SID0013091"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/21730/season/0"
+      }
+    ]
+  },
+  {
+    "title": "BURN-UP W",
+    "titleTranslate": {
+      "zh-Hans": [
+        "杀人科 W"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1996-04-09T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1996-09-25T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "36809"
+      },
+      {
+        "site": "danime",
+        "id": "11044",
+        "begin": "2013-11-01T01:00:00.000Z",
+        "broadcast": "R/2013-11-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/43416"
+      },
+      {
+        "site": "mal",
+        "id": "769"
+      },
+      {
+        "site": "anidb",
+        "id": "456"
+      },
+      {
+        "site": "aniList",
+        "id": "769"
+      }
+    ]
+  },
+  {
+    "title": "タトゥーン★マスター",
+    "titleTranslate": {
+      "zh-Hans": [
+        "纹样传说",
+        "魔印传说"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1996-04-25T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1996-08-22T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "77746"
+      },
+      {
+        "site": "unext",
+        "id": "SID0015587",
+        "begin": "2022-10-22T03:00:00.000Z",
+        "broadcast": "R/2022-10-22T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "11216",
+        "begin": "2017-11-24T01:00:00.000Z",
+        "broadcast": "R/2017-11-24T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/106219"
+      },
+      {
+        "site": "mal",
+        "id": "2102"
+      },
+      {
+        "site": "anidb",
+        "id": "2164"
+      },
+      {
+        "site": "aniList",
+        "id": "2102"
+      }
+    ]
+  },
+  {
+    "title": "シンデレラ物語",
+    "titleTranslate": {
+      "zh-Hans": [
+        "灰姑娘物语"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1996-04-03T16:00:00.000Z",
+    "broadcast": "R/1996-04-03T16:00:00.000Z/P7D",
+    "end": "1996-10-02T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "82383"
+      },
+      {
+        "site": "unext",
+        "id": "SID0017872",
+        "begin": "2022-04-24T03:00:00.000Z",
+        "broadcast": "R/2022-04-24T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23494",
+        "begin": "2020-05-15T01:00:00.000Z",
+        "broadcast": "R/2020-05-15T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/34101"
+      },
+      {
+        "site": "mal",
+        "id": "2817"
+      },
+      {
+        "site": "anidb",
+        "id": "3677"
+      },
+      {
+        "site": "aniList",
+        "id": "2817"
+      }
+    ]
+  },
+  {
+    "title": "ドラゴンクエスト列伝 ロトの紋章",
+    "titleTranslate": {
+      "zh-Hans": [
+        "勇者斗恶龙:罗德的纹章"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.nippon-animation.co.jp/work/1747/",
+    "begin": "1996-04-19T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1996-04-19T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "317746"
+      },
+      {
+        "site": "mal",
+        "id": "7491"
+      },
+      {
+        "site": "anidb",
+        "id": "2095"
+      },
+      {
+        "site": "aniList",
+        "id": "7491"
+      }
+    ]
+  },
+  {
+    "title": "天地無用! in LOVE",
+    "titleTranslate": {
+      "zh-Hans": [
+        "天地无用! in LOVE"
+      ],
+      "en": [
+        "Tenchi Muyou! in Love"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1996-04-19T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1996-04-19T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "36266"
+      },
+      {
+        "site": "mal",
+        "id": "1006"
+      },
+      {
+        "site": "anidb",
+        "id": "359"
+      },
+      {
+        "site": "aniList",
+        "id": "1006"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/34935"
       }
     ]
   }

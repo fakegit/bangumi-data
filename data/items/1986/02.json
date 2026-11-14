@@ -23,6 +23,22 @@
       {
         "site": "bangumi",
         "id": "47151"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/150026"
+      },
+      {
+        "site": "mal",
+        "id": "1923"
+      },
+      {
+        "site": "anidb",
+        "id": "381"
+      },
+      {
+        "site": "aniList",
+        "id": "1923"
       }
     ]
   },
@@ -51,6 +67,52 @@
       {
         "site": "bangumi",
         "id": "9565"
+      },
+      {
+        "site": "unext",
+        "id": "SID0011497",
+        "begin": "2016-12-26T03:00:00.000Z",
+        "broadcast": "R/2016-12-26T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "21738",
+        "begin": "2017-09-15T01:00:00.000Z",
+        "broadcast": "R/2017-09-15T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/12609"
+      },
+      {
+        "site": "abema",
+        "id": "5-28",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mal",
+        "id": "223"
+      },
+      {
+        "site": "anidb",
+        "id": "231"
+      },
+      {
+        "site": "aniList",
+        "id": "223"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "G8DHV7W21",
+        "begin": "2022-03-15T09:00:00.000Z",
+        "broadcast": "R/2022-03-15T09:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0H4HZZ7FW",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }

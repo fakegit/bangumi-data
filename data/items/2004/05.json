@@ -3,7 +3,10 @@
     "title": "サムライチャンプルー",
     "titleTranslate": {
       "zh-Hans": [
-        "混沌武士"
+        "混沌武士",
+        "琉球武士疯云录",
+        "琉球狂侍",
+        "杂烩武士"
       ]
     },
     "type": "tv",
@@ -13,23 +16,36 @@
     "end": "2004-09-22T18:28:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "AUo2tByC8jCTEXk",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "254"
       },
       {
-        "site": "letv",
-        "id": "14591",
-        "begin": ""
+        "site": "unext",
+        "id": "SID0002215",
+        "begin": "2019-11-30T03:00:00.000Z",
+        "broadcast": "R/2019-11-30T03:00:00.000Z/P7D"
       },
       {
-        "site": "bilibili",
-        "id": "1869",
-        "begin": "2004-05-18T16:00:00.000Z"
+        "site": "danime",
+        "id": "10703",
+        "begin": "2013-01-04T01:00:00.000Z",
+        "broadcast": "R/2013-01-04T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/1063"
+      },
+      {
+        "site": "mal",
+        "id": "205"
+      },
+      {
+        "site": "anidb",
+        "id": "1543"
+      },
+      {
+        "site": "aniList",
+        "id": "205"
       }
     ]
   },
@@ -37,7 +53,8 @@
     "title": "LOVE　LOVE?",
     "titleTranslate": {
       "zh-Hans": [
-        "LOVE LOVE"
+        "LOVE LOVE",
+        "A15 变身3部作 第3期"
       ]
     },
     "type": "tv",
@@ -54,6 +71,34 @@
       {
         "site": "bangumi",
         "id": "35983"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003330",
+        "begin": "2019-05-01T03:00:00.000Z",
+        "broadcast": "R/2019-05-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10962",
+        "begin": "2013-09-06T01:00:00.000Z",
+        "broadcast": "R/2013-09-06T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/44530"
+      },
+      {
+        "site": "mal",
+        "id": "275"
+      },
+      {
+        "site": "anidb",
+        "id": "1762"
+      },
+      {
+        "site": "aniList",
+        "id": "275"
       }
     ]
   },
@@ -71,13 +116,36 @@
     "end": "2004-10-22T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "xwj0ctpAsO5Rzzc",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "53952"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002793",
+        "begin": "2022-10-29T03:00:00.000Z",
+        "broadcast": "R/2022-10-29T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10037",
+        "begin": "2013-09-06T01:00:00.000Z",
+        "broadcast": "R/2013-09-06T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/12427/season/0/episode/8"
+      },
+      {
+        "site": "mal",
+        "id": "262"
+      },
+      {
+        "site": "anidb",
+        "id": "2118"
+      },
+      {
+        "site": "aniList",
+        "id": "262"
       }
     ]
   },
@@ -97,6 +165,34 @@
       {
         "site": "bangumi",
         "id": "48991"
+      },
+      {
+        "site": "unext",
+        "id": "SID0015338",
+        "begin": "2023-09-01T03:00:00.000Z",
+        "broadcast": "R/2023-09-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26559",
+        "begin": "2024-05-01T15:00:00.000Z",
+        "broadcast": "R/2024-05-01T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "422"
+      },
+      {
+        "site": "anidb",
+        "id": "1858"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/34182/season/0"
+      },
+      {
+        "site": "aniList",
+        "id": "422"
       }
     ]
   },
@@ -114,11 +210,6 @@
     "end": "2004-12-22T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "k6CbGYHnV5X4dt4",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "280"
       },
@@ -126,6 +217,22 @@
         "site": "nicovideo",
         "id": "cossette",
         "begin": "2015-11-06T06:00:00.000Z"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/73501"
+      },
+      {
+        "site": "mal",
+        "id": "514"
+      },
+      {
+        "site": "anidb",
+        "id": "1266"
+      },
+      {
+        "site": "aniList",
+        "id": "514"
       }
     ]
   }

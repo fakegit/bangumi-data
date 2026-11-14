@@ -15,6 +15,28 @@
       {
         "site": "bangumi",
         "id": "172850"
+      },
+      {
+        "site": "danime",
+        "id": "22517",
+        "begin": "2018-12-27T01:00:00.000Z",
+        "broadcast": "R/2018-12-27T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/129570"
+      },
+      {
+        "site": "mal",
+        "id": "6262"
+      },
+      {
+        "site": "aniList",
+        "id": "6262"
+      },
+      {
+        "site": "anidb",
+        "id": "3593"
       }
     ]
   },
@@ -32,13 +54,69 @@
     "end": "1979-02-02T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "ibDMNiaicNZyQdq6FA",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "60346"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/9160"
+      },
+      {
+        "site": "mal",
+        "id": "2800"
+      },
+      {
+        "site": "anidb",
+        "id": "1913"
+      },
+      {
+        "site": "aniList",
+        "id": "2800"
+      }
+    ]
+  },
+  {
+    "title": "ポールのミラクル大作戦",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1976-10-02T15:00:00.000Z",
+    "broadcast": "R/1976-10-02T15:00:00.000Z/P7D",
+    "end": "1977-09-10T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "220543"
+      },
+      {
+        "site": "unext",
+        "id": "SID0017885",
+        "begin": "2022-04-12T03:00:00.000Z",
+        "broadcast": "R/2022-04-12T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23488",
+        "begin": "2020-03-13T01:00:00.000Z",
+        "broadcast": "R/2020-03-13T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/42955"
+      },
+      {
+        "site": "mal",
+        "id": "4013"
+      },
+      {
+        "site": "anidb",
+        "id": "4787"
+      },
+      {
+        "site": "aniList",
+        "id": "4013"
       }
     ]
   }

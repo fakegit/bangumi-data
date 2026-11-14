@@ -21,6 +21,34 @@
       {
         "site": "bangumi",
         "id": "107440"
+      },
+      {
+        "site": "unext",
+        "id": "SID0017888",
+        "begin": "2022-04-16T03:00:00.000Z",
+        "broadcast": "R/2022-04-16T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23292",
+        "begin": "2020-02-07T01:00:00.000Z",
+        "broadcast": "R/2020-02-07T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/103352"
+      },
+      {
+        "site": "mal",
+        "id": "8139"
+      },
+      {
+        "site": "anidb",
+        "id": "3367"
+      },
+      {
+        "site": "aniList",
+        "id": "8139"
       }
     ]
   },
@@ -44,12 +72,29 @@
       {
         "site": "bilibili",
         "id": "2481",
-        "begin": "1973-07-01T16:00:00.000Z"
+        "begin": "1973-07-01T16:00:00.000Z",
+        "broadcast": "R/2011-05-02T05:03:46.000Z/P7D"
       },
       {
         "site": "nicovideo",
         "id": "chargeman-ken",
         "begin": "2020-10-01T03:00:00.000Z"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/45078"
+      },
+      {
+        "site": "mal",
+        "id": "6383"
+      },
+      {
+        "site": "anidb",
+        "id": "3111"
+      },
+      {
+        "site": "aniList",
+        "id": "6383"
       }
     ]
   },
@@ -69,6 +114,118 @@
       {
         "site": "bangumi",
         "id": "213784"
+      },
+      {
+        "site": "danime",
+        "id": "28146",
+        "begin": "2025-07-14T15:00:00.000Z",
+        "broadcast": "R/2025-07-14T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/68299"
+      },
+      {
+        "site": "mal",
+        "id": "3834"
+      },
+      {
+        "site": "anidb",
+        "id": "5238"
+      },
+      {
+        "site": "aniList",
+        "id": "3834"
+      }
+    ]
+  },
+  {
+    "title": "ゲッターロボ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "盖塔机器人"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1974-04-03T16:00:00.000Z",
+    "end": "1975-05-07T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "10405"
+      },
+      {
+        "site": "bilibili",
+        "id": "2352",
+        "begin": "2014-06-02T16:49:00.000Z",
+        "broadcast": "R/2014-06-02T16:49:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "24817",
+        "begin": "2023-02-28T01:00:00.000Z",
+        "broadcast": "R/2023-02-28T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/45485"
+      },
+      {
+        "site": "mal",
+        "id": "3579"
+      },
+      {
+        "site": "anidb",
+        "id": "955"
+      },
+      {
+        "site": "aniList",
+        "id": "3579"
+      }
+    ]
+  },
+  {
+    "title": "柔道讃歌",
+    "titleTranslate": {
+      "zh-Hans": [
+        "柔道赞歌"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1974-03-31T15:00:00.000Z",
+    "broadcast": "R/1974-03-31T15:00:00.000Z/P7D",
+    "end": "1974-09-29T15:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "188999"
+      },
+      {
+        "site": "danime",
+        "id": "23394",
+        "begin": "2020-03-13T01:00:00.000Z",
+        "broadcast": "R/2020-03-13T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/210584"
+      },
+      {
+        "site": "mal",
+        "id": "11857"
+      },
+      {
+        "site": "anidb",
+        "id": "3110"
+      },
+      {
+        "site": "aniList",
+        "id": "11857"
       }
     ]
   }

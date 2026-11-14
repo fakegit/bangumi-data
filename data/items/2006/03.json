@@ -3,7 +3,8 @@
     "title": "しにがみのバラッド。",
     "titleTranslate": {
       "zh-Hans": [
-        "死神的歌谣"
+        "死神的歌谣",
+        "死神的赞美诗"
       ]
     },
     "type": "tv",
@@ -19,7 +20,36 @@
       {
         "site": "bilibili",
         "id": "1395",
-        "begin": "2006-03-01T16:00:00.000Z"
+        "begin": "2006-03-01T16:00:00.000Z",
+        "broadcast": "R/2010-12-19T09:55:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003388",
+        "begin": "2019-09-01T03:00:00.000Z",
+        "broadcast": "R/2019-09-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "20019",
+        "begin": "2015-03-06T01:00:00.000Z",
+        "broadcast": "R/2015-03-06T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/22827"
+      },
+      {
+        "site": "mal",
+        "id": "789"
+      },
+      {
+        "site": "anidb",
+        "id": "3572"
+      },
+      {
+        "site": "aniList",
+        "id": "789"
       }
     ]
   },
@@ -38,11 +68,6 @@
     "end": "2009-01-23T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "JicicZV78lldM2tBw",
-        "begin": ""
-      },
-      {
         "site": "iqiyi",
         "id": "a_19rrjtiagp",
         "begin": "2012-12-12T03:29:06.000Z"
@@ -50,11 +75,6 @@
       {
         "site": "qq",
         "id": "a/acfk5vfysdwag2u",
-        "begin": ""
-      },
-      {
-        "site": "letv",
-        "id": "18425",
         "begin": ""
       },
       {
@@ -69,7 +89,8 @@
       {
         "site": "bilibili",
         "id": "33232",
-        "begin": "2006-03-23T16:00:01.000Z"
+        "begin": "2006-03-23T16:00:01.000Z",
+        "broadcast": "R/2017-12-29T08:08:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -80,6 +101,43 @@
         "site": "youku",
         "id": "efc54e4261ad11e0bea1",
         "begin": "2013-03-06T06:15:28.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0042473",
+        "begin": "2019-08-10T03:00:00.000Z",
+        "broadcast": "R/2019-08-10T03:00:00.000Z/P7D",
+        "comment": "Semifinal: SID0042474, Final: SID0042475"
+      },
+      {
+        "site": "danime",
+        "id": "22934",
+        "begin": "2019-07-27T15:00:00.000Z",
+        "broadcast": "R/2019-07-27T15:00:00.000Z/P7D",
+        "comment": "Semifinal: 22935, Final: 22936"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/209423"
+      },
+      {
+        "site": "mal",
+        "id": "995"
+      },
+      {
+        "site": "anidb",
+        "id": "4244"
+      },
+      {
+        "site": "aniList",
+        "id": "995"
+      },
+      {
+        "site": "abema",
+        "id": "203-19",
+        "begin": "",
+        "broadcast": "",
+        "comment": "Semifinal (#14-19): 203-20, Final (#20-26): 203-21"
       }
     ]
   },
@@ -88,6 +146,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "哆啦A梦：大雄的恐龙 2006"
+      ],
+      "zh-Hant": [
+        "電影 哆啦A夢 新大雄的恐龍"
       ]
     },
     "type": "movie",
@@ -97,18 +158,8 @@
     "end": "2006-03-04T17:30:00.000Z",
     "sites": [
       {
-        "site": "letv",
-        "id": "81023",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "473"
-      },
-      {
-        "site": "pptv",
-        "id": "7qoHhe1TwwFk4ko",
-        "begin": ""
       },
       {
         "site": "qq",
@@ -123,7 +174,48 @@
       {
         "site": "bilibili",
         "id": "3872",
-        "begin": "2006-03-03T16:00:00.000Z"
+        "begin": "2006-03-03T16:00:00.000Z",
+        "broadcast": "R/2016-04-28T02:29:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "35-115",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0099876",
+        "begin": "2024-03-05T03:00:00.000Z",
+        "broadcast": "R/2024-03-05T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "26582",
+        "begin": "2023-03-16T02:00:00.000Z",
+        "broadcast": "R/2023-03-16T02:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0F8YKT2HB",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/70841"
+      },
+      {
+        "site": "mal",
+        "id": "2392"
+      },
+      {
+        "site": "anidb",
+        "id": "4757"
+      },
+      {
+        "site": "aniList",
+        "id": "2392"
       }
     ]
   },
@@ -148,6 +240,22 @@
       {
         "site": "bangumi",
         "id": "18779"
+      },
+      {
+        "site": "unext",
+        "id": "SID0012901",
+        "begin": "2008-10-31T15:00:00.000Z",
+        "broadcast": "R/2008-10-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "27909",
+        "begin": "2025-04-10T15:00:00.000Z",
+        "broadcast": "R/2025-04-10T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/30606"
       }
     ]
   },
@@ -177,6 +285,34 @@
         "site": "nicovideo",
         "id": "hokuto-no-ken",
         "begin": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0028274",
+        "begin": "2019-06-13T03:00:00.000Z",
+        "broadcast": "R/2019-06-13T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10027",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/109080"
+      },
+      {
+        "site": "mal",
+        "id": "1773"
+      },
+      {
+        "site": "anidb",
+        "id": "3038"
+      },
+      {
+        "site": "aniList",
+        "id": "1773"
       }
     ]
   },
@@ -185,6 +321,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "海贼王 机关城的机械巨兵"
+      ],
+      "en": [
+        "One Piece 7: Mega Mecha Soldier of Karakuri Castle"
       ]
     },
     "type": "movie",
@@ -196,6 +335,34 @@
       {
         "site": "bangumi",
         "id": "1995"
+      },
+      {
+        "site": "unext",
+        "id": "SID0012956",
+        "begin": "2019-07-01T03:00:00.000Z",
+        "broadcast": "R/2019-07-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26994",
+        "begin": "2024-03-07T15:00:00.000Z",
+        "broadcast": "R/2024-03-07T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/44730"
+      },
+      {
+        "site": "mal",
+        "id": "465"
+      },
+      {
+        "site": "aniList",
+        "id": "465"
+      },
+      {
+        "site": "anidb",
+        "id": "4097"
       }
     ]
   },
@@ -213,13 +380,24 @@
     "end": "2006-03-22T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "RywIhu5UxAJl40s",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "33319"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/87066"
+      },
+      {
+        "site": "mal",
+        "id": "1202"
+      },
+      {
+        "site": "anidb",
+        "id": "4156"
+      },
+      {
+        "site": "aniList",
+        "id": "1202"
       }
     ]
   },
@@ -237,13 +415,24 @@
     "end": "2007-03-21T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "UYaCAGjOPnzfXcU",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "764"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/67256/season/0"
+      },
+      {
+        "site": "mal",
+        "id": "837"
+      },
+      {
+        "site": "anidb",
+        "id": "4241"
+      },
+      {
+        "site": "aniList",
+        "id": "837"
       }
     ]
   },
@@ -265,11 +454,6 @@
         "id": "3761"
       },
       {
-        "site": "pptv",
-        "id": "9LQdmwNp2Rd6ibGA",
-        "begin": ""
-      },
-      {
         "site": "iqiyi",
         "id": "a_19rrhw703p",
         "begin": ""
@@ -278,6 +462,198 @@
         "site": "qq",
         "id": "h/hshpaiw3kpxepms",
         "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "28220882",
+        "begin": "2019-05-13T04:30:00.000Z",
+        "broadcast": "R/2019-05-13T04:30:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0014739",
+        "begin": "2019-03-01T03:00:00.000Z",
+        "broadcast": "R/2019-03-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "22213",
+        "begin": "2018-07-10T03:00:00.000Z",
+        "broadcast": "R/2018-07-10T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/103368"
+      },
+      {
+        "site": "mal",
+        "id": "2407"
+      },
+      {
+        "site": "anidb",
+        "id": "3569"
+      },
+      {
+        "site": "aniList",
+        "id": "2407"
+      }
+    ]
+  },
+  {
+    "title": "警察戦車隊 TANK S.W.A.T.",
+    "titleTranslate": {
+      "zh-Hans": [
+        "警察战车队 TANK S.W.A.T."
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://tank-swat.jp/",
+    "begin": "2006-03-23T16:00:00.000Z",
+    "end": "2006-03-23T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "35798"
+      },
+      {
+        "site": "bilibili",
+        "id": "4935",
+        "begin": "2016-06-19T04:32:00.000Z",
+        "broadcast": "R/2016-06-19T04:32:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/437525"
+      },
+      {
+        "site": "mal",
+        "id": "2181"
+      },
+      {
+        "site": "anidb",
+        "id": "3112"
+      },
+      {
+        "site": "aniList",
+        "id": "2181"
+      }
+    ]
+  },
+  {
+    "title": "まじめにふまじめ かいけつゾロリ なぞのお宝大さくせん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "怪侠佐罗利 谜之宝物大作战"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2006-03-10T16:00:00.000Z",
+    "end": "2006-03-10T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "83547"
+      },
+      {
+        "site": "bilibili",
+        "id": "4312422",
+        "begin": "2018-11-22T03:21:00.000Z",
+        "broadcast": "R/2018-11-22T03:21:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0016953",
+        "begin": "2019-07-04T03:00:00.000Z",
+        "broadcast": "R/2019-07-04T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "22788",
+        "begin": "2023-08-27T15:00:00.000Z",
+        "broadcast": "R/2023-08-27T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/482054"
+      },
+      {
+        "site": "mal",
+        "id": "3659"
+      },
+      {
+        "site": "anidb",
+        "id": "4319"
+      },
+      {
+        "site": "aniList",
+        "id": "3659"
+      }
+    ]
+  },
+  {
+    "title": "Sin in the Rain",
+    "titleTranslate": {},
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2006-03-23T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2006-03-23T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "79983"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003405",
+        "begin": "2016-03-24T03:00:00.000Z",
+        "broadcast": "R/2016-03-24T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10208",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/470693"
+      },
+      {
+        "site": "mal",
+        "id": "994"
+      },
+      {
+        "site": "anidb",
+        "id": "4363"
+      },
+      {
+        "site": "aniList",
+        "id": "994"
+      }
+    ]
+  },
+  {
+    "title": "ハムちゃんずのめざせ! ハムハム金メダル 〜はしれ! はしれ! だいさくせん!〜",
+    "titleTranslate": {},
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2006-03-28T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2006-03-28T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "abema",
+        "id": "2-38",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }

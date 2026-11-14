@@ -16,16 +16,6 @@
     "end": "2012-02-03T14:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "JXVPzTWbC0msKpI",
-        "begin": ""
-      },
-      {
-        "site": "letv",
-        "id": "44683",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "10383"
       },
@@ -33,6 +23,34 @@
         "site": "nicovideo",
         "id": "ch60024",
         "begin": "2011-06-23T15:00:00.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0010845",
+        "begin": "2021-01-18T03:00:00.000Z",
+        "broadcast": "R/2021-01-18T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10985",
+        "begin": "2013-09-06T01:00:00.000Z",
+        "broadcast": "R/2013-09-06T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/45348"
+      },
+      {
+        "site": "mal",
+        "id": "9737"
+      },
+      {
+        "site": "anidb",
+        "id": "8055"
+      },
+      {
+        "site": "aniList",
+        "id": "9737"
       }
     ]
   },
@@ -50,13 +68,30 @@
     "end": "2011-06-29T17:00:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "sic3HRa0Tg8Ekogo",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "10650"
+      },
+      {
+        "site": "danime",
+        "id": "11104",
+        "begin": "2014-02-07T01:00:00.000Z",
+        "broadcast": "R/2014-02-07T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/133479"
+      },
+      {
+        "site": "mal",
+        "id": "9793"
+      },
+      {
+        "site": "anidb",
+        "id": "8158"
+      },
+      {
+        "site": "aniList",
+        "id": "9793"
       }
     ]
   },
@@ -81,6 +116,18 @@
         "site": "nicovideo",
         "id": "kayochu",
         "begin": "2011-10-07T06:00:00.000Z"
+      },
+      {
+        "site": "mal",
+        "id": "10797"
+      },
+      {
+        "site": "anidb",
+        "id": "8486"
+      },
+      {
+        "site": "aniList",
+        "id": "10797"
       }
     ]
   },
@@ -102,14 +149,30 @@
         "id": "13343"
       },
       {
-        "site": "letv",
-        "id": "46312",
-        "begin": ""
-      },
-      {
         "site": "bilibili",
         "id": "4472",
-        "begin": "2011-07-15T16:00:00.000Z"
+        "begin": "2011-07-15T16:00:00.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/179923"
+      },
+      {
+        "site": "anidb",
+        "id": "8184"
+      },
+      {
+        "site": "danime",
+        "id": "29159",
+        "begin": "2026-07-31T15:00:00.000Z",
+        "broadcast": "R/2026-07-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0016005",
+        "begin": "2026-08-01T03:00:00.000Z",
+        "broadcast": "R/2026-08-01T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -132,9 +195,20 @@
         "id": "19134"
       },
       {
-        "site": "bilibili",
-        "id": "908",
-        "begin": "2011-06-27T16:00:00.000Z"
+        "site": "tmdb",
+        "id": "tv/77023"
+      },
+      {
+        "site": "mal",
+        "id": "10838"
+      },
+      {
+        "site": "anidb",
+        "id": "8484"
+      },
+      {
+        "site": "aniList",
+        "id": "10838"
       }
     ]
   },
@@ -157,9 +231,8 @@
         "id": "18864"
       },
       {
-        "site": "bilibili",
-        "id": "3567",
-        "begin": "2011-06-10T16:00:00.000Z"
+        "site": "tmdb",
+        "id": "tv/52083/season/0/episode/2"
       }
     ]
   },
@@ -184,7 +257,165 @@
       {
         "site": "bilibili",
         "id": "3573",
-        "begin": "2011-06-03T16:00:00.000Z"
+        "begin": "2011-06-03T16:00:00.000Z",
+        "broadcast": "R/2016-04-13T02:34:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0037675",
+        "begin": "2018-10-11T03:00:00.000Z",
+        "broadcast": "R/2018-10-11T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "22462",
+        "begin": "2018-10-26T01:00:00.000Z",
+        "broadcast": "R/2018-10-26T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/81531"
+      },
+      {
+        "site": "mal",
+        "id": "9745"
+      },
+      {
+        "site": "anidb",
+        "id": "8203"
+      },
+      {
+        "site": "aniList",
+        "id": "9745"
+      }
+    ]
+  },
+  {
+    "title": "アップルシード XIII 〜遺言〜",
+    "titleTranslate": {
+      "zh-Hans": [
+        "苹果核战记XIII 遗言"
+      ],
+      "zh-Hant": [
+        "蘋果核戰 XIII 劇場版～遺言～"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2011-06-12T16:00:00.000Z",
+    "end": "2011-06-12T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "61955"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/265805"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 そらのおとしもの 時計じかけの哀女神",
+    "titleTranslate": {
+      "zh-Hans": [
+        "天降之物 计时的悲伤女神",
+        "天降之物剧场版 发条装置之哀女神"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://kadokawa-anime.jp/soraoto/",
+    "begin": "2011-06-24T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2011-06-24T17:40:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "12576"
+      },
+      {
+        "site": "unext",
+        "id": "SID0035237",
+        "begin": "2018-06-21T03:00:00.000Z",
+        "broadcast": "R/2018-06-21T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10750",
+        "begin": "2013-02-01T01:00:00.000Z",
+        "broadcast": "R/2013-02-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/95170"
+      },
+      {
+        "site": "mal",
+        "id": "9790"
+      },
+      {
+        "site": "anidb",
+        "id": "8271"
+      },
+      {
+        "site": "aniList",
+        "id": "9790"
+      }
+    ]
+  },
+  {
+    "title": "ゆるめいつ は?",
+    "titleTranslate": {
+      "zh-Hans": [
+        "希望宅邸？",
+        "希望宅邸2"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.takeshobo.co.jp/sp/yuru2/",
+    "begin": "2011-06-23T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2011-06-23T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "14763"
+      },
+      {
+        "site": "danime",
+        "id": "20079",
+        "begin": "2015-04-03T01:00:00.000Z",
+        "broadcast": "R/2015-04-03T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/45306/season/0/episode/2"
+      },
+      {
+        "site": "mal",
+        "id": "11699"
+      },
+      {
+        "site": "anidb",
+        "id": "8253"
+      },
+      {
+        "site": "aniList",
+        "id": "11699"
+      },
+      {
+        "site": "acgnx",
+        "id": "希望宅邸"
+      },
+      {
+        "site": "dmhy",
+        "id": "希望宅邸"
       }
     ]
   }

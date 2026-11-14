@@ -5,6 +5,10 @@
       "zh-Hans": [
         "攻壳机动队"
       ],
+      "zh-Hant": [
+        "攻殼機動隊 1995",
+        "攻殼機動隊"
+      ],
       "en": [
         "Ghost in the Shell"
       ]
@@ -25,9 +29,85 @@
         "id": "237"
       },
       {
-        "site": "letv",
-        "id": "37953",
-        "begin": ""
+        "site": "netflix",
+        "id": "540533",
+        "begin": "2022-05-08T16:00:00.000Z",
+        "broadcast": "R/2022-05-08T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0012986",
+        "begin": "2020-05-21T03:00:00.000Z",
+        "broadcast": "R/2020-05-21T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "22232",
+        "begin": "2021-09-16T15:00:00.000Z",
+        "broadcast": "R/2021-09-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/9323"
+      },
+      {
+        "site": "mal",
+        "id": "43"
+      },
+      {
+        "site": "anidb",
+        "id": "61"
+      },
+      {
+        "site": "aniList",
+        "id": "43"
+      },
+      {
+        "site": "prime",
+        "id": "B0G2ZPV45N",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "28230053",
+        "begin": "2026-07-10T16:00:01.000Z",
+        "broadcast": "R/2026-07-10T16:00:01.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "16812",
+        "begin": "2026-11-05T16:00:00.000Z",
+        "broadcast": "R/2026-11-05T16:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ヤマトタケル 〜After War〜",
+    "titleTranslate": {
+      "zh-Hans": [
+        "魔天战神 OVA"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1995-11-21T16:00:00.000Z",
+    "end": "1995-11-21T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "180401"
+      },
+      {
+        "site": "bilibili",
+        "id": "5838",
+        "begin": "2016-12-30T05:32:00.000Z",
+        "broadcast": "R/2016-12-30T05:32:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/22519/season/0"
       }
     ]
   }

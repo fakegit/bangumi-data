@@ -4,6 +4,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "游戏王VRAINS"
+      ],
+      "zh-Hant": [
+        "遊戲王VRAINS"
+      ],
+      "en": [
+        "Yu-Gi-Oh! VRAINS"
       ]
     },
     "type": "tv",
@@ -19,17 +25,73 @@
       {
         "site": "nicovideo",
         "id": "yugioh-vrains",
-        "begin": "2017-06-05T15:00:00.000Z"
-      },
-      {
-        "site": "pptv",
-        "id": "IxYCgOhOvvxf3UU",
-        "begin": ""
+        "begin": "2017-06-05T15:00:00.000Z",
+        "broadcast": "R/2017-06-05T15:00:00.000Z/P7D"
       },
       {
         "site": "youku",
         "id": "cc91efbfbd44354211ef",
         "begin": ""
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JgMHHFetJnMxR68TykBw4ig",
+        "begin": "2023-08-09T16:00:00.000Z",
+        "broadcast": "R/2023-08-09T16:00:00.000Z/P7D",
+        "comment": "#47-#82: PLxSscENEp7JixdkoigUIr6T05Za90NNhA, #83-#120: PLxSscENEp7Jjg_rqQf5MEv_V3Id3NIJmE"
+      },
+      {
+        "site": "unext",
+        "id": "SID0029658",
+        "begin": "2020-04-28T03:00:00.000Z",
+        "broadcast": "R/2020-04-28T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "1318"
+      },
+      {
+        "site": "danime",
+        "id": "23867",
+        "begin": "2020-05-05T01:00:00.000Z",
+        "broadcast": "R/2020-05-05T01:00:00.000Z/P7D",
+        "comment": "ハノイの騎士編 #1-46, イグニス編 #47-103: 23868, Ai編 #104-120: 23869"
+      },
+      {
+        "site": "gamer",
+        "id": "87586",
+        "begin": "2025-03-28T04:00:00.000Z",
+        "broadcast": "R/2025-03-28T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "87586",
+        "begin": "2025-03-28T04:00:00.000Z",
+        "broadcast": "R/2025-03-28T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/71360"
+      },
+      {
+        "site": "mal",
+        "id": "34866"
+      },
+      {
+        "site": "anidb",
+        "id": "12659"
+      },
+      {
+        "site": "aniList",
+        "id": "98231"
+      },
+      {
+        "site": "acgnx",
+        "id": "遊戲王"
+      },
+      {
+        "site": "dmhy",
+        "id": "遊戲王"
       }
     ]
   },
@@ -51,14 +113,47 @@
         "id": "133975"
       },
       {
-        "site": "nicovideo",
-        "id": "fairytail-dragoncry",
-        "begin": ""
-      },
-      {
         "site": "youku",
         "id": "151a7befbfbdefbfbdef",
         "begin": "2017-11-30T04:30:12.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0032234",
+        "begin": "2017-12-01T03:00:00.000Z",
+        "broadcast": "R/2017-12-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "1447"
+      },
+      {
+        "site": "nicovideo",
+        "id": "fairytail-dragoncry",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "22303",
+        "begin": "2018-08-03T01:00:00.000Z",
+        "broadcast": "R/2018-08-03T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/433422"
+      },
+      {
+        "site": "mal",
+        "id": "30778"
+      },
+      {
+        "site": "anidb",
+        "id": "11247"
+      },
+      {
+        "site": "aniList",
+        "id": "21191"
       }
     ]
   },
@@ -78,12 +173,44 @@
       {
         "site": "nicovideo",
         "id": "blame",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "netflix",
         "id": "80115466",
-        "begin": "2017-05-19T15:00:00.000Z"
+        "begin": "2017-05-19T15:00:00.000Z",
+        "broadcast": "R/2017-05-18T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0042822",
+        "begin": "2019-10-04T03:00:00.000Z",
+        "broadcast": "R/2019-10-04T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "5517c70936cc53397d02a9ae"
+      },
+      {
+        "site": "mikan",
+        "id": "1323"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/409421"
+      },
+      {
+        "site": "mal",
+        "id": "32086"
+      },
+      {
+        "site": "anidb",
+        "id": "11782"
+      },
+      {
+        "site": "aniList",
+        "id": "21498"
       }
     ]
   },
@@ -92,6 +219,13 @@
     "titleTranslate": {
       "zh-Hans": [
         "生化危机 复仇"
+      ],
+      "zh-Hant": [
+        "惡靈古堡：血仇",
+        "生化危機：血仇殺戮"
+      ],
+      "en": [
+        "Resident Evil: Vendetta"
       ]
     },
     "type": "movie",
@@ -105,9 +239,38 @@
         "id": "148729"
       },
       {
-        "site": "letv",
-        "id": "10037456",
-        "begin": ""
+        "site": "netflix",
+        "id": "80190911",
+        "begin": "2022-03-29T16:00:00.000Z",
+        "broadcast": "R/2022-03-29T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0031942",
+        "begin": "2017-11-10T03:00:00.000Z",
+        "broadcast": "R/2017-11-10T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "28237255",
+        "begin": "2022-03-31T10:00:00.000Z",
+        "broadcast": "R/2022-03-31T10:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/400136"
+      },
+      {
+        "site": "mal",
+        "id": "31853"
+      },
+      {
+        "site": "anidb",
+        "id": "11709"
+      },
+      {
+        "site": "aniList",
+        "id": "21464"
       }
     ]
   },
@@ -127,7 +290,28 @@
       {
         "site": "nicovideo",
         "id": "caribadix",
-        "begin": "2018-04-27T15:00:00.000Z"
+        "begin": "2018-04-27T15:00:00.000Z",
+        "broadcast": "R/2018-04-27T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0077585",
+        "begin": "2023-01-25T03:00:00.000Z",
+        "broadcast": "R/2023-01-25T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "22149",
+        "begin": "2018-05-11T01:00:00.000Z",
+        "broadcast": "R/2018-05-11T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "35517"
+      },
+      {
+        "site": "anidb",
+        "id": "13158"
       }
     ]
   },
@@ -148,6 +332,22 @@
       {
         "site": "bangumi",
         "id": "211882"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/511008"
+      },
+      {
+        "site": "mal",
+        "id": "35159"
+      },
+      {
+        "site": "aniList",
+        "id": "98511"
+      },
+      {
+        "site": "anidb",
+        "id": "12991"
       }
     ]
   },
@@ -166,9 +366,8 @@
         "id": "215096"
       },
       {
-        "site": "bilibili",
-        "id": "6184",
-        "begin": "2017-05-12T16:00:00.000Z"
+        "site": "tmdb",
+        "id": "tv/68415/season/2"
       }
     ]
   },
@@ -196,13 +395,30 @@
       {
         "site": "bilibili",
         "id": "6408",
-        "begin": "2017-08-24T16:00:00.000Z"
+        "begin": "2017-09-04T04:07:00.000Z",
+        "broadcast": "R/2017-09-04T04:07:00.000Z/P7D"
       },
       {
         "site": "muse_hk",
         "id": "PLuxqoToY7UcjCJqSxL2mNygVVDyuPKn7y",
         "begin": "2020-11-06T16:00:00.000Z",
         "broadcast": "R/2020-11-06T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "1399"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/68102/season/0"
+      },
+      {
+        "site": "mal",
+        "id": "34644"
+      },
+      {
+        "site": "aniList",
+        "id": "98209"
       }
     ]
   },
@@ -211,6 +427,13 @@
     "titleTranslate": {
       "zh-Hans": [
         "宣告黎明的露之歌"
+      ],
+      "zh-Hant": [
+        "宣告黎明的露之歌",
+        "宣告黎明的人魚之歌"
+      ],
+      "en": [
+        "Lu Over the Wall"
       ]
     },
     "type": "movie",
@@ -227,7 +450,103 @@
       {
         "site": "bilibili",
         "id": "7792",
-        "begin": "2017-05-18T16:00:00.000Z"
+        "begin": "2017-11-01T03:00:00.000Z",
+        "broadcast": "R/2017-11-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "1443"
+      },
+      {
+        "site": "unext",
+        "id": "SID0034760",
+        "begin": "2024-10-31T15:00:00.000Z",
+        "broadcast": "R/2024-10-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/436120"
+      },
+      {
+        "site": "mal",
+        "id": "34792"
+      },
+      {
+        "site": "anidb",
+        "id": "12738"
+      },
+      {
+        "site": "aniList",
+        "id": "98249"
+      }
+    ]
+  },
+  {
+    "title": "ブラッククローバー OAD",
+    "titleTranslate": {
+      "zh-Hans": [
+        "黑色五叶草 OAD"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2017-05-01T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2017-05-01T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "190910"
+      },
+      {
+        "site": "mikan",
+        "id": "1321"
+      }
+    ]
+  },
+  {
+    "title": "センリツのルシファー ただひとつの始まりの歌",
+    "titleTranslate": {
+      "zh-Hans": [
+        "路西法的战栗天籁 〜唯一的最初乐章〜"
+      ],
+      "zh-Hant": [
+        "路西法的戰慄天籟 〜唯一的最初樂章〜"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://anime.monster-strike.com/monster-sonic/rushifa/",
+    "begin": "2017-05-02T16:00:00.000Z",
+    "broadcast": "R/2017-05-02T16:00:00.000Z/P7D",
+    "end": "2017-05-02T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "224476"
+      },
+      {
+        "site": "youtube",
+        "id": "PL8anBnIT2pG7JBjX8etGJfnem9Q7_05WT",
+        "begin": "2017-05-02T16:00:00.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "mal",
+        "id": "35465"
+      },
+      {
+        "site": "aniList",
+        "id": "98791"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GT00170402",
+        "begin": "2017-09-09T10:00:00.000Z",
+        "broadcast": "R/2017-09-09T10:00:00.000Z/P7D"
       }
     ]
   }

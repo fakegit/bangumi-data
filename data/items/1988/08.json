@@ -1,0 +1,90 @@
+[
+  {
+    "title": "現世守護神 ぴーひょろ一家",
+    "titleTranslate": {},
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1988-08-31T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1988-08-31T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "214653"
+      },
+      {
+        "site": "unext",
+        "id": "SID0014748",
+        "begin": "2022-10-29T03:00:00.000Z",
+        "broadcast": "R/2022-10-29T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "11348",
+        "begin": "2017-11-24T01:00:00.000Z",
+        "broadcast": "R/2017-11-24T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/116436"
+      },
+      {
+        "site": "mal",
+        "id": "25363"
+      },
+      {
+        "site": "aniList",
+        "id": "118075"
+      },
+      {
+        "site": "anidb",
+        "id": "8680"
+      }
+    ]
+  },
+  {
+    "title": "はれときどきぶた",
+    "titleTranslate": {
+      "zh-Hans": [
+        "晴天小猪"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1988-08-22T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1988-08-22T17:14:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "211445"
+      },
+      {
+        "site": "danime",
+        "id": "23724",
+        "begin": "2020-05-22T01:00:00.000Z",
+        "broadcast": "R/2020-05-22T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/522436"
+      },
+      {
+        "site": "mal",
+        "id": "24877"
+      },
+      {
+        "site": "aniList",
+        "id": "107618"
+      },
+      {
+        "site": "anidb",
+        "id": "8670"
+      }
+    ]
+  }
+]

@@ -3,7 +3,8 @@
     "title": "クイーンズブレイド 玉座を継ぐ者",
     "titleTranslate": {
       "zh-Hans": [
-        "女皇之刃 王座的继承者"
+        "女皇之刃 王座的继承者",
+        "女王之刃 王座的继承者"
       ]
     },
     "type": "tv",
@@ -20,6 +21,34 @@
         "site": "nicovideo",
         "id": "queensblade02",
         "begin": "2012-04-11T06:00:00.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0011090",
+        "begin": "2014-08-15T06:00:00.000Z",
+        "broadcast": "R/2014-08-15T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10788",
+        "begin": "2013-04-05T01:00:00.000Z",
+        "broadcast": "R/2013-04-05T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/45502/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "6633"
+      },
+      {
+        "site": "anidb",
+        "id": "6653"
+      },
+      {
+        "site": "aniList",
+        "id": "6633"
       }
     ]
   },
@@ -27,7 +56,8 @@
     "title": "バトルスピリッツ 少年激覇ダン",
     "titleTranslate": {
       "zh-Hans": [
-        "战斗之魂 少年激霸"
+        "战斗之魂 少年激霸",
+        "战斗之魂 少年激霸弹"
       ]
     },
     "type": "tv",
@@ -37,11 +67,6 @@
     "end": "2010-09-04T22:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "hMfBP6cNfbsenAQ",
-        "begin": ""
-      },
-      {
         "site": "iqiyi",
         "id": "a_19rrk7hgtt",
         "begin": "2012-12-11T11:56:51.000Z"
@@ -49,6 +74,34 @@
       {
         "site": "bangumi",
         "id": "14766"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/121800"
+      },
+      {
+        "site": "danime",
+        "id": "11487",
+        "begin": "2025-12-12T15:00:00.000Z",
+        "broadcast": "R/2025-12-12T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "6901"
+      },
+      {
+        "site": "anidb",
+        "id": "6978"
+      },
+      {
+        "site": "aniList",
+        "id": "6901"
+      },
+      {
+        "site": "unext",
+        "id": "SID0016353",
+        "begin": "2026-10-06T03:00:00.000Z",
+        "broadcast": "R/2026-10-06T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -68,6 +121,22 @@
       {
         "site": "bangumi",
         "id": "62930"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/23721"
+      },
+      {
+        "site": "mal",
+        "id": "6909"
+      },
+      {
+        "site": "anidb",
+        "id": "6652"
+      },
+      {
+        "site": "aniList",
+        "id": "6909"
       }
     ]
   },
@@ -85,13 +154,16 @@
     "end": "2009-11-27T16:30:00.000Z",
     "sites": [
       {
-        "site": "letv",
-        "id": "30210",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "210715"
+      },
+      {
+        "site": "mal",
+        "id": "10384"
+      },
+      {
+        "site": "aniList",
+        "id": "10384"
       }
     ]
   },
@@ -109,11 +181,6 @@
     "end": "2010-08-17T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "4CwYlv5k1BJ181s",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "3341"
       },
@@ -125,7 +192,109 @@
       {
         "site": "bilibili",
         "id": "3773",
-        "begin": "2009-09-16T16:00:01.000Z"
+        "begin": "2009-09-16T16:00:01.000Z",
+        "broadcast": "R/2016-04-18T06:13:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0031151",
+        "begin": "2017-09-28T03:00:00.000Z",
+        "broadcast": "R/2017-09-28T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "21778",
+        "begin": "2020-01-24T01:00:00.000Z",
+        "broadcast": "R/2020-01-24T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/8859/season/0/episode/7"
+      },
+      {
+        "site": "mal",
+        "id": "6050"
+      },
+      {
+        "site": "anidb",
+        "id": "6489"
+      },
+      {
+        "site": "aniList",
+        "id": "6050"
+      }
+    ]
+  },
+  {
+    "title": "劇場版デュエル・マスターズ 黒月の神帝",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版决斗大师 黑月的神帝"
+      ],
+      "en": [
+        "Duel Masters Movie 2: Lunatic God Saga"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2009-09-18T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2009-09-18T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "397215"
+      },
+      {
+        "site": "mal",
+        "id": "6062"
+      },
+      {
+        "site": "anidb",
+        "id": "7167"
+      },
+      {
+        "site": "aniList",
+        "id": "6062"
+      }
+    ]
+  },
+  {
+    "title": "東のエデン 総集編 Air Communication",
+    "titleTranslate": {
+      "zh-Hans": [
+        "东之伊甸 总集篇 Air Communication"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://juiz.jp/blog/",
+    "begin": "2009-09-25T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2009-09-25T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "3630"
+      },
+      {
+        "site": "mal",
+        "id": "6927"
+      },
+      {
+        "site": "anidb",
+        "id": "6763"
+      },
+      {
+        "site": "aniList",
+        "id": "6927"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/133481"
       }
     ]
   }

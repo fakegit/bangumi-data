@@ -22,9 +22,26 @@
         "id": "53933"
       },
       {
-        "site": "letv",
-        "id": "10004313",
-        "begin": ""
+        "site": "bilibili",
+        "id": "2496",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/189071"
+      },
+      {
+        "site": "mal",
+        "id": "1476"
+      },
+      {
+        "site": "anidb",
+        "id": "1568"
+      },
+      {
+        "site": "aniList",
+        "id": "1476"
       }
     ]
   },
@@ -51,9 +68,143 @@
         "id": "53932"
       },
       {
-        "site": "letv",
-        "id": "10004313",
-        "begin": ""
+        "site": "bilibili",
+        "id": "2496",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/189068"
+      },
+      {
+        "site": "mal",
+        "id": "1475"
+      },
+      {
+        "site": "anidb",
+        "id": "1567"
+      },
+      {
+        "site": "aniList",
+        "id": "1475"
+      }
+    ]
+  },
+  {
+    "title": "魔動王グランゾート 最後のマジカル大戦",
+    "titleTranslate": {
+      "zh-Hans": [
+        "魔动王 最后的魔法大战"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1990-08-01T15:00:00.000Z",
+    "end": "1990-08-01T15:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "25423"
+      },
+      {
+        "site": "bilibili",
+        "id": "3814",
+        "begin": "2016-04-20T06:46:00.000Z",
+        "broadcast": "R/2016-04-20T06:46:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/279420"
+      },
+      {
+        "site": "danime",
+        "id": "26944",
+        "begin": "2025-12-12T15:00:00.000Z",
+        "broadcast": "R/2025-12-12T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "7090"
+      },
+      {
+        "site": "anidb",
+        "id": "2353"
+      },
+      {
+        "site": "aniList",
+        "id": "7090"
+      }
+    ]
+  },
+  {
+    "title": "「エイジ」",
+    "titleTranslate": {
+      "zh-Hans": [
+        "「英儿」"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1990-08-24T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1990-08-24T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "75239"
+      },
+      {
+        "site": "mal",
+        "id": "6076"
+      },
+      {
+        "site": "anidb",
+        "id": "4317"
+      },
+      {
+        "site": "aniList",
+        "id": "6076"
+      }
+    ]
+  },
+  {
+    "title": "愛と剣のキャメロット まんが家マリナ タイムスリップ事件",
+    "titleTranslate": {
+      "zh-Hans": [
+        "圣剑风云"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1990-08-24T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1990-08-24T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "88293"
+      },
+      {
+        "site": "mal",
+        "id": "5931"
+      },
+      {
+        "site": "anidb",
+        "id": "4006"
+      },
+      {
+        "site": "aniList",
+        "id": "5931"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/763776"
       }
     ]
   }

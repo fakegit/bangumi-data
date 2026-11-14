@@ -1,0 +1,289 @@
+[
+  {
+    "title": "『僕のヒーローアカデミア』No.170＋1『More』",
+    "titleTranslate": {
+      "zh-Hans": [
+        "『我的英雄学院』No.170＋1『More』"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://heroaca.com/",
+    "begin": "2026-05-01T16:00:00.000Z",
+    "broadcast": "R/2026-05-01T16:00:00.000Z/P7D",
+    "end": "2026-05-01T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "644516"
+      },
+      {
+        "site": "unext",
+        "id": "SID0232886",
+        "begin": "2026-05-01T16:00:00.000Z",
+        "broadcast": "R/2026-05-01T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtSK90ITpLQn5dbNZp9nJ612",
+        "begin": "2026-05-01T16:00:00.000Z",
+        "broadcast": "R/2026-05-01T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JhWoGB3CGCB6OpSkW5wqUAH",
+        "begin": "2026-05-01T16:00:00.000Z",
+        "broadcast": "R/2026-05-01T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "28328",
+        "begin": "2026-05-01T16:00:00.000Z",
+        "broadcast": "R/2026-05-01T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "viu",
+        "id": "3069773",
+        "begin": "2026-05-01T16:00:00.000Z",
+        "broadcast": "R/2026-05-01T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "143057",
+        "begin": "2026-05-01T16:00:00.000Z",
+        "broadcast": "R/2026-05-01T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "143057",
+        "begin": "2026-05-01T16:00:00.000Z",
+        "broadcast": "R/2026-05-01T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0FSFLWN98",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "19-15",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "netflix",
+        "id": "80135674",
+        "begin": "2024-10-31T00:00:00.000Z",
+        "broadcast": "R/2024-10-31T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "G6NQ5DWZ6",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/65930/season/0/episode/18"
+      },
+      {
+        "site": "mal",
+        "id": "63130"
+      },
+      {
+        "site": "aniList",
+        "id": "204356"
+      },
+      {
+        "site": "anidb",
+        "id": "20039"
+      },
+      {
+        "site": "acgnx",
+        "id": "我的英雄學院"
+      },
+      {
+        "site": "anibt",
+        "id": "644516"
+      },
+      {
+        "site": "dmhy",
+        "id": "我的英雄學院"
+      }
+    ]
+  },
+  {
+    "title": "映画 ラブライブ！蓮ノ空女学院スクールアイドルクラブ Bloom Garden Party",
+    "titleTranslate": {
+      "zh-Hans": [
+        "电影 LoveLive！莲之空女学院学园偶像俱乐部 Bloom Garden Party"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.lovelive-anime.jp/hasunosora/movie/",
+    "begin": "2026-05-07T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2026-05-07T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "563256"
+      },
+      {
+        "site": "nicovideo",
+        "id": "lovelive-hasunosora-movie",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0307566",
+        "begin": "2026-06-19T03:00:00.000Z",
+        "broadcast": "R/2026-06-19T03:00:00.000Z/P7D",
+        "comment": "特典映像付き: SID0312372"
+      },
+      {
+        "site": "mal",
+        "id": "61806"
+      },
+      {
+        "site": "aniList",
+        "id": "194167"
+      },
+      {
+        "site": "anidb",
+        "id": "19376"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1675042"
+      },
+      {
+        "site": "anibt",
+        "id": "563256"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 魔法科高校の劣等生 四葉継承編",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 魔法科高校的劣等生 四叶继承篇"
+      ],
+      "en": [
+        "Mahouka Koukou no Rettousei Movie: Yotsuba Keishou-hen"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://mahouka.jp/yotsuba/",
+    "begin": "2026-05-07T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2026-05-07T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "501729"
+      },
+      {
+        "site": "mal",
+        "id": "59174"
+      },
+      {
+        "site": "anidb",
+        "id": "18720"
+      },
+      {
+        "site": "aniList",
+        "id": "178707"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1310387"
+      },
+      {
+        "site": "anibt",
+        "id": "501729"
+      }
+    ]
+  },
+  {
+    "title": "機動警察パトレイバー EZY File 1",
+    "titleTranslate": {
+      "zh-Hans": [
+        "机动警察 EZY 第一章"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://ezy.patlabor.tokyo",
+    "begin": "2026-05-14T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2026-05-14T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "217071"
+      },
+      {
+        "site": "mal",
+        "id": "59889"
+      },
+      {
+        "site": "anidb",
+        "id": "13226"
+      },
+      {
+        "site": "unext",
+        "id": "SID0312125",
+        "begin": "2026-08-14T03:00:00.000Z",
+        "broadcast": "R/2026-08-14T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "anibt",
+        "id": "217071"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 モノノ怪 蛇神",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 物怪 蛇神",
+        "剧场版 物怪 第三章",
+        "剧场版 物怪 第三章 蛇神"
+      ],
+      "zh-Hant": [
+        "劇場版物怪：第 3 章：蛇神"
+      ],
+      "en": [
+        "Mononoke The Movie: Chapter Ⅲ - The Curse of the Serpent"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.mononoke-movie.com/",
+    "begin": "2026-05-28T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2026-05-28T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "505562"
+      },
+      {
+        "site": "netflix",
+        "id": "82012956",
+        "begin": "2026-09-28T16:00:00.000Z",
+        "broadcast": "R/2026-09-28T16:00:00.000Z/P7D"
+      }
+    ]
+  }
+]

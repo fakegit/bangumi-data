@@ -21,6 +21,34 @@
       {
         "site": "bangumi",
         "id": "14878"
+      },
+      {
+        "site": "unext",
+        "id": "SID0010972",
+        "begin": "2019-11-09T03:00:00.000Z",
+        "broadcast": "R/2019-11-09T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "22783",
+        "begin": "2019-06-14T01:00:00.000Z",
+        "broadcast": "R/2019-06-14T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/20353/season/4"
+      },
+      {
+        "site": "mal",
+        "id": "353"
+      },
+      {
+        "site": "anidb",
+        "id": "1767"
+      },
+      {
+        "site": "aniList",
+        "id": "353"
       }
     ]
   },
@@ -44,7 +72,36 @@
       {
         "site": "bilibili",
         "id": "1943",
-        "begin": "2002-02-02T16:00:00.000Z"
+        "begin": "2002-02-02T16:00:00.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/42858/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "652"
+      },
+      {
+        "site": "anidb",
+        "id": "259"
+      },
+      {
+        "site": "aniList",
+        "id": "652"
+      },
+      {
+        "site": "danime",
+        "id": "22948",
+        "begin": "2026-04-30T15:00:00.000Z",
+        "broadcast": "R/2026-04-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0014548",
+        "begin": "2026-05-01T03:00:00.000Z",
+        "broadcast": "R/2026-05-01T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -62,11 +119,6 @@
     "end": "2002-02-02T16:30:00.000Z",
     "sites": [
       {
-        "site": "letv",
-        "id": "17266",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "1936"
       },
@@ -74,6 +126,206 @@
         "site": "nicovideo",
         "id": "hoshinokoe",
         "begin": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0013611",
+        "begin": "2020-04-27T03:00:00.000Z",
+        "broadcast": "R/2020-04-27T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/37910"
+      },
+      {
+        "site": "mal",
+        "id": "256"
+      },
+      {
+        "site": "anidb",
+        "id": "104"
+      },
+      {
+        "site": "aniList",
+        "id": "256"
+      }
+    ]
+  },
+  {
+    "title": "喜劇",
+    "titleTranslate": {
+      "zh-Hans": [
+        "喜剧"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2002-02-04T16:00:00.000Z",
+    "end": "2002-02-04T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "12982"
+      },
+      {
+        "site": "bilibili",
+        "id": "5255",
+        "begin": "2016-07-20T06:16:00.000Z",
+        "broadcast": "R/2016-07-20T06:16:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/507022"
+      },
+      {
+        "site": "mal",
+        "id": "1072"
+      },
+      {
+        "site": "anidb",
+        "id": "1054"
+      },
+      {
+        "site": "aniList",
+        "id": "1072"
+      }
+    ]
+  },
+  {
+    "title": "幻魔大戦 -神話前夜の章-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "幻魔大战 ~神话前夜之章~"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2002-02-01T16:00:00.000Z",
+    "broadcast": "R/2002-02-01T16:00:00.000Z/P7D",
+    "end": "2002-05-10T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "25200"
+      },
+      {
+        "site": "unext",
+        "id": "SID0014752",
+        "begin": "2019-11-25T03:00:00.000Z",
+        "broadcast": "R/2019-11-25T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10280",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/132169"
+      },
+      {
+        "site": "mal",
+        "id": "1705"
+      },
+      {
+        "site": "aniList",
+        "id": "1705"
+      },
+      {
+        "site": "anidb",
+        "id": "1473"
+      }
+    ]
+  },
+  {
+    "title": "劇場版∀ガンダムI 地球光",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版∀高达I 地球光",
+        "Turn A高达 剧场版 地球光"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2002-02-08T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2002-02-08T18:08:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "3554"
+      },
+      {
+        "site": "unext",
+        "id": "SID0012954",
+        "begin": "2008-10-23T06:00:00.000Z",
+        "broadcast": "R/2008-10-23T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/75175"
+      },
+      {
+        "site": "mal",
+        "id": "3963"
+      },
+      {
+        "site": "anidb",
+        "id": "2813"
+      },
+      {
+        "site": "aniList",
+        "id": "3963"
+      }
+    ]
+  },
+  {
+    "title": "劇場版∀ガンダムII 月光蝶",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版∀高达II 月光蝶",
+        "Turn A高达 剧场版 月光蝶"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2002-02-09T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2002-02-09T18:08:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "3555"
+      },
+      {
+        "site": "unext",
+        "id": "SID0012954",
+        "begin": "2008-10-23T06:00:00.000Z",
+        "broadcast": "R/2008-10-23T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/75177"
+      },
+      {
+        "site": "mal",
+        "id": "3964"
+      },
+      {
+        "site": "anidb",
+        "id": "2812"
+      },
+      {
+        "site": "aniList",
+        "id": "3964"
       }
     ]
   }

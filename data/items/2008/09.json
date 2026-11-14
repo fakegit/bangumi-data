@@ -13,13 +13,36 @@
     "end": "2009-09-05T22:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "VZZy8FiaibLmzPTbU",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "55144"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/132359"
+      },
+      {
+        "site": "danime",
+        "id": "22359",
+        "begin": "2025-12-12T15:00:00.000Z",
+        "broadcast": "R/2025-12-12T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "5082"
+      },
+      {
+        "site": "anidb",
+        "id": "6069"
+      },
+      {
+        "site": "aniList",
+        "id": "5082"
+      },
+      {
+        "site": "unext",
+        "id": "SID0016354",
+        "begin": "2026-10-06T03:00:00.000Z",
+        "broadcast": "R/2026-10-06T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -37,11 +60,6 @@
     "end": "2008-12-23T16:45:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "yGpV0zuhEUibyMJg",
-        "begin": ""
-      },
-      {
         "site": "qq",
         "id": "p/pk87sfhwvxamsxd",
         "begin": ""
@@ -53,7 +71,42 @@
       {
         "site": "bilibili",
         "id": "1220",
-        "begin": "2008-10-06T16:00:00.000Z"
+        "begin": "2008-10-06T16:00:00.000Z",
+        "broadcast": "R/2013-08-21T04:20:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003181",
+        "begin": "2015-10-29T06:00:00.000Z",
+        "broadcast": "R/2015-10-29T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "20125",
+        "begin": "2015-05-01T01:00:00.000Z",
+        "broadcast": "R/2015-05-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B09M7WHKG8",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/34139"
+      },
+      {
+        "site": "mal",
+        "id": "4551"
+      },
+      {
+        "site": "anidb",
+        "id": "5954"
+      },
+      {
+        "site": "aniList",
+        "id": "4551"
       }
     ]
   },
@@ -71,18 +124,42 @@
     "end": "2009-02-04T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "E0RAviaaMicDqdG4M",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "917"
       },
       {
         "site": "bilibili",
         "id": "1206",
-        "begin": "2008-09-23T16:00:00.000Z"
+        "begin": "2008-09-23T16:00:00.000Z",
+        "broadcast": "R/2011-08-26T03:35:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0054846",
+        "begin": "2021-01-29T03:00:00.000Z",
+        "broadcast": "R/2021-01-29T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "21723",
+        "begin": "2020-03-13T01:00:00.000Z",
+        "broadcast": "R/2020-03-13T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/34750"
+      },
+      {
+        "site": "mal",
+        "id": "4177"
+      },
+      {
+        "site": "anidb",
+        "id": "5842"
+      },
+      {
+        "site": "aniList",
+        "id": "4177"
       }
     ]
   },
@@ -100,23 +177,36 @@
     "end": "2008-09-26T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "XYSAicmbMPHrdW8M",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "13557"
       },
       {
-        "site": "bilibili",
-        "id": "3548",
-        "begin": "2008-09-25T16:00:01.000Z"
+        "site": "unext",
+        "id": "SID0035659",
+        "begin": "2018-08-01T03:00:00.000Z",
+        "broadcast": "R/2018-08-01T03:00:00.000Z/P7D"
       },
       {
-        "site": "acfun",
-        "id": "6000137",
-        "begin": "2019-09-19T10:58:48.000Z"
+        "site": "danime",
+        "id": "10460",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/42500/season/0"
+      },
+      {
+        "site": "mal",
+        "id": "4472"
+      },
+      {
+        "site": "anidb",
+        "id": "5932"
+      },
+      {
+        "site": "aniList",
+        "id": "4472"
       }
     ]
   },
@@ -138,9 +228,20 @@
         "id": "22599"
       },
       {
-        "site": "pptv",
-        "id": "WpJu7FS6KmjLSbE",
-        "begin": ""
+        "site": "tmdb",
+        "id": "tv/45305/season/0"
+      },
+      {
+        "site": "mal",
+        "id": "3805"
+      },
+      {
+        "site": "aniList",
+        "id": "3805"
+      },
+      {
+        "site": "anidb",
+        "id": "5583"
       }
     ]
   },
@@ -162,9 +263,22 @@
         "id": "162688"
       },
       {
-        "site": "nicovideo",
-        "id": "jump-ani-gintama",
-        "begin": ""
+        "site": "danime",
+        "id": "24368",
+        "begin": "2023-10-31T15:00:00.000Z",
+        "broadcast": "R/2023-10-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/57041/season/0/episode/2"
+      },
+      {
+        "site": "mal",
+        "id": "6945"
+      },
+      {
+        "site": "aniList",
+        "id": "6945"
       }
     ]
   },
@@ -186,19 +300,26 @@
         "id": "4663"
       },
       {
-        "site": "pptv",
-        "id": "KQUAfuZMvPpd20M",
-        "begin": ""
-      },
-      {
-        "site": "letv",
-        "id": "18248",
-        "begin": ""
-      },
-      {
         "site": "bilibili",
         "id": "5460",
-        "begin": "2008-09-11T16:00:01.000Z"
+        "begin": "2008-09-11T16:00:01.000Z",
+        "broadcast": "R/2016-08-22T04:10:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/713241"
+      },
+      {
+        "site": "mal",
+        "id": "5080"
+      },
+      {
+        "site": "anidb",
+        "id": "6071"
+      },
+      {
+        "site": "aniList",
+        "id": "5080"
       }
     ]
   },
@@ -207,6 +328,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "天元突破红莲螺岩 红莲篇"
+      ],
+      "zh-Hant": [
+        "天元突破 紅蓮螺巖 紅蓮篇"
       ]
     },
     "type": "movie",
@@ -222,13 +346,144 @@
       {
         "site": "nicovideo",
         "id": "gurren-lagann-movie-gurren",
-        "begin": "2018-05-31T15:00:00.000Z"
+        "begin": "2018-05-31T15:00:00.000Z",
+        "broadcast": "R/2018-05-31T15:00:00.000Z/P7D"
       },
       {
         "site": "qq",
         "id": "3/35z9osowz7d1jcp",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "24789198",
+        "begin": "2014-08-01T11:16:00.000Z",
+        "broadcast": "R/2014-08-01T11:16:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0091702",
+        "begin": "2023-08-24T15:00:00.000Z",
+        "broadcast": "R/2023-08-24T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26664",
+        "begin": "2023-10-05T15:00:00.000Z",
+        "broadcast": "R/2023-10-05T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/20986"
+      },
+      {
+        "site": "mal",
+        "id": "4107"
+      },
+      {
+        "site": "aniList",
+        "id": "4107"
+      },
+      {
+        "site": "anidb",
+        "id": "5783"
+      },
+      {
+        "site": "gamer",
+        "id": "22664",
+        "begin": "2026-08-28T04:00:00.000Z",
+        "broadcast": "R/2026-08-28T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "22664",
+        "begin": "2026-08-28T04:00:00.000Z",
+        "broadcast": "R/2026-08-28T04:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "マッハガール",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Mach Girl"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.tatsunoko.co.jp/machgirl/",
+    "begin": "2008-09-12T16:00:00.000Z",
+    "broadcast": "R/2008-09-12T16:00:00.000Z/P7D",
+    "end": "2008-09-13T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "139469"
+      },
+      {
+        "site": "unext",
+        "id": "SID0017886",
+        "begin": "2019-09-09T03:00:00.000Z",
+        "broadcast": "R/2019-09-09T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23301",
+        "begin": "2020-02-21T01:00:00.000Z",
+        "broadcast": "R/2020-02-21T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/239918"
+      },
+      {
+        "site": "mal",
+        "id": "4905"
+      },
+      {
+        "site": "anidb",
+        "id": "6072"
+      },
+      {
+        "site": "aniList",
+        "id": "4905"
+      }
+    ]
+  },
+  {
+    "title": "遊☆戯☆王5D's 進化する決闘! スターダストVSレッド・デーモンズ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "游戏王5D's 进化的决斗！星尘龙VS真红魔龙",
+        "游☆戏☆王5D's 进化的决斗！星尘龙VS真红魔龙",
+        "游☆戏☆王 5D's OVA 进化的决斗！星尘龙 VS 真红魔龙"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2008-09-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2008-09-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "464474"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/20695/season/0"
+      },
+      {
+        "site": "mal",
+        "id": "5298"
+      },
+      {
+        "site": "aniList",
+        "id": "21590"
       }
     ]
   }

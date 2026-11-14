@@ -3,10 +3,15 @@
     "title": "進撃の巨人 The Final Season",
     "titleTranslate": {
       "zh-Hans": [
-        "进击的巨人 最终季"
+        "进击的巨人 最终季",
+        "进击的巨人 第四季"
       ],
       "zh-Hant": [
-        "進擊的巨人 Final Season"
+        "進擊的巨人 Final Season",
+        "進擊的巨人 The Final Season"
+      ],
+      "en": [
+        "Attack on Titan The Final Season"
       ]
     },
     "type": "tv",
@@ -35,7 +40,7 @@
       },
       {
         "site": "dmhy",
-        "id": "進擊的巨人"
+        "id": "巨人 最終|final"
       },
       {
         "site": "nicovideo",
@@ -44,10 +49,94 @@
         "broadcast": ""
       },
       {
-        "site": "viu",
-        "id": "317442",
-        "begin": "2020-11-30T16:00:00.000Z",
-        "broadcast": "R/2020-11-30T16:00:00.000Z/P7D"
+        "site": "gamer",
+        "id": "106374",
+        "begin": "2020-12-07T00:00:00.000Z",
+        "broadcast": "R/2020-12-07T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28233436",
+        "begin": "2021-01-22T03:59:00.000Z",
+        "broadcast": "R/2021-01-22T03:59:00.000Z/P7D"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UchkFx6Rl70VbQeT10lIKoL7",
+        "begin": "2023-06-11T13:55:55.059Z",
+        "broadcast": "R/2023-06-11T13:55:55.059Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "5D0Qx5ecSvHm",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "30-5",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0050923",
+        "begin": "2020-12-07T03:00:00.000Z",
+        "broadcast": "R/2020-12-07T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "106374",
+        "begin": "2020-12-07T00:00:00.000Z",
+        "broadcast": "R/2020-12-07T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "5f7567d94b840abcfc63b17e"
+      },
+      {
+        "site": "mikan",
+        "id": "2335"
+      },
+      {
+        "site": "danime",
+        "id": "24242",
+        "begin": "2020-12-07T03:00:00.000Z",
+        "broadcast": "R/2020-12-07T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "muse_tw",
+        "id": "PLFlphUH5ofro",
+        "url": "https://www.youtube.com/show/VLPLFlphUH5ofro?season=4&sbp=CgE0GgAqC05TNXBuNlkyTDFzQAFKDVBTTmVFaVRCczlSRjA%253D",
+        "begin": "2021-11-29T05:00:08.000Z",
+        "broadcast": "R/2021-11-29T05:00:08.000Z/P7D",
+        "comment": "國語: https://www.youtube.com/show/VLPLEvdKEeruqeA?season=4&sbp=CgE0GgAqC1BRaWE1NnVlSnZrQAFKDVBTQ1Y1SXRveTJHQ0E%253D"
+      },
+      {
+        "site": "prime",
+        "id": "B08PNKVRH8",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/1429/season/4"
+      },
+      {
+        "site": "mal",
+        "id": "40028"
+      },
+      {
+        "site": "anidb",
+        "id": "14977"
+      },
+      {
+        "site": "aniList",
+        "id": "110277"
+      },
+      {
+        "site": "acgnx",
+        "id": "進擊"
       }
     ]
   },
@@ -56,6 +145,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "埃及神明们的日常"
+      ],
+      "zh-Hant": [
+        "突然降臨的埃及神"
       ]
     },
     "type": "web",
@@ -74,6 +166,62 @@
         "id": "to-to2ni",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0050937",
+        "begin": "2020-12-07T03:00:00.000Z",
+        "broadcast": "R/2020-12-07T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "5fd8320332f14c00072e49d8"
+      },
+      {
+        "site": "mikan",
+        "id": "2337"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "110921",
+        "begin": "2024-08-23T04:00:00.000Z",
+        "broadcast": "R/2024-08-23T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "110921",
+        "begin": "2024-08-23T04:00:00.000Z",
+        "broadcast": "R/2024-08-23T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "24274",
+        "begin": "2020-12-07T03:00:00.000Z",
+        "broadcast": "R/2020-12-07T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/106126"
+      },
+      {
+        "site": "mal",
+        "id": "41688"
+      },
+      {
+        "site": "anidb",
+        "id": "15501"
+      },
+      {
+        "site": "aniList",
+        "id": "123474"
+      },
+      {
+        "site": "acgnx",
+        "id": "埃及神明"
+      },
+      {
+        "site": "dmhy",
+        "id": "埃及神明"
       }
     ]
   },
@@ -92,10 +240,12 @@
         "id": "319918"
       },
       {
-        "site": "nicovideo",
-        "id": "kigushun",
-        "begin": "",
-        "broadcast": ""
+        "site": "mal",
+        "id": "44048"
+      },
+      {
+        "site": "aniList",
+        "id": "179778"
       }
     ]
   },
@@ -103,7 +253,11 @@
     "title": "劇場版 Fate/Grand Order -神聖円卓領域キャメロット- 前編 Wandering; Agateram",
     "titleTranslate": {
       "zh-Hans": [
-        "剧场版 Fate/Grand Order 神圣圆桌领域卡美洛 前篇 Wandering; Agateram"
+        "剧场版 Fate/Grand Order 神圣圆桌领域卡美洛 前篇 Wandering; Agateram",
+        "命运-冠位指定 -神圣圆桌领域卡美洛- 前篇 漂泊的银之臂"
+      ],
+      "zh-Hant": [
+        "Fate/Grand Order - 神聖圓桌領域卡美洛 - Wandering；Agateram"
       ]
     },
     "type": "movie",
@@ -122,6 +276,56 @@
         "id": "movie-fgo-1wa",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "104702",
+        "begin": "2021-06-11T04:00:00.000Z",
+        "broadcast": "R/2021-06-11T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "20145109",
+        "begin": "2023-04-20T11:00:00.000Z",
+        "broadcast": "R/2023-04-20T11:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0057821",
+        "begin": "2021-05-01T03:00:00.000Z",
+        "broadcast": "R/2021-05-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "104702",
+        "begin": "2021-06-11T04:00:00.000Z",
+        "broadcast": "R/2021-06-11T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2466"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/637202"
+      },
+      {
+        "site": "danime",
+        "id": "24664",
+        "begin": "2025-12-01T03:00:00.000Z",
+        "broadcast": "R/2025-12-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "38085"
+      },
+      {
+        "site": "aniList",
+        "id": "103276"
+      },
+      {
+        "site": "anidb",
+        "id": "14239"
       }
     ]
   },
@@ -130,6 +334,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "乔西的虎与鱼"
+      ],
+      "zh-Hant": [
+        "喬瑟與虎與魚群"
       ]
     },
     "type": "movie",
@@ -148,6 +355,363 @@
         "id": "joseetora",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "108993",
+        "begin": "2023-10-20T04:00:00.000Z",
+        "broadcast": "R/2023-10-20T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0052703",
+        "begin": "2021-08-25T03:00:00.000Z",
+        "broadcast": "R/2021-08-25T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2517"
+      },
+      {
+        "site": "danime",
+        "id": "25281",
+        "begin": "2022-06-24T15:00:00.000Z",
+        "broadcast": "R/2022-06-24T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/652837"
+      },
+      {
+        "site": "mal",
+        "id": "40787"
+      },
+      {
+        "site": "anidb",
+        "id": "15287"
+      },
+      {
+        "site": "aniList",
+        "id": "113596"
+      }
+    ]
+  },
+  {
+    "title": "アーヤと魔女",
+    "titleTranslate": {
+      "zh-Hans": [
+        "安雅与魔女",
+        "阿雅与魔女"
+      ],
+      "zh-Hant": [
+        "安雅與魔女"
+      ],
+      "en": [
+        "Earwig and the Witch"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2020-12-29T16:00:00.000Z",
+    "end": "2020-12-29T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "307924"
+      },
+      {
+        "site": "netflix",
+        "id": "81316559",
+        "begin": "2021-11-18T00:00:00.000Z",
+        "broadcast": "R/2021-11-18T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2409"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/683127"
+      },
+      {
+        "site": "mal",
+        "id": "42143"
+      },
+      {
+        "site": "anidb",
+        "id": "15587"
+      },
+      {
+        "site": "aniList",
+        "id": "119321"
+      }
+    ]
+  },
+  {
+    "title": "劇場版ポケットモンスター ココ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "宝可梦：皮卡丘和可可的冒险"
+      ],
+      "zh-Hant": [
+        "寶可夢：皮卡丘與可可的冒險"
+      ],
+      "en": [
+        "Pokémon the Movie: Secrets of the Jungle"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.pokemon-movie.jp/",
+    "begin": "2020-12-25T16:00:00.000Z",
+    "end": "2020-12-25T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "298119"
+      },
+      {
+        "site": "bilibili",
+        "id": "28236391",
+        "begin": "2022-01-20T08:00:00.000Z",
+        "broadcast": "R/2022-01-20T08:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0070848",
+        "begin": "2022-06-21T03:00:00.000Z",
+        "broadcast": "R/2022-06-21T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2512"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/662708"
+      },
+      {
+        "site": "danime",
+        "id": "26017",
+        "begin": "2025-12-19T15:00:00.000Z",
+        "broadcast": "R/2025-12-19T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "40881"
+      },
+      {
+        "site": "anidb",
+        "id": "14993"
+      },
+      {
+        "site": "aniList",
+        "id": "114564"
+      }
+    ]
+  },
+  {
+    "title": "まるだせ金太狼",
+    "titleTranslate": {
+      "zh-Hans": [
+        "全露的金太狼",
+        "意想不到的金太狼"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://blfes.com/kintaro",
+    "begin": "2020-12-10T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2020-12-10T16:10:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "296773"
+      },
+      {
+        "site": "unext",
+        "id": "SID0055477",
+        "begin": "2023-03-13T15:00:00.000Z",
+        "broadcast": "R/2023-03-13T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/670327"
+      },
+      {
+        "site": "mal",
+        "id": "40845"
+      },
+      {
+        "site": "anidb",
+        "id": "15302"
+      },
+      {
+        "site": "aniList",
+        "id": "118936"
+      },
+      {
+        "site": "danime",
+        "id": "28933",
+        "begin": "2026-06-02T15:00:00.000Z",
+        "broadcast": "R/2026-06-02T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "イエスかノーか半分か",
+    "titleTranslate": {
+      "zh-Hans": [
+        "爱情可以分割吗？",
+        "是或不是或一半"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2020-12-10T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2020-12-10T16:53:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "293887"
+      },
+      {
+        "site": "unext",
+        "id": "SID0055476",
+        "begin": "2023-03-13T15:00:00.000Z",
+        "broadcast": "R/2023-03-13T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2418"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/719088"
+      },
+      {
+        "site": "mal",
+        "id": "40646"
+      },
+      {
+        "site": "anidb",
+        "id": "15247"
+      },
+      {
+        "site": "aniList",
+        "id": "112930"
+      },
+      {
+        "site": "danime",
+        "id": "28932",
+        "begin": "2026-06-01T15:00:00.000Z",
+        "broadcast": "R/2026-06-01T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "HoneyWorks 10th Anniversary &quot;LIP×LIP FILM×LIVE&quot;",
+    "titleTranslate": {
+      "zh-Hans": [
+        "这个世界的享受方式～Secret Story Film～"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.honeyworks-anime.jp/",
+    "begin": "2020-12-24T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2020-12-24T17:40:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "313924"
+      },
+      {
+        "site": "unext",
+        "id": "SID0060955",
+        "begin": "2021-08-27T03:00:00.000Z",
+        "broadcast": "R/2021-08-27T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/788846"
+      },
+      {
+        "site": "mal",
+        "id": "42750"
+      },
+      {
+        "site": "anidb",
+        "id": "15706"
+      },
+      {
+        "site": "aniList",
+        "id": "123434"
+      }
+    ]
+  },
+  {
+    "title": "えんとつ町のプペル",
+    "titleTranslate": {
+      "zh-Hans": [
+        "烟囱小镇的普佩尔",
+        "烟囱城的普贝尔",
+        "烟囱之城"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://poupelle.com",
+    "begin": "2020-12-24T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2020-12-24T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "296309"
+      },
+      {
+        "site": "unext",
+        "id": "SID0061588",
+        "begin": "2024-12-20T03:00:00.000Z",
+        "broadcast": "R/2024-12-20T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2593"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/655437"
+      },
+      {
+        "site": "danime",
+        "id": "28589",
+        "begin": "2025-12-19T15:00:00.000Z",
+        "broadcast": "R/2025-12-19T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "35609"
+      },
+      {
+        "site": "aniList",
+        "id": "98776"
+      },
+      {
+        "site": "anidb",
+        "id": "13175"
       }
     ]
   }

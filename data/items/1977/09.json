@@ -15,6 +15,120 @@
       {
         "site": "bangumi",
         "id": "187692"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/44465"
+      },
+      {
+        "site": "mal",
+        "id": "3800"
+      },
+      {
+        "site": "aniList",
+        "id": "3800"
+      },
+      {
+        "site": "anidb",
+        "id": "1681"
+      }
+    ]
+  },
+  {
+    "title": "おれは鉄兵",
+    "titleTranslate": {
+      "zh-Hans": [
+        "我是铁兵"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1977-09-11T16:00:00.000Z",
+    "broadcast": "R/1977-09-11T16:00:00.000Z/P7D",
+    "end": "1978-03-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "220820"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003177",
+        "begin": "2023-02-01T03:00:00.000Z",
+        "broadcast": "R/2023-02-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/23696"
+      },
+      {
+        "site": "danime",
+        "id": "23536",
+        "begin": "2025-11-30T15:00:00.000Z",
+        "broadcast": "R/2025-11-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "3827"
+      },
+      {
+        "site": "anidb",
+        "id": "3485"
+      },
+      {
+        "site": "aniList",
+        "id": "3827"
+      }
+    ]
+  },
+  {
+    "title": "一発貫太くん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "棒球少年贯太"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1977-09-17T16:00:00.000Z",
+    "broadcast": "R/1977-09-17T16:00:00.000Z/P7D",
+    "end": "1978-09-23T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "65280"
+      },
+      {
+        "site": "unext",
+        "id": "SID0017860",
+        "begin": "2022-04-12T03:00:00.000Z",
+        "broadcast": "R/2022-04-12T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23300",
+        "begin": "2020-02-21T01:00:00.000Z",
+        "broadcast": "R/2020-02-21T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/44769"
+      },
+      {
+        "site": "mal",
+        "id": "5287"
+      },
+      {
+        "site": "anidb",
+        "id": "3094"
+      },
+      {
+        "site": "aniList",
+        "id": "5287"
       }
     ]
   }

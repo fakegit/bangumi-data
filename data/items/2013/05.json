@@ -19,6 +19,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "闪电十一人GO 银河"
+      ],
+      "zh-Hant": [
+        "閃電十一人GO 銀河篇"
       ]
     },
     "type": "tv",
@@ -28,18 +31,50 @@
     "end": "2014-03-19T10:55:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "TsqmJIzyYqADgek",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "72651"
       },
       {
-        "site": "bilibili",
+        "site": "bilibili_hk_mo_tw",
         "id": "28223280",
-        "begin": "2013-05-07T16:00:00.000Z"
+        "begin": "2019-10-29T03:52:06.000Z",
+        "broadcast": "R/2019-10-29T03:52:06.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002462",
+        "begin": "2015-05-07T05:45:00.000Z",
+        "broadcast": "R/2015-05-07T05:45:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "24856",
+        "begin": "2021-07-30T01:00:00.000Z",
+        "broadcast": "R/2021-07-30T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/42912/season/4"
+      },
+      {
+        "site": "mal",
+        "id": "18097"
+      },
+      {
+        "site": "anidb",
+        "id": "9867"
+      },
+      {
+        "site": "aniList",
+        "id": "18097"
+      },
+      {
+        "site": "acgnx",
+        "id": "閃電 人 go"
+      },
+      {
+        "site": "dmhy",
+        "id": "閃電 人 go"
       }
     ]
   },
@@ -64,14 +99,26 @@
         "id": "56118"
       },
       {
-        "site": "letv",
-        "id": "89672",
-        "begin": ""
-      },
-      {
         "site": "bilibili",
         "id": "602",
-        "begin": "2013-05-11T16:00:00.000Z"
+        "begin": "2013-05-11T16:00:00.000Z",
+        "broadcast": "R/2013-05-12T15:45:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/476397"
+      },
+      {
+        "site": "mal",
+        "id": "16436"
+      },
+      {
+        "site": "anidb",
+        "id": "9537"
+      },
+      {
+        "site": "aniList",
+        "id": "16436"
       }
     ]
   },
@@ -80,6 +127,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "言叶之庭"
+      ],
+      "zh-Hant": [
+        "言葉之庭"
+      ],
+      "en": [
+        "The Garden of Words"
       ]
     },
     "type": "movie",
@@ -88,11 +141,6 @@
     "begin": "2013-05-31T16:00:00.000Z",
     "end": "2013-05-31T16:40:00.000Z",
     "sites": [
-      {
-        "site": "letv",
-        "id": "87682",
-        "begin": ""
-      },
       {
         "site": "bangumi",
         "id": "58949"
@@ -105,7 +153,42 @@
       {
         "site": "bilibili",
         "id": "2546",
-        "begin": "2013-05-30T16:00:00.000Z"
+        "begin": "2013-05-30T16:00:00.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0003809",
+        "begin": "2013-09-06T06:00:00.000Z",
+        "broadcast": "R/2013-09-06T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "11418",
+        "begin": "2014-08-08T01:00:00.000Z",
+        "broadcast": "R/2014-08-08T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B00PG3HQHG",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/198375"
+      },
+      {
+        "site": "mal",
+        "id": "16782"
+      },
+      {
+        "site": "anidb",
+        "id": "9589"
+      },
+      {
+        "site": "aniList",
+        "id": "16782"
       }
     ]
   },
@@ -132,14 +215,38 @@
         "begin": ""
       },
       {
-        "site": "pptv",
-        "id": "W9fBP6cNfbsenAQ",
-        "begin": ""
+        "site": "unext",
+        "id": "SID0038980",
+        "begin": "2019-01-01T03:00:00.000Z",
+        "broadcast": "R/2019-01-01T03:00:00.000Z/P7D"
       },
       {
-        "site": "bilibili",
-        "id": "3230",
-        "begin": "2013-05-09T16:00:01.000Z"
+        "site": "danime",
+        "id": "27459",
+        "begin": "2024-10-31T15:00:00.000Z",
+        "broadcast": "R/2024-10-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B075DY6LM3",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/184608"
+      },
+      {
+        "site": "mal",
+        "id": "15771"
+      },
+      {
+        "site": "anidb",
+        "id": "9454"
+      },
+      {
+        "site": "aniList",
+        "id": "15771"
       }
     ]
   },
@@ -157,18 +264,30 @@
     "end": "2013-06-28T16:05:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "aibfRT7cdjcsurBQ",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "74206"
       },
       {
         "site": "bilibili",
         "id": "679",
-        "begin": "2013-05-20T16:00:00.000Z"
+        "begin": "2013-05-20T16:00:00.000Z",
+        "broadcast": "R/2013-05-22T15:22:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/197144"
+      },
+      {
+        "site": "mal",
+        "id": "20705"
+      },
+      {
+        "site": "anidb",
+        "id": "9958"
+      },
+      {
+        "site": "aniList",
+        "id": "101181"
       }
     ]
   },
@@ -193,7 +312,36 @@
       {
         "site": "bilibili",
         "id": "28228556",
-        "begin": "2016-03-13T16:00:00.000Z"
+        "begin": "2016-03-13T16:00:00.000Z",
+        "broadcast": "R/2020-04-10T10:03:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0056468",
+        "begin": "2021-03-26T03:00:00.000Z",
+        "broadcast": "R/2021-03-26T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "25089",
+        "begin": "2021-09-30T01:00:00.000Z",
+        "broadcast": "R/2021-09-30T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/416268"
+      },
+      {
+        "site": "mal",
+        "id": "11735"
+      },
+      {
+        "site": "anidb",
+        "id": "8003"
+      },
+      {
+        "site": "aniList",
+        "id": "11735"
       }
     ]
   },
@@ -218,7 +366,123 @@
       {
         "site": "bilibili",
         "id": "131972",
-        "begin": "2013-05-18T16:00:00.000Z"
+        "begin": "2013-05-18T16:00:00.000Z",
+        "broadcast": "R/2019-05-16T12:18:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003364",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "11275",
+        "begin": "2014-05-09T01:00:00.000Z",
+        "broadcast": "R/2014-05-09T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/196688"
+      },
+      {
+        "site": "mal",
+        "id": "18469"
+      },
+      {
+        "site": "anidb",
+        "id": "9721"
+      },
+      {
+        "site": "aniList",
+        "id": "18469"
+      }
+    ]
+  },
+  {
+    "title": "忍者ハットリくん インド版",
+    "titleTranslate": {
+      "zh-Hans": [
+        "忍者哈特利 印度版",
+        "忍者服部君 续",
+        "忍者服部君 印度版"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.animax.co.jp/program/NN10001465",
+    "begin": "2013-05-12T16:00:00.000Z",
+    "broadcast": "R/2013-05-12T16:00:00.000Z/P7D",
+    "end": "2013-11-03T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "74299"
+      },
+      {
+        "site": "unext",
+        "id": "SID0075496",
+        "begin": "2022-12-04T03:00:00.000Z",
+        "broadcast": "R/2022-12-04T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "25233",
+        "begin": "2022-02-01T01:00:00.000Z",
+        "broadcast": "R/2022-02-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/158198"
+      },
+      {
+        "site": "mal",
+        "id": "18845"
+      },
+      {
+        "site": "aniList",
+        "id": "18845"
+      },
+      {
+        "site": "anidb",
+        "id": "9899"
+      }
+    ]
+  },
+  {
+    "title": "燃える仏像人間",
+    "titleTranslate": {
+      "zh-Hans": [
+        "燃烧的佛像人",
+        "燃烧佛像人类"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2013-05-17T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2013-05-17T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "66203"
+      },
+      {
+        "site": "unext",
+        "id": "SID0053603",
+        "begin": "2022-03-25T03:00:00.000Z",
+        "broadcast": "R/2022-03-25T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/209966"
+      },
+      {
+        "site": "aniList",
+        "id": "126623"
       }
     ]
   }

@@ -15,6 +15,28 @@
       {
         "site": "bangumi",
         "id": "4237"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/38806"
+      },
+      {
+        "site": "mal",
+        "id": "1454"
+      },
+      {
+        "site": "anidb",
+        "id": "4392"
+      },
+      {
+        "site": "aniList",
+        "id": "1454"
+      },
+      {
+        "site": "danime",
+        "id": "28784",
+        "begin": "2026-03-30T15:00:00.000Z",
+        "broadcast": "R/2026-03-30T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -23,7 +45,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "搞笑漫画日和2",
-        "搞笑漫画日和 第2季"
+        "搞笑漫画日和 第2季",
+        "增田幸助剧场 搞笑漫画日和2",
+        "搞笑漫画日和 第2期"
+      ],
+      "zh-Hant": [
+        "搞笑漫畫日和 2"
       ]
     },
     "type": "tv",
@@ -33,11 +60,6 @@
     "end": "2006-10-21T13:37:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "OnRQzjacDEqtK5M",
-        "begin": ""
-      },
-      {
         "site": "iqiyi",
         "id": "a_19rrgjb8bl",
         "begin": "2014-09-12T06:42:56.000Z"
@@ -45,11 +67,6 @@
       {
         "site": "qq",
         "id": "2/2w0n7vwp4l18dj4",
-        "begin": ""
-      },
-      {
-        "site": "letv",
-        "id": "15960",
         "begin": ""
       },
       {
@@ -64,7 +81,54 @@
       {
         "site": "bilibili",
         "id": "1594",
-        "begin": "2006-08-04T16:00:00.000Z"
+        "begin": "2006-08-04T16:00:00.000Z",
+        "broadcast": "R/2015-01-20T06:38:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0014528",
+        "begin": "2024-12-22T04:00:00.000Z",
+        "broadcast": "R/2024-12-22T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "27641",
+        "begin": "2024-12-22T04:00:00.000Z",
+        "broadcast": "R/2024-12-22T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0FPVYG8QJ",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "gagbi2",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "33456",
+        "begin": "2025-05-10T14:00:00.000Z",
+        "broadcast": "R/2025-05-10T14:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/80007/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "2518"
+      },
+      {
+        "site": "anidb",
+        "id": "4558"
+      },
+      {
+        "site": "aniList",
+        "id": "2518"
       }
     ]
   },
@@ -84,6 +148,22 @@
       {
         "site": "bangumi",
         "id": "105078"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/43983"
+      },
+      {
+        "site": "mal",
+        "id": "1993"
+      },
+      {
+        "site": "aniList",
+        "id": "1812"
+      },
+      {
+        "site": "anidb",
+        "id": "4601"
       }
     ]
   },
@@ -103,6 +183,34 @@
       {
         "site": "bangumi",
         "id": "90612"
+      },
+      {
+        "site": "unext",
+        "id": "SID0088540",
+        "begin": "2023-07-14T03:00:00.000Z",
+        "broadcast": "R/2023-07-14T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/216651"
+      },
+      {
+        "site": "danime",
+        "id": "26024",
+        "begin": "2025-12-19T15:00:00.000Z",
+        "broadcast": "R/2025-12-19T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "4910"
+      },
+      {
+        "site": "anidb",
+        "id": "6802"
+      },
+      {
+        "site": "aniList",
+        "id": "4910"
       }
     ]
   },
@@ -122,6 +230,22 @@
       {
         "site": "bangumi",
         "id": "216379"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/37514"
+      },
+      {
+        "site": "mal",
+        "id": "4316"
+      },
+      {
+        "site": "aniList",
+        "id": "4316"
+      },
+      {
+        "site": "anidb",
+        "id": "4837"
       }
     ]
   },
@@ -150,7 +274,36 @@
       {
         "site": "bilibili",
         "id": "2776",
-        "begin": "2006-08-18T16:00:00.000Z"
+        "begin": "2006-08-18T16:00:00.000Z",
+        "broadcast": "R/2015-09-27T05:48:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002635",
+        "begin": "2019-05-01T03:00:00.000Z",
+        "broadcast": "R/2019-05-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "11388",
+        "begin": "2014-08-01T01:00:00.000Z",
+        "broadcast": "R/2014-08-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/37513"
+      },
+      {
+        "site": "mal",
+        "id": "1013"
+      },
+      {
+        "site": "anidb",
+        "id": "4396"
+      },
+      {
+        "site": "aniList",
+        "id": "20461"
       }
     ]
   },
@@ -159,6 +312,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "火影忍者剧场版 大兴奋！三日月岛上的动物骚乱"
+      ],
+      "zh-Hant": [
+        "火影忍者劇場版3：大興奮！新月島之動物大騷動"
       ],
       "en": [
         "Naruto the Movie 3: Guardians of the Crescent Moon Kingdom"
@@ -175,9 +331,276 @@
         "id": "22108"
       },
       {
-        "site": "netflix",
-        "id": "70108386",
-        "begin": "2017-09-01T07:00:00.000Z"
+        "site": "gamer",
+        "id": "55060",
+        "begin": "2021-08-06T07:00:00.000Z",
+        "broadcast": "R/2021-08-06T07:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/18861"
+      },
+      {
+        "site": "mal",
+        "id": "2144"
+      },
+      {
+        "site": "anidb",
+        "id": "4421"
+      },
+      {
+        "site": "aniList",
+        "id": "2144"
+      }
+    ]
+  },
+  {
+    "title": "リリとカエルと（弟）",
+    "titleTranslate": {
+      "zh-Hans": [
+        "莉莉和青蛙和弟弟"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2006-08-25T16:00:00.000Z",
+    "end": "2006-08-25T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "26458"
+      },
+      {
+        "site": "bilibili",
+        "id": "1444",
+        "begin": "2013-07-28T14:07:55.000Z",
+        "broadcast": "R/2013-07-28T14:07:55.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/378990"
+      },
+      {
+        "site": "mal",
+        "id": "10207"
+      },
+      {
+        "site": "anidb",
+        "id": "4070"
+      },
+      {
+        "site": "aniList",
+        "id": "10207"
+      }
+    ]
+  },
+  {
+    "title": "遙かなる時空の中で 舞一夜",
+    "titleTranslate": {
+      "zh-Hans": [
+        "遥远时空中 舞一夜"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.gamecity.ne.jp/neoromance/maihitoyo/",
+    "begin": "2006-08-18T16:00:00.000Z",
+    "end": "2006-08-18T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "1944"
+      },
+      {
+        "site": "bilibili",
+        "id": "1884",
+        "begin": "2017-09-07T09:25:00.000Z",
+        "broadcast": "R/2017-09-07T09:25:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/233715"
+      }
+    ]
+  },
+  {
+    "title": "年をとった鰐",
+    "titleTranslate": {
+      "zh-Hans": [
+        "年老的鳄鱼"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://oldcrocodileoctopus.blog65.fc2.com",
+    "begin": "2006-08-04T16:00:00.000Z",
+    "end": "2006-08-04T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "137292"
+      },
+      {
+        "site": "bilibili",
+        "id": "4900",
+        "begin": "2016-06-17T03:30:00.000Z",
+        "broadcast": "R/2016-06-17T03:30:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "4475"
+      },
+      {
+        "site": "aniList",
+        "id": "4475"
+      },
+      {
+        "site": "anidb",
+        "id": "3045"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/85790"
+      }
+    ]
+  },
+  {
+    "title": "円盤皇女ワるきゅーレ 時と夢と銀河の宴",
+    "titleTranslate": {
+      "zh-Hans": [
+        "圆盘皇女 时空与梦想的银河之宴"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.tokinoyu.net/",
+    "begin": "2006-08-24T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2006-10-24T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "73259"
+      },
+      {
+        "site": "unext",
+        "id": "SID0017283",
+        "begin": "2020-11-19T15:00:00.000Z",
+        "broadcast": "R/2020-11-19T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10171",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/34149/season/4"
+      },
+      {
+        "site": "mal",
+        "id": "1648"
+      },
+      {
+        "site": "anidb",
+        "id": "4375"
+      },
+      {
+        "site": "aniList",
+        "id": "1648"
+      }
+    ]
+  },
+  {
+    "title": "焼跡の、お菓子の木",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2006-08-14T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2006-10-14T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "unext",
+        "id": "SID0004911",
+        "begin": "2016-02-18T15:00:00.000Z",
+        "broadcast": "R/2016-02-18T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23313",
+        "begin": "2020-03-06T01:00:00.000Z",
+        "broadcast": "R/2020-03-06T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/737073"
+      },
+      {
+        "site": "mal",
+        "id": "15815"
+      },
+      {
+        "site": "anidb",
+        "id": "6760"
+      },
+      {
+        "site": "aniList",
+        "id": "15815"
+      }
+    ]
+  },
+  {
+    "title": "鬼公子炎魔",
+    "titleTranslate": {
+      "zh-Hans": [
+        "鬼公子炎魔"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.k-enma.com/",
+    "begin": "2006-08-24T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2007-03-22T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "7654"
+      },
+      {
+        "site": "danime",
+        "id": "29214",
+        "begin": "2026-09-17T15:00:00.000Z",
+        "broadcast": "R/2026-09-17T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0014446",
+        "begin": "2026-09-17T15:00:00.000Z",
+        "broadcast": "R/2026-09-17T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "1556"
+      },
+      {
+        "site": "aniList",
+        "id": "1556"
+      },
+      {
+        "site": "anidb",
+        "id": "4411"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/67580"
       }
     ]
   }

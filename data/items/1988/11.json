@@ -13,11 +13,6 @@
     "end": "1990-02-21T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "ZqmTEXnfT43wbtY",
-        "begin": ""
-      },
-      {
         "site": "qq",
         "id": "i/i6ztb86ztc26ri7",
         "begin": ""
@@ -27,9 +22,32 @@
         "id": "3547"
       },
       {
-        "site": "bilibili",
-        "id": "5204",
-        "begin": "1988-11-25T16:00:01.000Z"
+        "site": "unext",
+        "id": "SID0004824",
+        "begin": "2008-12-05T06:00:00.000Z",
+        "broadcast": "R/2008-12-05T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "11327",
+        "begin": "2014-06-27T01:00:00.000Z",
+        "broadcast": "R/2014-06-27T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/81014"
+      },
+      {
+        "site": "mal",
+        "id": "1832"
+      },
+      {
+        "site": "anidb",
+        "id": "1005"
+      },
+      {
+        "site": "aniList",
+        "id": "1832"
       }
     ]
   }

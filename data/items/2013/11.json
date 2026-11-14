@@ -9,11 +9,6 @@
     "end": "2015-02-27T04:00:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "Wb6aGIDmVpT3dd0",
-        "begin": ""
-      },
-      {
         "site": "qq",
         "id": "h/hpxk7hpq715lw3o",
         "begin": ""
@@ -24,16 +19,6 @@
         "begin": "2014-04-09T22:50:16.000Z"
       },
       {
-        "site": "letv",
-        "id": "94506",
-        "begin": ""
-      },
-      {
-        "site": "sohu",
-        "id": "s2013/csyx",
-        "begin": ""
-      },
-      {
         "site": "mgtv",
         "id": "100159",
         "begin": ""
@@ -41,6 +26,22 @@
       {
         "site": "bangumi",
         "id": "88052"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/240119"
+      },
+      {
+        "site": "mal",
+        "id": "33703"
+      },
+      {
+        "site": "anidb",
+        "id": "16683"
+      },
+      {
+        "site": "aniList",
+        "id": "102689"
       }
     ]
   },
@@ -58,11 +59,6 @@
     "end": "2013-11-15T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "n4tl40uxIVicCQKg",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "85005"
       },
@@ -74,7 +70,36 @@
       {
         "site": "bilibili",
         "id": "3956",
-        "begin": "2013-11-14T16:00:00.000Z"
+        "begin": "2013-11-14T16:00:00.000Z",
+        "broadcast": "R/2016-05-04T07:06:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0052704",
+        "begin": "2020-11-20T03:00:00.000Z",
+        "broadcast": "R/2020-11-20T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "24372",
+        "begin": "2020-11-20T03:00:00.000Z",
+        "broadcast": "R/2020-11-20T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/245928"
+      },
+      {
+        "site": "mal",
+        "id": "20141"
+      },
+      {
+        "site": "anidb",
+        "id": "10021"
+      },
+      {
+        "site": "aniList",
+        "id": "20141"
       }
     ]
   },
@@ -92,18 +117,30 @@
     "end": "2013-11-09T17:30:00.000Z",
     "sites": [
       {
-        "site": "letv",
-        "id": "10008182",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "84521"
       },
       {
         "site": "bilibili",
         "id": "2820",
-        "begin": "2013-11-08T16:00:00.000Z"
+        "begin": "2013-11-08T16:00:00.000Z",
+        "broadcast": "R/2015-10-10T12:26:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/273450"
+      },
+      {
+        "site": "mal",
+        "id": "20673"
+      },
+      {
+        "site": "anidb",
+        "id": "10086"
+      },
+      {
+        "site": "aniList",
+        "id": "20471"
       }
     ]
   },
@@ -121,18 +158,14 @@
     "end": "2013-11-27T17:00:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "jIBs6lK4KGbJR68",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "82233"
       },
       {
         "site": "bilibili",
         "id": "3823",
-        "begin": "2013-11-26T16:00:01.000Z"
+        "begin": "2013-11-26T16:00:01.000Z",
+        "broadcast": "R/2016-04-21T03:26:00.000Z/P7D"
       },
       {
         "site": "iqiyi",
@@ -143,6 +176,22 @@
         "site": "youku",
         "id": "0f09c074580711e3a705",
         "begin": "2013-11-29T02:03:17.000Z"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/45893/season/0/episode/10"
+      },
+      {
+        "site": "mal",
+        "id": "17739"
+      },
+      {
+        "site": "anidb",
+        "id": "9752"
+      },
+      {
+        "site": "aniList",
+        "id": "17739"
       }
     ]
   },
@@ -166,12 +215,14 @@
       {
         "site": "nicovideo",
         "id": "nya",
-        "begin": ""
+        "begin": "2012-08-03T10:00:00.000Z",
+        "broadcast": "R/2012-08-03T10:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
         "id": "5442",
-        "begin": "2013-11-04T16:00:00.000Z"
+        "begin": "2013-11-04T16:00:00.000Z",
+        "broadcast": "R/2016-08-12T11:34:00.000Z/P7D"
       }
     ]
   },
@@ -180,6 +231,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "女神异闻录3 剧场版 第一章 春生"
+      ],
+      "zh-Hant": [
+        "女神異聞錄 3 劇場版 第一章 Spring of Birth"
       ]
     },
     "type": "movie",
@@ -195,17 +249,53 @@
       {
         "site": "nicovideo",
         "id": "p3m",
-        "begin": ""
+        "begin": "2018-05-30T15:00:00.000Z",
+        "broadcast": "R/2018-05-30T15:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
         "id": "2845",
-        "begin": "2013-11-22T16:00:00.000Z"
+        "begin": "2013-11-22T16:00:00.000Z",
+        "broadcast": "R/2017-11-07T04:00:00.000Z/P7D"
       },
       {
         "site": "youku",
         "id": "f2c9248af33511e2a705",
         "begin": "2014-05-06T05:51:06.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0044762",
+        "begin": "2020-12-30T03:00:00.000Z",
+        "broadcast": "R/2020-12-30T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23604",
+        "begin": "2020-03-13T01:00:00.000Z",
+        "broadcast": "R/2020-03-13T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/212153"
+      },
+      {
+        "site": "abema",
+        "id": "26-42",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mal",
+        "id": "14407"
+      },
+      {
+        "site": "aniList",
+        "id": "14407"
+      },
+      {
+        "site": "anidb",
+        "id": "9299"
       }
     ]
   },
@@ -229,17 +319,47 @@
       {
         "site": "nicovideo",
         "id": "patema",
-        "begin": ""
+        "begin": "2013-06-13T08:00:00.000Z",
+        "broadcast": "R/2013-06-13T08:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
         "id": "3668",
-        "begin": "2013-11-08T16:00:01.000Z"
+        "begin": "2013-11-08T16:00:01.000Z",
+        "broadcast": "R/2016-09-12T07:46:00.000Z/P7D"
       },
       {
         "site": "youku",
         "id": "ae6dd6cc030311e3b8b7",
         "begin": "2018-12-28T01:53:32.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0018989",
+        "begin": "2020-12-07T03:00:00.000Z",
+        "broadcast": "R/2020-12-07T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23218",
+        "begin": "2022-03-04T01:00:00.000Z",
+        "broadcast": "R/2022-03-04T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/212167"
+      },
+      {
+        "site": "mal",
+        "id": "12477"
+      },
+      {
+        "site": "anidb",
+        "id": "8857"
+      },
+      {
+        "site": "aniList",
+        "id": "12477"
       }
     ]
   },
@@ -248,6 +368,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "猎天使魔女 血色命运"
+      ],
+      "zh-Hant": [
+        "魔兵驚天錄 噬血宿命"
       ]
     },
     "type": "movie",
@@ -261,14 +384,37 @@
         "id": "83929"
       },
       {
-        "site": "pptv",
-        "id": "ZfXfXcUrm9k8uiaI",
-        "begin": ""
-      },
-      {
         "site": "youku",
         "id": "efe0f504235a11e38b3f",
         "begin": "2014-02-17T03:37:15.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0033993",
+        "begin": "2018-05-31T03:00:00.000Z",
+        "broadcast": "R/2018-05-31T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23686",
+        "begin": "2020-04-10T01:00:00.000Z",
+        "broadcast": "R/2020-04-10T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/242546"
+      },
+      {
+        "site": "mal",
+        "id": "20543"
+      },
+      {
+        "site": "anidb",
+        "id": "10114"
+      },
+      {
+        "site": "aniList",
+        "id": "20442"
       }
     ]
   },
@@ -293,14 +439,38 @@
         "id": "77014"
       },
       {
-        "site": "netflix",
-        "id": "80002074",
-        "begin": "2017-01-31T08:00:00.000Z"
-      },
-      {
         "site": "bilibili",
         "id": "5180",
-        "begin": "2013-06-21T16:00:00.000Z"
+        "begin": "2013-06-21T16:00:00.000Z",
+        "broadcast": "R/2016-07-11T09:57:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0014767",
+        "begin": "2020-05-21T03:00:00.000Z",
+        "broadcast": "R/2020-05-21T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kokaku-arise",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "22229",
+        "begin": "2021-09-16T15:00:00.000Z",
+        "broadcast": "R/2021-09-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/212168"
+      },
+      {
+        "site": "prime",
+        "id": "B0GBYFP1XK",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -321,6 +491,66 @@
       {
         "site": "bangumi",
         "id": "88354"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/61695/season/0"
+      },
+      {
+        "site": "mal",
+        "id": "21241"
+      },
+      {
+        "site": "aniList",
+        "id": "20524"
+      }
+    ]
+  },
+  {
+    "title": "かぐや姫の物語",
+    "titleTranslate": {
+      "zh-Hans": [
+        "辉夜姬物语"
+      ],
+      "zh-Hant": [
+        "輝耀姬物語"
+      ],
+      "en": [
+        "The Tale of The Princess Kaguya"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.ghibli.jp/kaguyahime/",
+    "begin": "2013-11-22T16:00:00.000Z",
+    "end": "2013-11-22T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "56847"
+      },
+      {
+        "site": "netflix",
+        "id": "80013552",
+        "begin": "2020-02-28T16:00:00.000Z",
+        "broadcast": "R/2020-02-28T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/149871"
+      },
+      {
+        "site": "mal",
+        "id": "16664"
+      },
+      {
+        "site": "anidb",
+        "id": "9515"
+      },
+      {
+        "site": "aniList",
+        "id": "16664"
       }
     ]
   }

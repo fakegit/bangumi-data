@@ -13,11 +13,6 @@
     "end": "2001-06-25T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "AjgDgelPvic1g3kY",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "25919"
       },
@@ -26,6 +21,191 @@
         "id": "getterrobot2",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "24844",
+        "begin": "2025-07-31T15:00:00.000Z",
+        "broadcast": "R/2025-07-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/67579"
+      },
+      {
+        "site": "mal",
+        "id": "938"
+      },
+      {
+        "site": "anidb",
+        "id": "881"
+      },
+      {
+        "site": "aniList",
+        "id": "938"
+      }
+    ]
+  },
+  {
+    "title": "Di Gi Charat クリスマススペシャル",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Di Gi Charat 圣诞特别篇",
+        "铃铛猫娘 圣诞特别篇"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.broccoli.co.jp/dejiko/",
+    "begin": "2000-12-15T16:00:00.000Z",
+    "end": "2000-12-15T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "205296"
+      },
+      {
+        "site": "bilibili",
+        "id": "141092",
+        "begin": "2018-10-08T08:16:00.000Z",
+        "broadcast": "R/2018-10-08T08:16:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1062937"
+      },
+      {
+        "site": "mal",
+        "id": "1757"
+      },
+      {
+        "site": "aniList",
+        "id": "1757"
+      }
+    ]
+  },
+  {
+    "title": "ぼくたちピチューブラザーズ・風船騒動の巻",
+    "titleTranslate": {
+      "zh-Hans": [
+        "我们是皮丘兄弟"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2000-12-21T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2000-12-21T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "90012"
+      },
+      {
+        "site": "unext",
+        "id": "SID0088549",
+        "begin": "2023-07-14T03:00:00.000Z",
+        "broadcast": "R/2023-07-14T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ピチューとピカチュウのふゆやすみ2001",
+    "titleTranslate": {
+      "zh-Hans": [
+        "皮卡丘的寒假2001"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2000-12-21T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2000-12-21T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "90015"
+      },
+      {
+        "site": "unext",
+        "id": "SID0088548",
+        "begin": "2023-07-14T03:00:00.000Z",
+        "broadcast": "R/2023-07-14T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/791437"
+      },
+      {
+        "site": "danime",
+        "id": "26020",
+        "begin": "2025-12-19T15:00:00.000Z",
+        "broadcast": "R/2025-12-19T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "10917"
+      },
+      {
+        "site": "aniList",
+        "id": "10917"
+      },
+      {
+        "site": "anidb",
+        "id": "3493"
+      }
+    ]
+  },
+  {
+    "title": "メーテルレジェンド",
+    "titleTranslate": {
+      "zh-Hans": [
+        "梅德尔传奇"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2000-12-12T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2001-03-06T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "49266"
+      },
+      {
+        "site": "unext",
+        "id": "SID0020514",
+        "begin": "2023-03-16T15:00:00.000Z",
+        "broadcast": "R/2023-03-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23881",
+        "begin": "2020-04-27T01:00:00.000Z",
+        "broadcast": "R/2020-04-27T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/43504"
+      },
+      {
+        "site": "mal",
+        "id": "1495"
+      },
+      {
+        "site": "anidb",
+        "id": "1534"
+      },
+      {
+        "site": "aniList",
+        "id": "1495"
       }
     ]
   }

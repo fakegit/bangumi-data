@@ -11,6 +11,161 @@
       {
         "site": "bangumi",
         "id": "213786"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/157132"
+      },
+      {
+        "site": "danime",
+        "id": "22891",
+        "begin": "2025-12-12T15:00:00.000Z",
+        "broadcast": "R/2025-12-12T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "10965"
+      },
+      {
+        "site": "anidb",
+        "id": "2348"
+      },
+      {
+        "site": "aniList",
+        "id": "10965"
+      }
+    ]
+  },
+  {
+    "title": "宇宙戦艦ヤマト 新たなる旅立ち",
+    "titleTranslate": {
+      "zh-Hans": [
+        "宇宙战舰大和号 新的旅程"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1979-07-30T16:00:00.000Z",
+    "end": "1979-07-30T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "74531"
+      },
+      {
+        "site": "bilibili",
+        "id": "4020",
+        "begin": "2016-05-20T03:05:00.000Z",
+        "broadcast": "R/2016-05-20T03:05:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0174167",
+        "begin": "2025-04-04T03:00:00.000Z",
+        "broadcast": "R/2025-04-04T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B08334VFDZ",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/51686"
+      },
+      {
+        "site": "danime",
+        "id": "28385",
+        "begin": "2025-12-01T15:00:00.000Z",
+        "broadcast": "R/2025-12-01T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "3071"
+      },
+      {
+        "site": "anidb",
+        "id": "2811"
+      },
+      {
+        "site": "aniList",
+        "id": "3071"
+      }
+    ]
+  },
+  {
+    "title": "海のトリトン 劇場版",
+    "titleTranslate": {
+      "zh-Hans": [
+        "小飞龙 剧场版"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://tezukaosamu.net/jp/anime/12.html",
+    "begin": "1979-07-13T15:00:00.000Z",
+    "broadcast": "",
+    "end": "1979-07-13T17:18:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "527817"
+      },
+      {
+        "site": "danime",
+        "id": "10369",
+        "begin": "2022-03-08T01:00:00.000Z",
+        "broadcast": "R/2022-03-08T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0098516",
+        "begin": "2024-02-16T03:00:00.000Z",
+        "broadcast": "R/2024-02-16T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/280725"
+      }
+    ]
+  },
+  {
+    "title": "北極のムーシカ・ミーシカ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "小白熊"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1979-07-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1979-07-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "84098"
+      },
+      {
+        "site": "mal",
+        "id": "7729"
+      },
+      {
+        "site": "anidb",
+        "id": "6229"
+      },
+      {
+        "site": "aniList",
+        "id": "7729"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/362574"
       }
     ]
   }

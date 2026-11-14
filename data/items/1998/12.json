@@ -20,6 +20,22 @@
       {
         "site": "bangumi",
         "id": "18048"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/266116"
+      },
+      {
+        "site": "mal",
+        "id": "1540"
+      },
+      {
+        "site": "anidb",
+        "id": "3059"
+      },
+      {
+        "site": "aniList",
+        "id": "1540"
       }
     ]
   },
@@ -30,7 +46,9 @@
         "高智能方程式：SIN"
       ],
       "zh-Hant": [
-        "高智能方程式SIN"
+        "高智能方程式SIN",
+        "閃電霹靂車SIN",
+        "閃電霹靂車 SIN"
       ]
     },
     "type": "ova",
@@ -40,28 +58,146 @@
     "end": "2000-03-21T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "NXZS0DiaeDkyvLZU",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "1958"
       },
       {
-        "site": "letv",
-        "id": "39831",
-        "begin": ""
+        "site": "unext",
+        "id": "SID0016637",
+        "begin": "2023-02-14T03:00:00.000Z",
+        "broadcast": "R/2023-02-14T03:00:00.000Z/P7D"
       },
       {
-        "site": "bilibili",
-        "id": "3811",
-        "begin": "1998-12-20T16:00:01.000Z"
+        "site": "danime",
+        "id": "20159",
+        "begin": "2021-12-24T01:00:00.000Z",
+        "broadcast": "R/2021-12-24T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/9320/season/5"
+      },
+      {
+        "site": "mal",
+        "id": "1395"
+      },
+      {
+        "site": "anidb",
+        "id": "2438"
+      },
+      {
+        "site": "aniList",
+        "id": "1395"
       },
       {
         "site": "ani_one_asia",
-        "id": "PLxSscENEp7Jhvg0oQv2-2zfLLsPAIVtV8",
-        "begin": ""
+        "id": "PLMgfBc8o7fro",
+        "url": "https://www.youtube.com/show/VLPLMgfBc8o7fro?season=5&sbp=CgE1GgAqC0JwbHlFT1BiaTZJQAFKDVBTTUtMWUJ3U1VrWVU%253D",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "19797",
+        "begin": "2026-10-15T04:00:00.000Z",
+        "broadcast": "R/2026-10-15T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "19797",
+        "begin": "2026-10-15T04:00:00.000Z",
+        "broadcast": "R/2026-10-15T04:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ピカチュウのふゆやすみ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "皮卡丘的寒假",
+        "皮卡丘的寒假1999",
+        "皮卡丘放寒假啰"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1998-12-21T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1998-12-21T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "90013"
+      },
+      {
+        "site": "unext",
+        "id": "SID0088546",
+        "begin": "2023-07-14T03:00:00.000Z",
+        "broadcast": "R/2023-07-14T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/791427"
+      },
+      {
+        "site": "danime",
+        "id": "26018",
+        "begin": "2025-12-19T15:00:00.000Z",
+        "broadcast": "R/2025-12-19T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "4874"
+      },
+      {
+        "site": "aniList",
+        "id": "4874"
+      },
+      {
+        "site": "anidb",
+        "id": "3491"
+      }
+    ]
+  },
+  {
+    "title": "ビーストウォーズII 超生命体トランスフォーマー ライオコンボイ危機一髪!",
+    "titleTranslate": {
+      "zh-Hans": [
+        "变形金刚:野兽之战2 白狮擎天柱千钧一发"
+      ],
+      "en": [
+        "Beast Wars Second Chou Seimeitai Transformers: Lio Convoy Kiki Ippatsu! Movie"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1998-12-18T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1998-12-18T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "415762"
+      },
+      {
+        "site": "mal",
+        "id": "5289"
+      },
+      {
+        "site": "anidb",
+        "id": "2978"
+      },
+      {
+        "site": "aniList",
+        "id": "5289"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/372508"
       }
     ]
   }

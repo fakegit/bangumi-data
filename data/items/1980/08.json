@@ -1,0 +1,110 @@
+[
+  {
+    "title": "ヤマトよ永遠に",
+    "titleTranslate": {
+      "zh-Hans": [
+        "永远的大和号"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1980-08-01T16:00:00.000Z",
+    "end": "1980-08-01T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "74532"
+      },
+      {
+        "site": "bilibili",
+        "id": "4019",
+        "begin": "2016-05-20T03:02:00.000Z",
+        "broadcast": "R/2016-05-20T03:02:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0174168",
+        "begin": "2025-04-04T03:00:00.000Z",
+        "broadcast": "R/2025-04-04T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0CW35X4WK",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/175066"
+      },
+      {
+        "site": "danime",
+        "id": "28386",
+        "begin": "2025-12-01T15:00:00.000Z",
+        "broadcast": "R/2025-12-01T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "3069"
+      },
+      {
+        "site": "anidb",
+        "id": "2239"
+      },
+      {
+        "site": "aniList",
+        "id": "3069"
+      }
+    ]
+  },
+  {
+    "title": "フウムーン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "月圆之夜"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.cartoon.co.jp/cn_programs/view/00385",
+    "begin": "1980-08-30T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1980-08-30T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "112656"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003097",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "24076",
+        "begin": "2020-08-14T01:00:00.000Z",
+        "broadcast": "R/2020-08-14T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/121647"
+      },
+      {
+        "site": "mal",
+        "id": "5862"
+      },
+      {
+        "site": "anidb",
+        "id": "4456"
+      },
+      {
+        "site": "aniList",
+        "id": "5862"
+      }
+    ]
+  }
+]

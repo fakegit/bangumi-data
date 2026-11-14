@@ -15,6 +15,40 @@
       {
         "site": "bangumi",
         "id": "18505"
+      },
+      {
+        "site": "unext",
+        "id": "SID0011503",
+        "begin": "2018-11-01T03:00:00.000Z",
+        "broadcast": "R/2018-11-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "25218",
+        "begin": "2022-01-20T15:00:00.000Z",
+        "broadcast": "R/2022-01-20T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "5-45",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/39323"
+      },
+      {
+        "site": "mal",
+        "id": "986"
+      },
+      {
+        "site": "aniList",
+        "id": "986"
+      },
+      {
+        "site": "anidb",
+        "id": "2336"
       }
     ]
   },
@@ -33,11 +67,6 @@
     "end": "1991-09-26T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "uvLOTLQaiasgrqRE",
-        "begin": ""
-      },
-      {
         "site": "iqiyi",
         "id": "a_19rrk020x5",
         "begin": "2012-05-31T05:57:51.000Z"
@@ -47,9 +76,32 @@
         "id": "6605"
       },
       {
-        "site": "letv",
-        "id": "78843",
-        "begin": ""
+        "site": "unext",
+        "id": "SID0002887",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10919",
+        "begin": "2013-08-02T01:00:00.000Z",
+        "broadcast": "R/2013-08-02T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/34853"
+      },
+      {
+        "site": "mal",
+        "id": "5249"
+      },
+      {
+        "site": "anidb",
+        "id": "3193"
+      },
+      {
+        "site": "aniList",
+        "id": "5249"
       }
     ]
   },
@@ -67,11 +119,6 @@
     "end": "1991-09-28T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "LF8ppw915SOGBGw",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "10934"
       },
@@ -79,6 +126,28 @@
         "site": "bilibili",
         "id": "5453",
         "begin": "1990-10-05T16:00:01.000Z"
+      },
+      {
+        "site": "danime",
+        "id": "24718",
+        "begin": "2021-06-01T01:00:00.000Z",
+        "broadcast": "R/2021-06-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/95647"
+      },
+      {
+        "site": "mal",
+        "id": "9061"
+      },
+      {
+        "site": "anidb",
+        "id": "6518"
+      },
+      {
+        "site": "aniList",
+        "id": "9061"
       }
     ]
   },
@@ -100,9 +169,81 @@
         "id": "63332"
       },
       {
-        "site": "pptv",
-        "id": "Rolz8VmicL23QTrY",
-        "begin": ""
+        "site": "unext",
+        "id": "SID0004806",
+        "begin": "2009-12-18T06:00:00.000Z",
+        "broadcast": "R/2009-12-18T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "11323",
+        "begin": "2014-06-27T01:00:00.000Z",
+        "broadcast": "R/2014-06-27T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/28954"
+      },
+      {
+        "site": "mal",
+        "id": "1822"
+      },
+      {
+        "site": "anidb",
+        "id": "362"
+      },
+      {
+        "site": "aniList",
+        "id": "1822"
+      }
+    ]
+  },
+  {
+    "title": "八百八町表裏 化粧師",
+    "titleTranslate": {
+      "zh-Hans": [
+        "八百八町表里 化妆师"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1990-10-08T16:00:00.000Z",
+    "broadcast": "R/1990-10-08T16:00:00.000Z/P7D",
+    "end": "1991-04-29T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "220042"
+      },
+      {
+        "site": "unext",
+        "id": "SID0053874",
+        "begin": "2020-12-27T03:00:00.000Z",
+        "broadcast": "R/2020-12-27T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23078",
+        "begin": "2019-11-22T01:00:00.000Z",
+        "broadcast": "R/2019-11-22T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/225790"
+      },
+      {
+        "site": "mal",
+        "id": "11545"
+      },
+      {
+        "site": "anidb",
+        "id": "4948"
+      },
+      {
+        "site": "aniList",
+        "id": "11545"
       }
     ]
   }

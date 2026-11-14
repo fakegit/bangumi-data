@@ -15,6 +15,34 @@
       {
         "site": "bangumi",
         "id": "30170"
+      },
+      {
+        "site": "unext",
+        "id": "SID0017274",
+        "begin": "2019-12-17T03:00:00.000Z",
+        "broadcast": "R/2019-12-17T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10378",
+        "begin": "2022-03-08T01:00:00.000Z",
+        "broadcast": "R/2022-03-08T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/9249"
+      },
+      {
+        "site": "mal",
+        "id": "2128"
+      },
+      {
+        "site": "anidb",
+        "id": "1819"
+      },
+      {
+        "site": "aniList",
+        "id": "2128"
       }
     ]
   },
@@ -34,6 +62,22 @@
       {
         "site": "bangumi",
         "id": "165789"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/71149"
+      },
+      {
+        "site": "mal",
+        "id": "2575"
+      },
+      {
+        "site": "anidb",
+        "id": "3369"
+      },
+      {
+        "site": "aniList",
+        "id": "2575"
       }
     ]
   },
@@ -53,6 +97,85 @@
       {
         "site": "bangumi",
         "id": "10397"
+      },
+      {
+        "site": "unext",
+        "id": "SID0038237",
+        "begin": "2018-11-27T03:00:00.000Z",
+        "broadcast": "R/2018-11-27T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10304",
+        "begin": "2020-02-07T01:00:00.000Z",
+        "broadcast": "R/2020-02-07T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/67412"
+      },
+      {
+        "site": "mal",
+        "id": "5267"
+      },
+      {
+        "site": "anidb",
+        "id": "5411"
+      },
+      {
+        "site": "aniList",
+        "id": "5267"
+      }
+    ]
+  },
+  {
+    "title": "みつばちマーヤの冒険",
+    "titleTranslate": {
+      "zh-Hans": [
+        "玛亚历险记",
+        "玛雅历险记",
+        "小蜜蜂奇遇記"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1975-03-31T16:00:00.000Z",
+    "broadcast": "R/1975-03-31T16:00:00.000Z/P7D",
+    "end": "1976-04-19T15:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "211630"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003059",
+        "begin": "2014-12-19T06:00:00.000Z",
+        "broadcast": "R/2014-12-19T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23500",
+        "begin": "2020-04-24T01:00:00.000Z",
+        "broadcast": "R/2020-04-24T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/10620"
+      },
+      {
+        "site": "mal",
+        "id": "2571"
+      },
+      {
+        "site": "anidb",
+        "id": "1351"
+      },
+      {
+        "site": "aniList",
+        "id": "2571"
       }
     ]
   }

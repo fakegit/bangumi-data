@@ -3,6 +3,7 @@
     "title": "ブラック★ロックシューター(TVシリーズ)",
     "titleTranslate": {
       "en": [
+        "BLACK ROCK SHOOTER",
         "TV ANIMATION BLACK ROCK SHOOTER"
       ],
       "zh-Hans": [
@@ -25,11 +26,6 @@
         "begin": ""
       },
       {
-        "site": "letv",
-        "id": "71587",
-        "begin": ""
-      },
-      {
         "site": "bilibili",
         "id": "1665",
         "begin": "2012-02-01T16:00:00.000Z"
@@ -38,6 +34,36 @@
         "site": "qq",
         "id": "8/8ganxjtqlyl3dxp",
         "begin": ""
+      },
+      {
+        "site": "dmhy",
+        "id": "黑|rock+射手|ooter"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/43079"
+      },
+      {
+        "site": "mal",
+        "id": "11285"
+      },
+      {
+        "site": "anidb",
+        "id": "8584"
+      },
+      {
+        "site": "aniList",
+        "id": "11285"
+      },
+      {
+        "site": "acgnx",
+        "id": "黑|rock 射手|ooter"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GMEHME53W",
+        "begin": "2012-02-02T00:00:00.000Z",
+        "broadcast": "R/2012-02-02T00:00:00.000Z/P7D"
       }
     ]
   },
@@ -60,11 +86,6 @@
     "end": "2013-01-27T00:00:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "l76KCHDWRoTnZc0",
-        "begin": ""
-      },
-      {
         "site": "iqiyi",
         "id": "a_19rrhb14nh",
         "begin": "2015-10-09T03:15:46.000Z"
@@ -74,9 +95,40 @@
         "id": "27332"
       },
       {
-        "site": "netflix",
-        "id": "80057968",
-        "begin": "2015-12-18T08:00:00.000Z"
+        "site": "unext",
+        "id": "SID0011714",
+        "begin": "2022-10-08T03:00:00.000Z",
+        "broadcast": "R/2022-10-08T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "smile+precure"
+      },
+      {
+        "site": "danime",
+        "id": "24388",
+        "begin": "2020-12-11T01:00:00.000Z",
+        "broadcast": "R/2020-12-11T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/45801"
+      },
+      {
+        "site": "mal",
+        "id": "12191"
+      },
+      {
+        "site": "anidb",
+        "id": "8819"
+      },
+      {
+        "site": "aniList",
+        "id": "12191"
+      },
+      {
+        "site": "acgnx",
+        "id": "光之 smile"
       }
     ]
   },
@@ -94,13 +146,24 @@
     "end": "2012-02-15T16:40:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "aZxo5k60JGLFQ6s",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "13344"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/409382"
+      },
+      {
+        "site": "mal",
+        "id": "9523"
+      },
+      {
+        "site": "anidb",
+        "id": "7960"
+      },
+      {
+        "site": "aniList",
+        "id": "9523"
       }
     ]
   },
@@ -118,11 +181,6 @@
     "end": "2012-08-25T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "8CoWlPxia0hBz8Vk",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "43159"
       },
@@ -130,6 +188,18 @@
         "site": "nicovideo",
         "id": "patema",
         "begin": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/100068"
+      },
+      {
+        "site": "mal",
+        "id": "13429"
+      },
+      {
+        "site": "aniList",
+        "id": "13429"
       }
     ]
   },
@@ -147,13 +217,24 @@
     "end": "2012-02-15T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "M2lT0TmfD02wLpY",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "24546"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/358682"
+      },
+      {
+        "site": "mal",
+        "id": "12437"
+      },
+      {
+        "site": "aniList",
+        "id": "12437"
+      },
+      {
+        "site": "anidb",
+        "id": "8602"
       }
     ]
   },
@@ -183,9 +264,20 @@
         "begin": "2017-03-03T06:00:00.000Z"
       },
       {
-        "site": "netflix",
-        "id": "70258995",
-        "begin": "2016-10-15T07:00:00.000Z"
+        "site": "tmdb",
+        "id": "movie/113082"
+      },
+      {
+        "site": "mal",
+        "id": "10218"
+      },
+      {
+        "site": "aniList",
+        "id": "10218"
+      },
+      {
+        "site": "anidb",
+        "id": "7991"
       }
     ]
   },
@@ -207,14 +299,25 @@
         "id": "92509"
       },
       {
-        "site": "pptv",
-        "id": "KCQQjvZczApt61M",
-        "begin": ""
-      },
-      {
         "site": "youku",
         "id": "78471012234811e3a705",
         "begin": "2013-09-05T21:10:31.000Z"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/740128"
+      },
+      {
+        "site": "mal",
+        "id": "12599"
+      },
+      {
+        "site": "aniList",
+        "id": "12599"
+      },
+      {
+        "site": "anidb",
+        "id": "8881"
       }
     ]
   },
@@ -240,6 +343,26 @@
         "site": "bilibili",
         "id": "4608",
         "begin": "2012-02-22T16:00:00.000Z"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "5b4a05c424dd68674f5335be"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/201394"
+      },
+      {
+        "site": "mal",
+        "id": "12699"
+      },
+      {
+        "site": "anidb",
+        "id": "8942"
+      },
+      {
+        "site": "aniList",
+        "id": "12699"
       }
     ]
   },
@@ -265,6 +388,158 @@
         "site": "bilibili",
         "id": "4053",
         "begin": "2012-02-21T16:00:00.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002411",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10146",
+        "begin": "2017-11-10T01:00:00.000Z",
+        "broadcast": "R/2017-11-10T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "11773"
+      },
+      {
+        "site": "aniList",
+        "id": "11773"
+      },
+      {
+        "site": "anidb",
+        "id": "8690"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/27438/season/0/episode/11"
+      }
+    ]
+  },
+  {
+    "title": "ドラゴンボール エピソード オブ バーダック",
+    "titleTranslate": {
+      "zh-Hans": [
+        "龙珠 巴达克之章",
+        "新龙珠 - 巴达克之章"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2012-02-02T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2012-02-02T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "29120"
+      },
+      {
+        "site": "unext",
+        "id": "SID0038506",
+        "begin": "2018-12-01T03:00:00.000Z",
+        "broadcast": "R/2018-12-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "22506",
+        "begin": "2018-12-01T01:00:00.000Z",
+        "broadcast": "R/2018-12-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/120475"
+      },
+      {
+        "site": "mal",
+        "id": "12231"
+      },
+      {
+        "site": "aniList",
+        "id": "12231"
+      },
+      {
+        "site": "anidb",
+        "id": "8809"
+      }
+    ]
+  },
+  {
+    "title": "ドラゴンエイジ -ブラッドメイジの聖戦-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "龙腾世纪 -血法师的圣战-"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.dragonagemovie.jp/",
+    "begin": "2012-02-10T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2012-02-10T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "29412"
+      },
+      {
+        "site": "mal",
+        "id": "11705"
+      },
+      {
+        "site": "anidb",
+        "id": "8557"
+      },
+      {
+        "site": "aniList",
+        "id": "11705"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/103173"
+      }
+    ]
+  },
+  {
+    "title": "ギョ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "鱼"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.animebunko.com/gyo/",
+    "begin": "2012-02-14T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2012-02-14T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "13345"
+      },
+      {
+        "site": "mal",
+        "id": "10417"
+      },
+      {
+        "site": "anidb",
+        "id": "8315"
+      },
+      {
+        "site": "aniList",
+        "id": "10417"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/94684"
       }
     ]
   }

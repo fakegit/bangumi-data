@@ -4,6 +4,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "海螺小姐"
+      ],
+      "zh-Hant": [
+        "海螺小姐"
       ]
     },
     "type": "tv",
@@ -22,6 +25,45 @@
         "id": "2486",
         "begin": "1969-10-04T16:00:00.000Z",
         "broadcast": "R/1969-10-05T09:30:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "1327"
+      },
+      {
+        "site": "unext",
+        "id": "SID0187914",
+        "begin": "2025-05-01T03:00:00.000Z",
+        "broadcast": "R/2025-05-01T03:00:00.000Z/P7D",
+        "comment": "1960～70年代: SID0187913"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/153485"
+      },
+      {
+        "site": "mal",
+        "id": "2406"
+      },
+      {
+        "site": "anidb",
+        "id": "1830"
+      },
+      {
+        "site": "aniList",
+        "id": "2406"
+      },
+      {
+        "site": "gamer",
+        "id": "21504",
+        "begin": "2026-03-27T04:00:00.000Z",
+        "broadcast": "R/2026-03-27T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "21504",
+        "begin": "2026-03-27T04:00:00.000Z",
+        "broadcast": "R/2026-03-27T04:00:00.000Z/P7D"
       }
     ]
   },
@@ -41,6 +83,22 @@
       {
         "site": "bangumi",
         "id": "53801"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/25114"
+      },
+      {
+        "site": "mal",
+        "id": "3009"
+      },
+      {
+        "site": "anidb",
+        "id": "864"
+      },
+      {
+        "site": "aniList",
+        "id": "3009"
       }
     ]
   },
@@ -65,6 +123,40 @@
         "site": "bilibili",
         "id": "8272",
         "begin": "1969-10-04T16:00:01.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002779",
+        "begin": "2019-08-31T03:00:00.000Z",
+        "broadcast": "R/2019-08-31T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23233",
+        "begin": "2020-02-01T01:00:00.000Z",
+        "broadcast": "R/2020-02-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/62340"
+      },
+      {
+        "site": "mal",
+        "id": "2892"
+      },
+      {
+        "site": "anidb",
+        "id": "2740"
+      },
+      {
+        "site": "aniList",
+        "id": "2892"
+      },
+      {
+        "site": "abema",
+        "id": "19-212",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }

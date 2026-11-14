@@ -3,13 +3,15 @@
     "title": "DIABOLIK LOVERS MORE,BLOOD",
     "titleTranslate": {
       "zh-Hans": [
-        "魔鬼恋人 第二季"
+        "魔鬼恋人 第二季",
+        "魔鬼恋人 第2期"
       ],
       "en": [
         "DIABOLIK LOVERS MORE,BLOOD"
       ],
       "zh-Hant": [
-        "魔鬼戀人 第2季"
+        "魔鬼戀人 第2季",
+        "魔鬼戀人 第二季"
       ]
     },
     "type": "tv",
@@ -38,10 +40,48 @@
         "begin": "2015-09-25T03:14:31.000Z"
       },
       {
-        "site": "muse_hk",
-        "id": "PLuxqoToY7UcjA7aCvdC0Hxot6oJWMcD5j",
-        "begin": "2019-10-17T16:00:00.000Z",
-        "broadcast": "R/2019-10-17T16:00:00.000Z/P7D"
+        "site": "unext",
+        "id": "SID0020150",
+        "begin": "2017-02-09T03:00:00.000Z",
+        "broadcast": "R/2017-02-09T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "魔鬼+MORE"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "560d0cf79286e15329cf94d0"
+      },
+      {
+        "site": "mikan",
+        "id": "574"
+      },
+      {
+        "site": "danime",
+        "id": "20387",
+        "begin": "2015-10-18T03:00:00.000Z",
+        "broadcast": "R/2015-10-18T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/61512/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "29974"
+      },
+      {
+        "site": "anidb",
+        "id": "11068"
+      },
+      {
+        "site": "aniList",
+        "id": "21046"
+      },
+      {
+        "site": "acgnx",
+        "id": "魔鬼 MORE"
       }
     ]
   },
@@ -61,6 +101,18 @@
       {
         "site": "bangumi",
         "id": "132770"
+      },
+      {
+        "site": "mal",
+        "id": "31640"
+      },
+      {
+        "site": "aniList",
+        "id": "21367"
+      },
+      {
+        "site": "anidb",
+        "id": "11614"
       }
     ]
   },
@@ -78,16 +130,6 @@
     "end": "2015-09-19T17:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "UffhX8ctndsibvCQ",
-        "begin": ""
-      },
-      {
-        "site": "letv",
-        "id": "10020353",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "119344"
       },
@@ -99,12 +141,55 @@
       {
         "site": "bilibili",
         "id": "4032",
-        "begin": "2015-09-18T16:00:01.000Z"
+        "begin": "2015-09-18T16:00:01.000Z",
+        "broadcast": "R/2017-11-13T06:27:00.000Z/P7D"
       },
       {
         "site": "youku",
         "id": "1eae60ee55f211e5b432",
         "begin": "2018-01-03T07:11:03.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0030438",
+        "begin": "2019-02-14T03:00:00.000Z",
+        "broadcast": "R/2019-02-14T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "5596edd8a0b788232ee352ef"
+      },
+      {
+        "site": "mikan",
+        "id": "810"
+      },
+      {
+        "site": "danime",
+        "id": "21662",
+        "begin": "2017-07-08T01:00:00.000Z",
+        "broadcast": "R/2017-07-08T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0FLH9SZPS",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/364111"
+      },
+      {
+        "site": "mal",
+        "id": "28725"
+      },
+      {
+        "site": "anidb",
+        "id": "10959"
+      },
+      {
+        "site": "aniList",
+        "id": "20968"
       }
     ]
   },
@@ -126,19 +211,33 @@
         "id": "119985"
       },
       {
-        "site": "nicovideo",
-        "id": "wakeupgirls_seisilyun",
-        "begin": "2014-01-13T15:30:00.000Z"
-      },
-      {
-        "site": "pptv",
-        "id": "Vib7KSLAWhsQnpQ0",
-        "begin": ""
-      },
-      {
         "site": "youku",
         "id": "781d52d255f411e5a080",
         "begin": "2016-01-27T08:10:59.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0019864",
+        "begin": "2019-04-12T03:00:00.000Z",
+        "broadcast": "R/2019-04-12T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "21788",
+        "begin": "2017-09-29T01:00:00.000Z",
+        "broadcast": "R/2017-09-29T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/357413"
+      },
+      {
+        "site": "mal",
+        "id": "28841"
+      },
+      {
+        "site": "aniList",
+        "id": "20989"
       }
     ]
   },
@@ -161,14 +260,26 @@
         "id": "129014"
       },
       {
-        "site": "pptv",
-        "id": "bcGrKZH3Z6UIhu4",
-        "begin": ""
-      },
-      {
         "site": "bilibili",
         "id": "3523",
-        "begin": "2015-09-17T16:00:00.000Z"
+        "begin": "2015-09-17T16:00:00.000Z",
+        "broadcast": "R/2016-04-25T06:08:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/61461/season/0"
+      },
+      {
+        "site": "mal",
+        "id": "30370"
+      },
+      {
+        "site": "anidb",
+        "id": "11143"
+      },
+      {
+        "site": "aniList",
+        "id": "21138"
       }
     ]
   },
@@ -176,7 +287,12 @@
     "title": "劇場版 ハイキュー!! 勝者と敗者",
     "titleTranslate": {
       "zh-Hans": [
-        "排球少年剧场版 胜者与败者"
+        "排球少年剧场版 胜者与败者",
+        "排球少年!! 剧场版 - 胜者与败者"
+      ],
+      "zh-Hant": [
+        "排球少年!! 劇場版：勝者與敗者",
+        "排球少年！！劇場版：勝者與敗者"
       ]
     },
     "type": "movie",
@@ -193,12 +309,151 @@
       {
         "site": "bilibili",
         "id": "82132",
-        "begin": "2015-09-17T16:00:00.000Z"
+        "begin": "2015-09-17T16:00:00.000Z",
+        "broadcast": "R/2018-04-08T09:05:00.000Z/P7D"
       },
       {
         "site": "youku",
         "id": "a5d6d15855e511e5b522",
         "begin": "2020-07-03T10:35:44.000Z"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JgdWqkc38w1s2ftrvict4zQ",
+        "begin": "2023-03-30T16:00:00.000Z",
+        "broadcast": "R/2023-03-30T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0019863",
+        "begin": "2019-04-29T03:00:00.000Z",
+        "broadcast": "R/2019-04-29T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "80134174",
+        "begin": "2023-12-31T00:00:00.000Z",
+        "broadcast": "R/2023-12-31T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "75254",
+        "begin": "2024-02-27T04:00:00.000Z",
+        "broadcast": "R/2024-02-27T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "75254",
+        "begin": "2024-02-27T04:00:00.000Z",
+        "broadcast": "R/2024-02-27T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/347186"
+      },
+      {
+        "site": "mal",
+        "id": "30364"
+      },
+      {
+        "site": "aniList",
+        "id": "21244"
+      }
+    ]
+  },
+  {
+    "title": "映画かいけつゾロリ うちゅうの勇者たち",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://zorori-movie.jp/uchunoyushatachi/",
+    "begin": "2015-09-11T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2015-09-11T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "414423"
+      },
+      {
+        "site": "unext",
+        "id": "SID0031939",
+        "begin": "2019-07-04T03:00:00.000Z",
+        "broadcast": "R/2019-07-04T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "22791",
+        "begin": "2023-08-27T15:00:00.000Z",
+        "broadcast": "R/2023-08-27T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/812926"
+      },
+      {
+        "site": "mal",
+        "id": "30313"
+      },
+      {
+        "site": "anidb",
+        "id": "11133"
+      },
+      {
+        "site": "aniList",
+        "id": "21095"
+      }
+    ]
+  },
+  {
+    "title": "東京喰種トーキョーグール［JACK］",
+    "titleTranslate": {
+      "zh-Hans": [
+        "东京喰种 JACK",
+        "东京食尸鬼 JACK",
+        "东京喰种 Tokyo Ghoul JACK"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.marv.jp/special/tokyoghoul/first/products_ova.html#filter=.jack",
+    "begin": "2015-09-29T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2015-09-29T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "129687"
+      },
+      {
+        "site": "unext",
+        "id": "SID0020437",
+        "begin": "2020-06-30T15:00:00.000Z",
+        "broadcast": "R/2020-06-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "20459",
+        "begin": "2020-07-01T01:00:00.000Z",
+        "broadcast": "R/2020-07-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/483685"
+      },
+      {
+        "site": "anidb",
+        "id": "11268"
+      },
+      {
+        "site": "mal",
+        "id": "30458"
+      },
+      {
+        "site": "aniList",
+        "id": "21132"
       }
     ]
   }

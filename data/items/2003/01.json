@@ -3,7 +3,10 @@
     "title": "超ロボット生命体トランスフォーマー　マイクロン伝説",
     "titleTranslate": {
       "zh-Hans": [
-        "变形金刚：微型传说"
+        "变形金刚：微型传说",
+        "超机械生命体变形金刚 微型传说",
+        "变形金刚：微米传说",
+        "变形金刚：雷霆舰队"
       ]
     },
     "type": "tv",
@@ -24,12 +27,30 @@
       {
         "site": "bilibili",
         "id": "1987",
-        "begin": "2003-01-10T16:00:00.000Z"
+        "begin": "2003-01-10T16:00:00.000Z",
+        "broadcast": "R/2012-04-16T05:07:31.000Z/P7D"
       },
       {
-        "site": "letv",
-        "id": "46063",
-        "begin": ""
+        "site": "danime",
+        "id": "23223",
+        "begin": "2020-03-13T01:00:00.000Z",
+        "broadcast": "R/2020-03-13T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/982"
+      },
+      {
+        "site": "mal",
+        "id": "1675"
+      },
+      {
+        "site": "anidb",
+        "id": "525"
+      },
+      {
+        "site": "aniList",
+        "id": "1675"
       }
     ]
   },
@@ -37,7 +58,9 @@
     "title": "出撃！マシンロボレスキュー",
     "titleTranslate": {
       "zh-Hans": [
-        "机甲露宝"
+        "机甲露宝",
+        "出击！机器人救援队",
+        "救難小英雄"
       ]
     },
     "type": "tv",
@@ -49,6 +72,28 @@
       {
         "site": "bangumi",
         "id": "37244"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/16810"
+      },
+      {
+        "site": "danime",
+        "id": "22892",
+        "begin": "2025-12-12T15:00:00.000Z",
+        "broadcast": "R/2025-12-12T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "3098"
+      },
+      {
+        "site": "anidb",
+        "id": "629"
+      },
+      {
+        "site": "aniList",
+        "id": "3098"
       }
     ]
   },
@@ -66,13 +111,30 @@
     "end": "2003-12-29T09:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "5VRAviaaMicDqdG4M",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "9352"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003065",
+        "begin": "2015-02-17T03:00:00.000Z",
+        "broadcast": "R/2015-02-17T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/54728/season/3"
+      },
+      {
+        "site": "mal",
+        "id": "1668"
+      },
+      {
+        "site": "anidb",
+        "id": "594"
+      },
+      {
+        "site": "aniList",
+        "id": "1668"
       }
     ]
   },
@@ -80,7 +142,8 @@
     "title": ".hack//黄昏の腕輪伝説",
     "titleTranslate": {
       "zh-Hans": [
-        ".hack//黄昏腕轮传说"
+        ".hack//黄昏腕轮传说",
+        "黑客黄昏腕轮传说"
       ]
     },
     "type": "tv",
@@ -89,11 +152,6 @@
     "begin": "2003-01-08T15:55:00.000Z",
     "end": "2003-03-26T16:25:00.000Z",
     "sites": [
-      {
-        "site": "pptv",
-        "id": "GToFgibtRwf9ia4Eg",
-        "begin": ""
-      },
       {
         "site": "qq",
         "id": "x/xv17e18ydv95v38",
@@ -106,7 +164,36 @@
       {
         "site": "bilibili",
         "id": "1959",
-        "begin": "2003-01-07T16:00:00.000Z"
+        "begin": "2003-01-07T16:00:00.000Z",
+        "broadcast": "R/2017-03-19T06:24:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0015951",
+        "begin": "2022-12-01T03:00:00.000Z",
+        "broadcast": "R/2022-12-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "25930",
+        "begin": "2022-11-30T15:00:00.000Z",
+        "broadcast": "R/2022-11-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/8864/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "298"
+      },
+      {
+        "site": "anidb",
+        "id": "447"
+      },
+      {
+        "site": "aniList",
+        "id": "298"
       }
     ]
   },
@@ -124,13 +211,36 @@
     "end": "2003-03-26T01:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "pibjUUrogkM4xrxc",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "21104"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002163",
+        "begin": "2018-04-13T03:00:00.000Z",
+        "broadcast": "R/2018-04-13T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23263",
+        "begin": "2021-12-10T01:00:00.000Z",
+        "broadcast": "R/2021-12-10T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/42787"
+      },
+      {
+        "site": "mal",
+        "id": "1456"
+      },
+      {
+        "site": "anidb",
+        "id": "467"
+      },
+      {
+        "site": "aniList",
+        "id": "1456"
       }
     ]
   },
@@ -150,6 +260,34 @@
       {
         "site": "bangumi",
         "id": "37500"
+      },
+      {
+        "site": "danime",
+        "id": "10034",
+        "begin": "2013-09-06T01:00:00.000Z",
+        "broadcast": "R/2013-09-06T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/27942"
+      },
+      {
+        "site": "mal",
+        "id": "1097"
+      },
+      {
+        "site": "aniList",
+        "id": "1097"
+      },
+      {
+        "site": "anidb",
+        "id": "448"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002923",
+        "begin": "2026-09-24T03:00:00.000Z",
+        "broadcast": "R/2026-09-24T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -167,11 +305,6 @@
     "end": "2003-07-29T16:00:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "Pwr1c9tBse9S0Dg",
-        "begin": ""
-      },
-      {
         "site": "iqiyi",
         "id": "a_19rrhabe4d",
         "begin": "2016-01-08T10:12:34.000Z"
@@ -188,7 +321,24 @@
       {
         "site": "bilibili",
         "id": "2913",
-        "begin": "2003-01-05T16:00:00.000Z"
+        "begin": "2003-01-05T16:00:00.000Z",
+        "broadcast": "R/2015-10-29T09:03:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/34801"
+      },
+      {
+        "site": "mal",
+        "id": "202"
+      },
+      {
+        "site": "anidb",
+        "id": "449"
+      },
+      {
+        "site": "aniList",
+        "id": "202"
       }
     ]
   },
@@ -206,18 +356,42 @@
     "end": "2003-03-27T17:37:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "p5Vw7la8LGrNS7M",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "3395"
       },
       {
         "site": "bilibili",
         "id": "1234",
-        "begin": "2003-01-09T16:00:00.000Z"
+        "begin": "2003-01-09T16:00:00.000Z",
+        "broadcast": "R/2011-04-01T13:21:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0017013",
+        "begin": "2020-12-21T03:00:00.000Z",
+        "broadcast": "R/2020-12-21T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10123",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/34067"
+      },
+      {
+        "site": "mal",
+        "id": "273"
+      },
+      {
+        "site": "anidb",
+        "id": "458"
+      },
+      {
+        "site": "aniList",
+        "id": "273"
       }
     ]
   },
@@ -236,13 +410,36 @@
     "end": "2003-03-29T15:45:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "DT0Ihu5UxAJl40s",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "10414"
+      },
+      {
+        "site": "unext",
+        "id": "SID0015337",
+        "begin": "2023-09-01T03:00:00.000Z",
+        "broadcast": "R/2023-09-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26558",
+        "begin": "2024-05-01T15:00:00.000Z",
+        "broadcast": "R/2024-05-01T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/34182"
+      },
+      {
+        "site": "mal",
+        "id": "421"
+      },
+      {
+        "site": "anidb",
+        "id": "445"
+      },
+      {
+        "site": "aniList",
+        "id": "421"
       }
     ]
   },
@@ -267,6 +464,22 @@
         "site": "youku",
         "id": "060488e0bb3f11e0a046",
         "begin": "2018-01-22T08:03:19.000Z"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/34205"
+      },
+      {
+        "site": "mal",
+        "id": "776"
+      },
+      {
+        "site": "anidb",
+        "id": "473"
+      },
+      {
+        "site": "aniList",
+        "id": "776"
       }
     ]
   },
@@ -292,6 +505,34 @@
       {
         "site": "bangumi",
         "id": "593"
+      },
+      {
+        "site": "unext",
+        "id": "SID0011328",
+        "begin": "2018-05-18T03:00:00.000Z",
+        "broadcast": "R/2018-05-18T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "20129",
+        "begin": "2020-02-20T01:00:00.000Z",
+        "broadcast": "R/2020-02-20T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/67199"
+      },
+      {
+        "site": "mal",
+        "id": "1257"
+      },
+      {
+        "site": "aniList",
+        "id": "1257"
+      },
+      {
+        "site": "anidb",
+        "id": "343"
       }
     ]
   },
@@ -309,13 +550,24 @@
     "end": "2003-03-23T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "8z0Hhe1TwwFk4ko",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "58719"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/39025"
+      },
+      {
+        "site": "mal",
+        "id": "624"
+      },
+      {
+        "site": "anidb",
+        "id": "450"
+      },
+      {
+        "site": "aniList",
+        "id": "624"
       }
     ]
   },
@@ -337,9 +589,20 @@
         "id": "23155"
       },
       {
-        "site": "pptv",
-        "id": "laGcGoLoWJb5d98",
-        "begin": ""
+        "site": "tmdb",
+        "id": "tv/45271/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "362"
+      },
+      {
+        "site": "anidb",
+        "id": "574"
+      },
+      {
+        "site": "aniList",
+        "id": "362"
       }
     ]
   }

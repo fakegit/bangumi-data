@@ -22,14 +22,38 @@
         "begin": ""
       },
       {
-        "site": "pptv",
-        "id": "ibZ32dNxCsvBT0Tk",
-        "begin": ""
-      },
-      {
         "site": "bilibili",
         "id": "3931",
-        "begin": "1991-08-08T16:00:01.000Z"
+        "begin": "1991-08-08T16:00:01.000Z",
+        "broadcast": "R/2021-03-31T11:39:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0013278",
+        "begin": "2018-10-01T03:00:00.000Z",
+        "broadcast": "R/2018-10-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "21752",
+        "begin": "2017-09-08T01:00:00.000Z",
+        "broadcast": "R/2017-09-08T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/80865"
+      },
+      {
+        "site": "mal",
+        "id": "1423"
+      },
+      {
+        "site": "anidb",
+        "id": "2137"
+      },
+      {
+        "site": "aniList",
+        "id": "1423"
       }
     ]
   },
@@ -37,7 +61,8 @@
     "title": "人魚の森",
     "titleTranslate": {
       "zh-Hans": [
-        "人鱼之森"
+        "人鱼之森",
+        "人鱼之森 OVA"
       ]
     },
     "type": "ova",
@@ -46,11 +71,6 @@
     "begin": "1991-08-16T16:00:00.000Z",
     "end": "1991-08-16T16:30:00.000Z",
     "sites": [
-      {
-        "site": "pptv",
-        "id": "K2Vf3UWrG1m8OqI",
-        "begin": ""
-      },
       {
         "site": "qq",
         "id": "i/izzhgoy2bctltv6",
@@ -62,8 +82,25 @@
       },
       {
         "site": "bilibili",
-        "id": "1965",
-        "begin": "2003-10-03T16:00:00.000Z"
+        "id": "3964",
+        "begin": "2016-05-05T07:36:00.000Z",
+        "broadcast": "R/2016-05-05T07:36:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/213706"
+      },
+      {
+        "site": "mal",
+        "id": "2016"
+      },
+      {
+        "site": "anidb",
+        "id": "817"
+      },
+      {
+        "site": "aniList",
+        "id": "2016"
       }
     ]
   },
@@ -81,13 +118,24 @@
     "end": "1992-04-25T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "Pw34dt5EtPJV0zs",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "32291"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/80239"
+      },
+      {
+        "site": "mal",
+        "id": "1178"
+      },
+      {
+        "site": "aniList",
+        "id": "1178"
+      },
+      {
+        "site": "anidb",
+        "id": "740"
       }
     ]
   },
@@ -105,13 +153,79 @@
     "end": "1991-08-17T17:00:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "7kUvrRV76ymMCnI",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "28628"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1183942"
+      },
+      {
+        "site": "mal",
+        "id": "1762"
+      },
+      {
+        "site": "aniList",
+        "id": "1762"
+      },
+      {
+        "site": "anidb",
+        "id": "519"
+      }
+    ]
+  },
+  {
+    "title": "サイレントメビウス",
+    "titleTranslate": {
+      "zh-Hans": [
+        "魔法阵都市 剧场版",
+        "未来特警 剧场版",
+        "魔法阵都市 剧场版 上篇"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1991-08-16T15:00:00.000Z",
+    "end": "1991-08-16T15:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "41876"
+      },
+      {
+        "site": "bilibili",
+        "id": "2500",
+        "begin": "2014-06-07T08:40:00.000Z",
+        "broadcast": "R/2014-06-07T08:40:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10058",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0217694",
+        "begin": "2025-08-18T03:00:00.000Z",
+        "broadcast": "R/2025-08-18T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/51415"
+      },
+      {
+        "site": "mal",
+        "id": "2099"
+      },
+      {
+        "site": "anidb",
+        "id": "2334"
+      },
+      {
+        "site": "aniList",
+        "id": "2099"
       }
     ]
   }

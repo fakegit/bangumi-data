@@ -3,7 +3,9 @@
     "title": "機神咆吼デモンベイン",
     "titleTranslate": {
       "zh-Hans": [
-        "机神咆吼Demonbane"
+        "机神咆吼Demonbane",
+        "机神咆哮Demonbane",
+        "斩魔大圣"
       ]
     },
     "type": "tv",
@@ -13,23 +15,47 @@
     "end": "2006-08-17T15:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "t4J9ib2PJOXfaWMA",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "7106"
       },
       {
         "site": "bilibili",
         "id": "1473",
-        "begin": "2006-05-17T16:00:00.000Z"
+        "begin": "2006-05-17T16:00:00.000Z",
+        "broadcast": "R/2012-10-15T04:44:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
         "id": "demonbane",
         "begin": "2019-12-13T06:00:00.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0096729",
+        "begin": "2024-01-10T03:00:00.000Z",
+        "broadcast": "R/2024-01-10T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10087",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/44509"
+      },
+      {
+        "site": "mal",
+        "id": "1067"
+      },
+      {
+        "site": "aniList",
+        "id": "1067"
+      },
+      {
+        "site": "anidb",
+        "id": "4021"
       }
     ]
   },
@@ -47,13 +73,24 @@
     "end": "2006-08-10T14:00:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "8jwIhu5UxAJl40s",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "10246"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/34135"
+      },
+      {
+        "site": "mal",
+        "id": "990"
+      },
+      {
+        "site": "anidb",
+        "id": "4147"
+      },
+      {
+        "site": "aniList",
+        "id": "990"
       }
     ]
   },
@@ -79,6 +116,180 @@
         "site": "nicovideo",
         "id": "fullmetal-panic-secondraid2",
         "begin": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0013379",
+        "begin": "2018-04-20T03:00:00.000Z",
+        "broadcast": "R/2018-04-20T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/39379/season/0/episode/4"
+      }
+    ]
+  },
+  {
+    "title": "Memories Off #5 とぎれたフィルム THE ANIMATION",
+    "titleTranslate": {
+      "zh-Hans": [
+        "秋之回忆5 中断的胶片"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2006-05-24T16:00:00.000Z",
+    "end": "2006-05-24T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "23157"
+      },
+      {
+        "site": "bilibili",
+        "id": "4916",
+        "begin": "2016-06-17T09:15:00.000Z",
+        "broadcast": "R/2016-06-17T09:15:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/45271/season/0"
+      },
+      {
+        "site": "mal",
+        "id": "1071"
+      },
+      {
+        "site": "aniList",
+        "id": "1071"
+      },
+      {
+        "site": "anidb",
+        "id": "4139"
+      }
+    ]
+  },
+  {
+    "title": "機動戦士ガンダムSEED DESTINY スペシャルエディション",
+    "titleTranslate": {
+      "zh-Hans": [
+        "机动战士高达SEED DESTINY Special Edition",
+        "机动战士高达SEED DESTINY 总集篇"
+      ],
+      "zh-Hant": [
+        "機動戰士鋼彈SEED DESTINY Special Edition"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.gundam-seed-d.net/",
+    "begin": "2006-05-25T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2007-02-22T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "117899"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtRk9dvOcrYDFbD0ng1_PqiP",
+        "begin": "2024-06-23T08:00:07.000Z",
+        "broadcast": "R/2024-06-23T08:00:07.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0CK75XZ1Y",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/399696"
+      },
+      {
+        "site": "mal",
+        "id": "2294"
+      },
+      {
+        "site": "aniList",
+        "id": "2294"
+      }
+    ]
+  },
+  {
+    "title": "はなれの砦ヨナ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "远方城堡里的优娜",
+        "孤独之城的优娜"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2006-05-27T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2006-05-27T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "9324"
+      },
+      {
+        "site": "unext",
+        "id": "SID0013606",
+        "begin": "2009-03-06T06:00:00.000Z",
+        "broadcast": "R/2009-03-06T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10178",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/59295"
+      },
+      {
+        "site": "mal",
+        "id": "1031"
+      },
+      {
+        "site": "anidb",
+        "id": "3974"
+      },
+      {
+        "site": "aniList",
+        "id": "1031"
+      }
+    ]
+  },
+  {
+    "title": "ニュー ハル&amp;ボンス",
+    "titleTranslate": {},
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2006-05-26T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2006-05-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "118798"
+      },
+      {
+        "site": "unext",
+        "id": "SID0043570",
+        "begin": "2019-10-07T03:00:00.000Z",
+        "broadcast": "R/2019-10-07T03:00:00.000Z/P7D"
       }
     ]
   }

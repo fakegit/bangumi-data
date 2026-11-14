@@ -13,11 +13,6 @@
     "end": "1974-12-29T01:45:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "IxjjYckvn91AviaY",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "5487"
       },
@@ -25,6 +20,89 @@
         "site": "bilibili",
         "id": "2480",
         "begin": "1974-01-05T16:00:00.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0013819",
+        "begin": "2021-09-24T03:00:00.000Z",
+        "broadcast": "R/2021-09-24T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10988",
+        "begin": "2013-09-06T01:00:00.000Z",
+        "broadcast": "R/2013-09-06T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/29452"
+      },
+      {
+        "site": "mal",
+        "id": "2225"
+      },
+      {
+        "site": "anidb",
+        "id": "426"
+      },
+      {
+        "site": "aniList",
+        "id": "2225"
+      }
+    ]
+  },
+  {
+    "title": "小さなバイキングビッケ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "七海小英雄"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1974-01-30T15:00:00.000Z",
+    "broadcast": "R/1974-01-30T15:00:00.000Z/P7D",
+    "end": "1975-09-23T15:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "220026"
+      },
+      {
+        "site": "danime",
+        "id": "10986",
+        "begin": "2013-09-06T01:00:00.000Z",
+        "broadcast": "R/2013-09-06T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0067216",
+        "begin": "2022-03-01T03:00:00.000Z",
+        "broadcast": "R/2022-03-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/35257"
+      },
+      {
+        "site": "mal",
+        "id": "2836"
+      },
+      {
+        "site": "aniList",
+        "id": "2836"
+      },
+      {
+        "site": "anidb",
+        "id": "1825"
+      },
+      {
+        "site": "abema",
+        "id": "177-293",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }

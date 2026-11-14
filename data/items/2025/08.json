@@ -1,0 +1,402 @@
+[
+  {
+    "title": "夢中さ、きみに。",
+    "titleTranslate": {
+      "zh-Hans": [
+        "为你着迷"
+      ],
+      "zh-Hant": [
+        "為你著迷"
+      ],
+      "en": [
+        "Captivated, by You"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://karaoke-muchusa.com/muchusa/",
+    "begin": "2025-08-21T12:30:00.000Z",
+    "broadcast": "R/2025-08-21T12:30:00.000Z/P7D",
+    "end": "2025-09-18T13:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "519958"
+      },
+      {
+        "site": "nicovideo",
+        "id": "muchusa",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "6862b06bdffbea3b3f911b3d"
+      },
+      {
+        "site": "unext",
+        "id": "SID0200150",
+        "begin": "2025-08-24T13:00:00.000Z",
+        "broadcast": "R/2025-08-24T13:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "25-291",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "281606076",
+        "begin": "2025-11-11T12:00:00.000Z",
+        "broadcast": "R/2025-11-11T12:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "145946",
+        "begin": "2025-08-21T12:30:00.000Z",
+        "broadcast": "R/2025-08-21T12:30:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "145946",
+        "begin": "2025-08-21T12:30:00.000Z",
+        "broadcast": "R/2025-08-21T12:30:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtQZe7c3vIyMvgWjyXZsEK_T",
+        "begin": "2025-08-21T12:30:06.000Z",
+        "broadcast": "R/2025-08-21T12:30:06.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7Jj7H_29_-ZpnYRA0Gx-ESrI",
+        "begin": "2025-08-21T12:30:00.000Z",
+        "broadcast": "R/2025-08-21T12:30:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3712"
+      },
+      {
+        "site": "danime",
+        "id": "28110",
+        "begin": "2025-08-24T13:00:00.000Z",
+        "broadcast": "R/2025-08-24T13:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0FC2PC12V",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "disneyplus",
+        "id": "2r4X7SLXgV4y",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/274548"
+      },
+      {
+        "site": "mal",
+        "id": "60130"
+      },
+      {
+        "site": "anidb",
+        "id": "18930"
+      },
+      {
+        "site": "aniList",
+        "id": "183128"
+      },
+      {
+        "site": "netflix",
+        "id": "82074350",
+        "begin": "2026-01-30T16:00:00.000Z",
+        "broadcast": "R/2026-01-30T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "acgnx",
+        "id": "為你着迷"
+      },
+      {
+        "site": "anibt",
+        "id": "519958"
+      },
+      {
+        "site": "dmhy",
+        "id": "為你着迷"
+      }
+    ]
+  },
+  {
+    "title": "ChaO",
+    "titleTranslate": {
+      "zh-Hans": [
+        "ChaO，我代表人類跟人魚結婚了"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://chao-movie.com/",
+    "begin": "2025-08-14T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2025-08-14T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "533246"
+      },
+      {
+        "site": "unext",
+        "id": "SID0236339",
+        "begin": "2025-09-26T03:00:00.000Z",
+        "broadcast": "R/2025-09-26T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1419053"
+      },
+      {
+        "site": "mal",
+        "id": "60774"
+      },
+      {
+        "site": "anidb",
+        "id": "19111"
+      },
+      {
+        "site": "aniList",
+        "id": "186169"
+      },
+      {
+        "site": "mikan",
+        "id": "3728"
+      },
+      {
+        "site": "danime",
+        "id": "28783",
+        "begin": "2026-04-30T15:00:00.000Z",
+        "broadcast": "R/2026-04-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "anibt",
+        "id": "533246"
+      }
+    ]
+  },
+  {
+    "title": "Bâan -大人の彊界-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Bâan -大人的彊界-"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2025-08-23T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2025-08-23T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "568136"
+      },
+      {
+        "site": "mikan",
+        "id": "3800"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1508427"
+      },
+      {
+        "site": "mal",
+        "id": "61984"
+      },
+      {
+        "site": "anidb",
+        "id": "19441"
+      },
+      {
+        "site": "aniList",
+        "id": "195494"
+      },
+      {
+        "site": "anibt",
+        "id": "568136"
+      }
+    ]
+  },
+  {
+    "title": "アズワン／AS ONE",
+    "titleTranslate": {
+      "zh-Hans": [
+        "AS ONE"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://gaga.ne.jp/asone/",
+    "begin": "2025-08-21T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2025-08-21T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "541539"
+      },
+      {
+        "site": "unext",
+        "id": "SID0237762",
+        "begin": "2025-12-09T15:00:00.000Z",
+        "broadcast": "R/2025-12-09T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "61139"
+      },
+      {
+        "site": "anidb",
+        "id": "19195"
+      },
+      {
+        "site": "aniList",
+        "id": "187317"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1446746"
+      },
+      {
+        "site": "anibt",
+        "id": "541539"
+      }
+    ]
+  },
+  {
+    "title": "クレヨンしんちゃん 超華麗!灼熱のカスカベダンサーズ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "蜡笔小新：超华丽！灼热的春日部舞者",
+        "蜡笔小新：灼热的春日部舞者们"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.shinchan-movie.com/2025/",
+    "begin": "2025-08-07T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2025-08-07T17:45:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "528635"
+      },
+      {
+        "site": "mikan",
+        "id": "3813"
+      },
+      {
+        "site": "mal",
+        "id": "60862"
+      },
+      {
+        "site": "aniList",
+        "id": "185537"
+      },
+      {
+        "site": "anidb",
+        "id": "19256"
+      },
+      {
+        "site": "unext",
+        "id": "SID0257188",
+        "begin": "2026-02-25T03:00:00.000Z",
+        "broadcast": "R/2026-02-25T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1404404"
+      },
+      {
+        "site": "abema",
+        "id": "35-135",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "anibt",
+        "id": "528635"
+      }
+    ]
+  },
+  {
+    "title": "不思議の国でアリスと -Dive in Wonderland-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "与爱丽丝梦游仙境 -Dive in Wonderland-",
+        "穿越吧！不思议少女"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://sh-anime.shochiku.co.jp/alice-movie/",
+    "begin": "2025-08-28T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2025-08-28T17:35:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "533335"
+      },
+      {
+        "site": "unext",
+        "id": "SID0281592",
+        "begin": "2026-03-24T15:00:00.000Z",
+        "broadcast": "R/2026-03-24T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "60778"
+      },
+      {
+        "site": "aniList",
+        "id": "186181"
+      },
+      {
+        "site": "anidb",
+        "id": "19110"
+      },
+      {
+        "site": "mikan",
+        "id": "3817"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1418665"
+      },
+      {
+        "site": "anibt",
+        "id": "533335"
+      },
+      {
+        "site": "prime",
+        "id": "B0GMS2BX7D",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
+  }
+]

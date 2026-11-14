@@ -4,6 +4,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "鲁邦三世：卡里奥斯特罗城"
+      ],
+      "zh-Hant": [
+        "魯邦三世 卡里奧斯特羅城"
       ]
     },
     "type": "movie",
@@ -20,6 +23,46 @@
         "site": "nicovideo",
         "id": "cagliostro",
         "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "28368676",
+        "begin": "2024-03-12T10:00:00.000Z",
+        "broadcast": "R/2024-03-12T10:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "68603",
+        "begin": "2024-09-06T04:00:00.000Z",
+        "broadcast": "R/2024-09-06T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0017443",
+        "begin": "2025-06-27T14:10:00.000Z",
+        "broadcast": "R/2025-06-27T14:10:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "20201",
+        "begin": "2025-06-27T14:10:00.000Z",
+        "broadcast": "R/2025-06-27T14:10:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/15371"
+      },
+      {
+        "site": "mal",
+        "id": "1430"
+      },
+      {
+        "site": "anidb",
+        "id": "320"
+      },
+      {
+        "site": "aniList",
+        "id": "1430"
       }
     ]
   }

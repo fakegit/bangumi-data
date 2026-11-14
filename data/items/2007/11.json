@@ -15,6 +15,18 @@
       {
         "site": "bangumi",
         "id": "84052"
+      },
+      {
+        "site": "mal",
+        "id": "6798"
+      },
+      {
+        "site": "aniList",
+        "id": "6798"
+      },
+      {
+        "site": "anidb",
+        "id": "6321"
       }
     ]
   },
@@ -32,29 +44,40 @@
     "end": "2008-03-17T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "k8G7OaEHd7UYlv4",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "2894"
       },
       {
         "site": "bilibili",
         "id": "2854",
-        "begin": "2007-11-15T16:00:00.000Z"
+        "begin": "2007-11-15T16:00:00.000Z",
+        "broadcast": "R/2015-10-15T16:18:00.000Z/P7D"
       },
       {
-        "site": "letv",
-        "id": "10387",
-        "begin": ""
+        "site": "tmdb",
+        "id": "tv/299631"
+      },
+      {
+        "site": "mal",
+        "id": "2685"
+      },
+      {
+        "site": "anidb",
+        "id": "5301"
+      },
+      {
+        "site": "aniList",
+        "id": "2685"
       }
     ]
   },
   {
     "title": "Candy☆Boy",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "Candy☆Boy OVA"
+      ]
+    },
     "type": "web",
     "lang": "ja",
     "officialSite": "",
@@ -69,6 +92,28 @@
         "site": "nicovideo",
         "id": "ch157",
         "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "3771",
+        "begin": "2016-04-18T03:50:00.000Z",
+        "broadcast": "R/2016-04-18T03:50:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/3508"
+      },
+      {
+        "site": "mal",
+        "id": "3456"
+      },
+      {
+        "site": "anidb",
+        "id": "5574"
+      },
+      {
+        "site": "aniList",
+        "id": "3456"
       }
     ]
   },
@@ -90,14 +135,222 @@
         "id": "4419"
       },
       {
-        "site": "letv",
-        "id": "89803",
-        "begin": ""
-      },
-      {
         "site": "iqiyi",
         "id": "a_19rrhb4tzt",
         "begin": "2015-08-07T08:45:07.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0013848",
+        "begin": "2018-10-04T03:00:00.000Z",
+        "broadcast": "R/2018-10-04T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "22056",
+        "begin": "2018-04-27T01:00:00.000Z",
+        "broadcast": "R/2018-04-27T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/153577"
+      },
+      {
+        "site": "mal",
+        "id": "3051"
+      },
+      {
+        "site": "anidb",
+        "id": "5572"
+      },
+      {
+        "site": "aniList",
+        "id": "3051"
+      }
+    ]
+  },
+  {
+    "title": "金田一少年の事件簿スペシャル",
+    "titleTranslate": {
+      "zh-Hans": [
+        "金田一少年之事件簿 2007年特别篇"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.toei-anim.co.jp/tv/kindaichi_sp",
+    "begin": "2007-11-11T16:00:00.000Z",
+    "broadcast": "R/2007-11-11T16:00:00.000Z/P7D",
+    "end": "2007-11-18T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "49426"
+      },
+      {
+        "site": "unext",
+        "id": "SID0054381",
+        "begin": "2021-01-07T03:00:00.000Z",
+        "broadcast": "R/2021-01-07T03:00:00.000Z/P7D",
+        "comment": "オペラ座館・最後の殺人, 吸血鬼伝説殺人事件: SID0054380"
+      },
+      {
+        "site": "danime",
+        "id": "24823",
+        "begin": "2021-06-25T01:00:00.000Z",
+        "broadcast": "R/2021-06-25T01:00:00.000Z/P7D",
+        "comment": "オペラ座館・最後の殺人, 吸血鬼伝説殺人事件: 24824"
+      },
+      {
+        "site": "mal",
+        "id": "3245"
+      },
+      {
+        "site": "anidb",
+        "id": "5555"
+      },
+      {
+        "site": "aniList",
+        "id": "3245"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/23587/season/0/episode/2"
+      }
+    ]
+  },
+  {
+    "title": "ストレイト・ジャケット",
+    "titleTranslate": {
+      "zh-Hans": [
+        "拘束衣",
+        "战术魔法士"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.straitjacket.jp",
+    "begin": "2007-11-29T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2008-04-29T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "20118"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/132560"
+      },
+      {
+        "site": "mal",
+        "id": "3086"
+      },
+      {
+        "site": "anidb",
+        "id": "4072"
+      },
+      {
+        "site": "aniList",
+        "id": "3086"
+      }
+    ]
+  },
+  {
+    "title": "ボノロン～不思議な森のいいつたえ～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Bonolon～不可思议森林的传说～",
+        "奇妙森林传说"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2007-11-04T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2008-05-09T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "445008"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003265",
+        "begin": "2014-10-29T06:00:00.000Z",
+        "broadcast": "R/2014-10-29T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10878",
+        "begin": "2020-01-31T01:00:00.000Z",
+        "broadcast": "R/2020-01-31T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "20173"
+      },
+      {
+        "site": "aniList",
+        "id": "20173"
+      },
+      {
+        "site": "anidb",
+        "id": "6204"
+      }
+    ]
+  },
+  {
+    "title": "流星のロックマン トライブ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "流星之洛克人 Tribe",
+        "流星洛克人 Tribe"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.xebec-inc.co.jp/anime/ryusei2/",
+    "begin": "2007-11-02T16:00:00.000Z",
+    "broadcast": "R/2007-11-02T16:00:00.000Z/P7D",
+    "end": "2008-03-28T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "5235"
+      },
+      {
+        "site": "unext",
+        "id": "SID0033710",
+        "begin": "2024-11-01T03:00:00.000Z",
+        "broadcast": "R/2024-11-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "27451",
+        "begin": "2024-12-07T15:00:00.000Z",
+        "broadcast": "R/2024-12-07T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/38597/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "3493"
+      },
+      {
+        "site": "anidb",
+        "id": "5524"
+      },
+      {
+        "site": "aniList",
+        "id": "3493"
       }
     ]
   }

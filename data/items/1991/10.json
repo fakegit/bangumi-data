@@ -15,6 +15,34 @@
       {
         "site": "bangumi",
         "id": "51563"
+      },
+      {
+        "site": "unext",
+        "id": "SID0027121",
+        "begin": "2020-12-28T03:00:00.000Z",
+        "broadcast": "R/2020-12-28T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "11559",
+        "begin": "2021-07-01T01:00:00.000Z",
+        "broadcast": "R/2021-07-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/20496"
+      },
+      {
+        "site": "mal",
+        "id": "8215"
+      },
+      {
+        "site": "anidb",
+        "id": "3559"
+      },
+      {
+        "site": "aniList",
+        "id": "8215"
       }
     ]
   },
@@ -32,18 +60,24 @@
     "end": "1992-09-25T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "OXJOzDSaCkiarKZE",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "46534"
       },
       {
-        "site": "bilibili",
-        "id": "2347",
-        "begin": "1991-10-17T16:00:00.000Z"
+        "site": "tmdb",
+        "id": "tv/43853"
+      },
+      {
+        "site": "mal",
+        "id": "970"
+      },
+      {
+        "site": "anidb",
+        "id": "943"
+      },
+      {
+        "site": "aniList",
+        "id": "970"
       }
     ]
   },
@@ -63,6 +97,40 @@
       {
         "site": "bangumi",
         "id": "81582"
+      },
+      {
+        "site": "unext",
+        "id": "SID0004942",
+        "begin": "2016-03-24T03:00:00.000Z",
+        "broadcast": "R/2016-03-24T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10206",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/35871/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "5953"
+      },
+      {
+        "site": "anidb",
+        "id": "4011"
+      },
+      {
+        "site": "aniList",
+        "id": "5953"
+      },
+      {
+        "site": "abema",
+        "id": "115-136",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -81,7 +149,29 @@
     "sites": [
       {
         "site": "bangumi",
-        "id": "210271"
+        "id": "9268"
+      },
+      {
+        "site": "danime",
+        "id": "23366",
+        "begin": "2020-03-13T01:00:00.000Z",
+        "broadcast": "R/2020-03-13T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/67575/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "5712"
+      },
+      {
+        "site": "anidb",
+        "id": "1010"
+      },
+      {
+        "site": "aniList",
+        "id": "5712"
       }
     ]
   },
@@ -96,7 +186,23 @@
     "sites": [
       {
         "site": "bangumi",
-        "id": "9268"
+        "id": "210271"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/76822/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "9383"
+      },
+      {
+        "site": "anidb",
+        "id": "4299"
+      },
+      {
+        "site": "aniList",
+        "id": "9383"
       }
     ]
   },
@@ -116,6 +222,224 @@
       {
         "site": "bangumi",
         "id": "37128"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003313",
+        "begin": "2021-11-17T03:00:00.000Z",
+        "broadcast": "R/2021-11-17T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/37450"
+      },
+      {
+        "site": "abema",
+        "id": "2-46",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mal",
+        "id": "2228"
+      },
+      {
+        "site": "anidb",
+        "id": "2786"
+      },
+      {
+        "site": "aniList",
+        "id": "2228"
+      }
+    ]
+  },
+  {
+    "title": "DRAGON QUEST -ダイの大冒険-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "神龙之谜",
+        "勇者斗恶龙 达尔的大冒险"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.toei-anim.co.jp/lineup/tv/dai_daiboken/",
+    "begin": "1991-10-16T16:00:00.000Z",
+    "end": "1992-09-23T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "37961"
+      },
+      {
+        "site": "bilibili",
+        "id": "5413",
+        "begin": "2016-08-01T06:25:19.000Z",
+        "broadcast": "R/2016-08-01T06:25:19.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0044873",
+        "begin": "2020-01-06T03:00:00.000Z",
+        "broadcast": "R/2020-01-06T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23178",
+        "begin": "2023-02-28T01:00:00.000Z",
+        "broadcast": "R/2023-02-28T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/38324"
+      },
+      {
+        "site": "mal",
+        "id": "2229"
+      },
+      {
+        "site": "anidb",
+        "id": "1105"
+      },
+      {
+        "site": "aniList",
+        "id": "2229"
+      }
+    ]
+  },
+  {
+    "title": "究極超人あ~る",
+    "titleTranslate": {
+      "zh-Hans": [
+        "究极超人R"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1991-10-23T16:00:00.000Z",
+    "end": "1991-10-23T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "78066"
+      },
+      {
+        "site": "bilibili",
+        "id": "5436",
+        "begin": "2016-08-09T02:07:54.000Z",
+        "broadcast": "R/2016-08-09T02:07:54.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/469668"
+      },
+      {
+        "site": "mal",
+        "id": "6796"
+      },
+      {
+        "site": "anidb",
+        "id": "5215"
+      },
+      {
+        "site": "aniList",
+        "id": "6796"
+      }
+    ]
+  },
+  {
+    "title": "キン肉マン キン肉星王位争奪編",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1991-10-05T16:00:00.000Z",
+    "broadcast": "R/1991-10-05T16:00:00.000Z/P7D",
+    "end": "1992-09-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "133215"
+      },
+      {
+        "site": "unext",
+        "id": "SID0011085",
+        "begin": "2021-01-07T03:00:00.000Z",
+        "broadcast": "R/2021-01-07T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "11254",
+        "begin": "2023-02-28T01:00:00.000Z",
+        "broadcast": "R/2023-02-28T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/43231/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "3281"
+      },
+      {
+        "site": "aniList",
+        "id": "3281"
+      },
+      {
+        "site": "anidb",
+        "id": "2090"
+      }
+    ]
+  },
+  {
+    "title": "燃えろ!トップストライカー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "意甲小旋风",
+        "燃烧吧！顶级射手"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1991-10-09T16:00:00.000Z",
+    "broadcast": "R/1991-10-09T16:00:00.000Z/P7D",
+    "end": "1992-09-23T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "96335"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002408",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "24059",
+        "begin": "2020-08-28T01:00:00.000Z",
+        "broadcast": "R/2020-08-28T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/51557"
+      },
+      {
+        "site": "mal",
+        "id": "3438"
+      },
+      {
+        "site": "anidb",
+        "id": "4261"
+      },
+      {
+        "site": "aniList",
+        "id": "3438"
       }
     ]
   }

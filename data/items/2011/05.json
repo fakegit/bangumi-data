@@ -13,11 +13,6 @@
     "end": "2012-04-11T10:27:00.000Z",
     "sites": [
       {
-        "site": "letv",
-        "id": "42560",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "16594"
       },
@@ -30,6 +25,42 @@
         "site": "bilibili",
         "id": "134852",
         "begin": "2011-05-04T16:00:00.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002461",
+        "begin": "2011-10-11T15:00:00.000Z",
+        "broadcast": "R/2011-10-11T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "閃電+人+GO"
+      },
+      {
+        "site": "danime",
+        "id": "24855",
+        "begin": "2021-07-30T01:00:00.000Z",
+        "broadcast": "R/2021-07-30T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/274705"
+      },
+      {
+        "site": "mal",
+        "id": "10507"
+      },
+      {
+        "site": "anidb",
+        "id": "8381"
+      },
+      {
+        "site": "aniList",
+        "id": "10507"
+      },
+      {
+        "site": "acgnx",
+        "id": "閃電 人 GO"
       }
     ]
   },
@@ -52,18 +83,48 @@
         "url": "http://www.iqiyi.com/v_19rrk78dhk.html"
       },
       {
-        "site": "letv",
-        "id": "87681",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "9911"
       },
       {
         "site": "nicovideo",
         "id": "hoshi-o-kodomo",
-        "begin": ""
+        "begin": "2020-06-15T15:00:00.000Z",
+        "broadcast": "R/2020-06-15T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0004225",
+        "begin": "2014-10-03T06:00:00.000Z",
+        "broadcast": "R/2014-10-03T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "21040",
+        "begin": "2016-08-05T01:00:00.000Z",
+        "broadcast": "R/2016-08-05T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B00FND8KI8",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/79707"
+      },
+      {
+        "site": "mal",
+        "id": "9760"
+      },
+      {
+        "site": "anidb",
+        "id": "8073"
+      },
+      {
+        "site": "aniList",
+        "id": "9760"
       }
     ]
   },
@@ -83,6 +144,34 @@
       {
         "site": "bangumi",
         "id": "10335"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002369",
+        "begin": "2014-11-13T06:00:00.000Z",
+        "broadcast": "R/2014-11-13T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "24135",
+        "begin": "2020-08-28T01:00:00.000Z",
+        "broadcast": "R/2020-08-28T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/115969"
+      },
+      {
+        "site": "mal",
+        "id": "7014"
+      },
+      {
+        "site": "aniList",
+        "id": "7014"
+      },
+      {
+        "site": "anidb",
+        "id": "7507"
       }
     ]
   },
@@ -100,11 +189,6 @@
     "end": "2012-08-22T16:03:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "n8mzMZnicb60QjvY",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "19021"
       },
@@ -114,9 +198,20 @@
         "begin": "2011-05-06T16:00:00.000Z"
       },
       {
-        "site": "letv",
-        "id": "44251",
-        "begin": ""
+        "site": "tmdb",
+        "id": "tv/54310"
+      },
+      {
+        "site": "mal",
+        "id": "10711"
+      },
+      {
+        "site": "anidb",
+        "id": "8407"
+      },
+      {
+        "site": "aniList",
+        "id": "10711"
       }
     ]
   },
@@ -134,13 +229,70 @@
     "end": "2011-05-25T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "pOjUUrogkM4xrxc",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "10940"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kattenikaizo",
+        "begin": "2022-04-30T15:00:00.000Z",
+        "broadcast": "R/2022-04-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0064747",
+        "begin": "2022-01-05T03:00:00.000Z",
+        "broadcast": "R/2022-01-05T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "25118",
+        "begin": "2022-01-05T01:00:00.000Z",
+        "broadcast": "R/2022-01-05T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/43256"
+      },
+      {
+        "site": "mal",
+        "id": "10191"
+      },
+      {
+        "site": "anidb",
+        "id": "8223"
+      },
+      {
+        "site": "aniList",
+        "id": "10191"
+      }
+    ]
+  },
+  {
+    "title": "TATSUMI",
+    "titleTranslate": {
+      "zh-Hans": [
+        "辰巳"
+      ],
+      "en": [
+        "Tatsumi"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2011-05-16T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2011-05-16T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "105789"
+      },
+      {
+        "site": "anidb",
+        "id": "9201"
       }
     ]
   }

@@ -7,7 +7,12 @@
       ],
       "zh-Hans": [
         "Heart Catch 光之美少女!",
-        "Heart Catch光之美少女！"
+        "Heart Catch光之美少女！",
+        "Heart Catch 光之美少女！",
+        "光之美少女heartcatch",
+        "光之美少女：甜蜜天使",
+        "抓心Q娃",
+        "揪心霹雳Q娃！"
       ]
     },
     "type": "tv",
@@ -24,6 +29,42 @@
       {
         "site": "bangumi",
         "id": "4124"
+      },
+      {
+        "site": "unext",
+        "id": "SID0011584",
+        "begin": "2021-01-07T03:00:00.000Z",
+        "broadcast": "R/2021-01-07T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "21098",
+        "begin": "2020-02-01T01:00:00.000Z",
+        "broadcast": "R/2020-02-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/42981"
+      },
+      {
+        "site": "mal",
+        "id": "7645"
+      },
+      {
+        "site": "anidb",
+        "id": "7285"
+      },
+      {
+        "site": "aniList",
+        "id": "7645"
+      },
+      {
+        "site": "acgnx",
+        "id": "光之"
+      },
+      {
+        "site": "dmhy",
+        "id": "光之"
       }
     ]
   },
@@ -45,14 +86,38 @@
         "id": "49313"
       },
       {
-        "site": "pptv",
-        "id": "ibZ32dNxCsvBT0Tk",
-        "begin": ""
-      },
-      {
         "site": "bilibili",
         "id": "3951",
-        "begin": "2010-02-11T16:00:01.000Z"
+        "begin": "2010-02-11T16:00:01.000Z",
+        "broadcast": "R/2016-05-04T06:49:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0025107",
+        "begin": "2019-05-23T03:00:00.000Z",
+        "broadcast": "R/2019-05-23T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "21767",
+        "begin": "2017-09-08T01:00:00.000Z",
+        "broadcast": "R/2017-09-08T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/39952"
+      },
+      {
+        "site": "mal",
+        "id": "8097"
+      },
+      {
+        "site": "anidb",
+        "id": "7288"
+      },
+      {
+        "site": "aniList",
+        "id": "8097"
       }
     ]
   },
@@ -70,11 +135,6 @@
     "end": "2010-11-26T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "kolj4UmvH13APqY",
-        "begin": ""
-      },
-      {
         "site": "iqiyi",
         "id": "a_19rrjtkzih",
         "begin": "2012-12-14T06:06:06.000Z"
@@ -87,6 +147,22 @@
       {
         "site": "bangumi",
         "id": "46076"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/195307"
+      },
+      {
+        "site": "mal",
+        "id": "8025"
+      },
+      {
+        "site": "anidb",
+        "id": "7446"
+      },
+      {
+        "site": "aniList",
+        "id": "8025"
       }
     ]
   },
@@ -104,11 +180,6 @@
     "end": "2010-02-06T18:45:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "WNu1M5sBca8SkPg",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "3375"
       },
@@ -120,7 +191,48 @@
       {
         "site": "bilibili",
         "id": "2809",
-        "begin": "2010-02-05T16:00:00.000Z"
+        "begin": "2010-02-05T16:00:00.000Z",
+        "broadcast": "R/2019-04-13T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0034755",
+        "begin": "2018-05-04T03:00:00.000Z",
+        "broadcast": "R/2018-05-04T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "haruhi_shoshitsu",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "10748",
+        "begin": "2013-02-01T01:00:00.000Z",
+        "broadcast": "R/2013-02-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/36865"
+      },
+      {
+        "site": "abema",
+        "id": "25-41-jimnaz-mz",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mal",
+        "id": "7311"
+      },
+      {
+        "site": "anidb",
+        "id": "7221"
+      },
+      {
+        "site": "aniList",
+        "id": "7311"
       }
     ]
   },
@@ -128,7 +240,8 @@
     "title": "超劇場版ケロロ軍曹 誕生!究極ケロロ奇跡の時空島であります!!",
     "titleTranslate": {
       "zh-Hans": [
-        "超剧场版 Keroro军曹 诞生！究极Keroro奇迹的时空之岛！！"
+        "超剧场版 Keroro军曹 诞生！究极Keroro奇迹的时空之岛！！",
+        "超剧场版 Keroro军曹5 诞生！究极Keroro奇迹的时空岛！"
       ]
     },
     "type": "movie",
@@ -142,14 +255,39 @@
         "id": "3765"
       },
       {
-        "site": "pptv",
-        "id": "9LQdmwNp2Rd6ibGA",
-        "begin": ""
-      },
-      {
         "site": "bilibili",
         "id": "1751",
-        "begin": "2010-02-26T16:00:00.000Z"
+        "begin": "2010-02-26T16:00:00.000Z",
+        "broadcast": "R/2010-10-07T12:37:09.000Z/P7D",
+        "comment": "哔哩哔哩番剧版: 28220981"
+      },
+      {
+        "site": "unext",
+        "id": "SID0014735",
+        "begin": "2019-03-22T03:00:00.000Z",
+        "broadcast": "R/2019-03-22T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "22217",
+        "begin": "2018-08-07T03:00:00.000Z",
+        "broadcast": "R/2018-08-07T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/235289"
+      },
+      {
+        "site": "mal",
+        "id": "8134"
+      },
+      {
+        "site": "anidb",
+        "id": "7246"
+      },
+      {
+        "site": "aniList",
+        "id": "8134"
       }
     ]
   },
@@ -157,7 +295,8 @@
     "title": "HALO Legends",
     "titleTranslate": {
       "zh-Hans": [
-        "光环：传奇"
+        "光环：传奇",
+        "光晕：传奇"
       ]
     },
     "type": "movie",
@@ -171,9 +310,119 @@
         "id": "3782"
       },
       {
-        "site": "netflix",
-        "id": "70129415",
-        "begin": "2017-05-01T07:00:00.000Z"
+        "site": "bilibili",
+        "id": "5574",
+        "begin": "2016-09-29T04:08:00.000Z",
+        "broadcast": "R/2016-09-29T04:08:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/573531"
+      },
+      {
+        "site": "mal",
+        "id": "6867"
+      },
+      {
+        "site": "aniList",
+        "id": "6867"
+      },
+      {
+        "site": "anidb",
+        "id": "6748"
+      }
+    ]
+  },
+  {
+    "title": "ムダヅモ無き改革 -The Legend of KOIZUMI-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "渣和无用改革",
+        "废牌根绝改革-小泉传说-"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.mudazumo.jp/index.html",
+    "begin": "2010-02-25T16:00:00.000Z",
+    "end": "2010-02-25T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "4263"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002895",
+        "begin": "2019-12-24T03:00:00.000Z",
+        "broadcast": "R/2019-12-24T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23246",
+        "begin": "2020-03-13T01:00:00.000Z",
+        "broadcast": "R/2020-03-13T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/97570"
+      },
+      {
+        "site": "mal",
+        "id": "6946"
+      },
+      {
+        "site": "anidb",
+        "id": "7261"
+      },
+      {
+        "site": "aniList",
+        "id": "6946"
+      }
+    ]
+  },
+  {
+    "title": "いっしょにすりーぴんぐ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "一起睡觉吧",
+        "跟Hinako一起睡觉",
+        "一起来睡觉"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2010-02-10T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2010-02-10T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "7964"
+      },
+      {
+        "site": "danime",
+        "id": "10506",
+        "begin": "2019-12-27T01:00:00.000Z",
+        "broadcast": "R/2019-12-27T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/837350"
+      },
+      {
+        "site": "mal",
+        "id": "7897"
+      },
+      {
+        "site": "anidb",
+        "id": "7295"
+      },
+      {
+        "site": "aniList",
+        "id": "7897"
       }
     ]
   }

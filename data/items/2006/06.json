@@ -13,11 +13,6 @@
     "end": "2006-09-14T16:15:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "zmNe3ESqGlia7OaE",
-        "begin": ""
-      },
-      {
         "site": "qq",
         "id": "x/xumudvzjaautu6q",
         "begin": ""
@@ -29,7 +24,30 @@
       {
         "site": "bilibili",
         "id": "3318",
-        "begin": "2006-06-28T16:00:01.000Z"
+        "begin": "2006-06-28T16:00:01.000Z",
+        "broadcast": "R/2016-01-28T03:03:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0017951",
+        "begin": "2021-03-27T03:00:00.000Z",
+        "broadcast": "R/2021-03-27T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/35415/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "1142"
+      },
+      {
+        "site": "anidb",
+        "id": "4422"
+      },
+      {
+        "site": "aniList",
+        "id": "1142"
       }
     ]
   },
@@ -38,7 +56,8 @@
     "titleTranslate": {
       "zh-Hans": [
         "贫穷姊妹物语",
-        "贫乏姐妹物语"
+        "贫乏姐妹物语",
+        "贫穷姐妹物语"
       ]
     },
     "type": "tv",
@@ -47,11 +66,6 @@
     "begin": "2006-06-29T17:40:00.000Z",
     "end": "2006-09-14T18:10:00.000Z",
     "sites": [
-      {
-        "site": "pptv",
-        "id": "1XZRzzedDUuuLJQ",
-        "begin": ""
-      },
       {
         "site": "qq",
         "id": "9/9y1p6nqbhm2fe7o",
@@ -64,7 +78,36 @@
       {
         "site": "bilibili",
         "id": "1434",
-        "begin": "2006-06-28T16:00:00.000Z"
+        "begin": "2006-06-28T16:00:00.000Z",
+        "broadcast": "R/2009-11-09T17:03:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0011683",
+        "begin": "2023-05-03T03:00:00.000Z",
+        "broadcast": "R/2023-05-03T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/36523"
+      },
+      {
+        "site": "mal",
+        "id": "1214"
+      },
+      {
+        "site": "anidb",
+        "id": "4492"
+      },
+      {
+        "site": "aniList",
+        "id": "1214"
+      },
+      {
+        "site": "danime",
+        "id": "28832",
+        "begin": "2026-03-31T15:00:00.000Z",
+        "broadcast": "R/2026-03-31T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -82,13 +125,30 @@
     "end": "2007-06-29T22:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "eicfhX8ctndsibvCQ",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "30503"
+      },
+      {
+        "site": "unext",
+        "id": "SID0085324",
+        "begin": "2023-05-05T03:00:00.000Z",
+        "broadcast": "R/2023-05-05T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/12406"
+      },
+      {
+        "site": "mal",
+        "id": "1221"
+      },
+      {
+        "site": "anidb",
+        "id": "3207"
+      },
+      {
+        "site": "aniList",
+        "id": "1221"
       }
     ]
   },
@@ -109,11 +169,6 @@
     "end": "2007-03-02T03:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "f8iazMZnicb60QjvY",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "1788"
       },
@@ -121,6 +176,60 @@
         "site": "nicovideo",
         "id": "flag",
         "begin": "2012-03-28T06:00:00.000Z"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/45047"
+      },
+      {
+        "site": "mal",
+        "id": "1299"
+      },
+      {
+        "site": "anidb",
+        "id": "4476"
+      },
+      {
+        "site": "aniList",
+        "id": "1299"
+      }
+    ]
+  },
+  {
+    "title": "銀河鉄道の夜 -Fantasy Railroad in the Stars-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "银河铁道之夜",
+        "银河铁道之夜 2006"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2006-06-16T16:00:00.000Z",
+    "end": "2006-06-16T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "25400"
+      },
+      {
+        "site": "bilibili",
+        "id": "3053",
+        "begin": "2015-11-24T15:43:00.000Z",
+        "broadcast": "R/2015-11-24T15:43:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/352046"
+      },
+      {
+        "site": "mal",
+        "id": "33717"
+      },
+      {
+        "site": "anidb",
+        "id": "7068"
       }
     ]
   }

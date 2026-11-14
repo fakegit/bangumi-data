@@ -3,7 +3,8 @@
     "title": "ロックマンエグゼ",
     "titleTranslate": {
       "zh-Hans": [
-        "洛克人EXE Season"
+        "洛克人EXE Season",
+        "网络英雄洛克人"
       ]
     },
     "type": "tv",
@@ -15,6 +16,34 @@
       {
         "site": "bangumi",
         "id": "5230"
+      },
+      {
+        "site": "unext",
+        "id": "SID0032786",
+        "begin": "2024-10-26T03:00:00.000Z",
+        "broadcast": "R/2024-10-26T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "27444",
+        "begin": "2024-11-28T15:00:00.000Z",
+        "broadcast": "R/2024-11-28T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/5653"
+      },
+      {
+        "site": "mal",
+        "id": "1710"
+      },
+      {
+        "site": "anidb",
+        "id": "146"
+      },
+      {
+        "site": "aniList",
+        "id": "1710"
       }
     ]
   },
@@ -23,6 +52,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "哆啦A梦 大雄与机器人王国"
+      ],
+      "zh-Hant": [
+        "電影 哆啦A夢 大雄與機器人王國"
       ]
     },
     "type": "movie",
@@ -32,18 +64,8 @@
     "end": "2003-03-09T16:30:00.000Z",
     "sites": [
       {
-        "site": "letv",
-        "id": "80962",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "468"
-      },
-      {
-        "site": "pptv",
-        "id": "7qoHhe1TwwFk4ko",
-        "begin": ""
       },
       {
         "site": "qq",
@@ -58,7 +80,42 @@
       {
         "site": "bilibili",
         "id": "3866",
-        "begin": "2002-03-08T16:00:00.000Z"
+        "begin": "2002-03-08T16:00:00.000Z",
+        "broadcast": "R/2016-04-27T09:07:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "35-112",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0099870",
+        "begin": "2024-03-05T03:00:00.000Z",
+        "broadcast": "R/2024-03-05T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "32224",
+        "begin": "2023-03-16T02:00:00.000Z",
+        "broadcast": "R/2023-03-16T02:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/162095"
+      },
+      {
+        "site": "mal",
+        "id": "2655"
+      },
+      {
+        "site": "anidb",
+        "id": "6582"
+      },
+      {
+        "site": "aniList",
+        "id": "2655"
       }
     ]
   },
@@ -83,6 +140,22 @@
       {
         "site": "bangumi",
         "id": "95526"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/132166"
+      },
+      {
+        "site": "mal",
+        "id": "425"
+      },
+      {
+        "site": "anidb",
+        "id": "1192"
+      },
+      {
+        "site": "aniList",
+        "id": "425"
       }
     ]
   },
@@ -107,6 +180,34 @@
       {
         "site": "bangumi",
         "id": "45907"
+      },
+      {
+        "site": "unext",
+        "id": "SID0010716",
+        "begin": "2022-05-30T03:00:00.000Z",
+        "broadcast": "R/2022-05-30T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23620",
+        "begin": "2022-12-16T01:00:00.000Z",
+        "broadcast": "R/2022-12-16T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/43032/season/0/episode/22"
+      },
+      {
+        "site": "mal",
+        "id": "2010"
+      },
+      {
+        "site": "anidb",
+        "id": "536"
+      },
+      {
+        "site": "aniList",
+        "id": "2010"
       }
     ]
   },
@@ -115,6 +216,10 @@
     "titleTranslate": {
       "zh-Hans": [
         "机动警察 十三号废弃物"
+      ],
+      "zh-Hant": [
+        "機動警察 劇場版3 13號廢棄物",
+        "機動警察 劇場版 3"
       ]
     },
     "type": "movie",
@@ -133,9 +238,38 @@
         "id": "3499"
       },
       {
-        "site": "bilibili",
-        "id": "4017",
-        "begin": "2002-03-29T16:00:01.000Z"
+        "site": "unext",
+        "id": "SID0014486",
+        "begin": "2018-06-04T03:00:00.000Z",
+        "broadcast": "R/2018-06-04T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10365",
+        "begin": "2020-03-13T01:00:00.000Z",
+        "broadcast": "R/2020-03-13T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "38224",
+        "begin": "2025-10-01T04:00:00.000Z",
+        "broadcast": "R/2025-10-01T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/16402"
+      },
+      {
+        "site": "mal",
+        "id": "1290"
+      },
+      {
+        "site": "anidb",
+        "id": "537"
+      },
+      {
+        "site": "aniList",
+        "id": "1290"
       }
     ]
   },
@@ -144,6 +278,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "海贼王 珍兽岛之乔巴王国"
+      ],
+      "en": [
+        "One Piece 3: Chopper's Kingdom In The Strange Animal Island"
       ]
     },
     "type": "movie",
@@ -155,6 +292,34 @@
       {
         "site": "bangumi",
         "id": "1901"
+      },
+      {
+        "site": "unext",
+        "id": "SID0011126",
+        "begin": "2019-07-01T03:00:00.000Z",
+        "broadcast": "R/2019-07-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26990",
+        "begin": "2024-03-07T15:00:00.000Z",
+        "broadcast": "R/2024-03-07T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/44725"
+      },
+      {
+        "site": "mal",
+        "id": "461"
+      },
+      {
+        "site": "aniList",
+        "id": "461"
+      },
+      {
+        "site": "anidb",
+        "id": "1253"
       }
     ]
   },
@@ -179,6 +344,34 @@
         "site": "iqiyi",
         "id": "a_19rrhb4tgp",
         "begin": "2015-08-06T12:03:19.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0020330",
+        "begin": "2020-01-17T03:00:00.000Z",
+        "broadcast": "R/2020-01-17T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "20858",
+        "begin": "2020-02-01T01:00:00.000Z",
+        "broadcast": "R/2020-02-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/36199"
+      },
+      {
+        "site": "mal",
+        "id": "3033"
+      },
+      {
+        "site": "anidb",
+        "id": "1475"
+      },
+      {
+        "site": "aniList",
+        "id": "3033"
       }
     ]
   },
@@ -187,6 +380,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "机动警察迷你版"
+      ],
+      "zh-Hant": [
+        "機動警察 迷你版"
       ]
     },
     "type": "movie",
@@ -196,18 +392,42 @@
     "end": "2002-03-30T16:35:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "sYVv7VW7K2nMSrI",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "13612"
       },
       {
-        "site": "bilibili",
-        "id": "5266",
-        "begin": "2002-03-29T16:00:01.000Z"
+        "site": "danime",
+        "id": "10366",
+        "begin": "2018-12-21T01:00:00.000Z",
+        "broadcast": "R/2018-12-21T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "103955",
+        "begin": "2025-10-01T04:00:00.000Z",
+        "broadcast": "R/2025-10-01T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "2733"
+      },
+      {
+        "site": "anidb",
+        "id": "770"
+      },
+      {
+        "site": "aniList",
+        "id": "2733"
+      },
+      {
+        "site": "unext",
+        "id": "SID0017087",
+        "begin": "2026-07-02T15:00:00.000Z",
+        "broadcast": "R/2026-07-02T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/116007"
       }
     ]
   },
@@ -227,6 +447,28 @@
       {
         "site": "bangumi",
         "id": "4210"
+      },
+      {
+        "site": "danime",
+        "id": "10385",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/115967"
+      },
+      {
+        "site": "mal",
+        "id": "337"
+      },
+      {
+        "site": "anidb",
+        "id": "157"
+      },
+      {
+        "site": "aniList",
+        "id": "337"
       }
     ]
   },
@@ -244,13 +486,36 @@
     "end": "2002-06-24T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "2BHradE3pibVIxia4",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "69698"
+      },
+      {
+        "site": "unext",
+        "id": "SID0014434",
+        "begin": "2019-11-25T03:00:00.000Z",
+        "broadcast": "R/2019-11-25T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10231",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/25015"
+      },
+      {
+        "site": "mal",
+        "id": "1706"
+      },
+      {
+        "site": "anidb",
+        "id": "1209"
+      },
+      {
+        "site": "aniList",
+        "id": "1706"
       }
     ]
   },
@@ -275,6 +540,34 @@
         "site": "nicovideo",
         "id": "ch61002",
         "begin": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0003402",
+        "begin": "2016-03-24T03:00:00.000Z",
+        "broadcast": "R/2016-03-24T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10216",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/969251"
+      },
+      {
+        "site": "mal",
+        "id": "2146"
+      },
+      {
+        "site": "anidb",
+        "id": "744"
+      },
+      {
+        "site": "aniList",
+        "id": "2146"
       }
     ]
   },
@@ -283,6 +576,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "帕卢姆之树"
+      ],
+      "zh-Hant": [
+        "帕盧姆之樹"
       ]
     },
     "type": "movie",
@@ -300,6 +596,64 @@
         "site": "qq",
         "id": "m/mzc0020082ywx0v",
         "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "5265",
+        "begin": "2016-07-20T09:04:00.000Z",
+        "broadcast": "R/2016-07-20T09:04:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "11427",
+        "begin": "2014-09-05T01:00:00.000Z",
+        "broadcast": "R/2014-09-05T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/30491"
+      },
+      {
+        "site": "mal",
+        "id": "1141"
+      },
+      {
+        "site": "anidb",
+        "id": "604"
+      },
+      {
+        "site": "aniList",
+        "id": "1141"
+      }
+    ]
+  },
+  {
+    "title": "遙かなる時空の中で —紫陽花ゆめ語り—",
+    "titleTranslate": {
+      "zh-Hans": [
+        "遥远时空中 紫阳花物语"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2002-03-26T16:00:00.000Z",
+    "end": "2003-01-21T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "1945"
+      },
+      {
+        "site": "bilibili",
+        "id": "1883",
+        "begin": "2013-03-30T08:08:00.000Z",
+        "broadcast": "R/2013-03-30T08:08:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/27244/season/0"
       }
     ]
   }

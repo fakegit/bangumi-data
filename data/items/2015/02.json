@@ -3,7 +3,8 @@
     "title": "アニメで分かる心療内科",
     "titleTranslate": {
       "zh-Hans": [
-        "动画心疗系"
+        "动画心疗系",
+        "你有病吗？"
       ]
     },
     "type": "web",
@@ -18,18 +19,54 @@
         "begin": "2015-02-12T20:35:00.000Z"
       },
       {
-        "site": "bilibili",
-        "id": "1528",
-        "begin": "2015-02-12T20:35:00.000Z"
-      },
-      {
         "site": "bangumi",
         "id": "115338"
       },
       {
         "site": "nicovideo",
         "id": "mental-anime",
-        "begin": "2015-02-12T20:00:00.000Z"
+        "begin": "2015-02-12T20:00:00.000Z",
+        "broadcast": "R/2015-02-12T20:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0010793",
+        "begin": "2016-02-18T15:00:00.000Z",
+        "broadcast": "R/2016-02-18T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "心療"
+      },
+      {
+        "site": "mikan",
+        "id": "466"
+      },
+      {
+        "site": "danime",
+        "id": "20014",
+        "begin": "2015-03-06T03:00:00.000Z",
+        "broadcast": "R/2015-03-06T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/74251"
+      },
+      {
+        "site": "mal",
+        "id": "27911"
+      },
+      {
+        "site": "aniList",
+        "id": "20901"
+      },
+      {
+        "site": "anidb",
+        "id": "10877"
+      },
+      {
+        "site": "acgnx",
+        "id": "心療"
       }
     ]
   },
@@ -38,6 +75,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "机动战士高达 THE ORIGIN"
+      ],
+      "zh-Hant": [
+        "機動戰士高達 THE ORIGIN"
       ]
     },
     "type": "ova",
@@ -47,13 +87,69 @@
     "end": "2018-05-05T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "samDAWnPP33gXsY",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "62680"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28229130",
+        "begin": "",
+        "broadcast": "",
+        "comment": "II：悲哀的阿爾黛西亞: 28229131, III：破曉起義: 28229132, IV：命運的前夜: 28229134"
+      },
+      {
+        "site": "bilibili",
+        "id": "28220112",
+        "begin": "2019-05-13T10:38:00.000Z",
+        "broadcast": "R/2019-05-13T10:38:00.000Z/P7D",
+        "comment": "II：悲哀的阿尔黛西亚: 28220989, III：破晓起义: 28221037, IV：命运的前夜: 28221447, V：激战 鲁姆会战: 28223703, VI：红色彗星的诞生: 28223747"
+      },
+      {
+        "site": "unext",
+        "id": "SID0030668",
+        "begin": "2019-01-15T03:00:00.000Z",
+        "broadcast": "R/2019-01-15T03:00:00.000Z/P7D",
+        "comment": "II 哀しみのアルテイシア: SID0030669, III 暁の蜂起: SID0030670, IV 運命の前夜: SID0030671, V 激突 ルウム会戦: SID0030615, VI 誕生 赤い彗星: SID0034825"
+      },
+      {
+        "site": "mikan",
+        "id": "1135"
+      },
+      {
+        "site": "nicovideo",
+        "id": "gundam-the-origin",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "25422",
+        "begin": "2025-04-10T15:00:00.000Z",
+        "broadcast": "R/2025-04-10T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/329365"
+      },
+      {
+        "site": "mal",
+        "id": "10937"
+      },
+      {
+        "site": "anidb",
+        "id": "8517"
+      },
+      {
+        "site": "aniList",
+        "id": "10937"
+      },
+      {
+        "site": "acgnx",
+        "id": "機動 高達|鋼彈 ORIGIN"
+      },
+      {
+        "site": "dmhy",
+        "id": "機動 高達|鋼彈 ORIGIN"
       }
     ]
   },
@@ -71,13 +167,30 @@
     "end": "2015-02-20T17:40:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "OhXicfeVLuiclc2kI",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "115732"
+      },
+      {
+        "site": "unext",
+        "id": "SID0019198",
+        "begin": "2022-01-21T03:00:00.000Z",
+        "broadcast": "R/2022-01-21T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/311054"
+      },
+      {
+        "site": "mal",
+        "id": "27969"
+      },
+      {
+        "site": "anidb",
+        "id": "10886"
+      },
+      {
+        "site": "aniList",
+        "id": "20908"
       }
     ]
   },
@@ -95,18 +208,42 @@
     "end": "2015-02-18T17:00:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "LgTwbtY8rOpNyzM",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "99796"
       },
       {
         "site": "nicovideo",
         "id": "nachuyachumi",
-        "begin": ""
+        "begin": "2015-03-08T15:00:00.000Z",
+        "broadcast": "R/2015-03-08T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0012727",
+        "begin": "2015-04-16T05:00:00.000Z",
+        "broadcast": "R/2015-04-16T05:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "20085",
+        "begin": "2015-04-03T01:00:00.000Z",
+        "broadcast": "R/2015-04-03T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1123871"
+      },
+      {
+        "site": "mal",
+        "id": "23225"
+      },
+      {
+        "site": "anidb",
+        "id": "10528"
+      },
+      {
+        "site": "aniList",
+        "id": "20625"
       }
     ]
   },
@@ -124,11 +261,6 @@
     "end": "2015-02-25T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "PRP9eibNJufda2EA",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "120205"
       },
@@ -141,6 +273,30 @@
         "site": "acfun",
         "id": "6001570",
         "begin": "2020-03-06T10:09:36.000Z"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/64492/season/0"
+      },
+      {
+        "site": "danime",
+        "id": "28578",
+        "begin": "2025-12-31T15:00:00.000Z",
+        "broadcast": "R/2025-12-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "28105"
+      },
+      {
+        "site": "aniList",
+        "id": "20938"
+      },
+      {
+        "site": "unext",
+        "id": "SID0295406",
+        "begin": "2026-05-01T03:00:00.000Z",
+        "broadcast": "R/2026-05-01T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -162,15 +318,44 @@
         "id": "105191"
       },
       {
-        "site": "pptv",
-        "id": "hqCMCnLYSIbpZ88",
-        "begin": ""
-      },
-      {
         "site": "nicovideo",
         "id": "hozukino-reitetsu-oad",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2020-10-15T03:00:00.000Z",
+        "broadcast": "R/2020-10-15T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0032300",
+        "begin": "2017-12-28T03:00:00.000Z",
+        "broadcast": "R/2017-12-28T03:00:00.000Z/P7D",
+        "comment": "花咲前線/三者三様の男: SID0050894"
+      },
+      {
+        "site": "mikan",
+        "id": "1650"
+      },
+      {
+        "site": "danime",
+        "id": "21960",
+        "begin": "2017-12-22T01:00:00.000Z",
+        "broadcast": "R/2017-12-22T01:00:00.000Z/P7D",
+        "comment": "花咲前線/三者三様の男: 25314"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/61529/season/0"
+      },
+      {
+        "site": "mal",
+        "id": "24471"
+      },
+      {
+        "site": "aniList",
+        "id": "20732"
+      },
+      {
+        "site": "anidb",
+        "id": "10667"
       }
     ]
   },
@@ -192,14 +377,25 @@
         "id": "112822"
       },
       {
-        "site": "pptv",
-        "id": "WvDcWsIomNY5tx8",
-        "begin": ""
-      },
-      {
         "site": "youku",
         "id": "65371e76cd1b11e4b522",
         "begin": "2015-09-09T06:47:57.000Z"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/61512/season/0/episode/2"
+      },
+      {
+        "site": "mal",
+        "id": "27417"
+      },
+      {
+        "site": "anidb",
+        "id": "11491"
+      },
+      {
+        "site": "aniList",
+        "id": "20844"
       }
     ]
   }

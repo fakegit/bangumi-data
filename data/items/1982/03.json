@@ -4,6 +4,13 @@
     "titleTranslate": {
       "zh-Hans": [
         "机动战士高达 剧场版III 相逢在宇宙"
+      ],
+      "zh-Hant": [
+        "機動戰士鋼彈劇場版 3：宇宙相逢篇",
+        "機動戰士高達 III：相逢宇宙中"
+      ],
+      "en": [
+        "Mobile Suit Gundam III: Encounters in Space"
       ]
     },
     "type": "movie",
@@ -20,6 +27,46 @@
       {
         "site": "bangumi",
         "id": "38437"
+      },
+      {
+        "site": "netflix",
+        "id": "70014613",
+        "begin": "2021-06-16T16:00:00.000Z",
+        "broadcast": "R/2021-06-16T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0012952",
+        "begin": "2008-10-31T15:00:00.000Z",
+        "broadcast": "R/2008-10-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B076ZX42DG",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "27906",
+        "begin": "2025-04-10T15:00:00.000Z",
+        "broadcast": "R/2025-04-10T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/39230"
+      },
+      {
+        "site": "mal",
+        "id": "1092"
+      },
+      {
+        "site": "anidb",
+        "id": "4167"
+      },
+      {
+        "site": "aniList",
+        "id": "1092"
       }
     ]
   },
@@ -28,6 +75,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "哆啦A梦：大雄的大魔境"
+      ],
+      "zh-Hant": [
+        "電影 哆啦A夢 大雄在大魔境"
       ]
     },
     "type": "movie",
@@ -36,11 +86,6 @@
     "begin": "1982-03-13T16:00:00.000Z",
     "end": "1982-03-13T17:30:00.000Z",
     "sites": [
-      {
-        "site": "letv",
-        "id": "80810",
-        "begin": ""
-      },
       {
         "site": "bangumi",
         "id": "437"
@@ -54,6 +99,40 @@
         "site": "bilibili",
         "id": "2551",
         "begin": "1982-03-12T16:00:00.000Z"
+      },
+      {
+        "site": "abema",
+        "id": "35-92",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0099846",
+        "begin": "2024-03-05T03:00:00.000Z",
+        "broadcast": "R/2024-03-05T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/184004"
+      },
+      {
+        "site": "mal",
+        "id": "2671"
+      },
+      {
+        "site": "aniList",
+        "id": "2671"
+      },
+      {
+        "site": "anidb",
+        "id": "6597"
+      },
+      {
+        "site": "gamer",
+        "id": "32208",
+        "begin": "2026-09-23T04:00:00.000Z",
+        "broadcast": "R/2026-09-23T04:00:00.000Z/P7D"
       }
     ]
   },
@@ -74,6 +153,231 @@
       {
         "site": "bangumi",
         "id": "73928"
+      },
+      {
+        "site": "unext",
+        "id": "SID0010778",
+        "begin": "2016-03-24T03:00:00.000Z",
+        "broadcast": "R/2016-03-24T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10205",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/35871"
+      },
+      {
+        "site": "mal",
+        "id": "518"
+      },
+      {
+        "site": "anidb",
+        "id": "1635"
+      },
+      {
+        "site": "aniList",
+        "id": "518"
+      },
+      {
+        "site": "abema",
+        "id": "115-136",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "劇場版 おはよう!スパンク",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 小狗亚斑"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1982-03-12T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1982-03-12T16:01:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "375087"
+      },
+      {
+        "site": "danime",
+        "id": "23911",
+        "begin": "2020-04-24T01:00:00.000Z",
+        "broadcast": "R/2020-04-24T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/507477"
+      },
+      {
+        "site": "mal",
+        "id": "19897"
+      },
+      {
+        "site": "anidb",
+        "id": "7615"
+      },
+      {
+        "site": "aniList",
+        "id": "19897"
+      }
+    ]
+  },
+  {
+    "title": "新ど根性ガエル ど根性・夢枕",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1982-03-19T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1982-03-19T16:01:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "159760"
+      },
+      {
+        "site": "unext",
+        "id": "SID0038642",
+        "begin": "2019-01-10T03:00:00.000Z",
+        "broadcast": "R/2019-01-10T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23329",
+        "begin": "2020-03-13T01:00:00.000Z",
+        "broadcast": "R/2020-03-13T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/530930"
+      },
+      {
+        "site": "mal",
+        "id": "21489"
+      },
+      {
+        "site": "aniList",
+        "id": "104392"
+      },
+      {
+        "site": "anidb",
+        "id": "4955"
+      }
+    ]
+  },
+  {
+    "title": "1000年女王",
+    "titleTranslate": {
+      "zh-Hans": [
+        "千年女王"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1982-03-12T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1982-03-12T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "80823"
+      },
+      {
+        "site": "mal",
+        "id": "1549"
+      },
+      {
+        "site": "anidb",
+        "id": "764"
+      },
+      {
+        "site": "aniList",
+        "id": "1549"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/139287"
+      }
+    ]
+  },
+  {
+    "title": "怪物くん デーモンの剣",
+    "titleTranslate": {
+      "zh-Hans": [
+        "怪物太郎 恶魔之剑"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1982-03-12T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1982-03-12T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "220081"
+      },
+      {
+        "site": "mal",
+        "id": "22975"
+      },
+      {
+        "site": "anidb",
+        "id": "7540"
+      },
+      {
+        "site": "aniList",
+        "id": "132655"
+      }
+    ]
+  },
+  {
+    "title": "象のいない動物園",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1982-03-19T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1982-03-19T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "220080"
+      },
+      {
+        "site": "mal",
+        "id": "11097"
+      },
+      {
+        "site": "anidb",
+        "id": "6386"
+      },
+      {
+        "site": "aniList",
+        "id": "11097"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/742358"
       }
     ]
   }

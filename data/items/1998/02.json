@@ -9,6 +9,9 @@
         "蓝色恐惧",
         "未麻的部屋",
         "未麻的房间"
+      ],
+      "zh-Hant": [
+        "藍色恐懼"
       ]
     },
     "type": "movie",
@@ -18,13 +21,348 @@
     "end": "1998-02-28T17:30:00.000Z",
     "sites": [
       {
-        "site": "letv",
-        "id": "18638",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "839"
+      },
+      {
+        "site": "danime",
+        "id": "26777",
+        "begin": "2023-12-22T09:00:00.000Z",
+        "broadcast": "R/2023-12-22T09:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/10494"
+      },
+      {
+        "site": "unext",
+        "id": "SID0254536",
+        "begin": "2025-12-19T15:00:00.000Z",
+        "broadcast": "R/2025-12-19T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "437"
+      },
+      {
+        "site": "anidb",
+        "id": "154"
+      },
+      {
+        "site": "aniList",
+        "id": "437"
+      }
+    ]
+  },
+  {
+    "title": "ゲキ・ガンガー3 熱血大決戦!!",
+    "titleTranslate": {
+      "zh-Hans": [
+        "激钢人3 热血大决战!!",
+        "机动战舰大和抚子 OVA",
+        "激钢牙3 热血大决战!!"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1998-02-20T16:00:00.000Z",
+    "end": "1998-02-20T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "32330"
+      },
+      {
+        "site": "bilibili",
+        "id": "2507",
+        "begin": "2014-04-09T05:10:48.000Z",
+        "broadcast": "R/2014-04-09T05:10:48.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/280594"
+      },
+      {
+        "site": "mal",
+        "id": "2067"
+      },
+      {
+        "site": "aniList",
+        "id": "2067"
+      },
+      {
+        "site": "anidb",
+        "id": "666"
+      }
+    ]
+  },
+  {
+    "title": "Bビーダマン爆外伝",
+    "titleTranslate": {
+      "zh-Hans": [
+        "BOM BOM弹珠人",
+        "炸弹人 弹珠人爆外传",
+        "弹珠人爆外传"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1998-02-06T16:00:00.000Z",
+    "end": "1999-01-30T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "37468"
+      },
+      {
+        "site": "bilibili",
+        "id": "2264",
+        "begin": "2014-06-28T12:19:40.000Z",
+        "broadcast": "R/2014-06-28T12:19:40.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0012664",
+        "begin": "2024-02-21T03:00:00.000Z",
+        "broadcast": "R/2024-02-21T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26706",
+        "begin": "2023-11-16T15:00:00.000Z",
+        "broadcast": "R/2023-11-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/202560"
+      },
+      {
+        "site": "mal",
+        "id": "1672"
+      },
+      {
+        "site": "anidb",
+        "id": "3585"
+      },
+      {
+        "site": "aniList",
+        "id": "1672"
+      }
+    ]
+  },
+  {
+    "title": "サイキックフォース",
+    "titleTranslate": {
+      "zh-Hans": [
+        "精神力量"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1998-02-24T16:00:00.000Z",
+    "end": "1998-05-24T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "53195"
+      },
+      {
+        "site": "bilibili",
+        "id": "5463",
+        "begin": "2016-08-22T08:46:00.000Z",
+        "broadcast": "R/2016-08-22T08:46:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/310742"
+      },
+      {
+        "site": "mal",
+        "id": "1027"
+      },
+      {
+        "site": "aniList",
+        "id": "1027"
+      },
+      {
+        "site": "anidb",
+        "id": "1140"
+      }
+    ]
+  },
+  {
+    "title": "銀河英雄伝説外伝 汚名",
+    "titleTranslate": {
+      "zh-Hans": [
+        "银河英雄传说外传 污名"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1998-02-11T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1998-02-11T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "79661"
+      },
+      {
+        "site": "unext",
+        "id": "SID0012546",
+        "begin": "2018-04-06T03:00:00.000Z",
+        "broadcast": "R/2018-04-06T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "20299",
+        "begin": "2015-09-11T01:00:00.000Z",
+        "broadcast": "R/2015-09-11T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/68312/season/1/episode/9"
+      },
+      {
+        "site": "mal",
+        "id": "3371"
+      },
+      {
+        "site": "anidb",
+        "id": "1310"
+      },
+      {
+        "site": "aniList",
+        "id": "3371"
+      }
+    ]
+  },
+  {
+    "title": "銀河英雄伝説外伝 朝の夢、夜の歌",
+    "titleTranslate": {
+      "zh-Hans": [
+        "银河英雄传说外传 朝之梦，夜之歌"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1998-02-09T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1998-02-09T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "79660"
+      },
+      {
+        "site": "unext",
+        "id": "SID0012543",
+        "begin": "2018-04-06T03:00:00.000Z",
+        "broadcast": "R/2018-04-06T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "20299",
+        "begin": "2015-09-11T01:00:00.000Z",
+        "broadcast": "R/2015-09-11T01:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "銀河英雄伝説外伝 白銀の谷",
+    "titleTranslate": {
+      "zh-Hans": [
+        "银河英雄传说外传 白银之谷"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1998-02-08T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1998-02-08T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "79658"
+      },
+      {
+        "site": "unext",
+        "id": "SID0012539",
+        "begin": "2018-04-06T03:00:00.000Z",
+        "broadcast": "R/2018-04-06T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "20238",
+        "begin": "2015-08-14T01:00:00.000Z",
+        "broadcast": "R/2015-08-14T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/68312"
+      },
+      {
+        "site": "mal",
+        "id": "3371"
+      },
+      {
+        "site": "anidb",
+        "id": "1310"
+      },
+      {
+        "site": "aniList",
+        "id": "3371"
+      }
+    ]
+  },
+  {
+    "title": "A KITE",
+    "titleTranslate": {
+      "zh-Hans": [
+        "风筝",
+        "纸鸢"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1998-02-24T16:00:00.000Z",
+    "end": "1998-10-24T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "25469"
+      },
+      {
+        "site": "unext",
+        "id": "SID0041074",
+        "begin": "2024-11-13T03:00:00.000Z",
+        "broadcast": "R/2024-11-13T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/18881"
+      },
+      {
+        "site": "mal",
+        "id": "320"
+      },
+      {
+        "site": "aniList",
+        "id": "320"
+      },
+      {
+        "site": "anidb",
+        "id": "314"
       }
     ]
   }

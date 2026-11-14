@@ -27,24 +27,35 @@
         "begin": ""
       },
       {
-        "site": "letv",
-        "id": "10038142",
-        "begin": ""
-      },
-      {
         "site": "youku",
         "id": "efbfbdd398efbfbdefbf",
         "begin": ""
       },
       {
-        "site": "acfun",
-        "id": "6000810",
-        "begin": "2019-12-12T06:21:35.000Z"
-      },
-      {
         "site": "bilibili",
         "id": "80072",
-        "begin": "2017-09-12T16:00:00.000Z"
+        "begin": "2017-09-12T16:00:00.000Z",
+        "broadcast": "R/2018-03-27T02:43:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "1400"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/286602"
+      },
+      {
+        "site": "mal",
+        "id": "35320"
+      },
+      {
+        "site": "anidb",
+        "id": "13060"
+      },
+      {
+        "site": "aniList",
+        "id": "98554"
       }
     ]
   },
@@ -74,6 +85,34 @@
         "site": "youku",
         "id": "efbfbd42efbfbd6defbf",
         "begin": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0031438",
+        "begin": "2021-05-01T03:00:00.000Z",
+        "broadcast": "R/2021-05-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "1386"
+      },
+      {
+        "site": "danime",
+        "id": "24735",
+        "begin": "2021-05-01T01:00:00.000Z",
+        "broadcast": "R/2021-05-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/461758"
+      },
+      {
+        "site": "mal",
+        "id": "34962"
+      },
+      {
+        "site": "aniList",
+        "id": "98402"
       }
     ]
   },
@@ -82,6 +121,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "交响诗篇 Hi-Evolution 1"
+      ],
+      "zh-Hant": [
+        "交響詩篇艾蕾卡 7：HI - EVOLUTION"
       ]
     },
     "type": "movie",
@@ -95,15 +137,44 @@
         "id": "211437"
       },
       {
-        "site": "nicovideo",
-        "id": "eurekaseven-hievolution1",
-        "begin": ""
-      },
-      {
         "site": "qq",
         "id": "a/ajvxps58ojsehon",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "28234787",
+        "begin": "2021-07-11T03:00:01.000Z",
+        "broadcast": "R/2021-07-11T03:00:01.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0032763",
+        "begin": "2025-03-31T15:00:00.000Z",
+        "broadcast": "R/2025-03-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "22388",
+        "begin": "2025-03-31T15:00:00.000Z",
+        "broadcast": "R/2025-03-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/467169"
+      },
+      {
+        "site": "mal",
+        "id": "35134"
+      },
+      {
+        "site": "aniList",
+        "id": "98469"
+      },
+      {
+        "site": "anidb",
+        "id": "12988"
       }
     ]
   },
@@ -111,7 +182,18 @@
     "title": "ハイキュー!! 才能とセンス",
     "titleTranslate": {
       "zh-Hans": [
-        "排球少年 才能与感觉"
+        "排球少年 才能与感觉",
+        "排球少年!! 剧场版 - 才能与灵感"
+      ],
+      "zh-Hant": [
+        "排球少年!! 劇場版：才能與感覺",
+        "排球少年！！劇場版之三：才能與感覺",
+        "排球少年!! 劇場版 - 才能與靈感",
+        "排球少年！！劇場版：才能與感覺"
+      ],
+      "en": [
+        "Haikyu!! Movie 3: Genius and Sense",
+        "Haikyu!! The Movie: Talent and Sense"
       ]
     },
     "type": "movie",
@@ -128,12 +210,65 @@
       {
         "site": "bilibili",
         "id": "83872",
-        "begin": "2017-09-14T16:00:00.000Z"
+        "begin": "2017-09-14T16:00:00.000Z",
+        "broadcast": "R/2018-04-13T04:05:00.000Z/P7D"
       },
       {
         "site": "youku",
         "id": "0539efbfbd4f0f0311ef",
         "begin": "2020-07-07T05:01:47.000Z"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JgdWqkc38w1s2ftrvict4zQ",
+        "begin": "2023-03-30T16:00:00.000Z",
+        "broadcast": "R/2023-03-30T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81030151",
+        "begin": "2023-12-31T00:00:00.000Z",
+        "broadcast": "R/2023-12-31T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0032151",
+        "begin": "2019-04-29T03:00:00.000Z",
+        "broadcast": "R/2019-04-29T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "89275",
+        "begin": "2024-02-27T04:00:00.000Z",
+        "broadcast": "R/2024-02-27T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "89275",
+        "begin": "2024-02-27T04:00:00.000Z",
+        "broadcast": "R/2024-02-27T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/461762"
+      },
+      {
+        "site": "mal",
+        "id": "35110"
+      },
+      {
+        "site": "aniList",
+        "id": "98884"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GY8VM8MWY",
+        "begin": "2014-04-06T00:00:00.000Z",
+        "broadcast": "R/2014-04-06T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "12982"
       }
     ]
   },
@@ -141,7 +276,17 @@
     "title": "ハイキュー!! コンセプトの戦い",
     "titleTranslate": {
       "zh-Hans": [
-        "排球少年 观念之战"
+        "排球少年 观念之战",
+        "排球少年!! 剧场版 - 理念之战"
+      ],
+      "zh-Hant": [
+        "排球少年!! 劇場版：觀念之戰",
+        "排球少年！！劇場版之四：理念之爭",
+        "排球少年！！劇場版：理念之爭",
+        "排球少年！！劇場版：觀念之戰"
+      ],
+      "en": [
+        "Haikyu!! Movie 4: Battle of Concepts"
       ]
     },
     "type": "movie",
@@ -158,12 +303,65 @@
       {
         "site": "bilibili",
         "id": "82712",
-        "begin": "2017-09-28T16:00:00.000Z"
+        "begin": "2017-09-28T16:00:00.000Z",
+        "broadcast": "R/2018-04-13T06:03:00.000Z/P7D"
       },
       {
         "site": "youku",
         "id": "caca2bbe6a754dd48779",
         "begin": "2020-07-07T05:01:48.000Z"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JgdWqkc38w1s2ftrvict4zQ",
+        "begin": "2023-03-30T16:00:00.000Z",
+        "broadcast": "R/2023-03-30T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81030152",
+        "begin": "2023-12-31T00:00:00.000Z",
+        "broadcast": "R/2023-12-31T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0032152",
+        "begin": "2019-04-29T03:00:00.000Z",
+        "broadcast": "R/2019-04-29T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "91638",
+        "begin": "2024-02-27T04:00:00.000Z",
+        "broadcast": "R/2024-02-27T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "91638",
+        "begin": "2024-02-27T04:00:00.000Z",
+        "broadcast": "R/2024-02-27T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "1524"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/461763"
+      },
+      {
+        "site": "mal",
+        "id": "35111"
+      },
+      {
+        "site": "aniList",
+        "id": "98885"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GY8VM8MWY",
+        "begin": "2014-04-06T00:00:00.000Z",
+        "broadcast": "R/2014-04-06T00:00:00.000Z/P7D"
       }
     ]
   },
@@ -188,7 +386,46 @@
       {
         "site": "bilibili",
         "id": "28223447",
-        "begin": "2017-09-29T16:00:00.000Z"
+        "begin": "2017-09-29T16:00:00.000Z",
+        "broadcast": "R/2019-11-22T10:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0047106",
+        "begin": "2020-04-04T03:00:00.000Z",
+        "broadcast": "R/2020-04-04T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "1530"
+      },
+      {
+        "site": "danime",
+        "id": "24017",
+        "begin": "2020-06-12T01:00:00.000Z",
+        "broadcast": "R/2020-06-12T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/460400"
+      },
+      {
+        "site": "mal",
+        "id": "35082"
+      },
+      {
+        "site": "aniList",
+        "id": "98876"
+      },
+      {
+        "site": "anidb",
+        "id": "12962"
+      },
+      {
+        "site": "abema",
+        "id": "106-5",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -213,7 +450,42 @@
       {
         "site": "bilibili",
         "id": "6414",
-        "begin": "2017-09-07T16:00:00.000Z"
+        "begin": "2017-09-07T16:00:00.000Z",
+        "broadcast": "R/2017-09-08T02:30:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "1401"
+      },
+      {
+        "site": "gamer",
+        "id": "91344",
+        "begin": "2024-07-15T03:00:00.000Z",
+        "broadcast": "R/2024-07-15T03:00:00.000Z/P7D",
+        "comment": "-Amor Primus ～初戀～, 剎那永恆的初吻: 94679, 夏凜前輩不可告人的祕密: 98322"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "91344",
+        "begin": "2024-07-15T03:00:00.000Z",
+        "broadcast": "R/2024-07-15T03:00:00.000Z/P7D",
+        "comment": "-Amor Primus ～初戀～, 剎那永恆的初吻: 94679, 夏凜前輩不可告人的祕密: 98322"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/74189/season/0"
+      },
+      {
+        "site": "mal",
+        "id": "34604"
+      },
+      {
+        "site": "anidb",
+        "id": "12683"
+      },
+      {
+        "site": "aniList",
+        "id": "98999"
       }
     ]
   },
@@ -234,6 +506,70 @@
       {
         "site": "bangumi",
         "id": "229508"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/128933"
+      },
+      {
+        "site": "mal",
+        "id": "48605"
+      },
+      {
+        "site": "anidb",
+        "id": "13427"
+      }
+    ]
+  },
+  {
+    "title": "Aチャンネル 鍋を食べよう",
+    "titleTranslate": {
+      "zh-Hans": [
+        "A频道 来吃火锅吧"
+      ],
+      "zh-Hant": [
+        "A 頻道 OVA"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.a-ch.jp/bd_dvd/bdbox.html",
+    "begin": "2017-09-26T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2017-09-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "212084"
+      },
+      {
+        "site": "mikan",
+        "id": "1476"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "51101",
+        "begin": "2024-08-23T04:00:00.000Z",
+        "broadcast": "R/2024-08-23T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "51101",
+        "begin": "2024-08-23T04:00:00.000Z",
+        "broadcast": "R/2024-08-23T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/69189/season/0/episode/14"
+      },
+      {
+        "site": "mal",
+        "id": "35285"
+      },
+      {
+        "site": "aniList",
+        "id": "98897"
       }
     ]
   }

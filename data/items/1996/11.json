@@ -24,7 +24,24 @@
       {
         "site": "bilibili",
         "id": "4049",
-        "begin": "1996-11-01T16:00:01.000Z"
+        "begin": "1996-11-01T16:00:01.000Z",
+        "broadcast": "R/2016-05-25T03:21:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/132318"
+      },
+      {
+        "site": "mal",
+        "id": "2098"
+      },
+      {
+        "site": "anidb",
+        "id": "284"
+      },
+      {
+        "site": "aniList",
+        "id": "2098"
       }
     ]
   },
@@ -33,6 +50,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "水晶国传说"
+      ],
+      "zh-Hant": [
+        "水晶國傳說 OVA"
       ]
     },
     "type": "ova",
@@ -55,6 +75,28 @@
         "site": "qq",
         "id": "m/mzc00200ts5ekst",
         "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "2937",
+        "begin": "2015-11-01T13:20:00.000Z",
+        "broadcast": "R/2015-11-01T13:20:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/101220"
+      },
+      {
+        "site": "mal",
+        "id": "1150"
+      },
+      {
+        "site": "anidb",
+        "id": "691"
+      },
+      {
+        "site": "aniList",
+        "id": "1150"
       }
     ]
   },
@@ -62,7 +104,11 @@
     "title": "ブラック・ジャック 劇場版",
     "titleTranslate": {
       "zh-Hans": [
-        "怪医黑杰克 剧场版"
+        "怪医黑杰克 剧场版",
+        "怪医黑杰克剧场版之超人类"
+      ],
+      "zh-Hant": [
+        "怪醫黑傑克 劇場版"
       ]
     },
     "type": "movie",
@@ -80,6 +126,52 @@
         "site": "qq",
         "id": "w/w3dxfhabkakknbj",
         "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "28229404",
+        "begin": "2020-07-06T10:34:23.000Z",
+        "broadcast": "R/2020-07-06T10:34:23.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "11450",
+        "begin": "2014-09-30T01:00:00.000Z",
+        "broadcast": "R/2014-09-30T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002201",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "113982",
+        "begin": "2021-12-17T05:00:00.000Z",
+        "broadcast": "R/2021-12-17T05:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/27213"
+      },
+      {
+        "site": "mal",
+        "id": "1521"
+      },
+      {
+        "site": "aniList",
+        "id": "1521"
+      },
+      {
+        "site": "anidb",
+        "id": "686"
+      },
+      {
+        "site": "prime",
+        "id": "B0H7LCN2BN",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }

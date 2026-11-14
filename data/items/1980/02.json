@@ -15,6 +15,168 @@
       {
         "site": "bangumi",
         "id": "37286"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/20213"
+      },
+      {
+        "site": "danime",
+        "id": "22575",
+        "begin": "2025-12-12T15:00:00.000Z",
+        "broadcast": "R/2025-12-12T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "4536"
+      },
+      {
+        "site": "anidb",
+        "id": "2349"
+      },
+      {
+        "site": "aniList",
+        "id": "4536"
+      }
+    ]
+  },
+  {
+    "title": "ふたごのモンチッチ",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1980-02-03T16:00:00.000Z",
+    "broadcast": "R/1980-02-03T16:00:00.000Z/P7D",
+    "end": "1980-07-31T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "220039"
+      },
+      {
+        "site": "unext",
+        "id": "SID0010779",
+        "begin": "2016-03-24T03:00:00.000Z",
+        "broadcast": "R/2016-03-24T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10487",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/42426"
+      },
+      {
+        "site": "mal",
+        "id": "17623"
+      },
+      {
+        "site": "anidb",
+        "id": "6022"
+      },
+      {
+        "site": "aniList",
+        "id": "17623"
+      }
+    ]
+  },
+  {
+    "title": "タイムボカンシリーズ タイムパトロール隊オタスケマン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "罪恶小克星",
+        "时间巡逻队"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1980-02-01T16:00:00.000Z",
+    "broadcast": "R/1980-02-01T16:00:00.000Z/P7D",
+    "end": "1981-01-30T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "53759"
+      },
+      {
+        "site": "unext",
+        "id": "SID0017874",
+        "begin": "2019-09-18T03:00:00.000Z",
+        "broadcast": "R/2019-09-18T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "21479",
+        "begin": "2017-03-03T01:00:00.000Z",
+        "broadcast": "R/2017-03-03T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/68608"
+      },
+      {
+        "site": "mal",
+        "id": "8553"
+      },
+      {
+        "site": "anidb",
+        "id": "2548"
+      },
+      {
+        "site": "aniList",
+        "id": "8553"
+      },
+      {
+        "site": "abema",
+        "id": "19-215",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "のどか森の動物大作戦",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.nippon-animation.co.jp/work/1379/",
+    "begin": "1980-02-02T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1980-02-02T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "309128"
+      },
+      {
+        "site": "danime",
+        "id": "26114",
+        "begin": "2023-03-01T01:00:00.000Z",
+        "broadcast": "R/2023-03-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/701657"
+      },
+      {
+        "site": "mal",
+        "id": "9575"
+      },
+      {
+        "site": "anidb",
+        "id": "2295"
+      },
+      {
+        "site": "aniList",
+        "id": "9575"
       }
     ]
   }

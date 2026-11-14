@@ -4,7 +4,10 @@
     "titleTranslate": {
       "zh-Hans": [
         "拥抱！光之美少女",
-        "HUGtto！光之美少女"
+        "HUGtto！光之美少女",
+        "HUG! 光之美少女",
+        "抱Q",
+        "拥抱Q娃"
       ],
       "en": [
         "HUGTTO!PRECURE"
@@ -24,12 +27,60 @@
         "site": "iqiyi",
         "id": "a_19rrh0tfud",
         "begin": "2018-02-04T03:22:10.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0054383",
+        "begin": "2021-01-07T03:00:00.000Z",
+        "broadcast": "R/2021-01-07T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "5a4338fccc0a83c72ff58849"
+      },
+      {
+        "site": "mikan",
+        "id": "1538"
+      },
+      {
+        "site": "danime",
+        "id": "24394",
+        "begin": "2020-12-25T01:00:00.000Z",
+        "broadcast": "R/2020-12-25T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/76866"
+      },
+      {
+        "site": "mal",
+        "id": "36593"
+      },
+      {
+        "site": "anidb",
+        "id": "13526"
+      },
+      {
+        "site": "aniList",
+        "id": "100661"
+      },
+      {
+        "site": "acgnx",
+        "id": "光之"
+      },
+      {
+        "site": "dmhy",
+        "id": "光之"
       }
     ]
   },
   {
     "title": "がん がん がんこちゃん(第2シリーズ)",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "吵闹的顽固小子 第2期"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
     "officialSite": "http://www6.nhk.or.jp/anime/program/detail.html?i=ganko",
@@ -39,6 +90,18 @@
       {
         "site": "bangumi",
         "id": "238831"
+      },
+      {
+        "site": "mal",
+        "id": "37244"
+      },
+      {
+        "site": "anidb",
+        "id": "13773"
+      },
+      {
+        "site": "aniList",
+        "id": "129844"
       }
     ]
   },
@@ -71,9 +134,20 @@
         "begin": "2018-02-23T02:00:00.000Z"
       },
       {
-        "site": "nicovideo",
-        "id": "spiritpact2",
-        "begin": "2018-02-24T13:00:00.000Z"
+        "site": "tmdb",
+        "id": "tv/69344/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "36522"
+      },
+      {
+        "site": "anidb",
+        "id": "13503"
+      },
+      {
+        "site": "aniList",
+        "id": "100813"
       }
     ]
   },
@@ -97,7 +171,24 @@
       {
         "site": "nicovideo",
         "id": "tokires-movie",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/483457"
+      },
+      {
+        "site": "mal",
+        "id": "36204"
+      },
+      {
+        "site": "anidb",
+        "id": "13403"
+      },
+      {
+        "site": "aniList",
+        "id": "99893"
       }
     ]
   },
@@ -122,6 +213,32 @@
         "site": "youku",
         "id": "092eefbfbdefbfbd0d72",
         "begin": ""
+      },
+      {
+        "site": "mikan",
+        "id": "1873"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/476294"
+      },
+      {
+        "site": "mal",
+        "id": "36197"
+      },
+      {
+        "site": "anidb",
+        "id": "13400"
+      },
+      {
+        "site": "aniList",
+        "id": "101078"
+      },
+      {
+        "site": "prime",
+        "id": "B0GWHY5KY2",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -138,6 +255,10 @@
       {
         "site": "bangumi",
         "id": "237133"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/68415/season/3"
       }
     ]
   },
@@ -146,6 +267,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "Code Geass 反叛的鲁路修 II 叛道"
+      ],
+      "en": [
+        "Code Geass: Lelouch of the Rebellion II -Transgression-"
       ]
     },
     "type": "movie",
@@ -160,10 +284,201 @@
         "id": "199230"
       },
       {
+        "site": "unext",
+        "id": "SID0035259",
+        "begin": "2018-07-18T03:00:00.000Z",
+        "broadcast": "R/2018-07-18T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "1577"
+      },
+      {
         "site": "nicovideo",
         "id": "geass-movie2",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "22603",
+        "begin": "2024-12-25T15:00:00.000Z",
+        "broadcast": "R/2024-12-25T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/477777"
+      },
+      {
+        "site": "mal",
+        "id": "34439"
+      },
+      {
+        "site": "aniList",
+        "id": "101812"
+      }
+    ]
+  },
+  {
+    "title": "さよならの朝に約束の花をかざろう",
+    "titleTranslate": {
+      "zh-Hans": [
+        "朝花夕誓——于离别之朝束起约定之花",
+        "朝花夕誓 让誓约的花儿点缀起别离的晨曦",
+        "朝花夕誓--于离别之朝竖起约定之花"
+      ],
+      "zh-Hant": [
+        "道別的早晨就用約定之花點綴吧"
+      ],
+      "en": [
+        "MAQUIA: When the Promised Flower Blooms"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "ttp://sayoasa.jp/",
+    "begin": "2018-02-23T16:00:00.000Z",
+    "end": "2018-02-23T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "218971"
+      },
+      {
+        "site": "mikan",
+        "id": "1749"
+      },
+      {
+        "site": "danime",
+        "id": "26589",
+        "begin": "2023-09-29T15:00:00.000Z",
+        "broadcast": "R/2023-09-29T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/476292"
+      },
+      {
+        "site": "mal",
+        "id": "35851"
+      },
+      {
+        "site": "anidb",
+        "id": "13262"
+      },
+      {
+        "site": "aniList",
+        "id": "99457"
+      },
+      {
+        "site": "gamer",
+        "id": "90088",
+        "begin": "2026-03-31T16:00:00.000Z",
+        "broadcast": "R/2026-03-31T16:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "劇場版マクロスΔ 激情のワルキューレ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 超时空要塞Δ 激情的Walküre",
+        "剧场版 MACROSS Δ 激情的Walküre"
+      ],
+      "zh-Hant": [
+        "超時空要塞Delta 激情的Walküre"
+      ],
+      "en": [
+        "Macross Delta: Passionate Walküre"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://macross.jp/",
+    "begin": "2018-02-08T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2018-02-08T18:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "221637"
+      },
+      {
+        "site": "unext",
+        "id": "SID0061276",
+        "begin": "2022-07-31T15:00:00.000Z",
+        "broadcast": "R/2022-07-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "1661"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/496349"
+      },
+      {
+        "site": "mal",
+        "id": "36077"
+      },
+      {
+        "site": "anidb",
+        "id": "13360"
+      },
+      {
+        "site": "aniList",
+        "id": "101126"
+      }
+    ]
+  },
+  {
+    "title": "アイドリッシュセブン Vibrato",
+    "titleTranslate": {
+      "zh-Hans": [
+        "IDOLiSH7 Vibrato"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://idolish7.com/aninana/",
+    "begin": "2018-02-16T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2018-03-06T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "238027"
+      },
+      {
+        "site": "nicovideo",
+        "id": "aninana_vibrato",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0308925",
+        "begin": "2026-07-28T15:00:00.000Z",
+        "broadcast": "R/2026-07-28T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "36963"
+      },
+      {
+        "site": "aniList",
+        "id": "101169"
+      },
+      {
+        "site": "anidb",
+        "id": "14543"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/117534"
       }
     ]
   }

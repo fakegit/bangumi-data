@@ -21,6 +21,162 @@
       {
         "site": "bangumi",
         "id": "23612"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002522",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "20192",
+        "begin": "2015-07-17T01:00:00.000Z",
+        "broadcast": "R/2015-07-17T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/37799"
+      },
+      {
+        "site": "mal",
+        "id": "2544"
+      },
+      {
+        "site": "anidb",
+        "id": "2302"
+      },
+      {
+        "site": "aniList",
+        "id": "2544"
+      }
+    ]
+  },
+  {
+    "title": "最強ロボ ダイオージャ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "最强机器人 大王者"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1981-01-30T16:00:00.000Z",
+    "end": "1982-01-29T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "37287"
+      },
+      {
+        "site": "bilibili",
+        "id": "3134",
+        "begin": "2015-12-05T01:42:48.000Z",
+        "broadcast": "R/2015-12-05T01:42:48.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/205231"
+      },
+      {
+        "site": "mal",
+        "id": "4574"
+      },
+      {
+        "site": "anidb",
+        "id": "2350"
+      },
+      {
+        "site": "aniList",
+        "id": "4574"
+      }
+    ]
+  },
+  {
+    "title": "海底大戦争 愛の20000マイル",
+    "titleTranslate": {
+      "zh-Hans": [
+        "海底大战争 爱的两万里",
+        "海底大战争 爱的20000米"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1981-01-02T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1981-01-02T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "219469"
+      },
+      {
+        "site": "unext",
+        "id": "SID0067356",
+        "begin": "2022-04-28T03:00:00.000Z",
+        "broadcast": "R/2022-04-28T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23236",
+        "begin": "2020-02-01T01:00:00.000Z",
+        "broadcast": "R/2020-02-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/139506"
+      },
+      {
+        "site": "mal",
+        "id": "5581"
+      },
+      {
+        "site": "anidb",
+        "id": "6663"
+      },
+      {
+        "site": "aniList",
+        "id": "5581"
+      }
+    ]
+  },
+  {
+    "title": "限りなき楽園",
+    "titleTranslate": {
+      "zh-Hans": [
+        "无尽乐园"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1980-12-31T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1980-12-31T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "312028"
+      },
+      {
+        "site": "mal",
+        "id": "23569"
+      },
+      {
+        "site": "anidb",
+        "id": "8543"
+      },
+      {
+        "site": "aniList",
+        "id": "169017"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/492131"
       }
     ]
   }

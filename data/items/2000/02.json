@@ -15,6 +15,34 @@
       {
         "site": "bangumi",
         "id": "73716"
+      },
+      {
+        "site": "unext",
+        "id": "SID0240700",
+        "begin": "2025-10-31T15:00:00.000Z",
+        "broadcast": "R/2025-10-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "28354",
+        "begin": "2025-10-31T15:00:00.000Z",
+        "broadcast": "R/2025-10-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/117390"
+      },
+      {
+        "site": "mal",
+        "id": "9810"
+      },
+      {
+        "site": "anidb",
+        "id": "2341"
+      },
+      {
+        "site": "aniList",
+        "id": "9810"
       }
     ]
   },
@@ -40,6 +68,34 @@
       {
         "site": "bangumi",
         "id": "14876"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002499",
+        "begin": "2019-11-09T03:00:00.000Z",
+        "broadcast": "R/2019-11-09T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "22782",
+        "begin": "2019-06-07T01:00:00.000Z",
+        "broadcast": "R/2019-06-07T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/20353/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "351"
+      },
+      {
+        "site": "anidb",
+        "id": "1763"
+      },
+      {
+        "site": "aniList",
+        "id": "351"
       }
     ]
   },
@@ -64,6 +120,102 @@
       {
         "site": "bangumi",
         "id": "40074"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/21175"
+      },
+      {
+        "site": "mal",
+        "id": "1137"
+      },
+      {
+        "site": "anidb",
+        "id": "2127"
+      },
+      {
+        "site": "aniList",
+        "id": "1137"
+      }
+    ]
+  },
+  {
+    "title": "マイアミ☆ガンズ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "风云爆弹娘"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2000-02-04T16:00:00.000Z",
+    "broadcast": "R/2000-02-04T16:00:00.000Z/P7D",
+    "end": "2000-05-19T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "88750"
+      },
+      {
+        "site": "danime",
+        "id": "24258",
+        "begin": "2022-03-01T01:00:00.000Z",
+        "broadcast": "R/2022-03-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/11856"
+      },
+      {
+        "site": "mal",
+        "id": "783"
+      },
+      {
+        "site": "anidb",
+        "id": "1733"
+      },
+      {
+        "site": "aniList",
+        "id": "783"
+      }
+    ]
+  },
+  {
+    "title": "A・LI・CE",
+    "titleTranslate": {
+      "zh-Hans": [
+        "超越时空爱丽丝"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2000-02-04T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2000-02-04T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "112655"
+      },
+      {
+        "site": "mal",
+        "id": "3463"
+      },
+      {
+        "site": "anidb",
+        "id": "1719"
+      },
+      {
+        "site": "aniList",
+        "id": "3463"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/276878"
       }
     ]
   }

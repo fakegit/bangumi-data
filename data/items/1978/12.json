@@ -17,9 +17,32 @@
         "id": "45054"
       },
       {
-        "site": "pptv",
-        "id": "ibZ32dNxCsvBT0Tk",
-        "begin": ""
+        "site": "unext",
+        "id": "SID0020991",
+        "begin": "2023-04-28T15:00:00.000Z",
+        "broadcast": "R/2023-04-28T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "20602",
+        "begin": "2025-04-30T15:00:00.000Z",
+        "broadcast": "R/2025-04-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/30143"
+      },
+      {
+        "site": "mal",
+        "id": "1435"
+      },
+      {
+        "site": "anidb",
+        "id": "823"
+      },
+      {
+        "site": "aniList",
+        "id": "1435"
       }
     ]
   }

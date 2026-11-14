@@ -1,0 +1,633 @@
+[
+  {
+    "title": "カッラフルなエッッブリデイ",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.ctv.co.jp/karaebu-anime/",
+    "begin": "2023-12-18T16:29:00.000Z",
+    "broadcast": "R/2023-12-18T16:29:00.000Z/P7D",
+    "end": "2024-01-13T15:57:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "468115"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/240946"
+      },
+      {
+        "site": "mal",
+        "id": "57522"
+      }
+    ]
+  },
+  {
+    "title": "ハートカクテル カラフル(冬編)",
+    "titleTranslate": {
+      "en": [
+        "Heart Cocktail Colorful"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.nhk.jp/p/ts/PYL2917V5V/",
+    "begin": "2023-12-11T14:45:00.000Z",
+    "broadcast": "R/2023-12-11T14:45:00.000Z/P7D",
+    "end": "2023-12-15T14:50:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "tmdb",
+        "id": "tv/290837/season/3"
+      },
+      {
+        "site": "mal",
+        "id": "57436"
+      },
+      {
+        "site": "aniList",
+        "id": "204547"
+      }
+    ]
+  },
+  {
+    "title": "ポケモンコンシェルジュ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "宝可梦 礼宾部"
+      ],
+      "zh-Hant": [
+        "寶可夢 禮賓部"
+      ],
+      "en": [
+        "Pokémon Concierge"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2023-12-27T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-12-27T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "422154"
+      },
+      {
+        "site": "netflix",
+        "id": "81186864",
+        "begin": "2023-12-28T00:00:00.000Z",
+        "broadcast": "R/2023-12-28T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/221301"
+      },
+      {
+        "site": "mal",
+        "id": "54633"
+      },
+      {
+        "site": "anidb",
+        "id": "17883"
+      },
+      {
+        "site": "aniList",
+        "id": "162147"
+      }
+    ]
+  },
+  {
+    "title": "僕の心のヤバイやつ ツイヤバ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "我心里危险的东西 推糟短篇"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://bokuyaba-anime.com/",
+    "begin": "2023-12-09T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-12-09T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "460305"
+      },
+      {
+        "site": "unext",
+        "id": "SID0097623",
+        "begin": "2024-01-27T15:00:00.000Z",
+        "broadcast": "R/2024-01-27T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "27392",
+        "begin": "2024-09-30T15:00:00.000Z",
+        "broadcast": "R/2024-09-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/207250/season/0"
+      },
+      {
+        "site": "mal",
+        "id": "56948"
+      },
+      {
+        "site": "aniList",
+        "id": "170221"
+      }
+    ]
+  },
+  {
+    "title": "映画 乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった...",
+    "titleTranslate": {
+      "zh-Hans": [
+        "电影  转生成为了只有乙女游戏破灭Flag的邪恶大小姐...",
+        "转生大作战"
+      ],
+      "zh-Hant": [
+        "劇場版 轉生成女性向遊戲只有毀滅 END 的壞人大小姐"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://hamehura-movie.asmik-ace.co.jp/",
+    "begin": "2023-12-07T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-12-07T16:01:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "349223"
+      },
+      {
+        "site": "unext",
+        "id": "SID0101791",
+        "begin": "2024-05-01T03:00:00.000Z",
+        "broadcast": "R/2024-05-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "123715",
+        "begin": "2025-04-01T04:00:00.000Z",
+        "broadcast": "R/2025-04-01T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3477"
+      },
+      {
+        "site": "bilibili",
+        "id": "26814634",
+        "begin": "2025-08-30T02:00:00.000Z",
+        "broadcast": "R/2025-08-30T02:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "28226",
+        "begin": "2025-09-18T15:00:00.000Z",
+        "broadcast": "R/2025-09-18T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/997086"
+      },
+      {
+        "site": "mal",
+        "id": "49842"
+      },
+      {
+        "site": "aniList",
+        "id": "139359"
+      },
+      {
+        "site": "anidb",
+        "id": "16727"
+      }
+    ]
+  },
+  {
+    "title": "青春ブタ野郎はランドセルガールの夢を見ない",
+    "titleTranslate": {
+      "zh-Hans": [
+        "青春笨蛋少年不做小学美少女的梦",
+        "青春猪头少年不做小学美少女的梦",
+        "青春猪头少年不会梦到红书包女孩"
+      ],
+      "zh-Hant": [
+        "青春豬頭少年不會夢到紅書包女孩"
+      ],
+      "en": [
+        "Rascal Does Not Dream of a Knapsack Kid"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://ao-buta.com/knapsack/",
+    "begin": "2023-11-30T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-11-30T17:15:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "426239"
+      },
+      {
+        "site": "unext",
+        "id": "SID0104828",
+        "begin": "2024-06-25T15:00:00.000Z",
+        "broadcast": "R/2024-06-25T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3287"
+      },
+      {
+        "site": "netflix",
+        "id": "81906766",
+        "begin": "2024-07-24T16:00:00.000Z",
+        "broadcast": "R/2024-07-24T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "133271",
+        "begin": "2024-07-26T16:00:00.000Z",
+        "broadcast": "R/2024-07-26T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "133271",
+        "begin": "2024-07-26T16:00:00.000Z",
+        "broadcast": "R/2024-07-26T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ao-buta-knapsack",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "26-245",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "prime",
+        "id": "B0D3J534BD",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "28052",
+        "begin": "2025-06-19T15:00:00.000Z",
+        "broadcast": "R/2025-06-19T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1086591"
+      },
+      {
+        "site": "mal",
+        "id": "54870"
+      },
+      {
+        "site": "anidb",
+        "id": "17862"
+      },
+      {
+        "site": "aniList",
+        "id": "161474"
+      }
+    ]
+  },
+  {
+    "title": "窓ぎわのトットちゃん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "窗边的小豆豆"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://tottochan-movie.jp/",
+    "begin": "2023-12-07T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-12-07T17:54:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "425290"
+      },
+      {
+        "site": "unext",
+        "id": "SID0103364",
+        "begin": "2024-05-29T03:00:00.000Z",
+        "broadcast": "R/2024-05-29T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3351"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1106904"
+      },
+      {
+        "site": "abema",
+        "id": "35-133",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "28497",
+        "begin": "2025-12-07T15:00:00.000Z",
+        "broadcast": "R/2025-12-07T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0FXJVWP5H",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mal",
+        "id": "54764"
+      },
+      {
+        "site": "anidb",
+        "id": "17922"
+      },
+      {
+        "site": "aniList",
+        "id": "162904"
+      }
+    ]
+  },
+  {
+    "title": "屋根裏のラジャー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "屋顶上的拉贾",
+        "阁楼的拉杰",
+        "楼阁的罗哲"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.ponoc.jp/Rudger/",
+    "begin": "2023-12-14T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-12-14T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "361352"
+      },
+      {
+        "site": "netflix",
+        "id": "81565710",
+        "begin": "2024-07-04T16:00:00.000Z",
+        "broadcast": "R/2024-07-04T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/913001"
+      },
+      {
+        "site": "mal",
+        "id": "50553"
+      },
+      {
+        "site": "anidb",
+        "id": "17026"
+      },
+      {
+        "site": "aniList",
+        "id": "142494"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 SPY×FAMILY CODE: White",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 间谍过家家 代号：白",
+        "间谍过家家 剧场版"
+      ],
+      "zh-Hant": [
+        "SPY×FAMILY 間諜家家酒 CODE: White"
+      ],
+      "en": [
+        "SPY x FAMILY CODE: White"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://spy-family.net/codewhite/",
+    "begin": "2023-12-21T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-12-21T17:50:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "411428"
+      },
+      {
+        "site": "unext",
+        "id": "SID0125020",
+        "begin": "2024-07-30T15:00:00.000Z",
+        "broadcast": "R/2024-07-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3413"
+      },
+      {
+        "site": "gamer",
+        "id": "129281",
+        "begin": "2024-08-31T16:00:00.000Z",
+        "broadcast": "R/2024-08-31T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "129281",
+        "begin": "2024-08-31T16:00:00.000Z",
+        "broadcast": "R/2024-08-31T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "21219259",
+        "begin": "2025-01-31T01:50:00.000Z",
+        "broadcast": "R/2025-01-31T01:50:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81924850",
+        "begin": "2024-12-21T00:00:00.000Z",
+        "broadcast": "R/2024-12-21T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "27461",
+        "begin": "2024-12-21T15:00:00.000Z",
+        "broadcast": "R/2024-12-21T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0CW8JK63C",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1062807"
+      },
+      {
+        "site": "nicovideo",
+        "id": "spy-family-movie",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mal",
+        "id": "53888"
+      },
+      {
+        "site": "anidb",
+        "id": "17785"
+      },
+      {
+        "site": "aniList",
+        "id": "158928"
+      },
+      {
+        "site": "muse_tw",
+        "id": "PLMVg6BTvAvhI",
+        "url": "https://www.youtube.com/watch?v=-mdg0zvsxfw",
+        "begin": "2025-04-04T14:00:00.000Z",
+        "broadcast": "R/2025-04-04T14:00:00.000Z/P0D",
+        "comment": "國語: https://www.youtube.com/watch?v=B11JPeCEC80"
+      }
+    ]
+  },
+  {
+    "title": "BURN THE WITCH #0.8",
+    "titleTranslate": {
+      "zh-Hans": [
+        "龙与魔女 #0.8"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://burn-the-witch-anime.com/story-zeropointeight/",
+    "begin": "2023-12-28T16:00:00.000Z",
+    "broadcast": "R/2023-12-28T16:00:00.000Z/P7D",
+    "end": "2023-12-28T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "454887"
+      },
+      {
+        "site": "mikan",
+        "id": "3272"
+      },
+      {
+        "site": "danime",
+        "id": "28162",
+        "begin": "2025-07-31T15:00:00.000Z",
+        "broadcast": "R/2025-07-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0237772",
+        "begin": "2025-10-15T03:00:00.000Z",
+        "broadcast": "R/2025-10-15T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1179822"
+      },
+      {
+        "site": "abema",
+        "id": "560-6",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mal",
+        "id": "56671"
+      },
+      {
+        "site": "anidb",
+        "id": "18196"
+      },
+      {
+        "site": "aniList",
+        "id": "169362"
+      }
+    ]
+  },
+  {
+    "title": "こうしす！EE 総集編映画版　～こちら京姫鉄道広報部システム課～",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://kosys.opap.jp/special/movie",
+    "begin": "2023-12-31T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-12-31T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "danime",
+        "id": "27253",
+        "begin": "2024-08-11T15:00:00.000Z",
+        "broadcast": "R/2024-08-11T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "死が美しいなんて誰が言った",
+    "titleTranslate": {
+      "zh-Hans": [
+        "谁说死亡是美好的"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2023-12-21T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-12-21T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "500050"
+      },
+      {
+        "site": "mal",
+        "id": "57500"
+      }
+    ]
+  }
+]

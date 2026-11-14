@@ -4,6 +4,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "海贼王 祭典男爵与神秘岛"
+      ],
+      "en": [
+        "One Piece 6: Baron Omatsuri and Secret Island"
       ]
     },
     "type": "movie",
@@ -15,6 +18,40 @@
       {
         "site": "bangumi",
         "id": "1991"
+      },
+      {
+        "site": "unext",
+        "id": "SID0011129",
+        "begin": "2019-07-01T03:00:00.000Z",
+        "broadcast": "R/2019-07-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26993",
+        "begin": "2024-03-07T15:00:00.000Z",
+        "broadcast": "R/2024-03-07T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B00HJK0ZLS",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/44729"
+      },
+      {
+        "site": "mal",
+        "id": "464"
+      },
+      {
+        "site": "aniList",
+        "id": "464"
+      },
+      {
+        "site": "anidb",
+        "id": "2644"
       }
     ]
   },
@@ -34,6 +71,34 @@
       {
         "site": "bangumi",
         "id": "48992"
+      },
+      {
+        "site": "unext",
+        "id": "SID0015340",
+        "begin": "2023-09-01T03:00:00.000Z",
+        "broadcast": "R/2023-09-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26560",
+        "begin": "2024-05-01T15:00:00.000Z",
+        "broadcast": "R/2024-05-01T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/34182/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "423"
+      },
+      {
+        "site": "anidb",
+        "id": "2896"
+      },
+      {
+        "site": "aniList",
+        "id": "423"
       }
     ]
   },
@@ -51,13 +116,42 @@
     "end": "2005-09-22T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "vo96ibGDGNnTXVb0",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "3059"
+      },
+      {
+        "site": "unext",
+        "id": "SID0016817",
+        "begin": "2020-11-15T15:00:00.000Z",
+        "broadcast": "R/2020-11-15T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10221",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "bokusatsutenshi",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/42870"
+      },
+      {
+        "site": "mal",
+        "id": "357"
+      },
+      {
+        "site": "anidb",
+        "id": "2820"
+      },
+      {
+        "site": "aniList",
+        "id": "357"
       }
     ]
   },
@@ -80,10 +174,272 @@
         "id": "38766"
       },
       {
+        "site": "bilibili",
+        "id": "3919",
+        "begin": "2016-05-03T07:14:00.000Z",
+        "broadcast": "R/2016-05-03T07:14:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0058300",
+        "begin": "2021-06-14T03:00:00.000Z",
+        "broadcast": "R/2021-06-14T03:00:00.000Z/P7D"
+      },
+      {
         "site": "nicovideo",
         "id": "tenten-anime-uf",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "24662",
+        "begin": "2021-04-30T03:00:00.000Z",
+        "broadcast": "R/2021-04-30T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/34732/season/0"
+      },
+      {
+        "site": "mal",
+        "id": "448"
+      },
+      {
+        "site": "anidb",
+        "id": "2784"
+      },
+      {
+        "site": "aniList",
+        "id": "448"
+      }
+    ]
+  },
+  {
+    "title": "キノの旅 塔の国 -Free Lance-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "奇诺之旅 塔之国 -自由创作-",
+        "奇诺之旅 塔之国 -Free Lance-"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2005-03-29T16:00:00.000Z",
+    "end": "2005-03-29T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "13448"
+      },
+      {
+        "site": "bilibili",
+        "id": "3581",
+        "begin": "2016-04-13T07:36:00.000Z",
+        "broadcast": "R/2016-04-13T07:36:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0012907",
+        "begin": "2019-09-12T03:00:00.000Z",
+        "broadcast": "R/2019-09-12T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10121",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/34166/season/0"
+      }
+    ]
+  },
+  {
+    "title": "天上天下 THE PAST CHAPTER",
+    "titleTranslate": {
+      "zh-Hans": [
+        "天上天下 THE PAST CHAPTER"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2005-03-29T16:00:00.000Z",
+    "end": "2005-03-29T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "109408"
+      },
+      {
+        "site": "bilibili",
+        "id": "3920",
+        "begin": "2016-05-03T07:19:00.000Z",
+        "broadcast": "R/2016-05-03T07:19:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/174815"
+      },
+      {
+        "site": "mal",
+        "id": "760"
+      },
+      {
+        "site": "anidb",
+        "id": "3121"
+      },
+      {
+        "site": "aniList",
+        "id": "760"
+      }
+    ]
+  },
+  {
+    "title": "グローランサーIV ~Wayfarer of the time~",
+    "titleTranslate": {
+      "zh-Hans": [
+        "梦幻骑士IV 时之旅人"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2005-03-09T16:00:00.000Z",
+    "end": "2005-03-09T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "37413"
+      },
+      {
+        "site": "bilibili",
+        "id": "5096",
+        "begin": "2016-06-23T08:52:00.000Z",
+        "broadcast": "R/2016-06-23T08:52:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/600056"
+      },
+      {
+        "site": "mal",
+        "id": "1933"
+      },
+      {
+        "site": "anidb",
+        "id": "3345"
+      },
+      {
+        "site": "aniList",
+        "id": "1933"
+      }
+    ]
+  },
+  {
+    "title": "春を抱いていた",
+    "titleTranslate": {
+      "zh-Hans": [
+        "拥抱春天的罗曼史"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2005-03-30T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2005-05-27T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "18606"
+      },
+      {
+        "site": "unext",
+        "id": "SID0043097",
+        "begin": "2023-12-08T03:00:00.000Z",
+        "broadcast": "R/2023-12-08T03:00:00.000Z/P7D",
+        "comment": "II: SID0043098"
+      },
+      {
+        "site": "danime",
+        "id": "25057",
+        "begin": "2021-10-01T01:00:00.000Z",
+        "broadcast": "R/2021-10-01T01:00:00.000Z/P7D",
+        "comment": "Ⅱ: 25058"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/285591"
+      },
+      {
+        "site": "mal",
+        "id": "747"
+      },
+      {
+        "site": "anidb",
+        "id": "2600"
+      },
+      {
+        "site": "aniList",
+        "id": "747"
+      }
+    ]
+  },
+  {
+    "title": "劇場版ロックマンエグゼ 光と闇の遺産",
+    "titleTranslate": {
+      "zh-Hans": [
+        "洛克人EXE剧场版 光与暗的遗产",
+        "网络英雄洛克人剧场版 光与暗之遗产"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.rockman-duel.com/",
+    "begin": "2005-03-11T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2005-03-11T16:48:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "5229"
+      },
+      {
+        "site": "unext",
+        "id": "SID0158516",
+        "begin": "2024-10-26T03:00:00.000Z",
+        "broadcast": "R/2024-10-26T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "27449",
+        "begin": "2024-11-28T15:00:00.000Z",
+        "broadcast": "R/2024-11-28T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/87073"
+      },
+      {
+        "site": "mal",
+        "id": "2111"
+      },
+      {
+        "site": "anidb",
+        "id": "2912"
+      },
+      {
+        "site": "aniList",
+        "id": "2111"
       }
     ]
   }

@@ -13,13 +13,199 @@
     "end": "1990-03-25T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "cKiaUEnrgUI7xb9c",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "57569"
+      },
+      {
+        "site": "unext",
+        "id": "SID0004312",
+        "begin": "2016-03-24T03:00:00.000Z",
+        "broadcast": "R/2016-03-24T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10139",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/197567"
+      },
+      {
+        "site": "mal",
+        "id": "5629"
+      },
+      {
+        "site": "anidb",
+        "id": "1740"
+      },
+      {
+        "site": "aniList",
+        "id": "5629"
+      }
+    ]
+  },
+  {
+    "title": "敵は海賊〜猫たちの饗宴〜",
+    "titleTranslate": {
+      "zh-Hans": [
+        "敌人是海盗- 猫们的飨宴"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1989-12-25T16:00:00.000Z",
+    "end": "1989-12-25T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "8379"
+      },
+      {
+        "site": "bilibili",
+        "id": "5880",
+        "begin": "2017-01-14T09:08:33.000Z",
+        "broadcast": "R/2017-01-14T09:08:33.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/201894"
+      }
+    ]
+  },
+  {
+    "title": "アッセンブル・インサート",
+    "titleTranslate": {
+      "zh-Hans": [
+        "怪力少女"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1989-12-20T16:00:00.000Z",
+    "end": "1990-02-24T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "8363"
+      },
+      {
+        "site": "bilibili",
+        "id": "5712",
+        "begin": "2016-11-30T02:22:00.000Z",
+        "broadcast": "R/2016-11-30T02:22:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/115790"
+      },
+      {
+        "site": "mal",
+        "id": "2414"
+      },
+      {
+        "site": "anidb",
+        "id": "1158"
+      },
+      {
+        "site": "aniList",
+        "id": "2414"
+      }
+    ]
+  },
+  {
+    "title": "ドラゴンクエスト",
+    "titleTranslate": {
+      "zh-Hans": [
+        "勇者斗恶龙",
+        "勇者斗恶龙 勇者阿贝尔传说"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1989-12-01T16:00:00.000Z",
+    "broadcast": "R/1989-12-01T16:00:00.000Z/P7D",
+    "end": "1991-04-04T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "68297"
+      },
+      {
+        "site": "unext",
+        "id": "SID0027069",
+        "begin": "2023-05-06T03:00:00.000Z",
+        "broadcast": "R/2023-05-06T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "11080",
+        "begin": "2019-07-19T01:00:00.000Z",
+        "broadcast": "R/2019-07-19T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/77025"
+      },
+      {
+        "site": "mal",
+        "id": "2819"
+      },
+      {
+        "site": "aniList",
+        "id": "2819"
+      },
+      {
+        "site": "anidb",
+        "id": "2091"
+      }
+    ]
+  },
+  {
+    "title": "Be-Boy Kidnapp'n Idol",
+    "titleTranslate": {
+      "zh-Hans": [
+        "漂亮男孩"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1989-12-21T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1989-12-21T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "18461"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003248",
+        "begin": "2010-01-29T06:00:00.000Z",
+        "broadcast": "R/2010-01-29T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/507455"
+      },
+      {
+        "site": "mal",
+        "id": "2220"
+      },
+      {
+        "site": "anidb",
+        "id": "2649"
+      },
+      {
+        "site": "aniList",
+        "id": "2220"
       }
     ]
   }

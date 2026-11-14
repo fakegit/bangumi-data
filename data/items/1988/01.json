@@ -21,6 +21,34 @@
       {
         "site": "bangumi",
         "id": "68707"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002224",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "20186",
+        "begin": "2015-07-17T01:00:00.000Z",
+        "broadcast": "R/2015-07-17T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/19761"
+      },
+      {
+        "site": "mal",
+        "id": "2555"
+      },
+      {
+        "site": "anidb",
+        "id": "2296"
+      },
+      {
+        "site": "aniList",
+        "id": "2555"
       }
     ]
   },
@@ -46,6 +74,90 @@
         "site": "youku",
         "id": "cc008b08962411de83b1",
         "begin": "2016-10-02T03:58:55.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002546",
+        "begin": "2018-04-06T03:00:00.000Z",
+        "broadcast": "R/2018-04-06T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "20144",
+        "begin": "2015-06-19T01:00:00.000Z",
+        "broadcast": "R/2015-06-19T01:00:00.000Z/P7D",
+        "comment": "#27-54: 20174, #55-86: 20239, #87-110: 20298"
+      },
+      {
+        "site": "prime",
+        "id": "B08BC76PXQ",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/27660"
+      },
+      {
+        "site": "mal",
+        "id": "820"
+      },
+      {
+        "site": "anidb",
+        "id": "584"
+      },
+      {
+        "site": "aniList",
+        "id": "820"
+      }
+    ]
+  },
+  {
+    "title": "闘将!!拉麵男",
+    "titleTranslate": {
+      "zh-Hans": [
+        "斗将！！拉面男"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1988-01-09T16:00:00.000Z",
+    "broadcast": "R/1988-01-09T16:00:00.000Z/P7D",
+    "end": "1988-09-10T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "299458"
+      },
+      {
+        "site": "unext",
+        "id": "SID0011396",
+        "begin": "2023-04-30T03:00:00.000Z",
+        "broadcast": "R/2023-04-30T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26155",
+        "begin": "2023-02-28T01:00:00.000Z",
+        "broadcast": "R/2023-02-28T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/209061"
+      },
+      {
+        "site": "mal",
+        "id": "4427"
+      },
+      {
+        "site": "anidb",
+        "id": "1817"
+      },
+      {
+        "site": "aniList",
+        "id": "4427"
       }
     ]
   }

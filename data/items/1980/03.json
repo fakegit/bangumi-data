@@ -15,6 +15,28 @@
       {
         "site": "bangumi",
         "id": "127777"
+      },
+      {
+        "site": "danime",
+        "id": "27240",
+        "begin": "2024-07-31T15:00:00.000Z",
+        "broadcast": "R/2024-07-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/79109"
+      },
+      {
+        "site": "mal",
+        "id": "6653"
+      },
+      {
+        "site": "aniList",
+        "id": "6653"
+      },
+      {
+        "site": "anidb",
+        "id": "2231"
       }
     ]
   },
@@ -24,6 +46,9 @@
       "zh-Hans": [
         "哆啦A梦：大雄的恐龙",
         "哆啦A梦 剧场版 大雄的恐龙"
+      ],
+      "zh-Hant": [
+        "電影 哆啦A夢 大雄與小恐龍"
       ]
     },
     "type": "movie",
@@ -38,11 +63,6 @@
         "begin": "2014-03-03T02:28:35.000Z"
       },
       {
-        "site": "letv",
-        "id": "80772",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "425"
       },
@@ -54,7 +74,42 @@
       {
         "site": "bilibili",
         "id": "2549",
-        "begin": "1980-03-14T16:00:00.000Z"
+        "begin": "1980-03-14T16:00:00.000Z",
+        "broadcast": "R/2015-02-13T07:25:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "35-90",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0099844",
+        "begin": "2024-03-05T03:00:00.000Z",
+        "broadcast": "R/2024-03-05T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/64789"
+      },
+      {
+        "site": "mal",
+        "id": "3727"
+      },
+      {
+        "site": "aniList",
+        "id": "3727"
+      },
+      {
+        "site": "anidb",
+        "id": "3114"
+      },
+      {
+        "site": "gamer",
+        "id": "32204",
+        "begin": "2026-09-23T04:00:00.000Z",
+        "broadcast": "R/2026-09-23T04:00:00.000Z/P7D"
       }
     ]
   },
@@ -74,6 +129,22 @@
       {
         "site": "bangumi",
         "id": "37285"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/8879"
+      },
+      {
+        "site": "mal",
+        "id": "4183"
+      },
+      {
+        "site": "anidb",
+        "id": "3124"
+      },
+      {
+        "site": "aniList",
+        "id": "4183"
       }
     ]
   },
@@ -81,7 +152,8 @@
     "title": "あしたのジョー",
     "titleTranslate": {
       "zh-Hans": [
-        "明日之丈 剧场版"
+        "明日之丈 剧场版",
+        "明日之丈剧场版"
       ]
     },
     "type": "movie",
@@ -93,6 +165,110 @@
       {
         "site": "bangumi",
         "id": "67754"
+      },
+      {
+        "site": "bilibili",
+        "id": "2485",
+        "begin": "2021-03-31T13:25:00.000Z",
+        "broadcast": "R/2021-03-31T13:25:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/301513"
+      },
+      {
+        "site": "mal",
+        "id": "2920"
+      },
+      {
+        "site": "aniList",
+        "id": "2920"
+      },
+      {
+        "site": "anidb",
+        "id": "1631"
+      }
+    ]
+  },
+  {
+    "title": "花の子ルンルン こんにちわ桜の国",
+    "titleTranslate": {
+      "zh-Hans": [
+        "花仙子 你好！樱花盛开的国度"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1980-03-14T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1980-03-14T16:14:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "114192"
+      },
+      {
+        "site": "unext",
+        "id": "SID0045414",
+        "begin": "2020-01-19T03:00:00.000Z",
+        "broadcast": "R/2020-01-19T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/68343/season/0"
+      },
+      {
+        "site": "mal",
+        "id": "9264"
+      },
+      {
+        "site": "anidb",
+        "id": "2043"
+      },
+      {
+        "site": "aniList",
+        "id": "9264"
+      }
+    ]
+  },
+  {
+    "title": "森は生きている",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1980-03-14T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1980-03-14T17:05:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "188232"
+      },
+      {
+        "site": "unext",
+        "id": "SID0091517",
+        "begin": "2023-09-10T03:00:00.000Z",
+        "broadcast": "R/2023-09-10T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/80536"
+      },
+      {
+        "site": "mal",
+        "id": "3751"
+      },
+      {
+        "site": "anidb",
+        "id": "2234"
+      },
+      {
+        "site": "aniList",
+        "id": "3751"
       }
     ]
   }

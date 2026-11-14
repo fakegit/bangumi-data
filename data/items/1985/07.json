@@ -20,6 +20,22 @@
         "site": "iqiyi",
         "id": "a_19rrhb54vl",
         "begin": "2015-08-04T01:02:58.000Z"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/287896"
+      },
+      {
+        "site": "mal",
+        "id": "8547"
+      },
+      {
+        "site": "anidb",
+        "id": "2286"
+      },
+      {
+        "site": "aniList",
+        "id": "8547"
       }
     ]
   },
@@ -48,9 +64,371 @@
         "id": "66390"
       },
       {
+        "site": "unext",
+        "id": "SID0015515",
+        "begin": "2023-02-16T03:00:00.000Z",
+        "broadcast": "R/2023-02-16T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/9161"
+      },
+      {
+        "site": "mal",
+        "id": "424"
+      },
+      {
+        "site": "anidb",
+        "id": "401"
+      },
+      {
+        "site": "aniList",
+        "id": "424"
+      }
+    ]
+  },
+  {
+    "title": "ルパン三世 バビロンの黄金伝説",
+    "titleTranslate": {
+      "zh-Hans": [
+        "鲁邦三世 巴比伦的黄金传说",
+        "鲁邦三世：巴比伦黄金传说"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1985-07-12T16:00:00.000Z",
+    "end": "1985-07-12T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "67758"
+      },
+      {
         "site": "bilibili",
-        "id": "2423",
-        "begin": "1985-07-15T16:00:00.000Z"
+        "id": "3925",
+        "begin": "2016-05-04T02:58:00.000Z",
+        "broadcast": "R/2016-05-04T02:58:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0195535",
+        "begin": "2025-06-05T15:00:00.000Z",
+        "broadcast": "R/2025-06-05T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "27965",
+        "begin": "2025-06-05T15:00:00.000Z",
+        "broadcast": "R/2025-06-05T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0F2RLXKN9",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/32873"
+      },
+      {
+        "site": "mal",
+        "id": "1433"
+      },
+      {
+        "site": "anidb",
+        "id": "989"
+      },
+      {
+        "site": "aniList",
+        "id": "1433"
+      }
+    ]
+  },
+  {
+    "title": "銀河鉄道の夜",
+    "titleTranslate": {
+      "zh-Hans": [
+        "银河铁道之夜"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1985-07-12T16:00:00.000Z",
+    "end": "1985-07-12T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "19208"
+      },
+      {
+        "site": "bilibili",
+        "id": "3041",
+        "begin": "2015-11-18T01:39:00.000Z",
+        "broadcast": "R/2015-11-18T01:39:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/37585"
+      },
+      {
+        "site": "mal",
+        "id": "1441"
+      },
+      {
+        "site": "anidb",
+        "id": "1250"
+      },
+      {
+        "site": "aniList",
+        "id": "1441"
+      },
+      {
+        "site": "danime",
+        "id": "29200",
+        "begin": "2026-09-03T15:00:00.000Z",
+        "broadcast": "R/2026-09-03T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0315397",
+        "begin": "2026-09-03T15:00:00.000Z",
+        "broadcast": "R/2026-09-03T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "魔法のプリンセス ミンキーモモ 夢の中の輪舞",
+    "titleTranslate": {
+      "zh-Hans": [
+        "魔法公主明琪桃子 梦中的轮舞"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1985-07-27T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1985-07-27T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "317022"
+      },
+      {
+        "site": "unext",
+        "id": "SID0012704",
+        "begin": "2016-03-24T03:00:00.000Z",
+        "broadcast": "R/2016-03-24T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10428",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/99643"
+      },
+      {
+        "site": "mal",
+        "id": "2272"
+      },
+      {
+        "site": "anidb",
+        "id": "4012"
+      },
+      {
+        "site": "aniList",
+        "id": "2272"
+      },
+      {
+        "site": "abema",
+        "id": "115-137",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "キン肉マン 逆襲!宇宙かくれ超人",
+    "titleTranslate": {
+      "zh-Hans": [
+        "筋肉人 反击！宇宙隐形超人"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1985-07-12T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1985-07-12T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "215103"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003121",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "20317",
+        "begin": "2020-02-01T01:00:00.000Z",
+        "broadcast": "R/2020-02-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/672384"
+      },
+      {
+        "site": "mal",
+        "id": "3276"
+      },
+      {
+        "site": "anidb",
+        "id": "2287"
+      },
+      {
+        "site": "aniList",
+        "id": "3276"
+      }
+    ]
+  },
+  {
+    "title": "戦え!超ロボット生命体トランスフォーマー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "战斗吧！超机器人生命体 变形金刚",
+        "日版变形金刚G1 第一季"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1985-07-05T16:00:00.000Z",
+    "broadcast": "R/1985-07-05T16:00:00.000Z/P7D",
+    "end": "1986-11-06T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "442368"
+      },
+      {
+        "site": "danime",
+        "id": "10409",
+        "begin": "2024-09-26T15:00:00.000Z",
+        "broadcast": "R/2024-09-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0157896",
+        "begin": "2024-10-25T03:00:00.000Z",
+        "broadcast": "R/2024-10-25T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/4269"
+      },
+      {
+        "site": "aniList",
+        "id": "2268"
+      },
+      {
+        "site": "abema",
+        "id": "118-2",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "装甲騎兵ボトムズVOL.II HIGHLIGHTS FROM THE \"A.T.VOTOMS\"",
+    "titleTranslate": {
+      "zh-Hans": [
+        "装甲骑兵VOL.II HIGHLIGHTS FROM THE \"A.T.VOTOMS\""
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "https://www.sunrise-inc.co.jp/work/detail.php?cid=223",
+    "begin": "1985-07-19T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1985-07-19T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "313517"
+      },
+      {
+        "site": "danime",
+        "id": "28543",
+        "begin": "2025-12-12T15:00:00.000Z",
+        "broadcast": "R/2025-12-12T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "12441"
+      },
+      {
+        "site": "aniList",
+        "id": "12441"
+      },
+      {
+        "site": "anidb",
+        "id": "9847"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1300685"
+      }
+    ]
+  },
+  {
+    "title": "キャプテン翼 ヨーロッパ大決戦",
+    "titleTranslate": {
+      "zh-Hans": [
+        "足球小将:欧洲大决战"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1985-07-12T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1985-07-12T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "312253"
+      },
+      {
+        "site": "mal",
+        "id": "2118"
+      },
+      {
+        "site": "anidb",
+        "id": "2337"
+      },
+      {
+        "site": "aniList",
+        "id": "2118"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/25707/season/0"
       }
     ]
   }

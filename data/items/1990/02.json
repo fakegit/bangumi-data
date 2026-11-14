@@ -15,6 +15,111 @@
       {
         "site": "bangumi",
         "id": "37245"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/17016"
+      },
+      {
+        "site": "danime",
+        "id": "11284",
+        "begin": "2025-12-12T15:00:00.000Z",
+        "broadcast": "R/2025-12-12T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "3325"
+      },
+      {
+        "site": "anidb",
+        "id": "1707"
+      },
+      {
+        "site": "aniList",
+        "id": "3325"
+      }
+    ]
+  },
+  {
+    "title": "キャッ党忍伝てやんでえ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "忍者猫",
+        "功夫猫党"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1990-01-31T16:00:00.000Z",
+    "broadcast": "R/1990-01-31T16:00:00.000Z/P7D",
+    "end": "1991-02-11T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "81577"
+      },
+      {
+        "site": "unext",
+        "id": "SID0019448",
+        "begin": "2016-08-25T03:00:00.000Z",
+        "broadcast": "R/2016-08-25T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23498",
+        "begin": "2020-05-15T01:00:00.000Z",
+        "broadcast": "R/2020-05-15T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/10797"
+      },
+      {
+        "site": "mal",
+        "id": "1261"
+      },
+      {
+        "site": "anidb",
+        "id": "2382"
+      },
+      {
+        "site": "aniList",
+        "id": "1261"
+      }
+    ]
+  },
+  {
+    "title": "おじさん改造講座",
+    "titleTranslate": {
+      "zh-Hans": [
+        "大叔改造讲座"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.tms-e.co.jp/alltitles/1990s/064301.html",
+    "begin": "1990-02-23T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1990-02-23T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "421834"
+      },
+      {
+        "site": "mal",
+        "id": "23865"
+      },
+      {
+        "site": "anidb",
+        "id": "3137"
+      },
+      {
+        "site": "aniList",
+        "id": "21630"
       }
     ]
   }

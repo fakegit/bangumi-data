@@ -20,6 +20,52 @@
         "site": "youku",
         "id": "cc00778a962411de83b1",
         "begin": "2011-10-12T10:25:24.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002854",
+        "begin": "2017-08-03T03:00:00.000Z",
+        "broadcast": "R/2017-08-03T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "5ca206acd8405d2d2e62b94f"
+      },
+      {
+        "site": "danime",
+        "id": "11552",
+        "begin": "2014-12-05T01:00:00.000Z",
+        "broadcast": "R/2014-12-05T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B074M2583Y",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/36941"
+      },
+      {
+        "site": "mal",
+        "id": "120"
+      },
+      {
+        "site": "anidb",
+        "id": "34"
+      },
+      {
+        "site": "aniList",
+        "id": "120"
+      },
+      {
+        "site": "acgnx",
+        "id": "水果藍|生肖奇缘|幻影天使"
+      },
+      {
+        "site": "dmhy",
+        "id": "水果藍|生肖奇缘|幻影天使"
       }
     ]
   },
@@ -28,6 +74,10 @@
     "titleTranslate": {
       "zh-Hans": [
         "通灵王"
+      ],
+      "zh-Hant": [
+        "通靈王",
+        "通靈王 (2001)"
       ]
     },
     "type": "tv",
@@ -43,7 +93,44 @@
       {
         "site": "nicovideo",
         "id": "skg",
-        "begin": "2018-11-30T06:00:00.000Z"
+        "begin": "2018-11-30T06:00:00.000Z",
+        "broadcast": "R/2018-11-30T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0035447",
+        "begin": "2021-07-01T03:00:00.000Z",
+        "broadcast": "R/2021-07-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "22038",
+        "begin": "2023-08-31T15:00:00.000Z",
+        "broadcast": "R/2023-08-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/40143"
+      },
+      {
+        "site": "mal",
+        "id": "154"
+      },
+      {
+        "site": "anidb",
+        "id": "92"
+      },
+      {
+        "site": "aniList",
+        "id": "154"
+      },
+      {
+        "site": "acgnx",
+        "id": "通靈王"
+      },
+      {
+        "site": "dmhy",
+        "id": "通靈王"
       }
     ]
   },
@@ -51,7 +138,8 @@
     "title": "スクライド",
     "titleTranslate": {
       "zh-Hans": [
-        "分身战士"
+        "分身战士",
+        "超能奇兵"
       ]
     },
     "type": "tv",
@@ -61,13 +149,42 @@
     "end": "2001-12-26T09:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "Cy8amABm1hR39V0",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "10276"
+      },
+      {
+        "site": "bilibili",
+        "id": "2105",
+        "begin": "2014-01-07T03:55:00.000Z",
+        "broadcast": "R/2014-01-07T03:55:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "s-cry-ed",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "11283",
+        "begin": "2018-02-16T01:00:00.000Z",
+        "broadcast": "R/2018-02-16T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/42676"
+      },
+      {
+        "site": "mal",
+        "id": "168"
+      },
+      {
+        "site": "anidb",
+        "id": "47"
+      },
+      {
+        "site": "aniList",
+        "id": "168"
       }
     ]
   },
@@ -85,13 +202,36 @@
     "end": "2001-09-27T10:00:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "xAic5d99FtfNW1Dw",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "89726"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/28106"
+      },
+      {
+        "site": "mal",
+        "id": "952"
+      },
+      {
+        "site": "anidb",
+        "id": "187"
+      },
+      {
+        "site": "aniList",
+        "id": "952"
+      },
+      {
+        "site": "unext",
+        "id": "SID0016949",
+        "begin": "2026-08-01T03:00:00.000Z",
+        "broadcast": "R/2026-08-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "29160",
+        "begin": "2026-07-31T15:00:00.000Z",
+        "broadcast": "R/2026-07-31T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -109,18 +249,36 @@
     "end": "2001-09-12T05:00:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "kdqmJIzyYqADgek",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "9618"
       },
       {
         "site": "bilibili",
         "id": "2165",
-        "begin": "2001-07-10T16:00:00.000Z"
+        "begin": "2001-07-10T16:00:00.000Z",
+        "broadcast": "R/2014-03-13T14:14:05.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "20468",
+        "begin": "2024-12-25T15:00:00.000Z",
+        "broadcast": "R/2024-12-25T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/26209/season/3"
+      },
+      {
+        "site": "mal",
+        "id": "397"
+      },
+      {
+        "site": "anidb",
+        "id": "5"
+      },
+      {
+        "site": "aniList",
+        "id": "397"
       }
     ]
   },
@@ -138,18 +296,42 @@
     "end": "2001-09-05T00:00:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "kbuGBGzSQoDjYck",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "24062"
       },
       {
         "site": "bilibili",
         "id": "2104",
-        "begin": "2001-07-03T16:00:00.000Z"
+        "begin": "2001-07-03T16:00:00.000Z",
+        "broadcast": "R/2013-02-16T14:52:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002424",
+        "begin": "2018-04-13T03:00:00.000Z",
+        "broadcast": "R/2018-04-13T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23265",
+        "begin": "2021-12-10T01:00:00.000Z",
+        "broadcast": "R/2021-12-10T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/40178"
+      },
+      {
+        "site": "mal",
+        "id": "509"
+      },
+      {
+        "site": "anidb",
+        "id": "93"
+      },
+      {
+        "site": "aniList",
+        "id": "509"
       }
     ]
   },
@@ -158,6 +340,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "千年女优"
+      ],
+      "zh-Hant": [
+        "千年女優"
       ]
     },
     "type": "movie",
@@ -176,14 +361,38 @@
         "id": "840"
       },
       {
-        "site": "letv",
-        "id": "10002014",
-        "begin": ""
-      },
-      {
         "site": "bilibili",
         "id": "5297",
-        "begin": "2001-07-27T16:00:01.000Z"
+        "begin": "2001-07-27T16:00:01.000Z",
+        "broadcast": "R/2016-07-22T03:52:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "22861",
+        "begin": "2025-11-05T04:00:00.000Z",
+        "broadcast": "R/2025-11-05T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/33320"
+      },
+      {
+        "site": "mal",
+        "id": "1033"
+      },
+      {
+        "site": "aniList",
+        "id": "1033"
+      },
+      {
+        "site": "anidb",
+        "id": "570"
+      },
+      {
+        "site": "danime",
+        "id": "29030",
+        "begin": "2026-06-30T15:00:00.000Z",
+        "broadcast": "R/2026-06-30T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -208,6 +417,34 @@
         "site": "iqiyi",
         "id": "a_19rrhb4tgp",
         "begin": "2015-08-06T12:03:19.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0020331",
+        "begin": "2020-01-17T03:00:00.000Z",
+        "broadcast": "R/2020-01-17T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "20624",
+        "begin": "2020-02-01T01:00:00.000Z",
+        "broadcast": "R/2020-02-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/36200"
+      },
+      {
+        "site": "mal",
+        "id": "3032"
+      },
+      {
+        "site": "anidb",
+        "id": "1227"
+      },
+      {
+        "site": "aniList",
+        "id": "3032"
       }
     ]
   },
@@ -233,6 +470,18 @@
       {
         "site": "bangumi",
         "id": "211292"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/56425/season/2"
+      },
+      {
+        "site": "acgnx",
+        "id": "刃牙"
+      },
+      {
+        "site": "dmhy",
+        "id": "刃牙"
       }
     ]
   },
@@ -250,11 +499,6 @@
     "end": "2001-07-07T17:10:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "91w4th6E9DKVE3s",
-        "begin": ""
-      },
-      {
         "site": "iqiyi",
         "id": "a_19rrhb8sh9",
         "begin": "2015-09-17T05:39:45.000Z"
@@ -271,7 +515,36 @@
       {
         "site": "bilibili",
         "id": "5756",
-        "begin": "2001-07-06T16:00:01.000Z"
+        "begin": "2001-07-06T16:00:01.000Z",
+        "broadcast": "R/2016-12-07T06:30:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0028810",
+        "begin": "2022-06-21T03:00:00.000Z",
+        "broadcast": "R/2022-06-21T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/12600"
+      },
+      {
+        "site": "danime",
+        "id": "25990",
+        "begin": "2025-12-19T15:00:00.000Z",
+        "broadcast": "R/2025-12-19T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "1119"
+      },
+      {
+        "site": "aniList",
+        "id": "1119"
+      },
+      {
+        "site": "anidb",
+        "id": "991"
       }
     ]
   },
@@ -296,6 +569,34 @@
       {
         "site": "bangumi",
         "id": "27779"
+      },
+      {
+        "site": "unext",
+        "id": "SID0028828",
+        "begin": "2022-06-21T03:00:00.000Z",
+        "broadcast": "R/2022-06-21T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/293245"
+      },
+      {
+        "site": "danime",
+        "id": "25991",
+        "begin": "2025-12-19T15:00:00.000Z",
+        "broadcast": "R/2025-12-19T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "4794"
+      },
+      {
+        "site": "anidb",
+        "id": "6799"
+      },
+      {
+        "site": "aniList",
+        "id": "4794"
       }
     ]
   },
@@ -304,6 +605,13 @@
     "titleTranslate": {
       "zh-Hans": [
         "千与千寻"
+      ],
+      "zh-Hant": [
+        "神隱少女",
+        "千與千尋"
+      ],
+      "en": [
+        "Spirited Away"
       ]
     },
     "type": "movie",
@@ -320,6 +628,28 @@
       {
         "site": "bangumi",
         "id": "311"
+      },
+      {
+        "site": "netflix",
+        "id": "60023642",
+        "begin": "2020-02-28T16:00:00.000Z",
+        "broadcast": "R/2020-02-28T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/129"
+      },
+      {
+        "site": "mal",
+        "id": "199"
+      },
+      {
+        "site": "anidb",
+        "id": "112"
+      },
+      {
+        "site": "aniList",
+        "id": "199"
       }
     ]
   },
@@ -337,18 +667,24 @@
     "end": "2001-10-22T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "ick04th6E9DKVE3s",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "83323"
       },
       {
-        "site": "letv",
-        "id": "29568",
-        "begin": ""
+        "site": "tmdb",
+        "id": "tv/46673"
+      },
+      {
+        "site": "mal",
+        "id": "1098"
+      },
+      {
+        "site": "anidb",
+        "id": "432"
+      },
+      {
+        "site": "aniList",
+        "id": "1098"
       }
     ]
   },
@@ -370,14 +706,525 @@
         "id": "53950"
       },
       {
-        "site": "pptv",
-        "id": "yAP9eibNJufda2EA",
-        "begin": ""
+        "site": "bilibili",
+        "id": "2062",
+        "begin": "2002-04-01T16:00:00.000Z",
+        "broadcast": "R/2011-04-09T07:19:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002790",
+        "begin": "2022-10-29T03:00:00.000Z",
+        "broadcast": "R/2022-10-29T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10086",
+        "begin": "2013-08-02T01:00:00.000Z",
+        "broadcast": "R/2013-08-02T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/79871"
+      },
+      {
+        "site": "mal",
+        "id": "259"
+      },
+      {
+        "site": "anidb",
+        "id": "598"
+      },
+      {
+        "site": "aniList",
+        "id": "259"
+      }
+    ]
+  },
+  {
+    "title": "映画 も〜っと! おジャ魔女どれみ カエル石のひみつ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "大～集合！小魔女DoReMi 青蛙石的秘密",
+        "大~集合！小魔女DoReMi 青蛙石的秘密",
+        "Mo~tto！小魔女DoReMi 青蛙石的秘密",
+        "小魔女DoReMi之青蛙石之谜",
+        "小魔女DoReMi 微笑月亮"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2001-07-13T16:00:00.000Z",
+    "end": "2001-07-13T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "14881"
       },
       {
         "site": "bilibili",
-        "id": "2062",
-        "begin": "2002-04-01T16:00:00.000Z"
+        "id": "5300",
+        "begin": "2016-07-22T04:20:00.000Z",
+        "broadcast": "R/2016-07-22T04:20:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002903",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "24685",
+        "begin": "2022-06-15T01:00:00.000Z",
+        "broadcast": "R/2022-06-15T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/599921"
+      },
+      {
+        "site": "mal",
+        "id": "2948"
+      },
+      {
+        "site": "anidb",
+        "id": "1791"
+      },
+      {
+        "site": "aniList",
+        "id": "2948"
+      }
+    ]
+  },
+  {
+    "title": "FINAL FANTASY: The Spirits Within",
+    "titleTranslate": {
+      "zh-Hans": [
+        "最终幻想：灵魂深处",
+        "最终幻想：内在精神"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2001-07-10T16:00:00.000Z",
+    "end": "2001-07-10T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "17746"
+      },
+      {
+        "site": "bilibili",
+        "id": "5302",
+        "begin": "2016-07-22T05:48:00.000Z",
+        "broadcast": "R/2016-07-22T05:48:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/2114"
+      },
+      {
+        "site": "mal",
+        "id": "1361"
+      },
+      {
+        "site": "anidb",
+        "id": "3146"
+      },
+      {
+        "site": "aniList",
+        "id": "1361"
+      }
+    ]
+  },
+  {
+    "title": "鉄腕アトム〜地球最後の日〜",
+    "titleTranslate": {
+      "zh-Hans": [
+        "铁臂阿童木 地球最后一日"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://tezukaosamu.net/jp/anime/125.html",
+    "begin": "2001-07-19T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2001-07-19T16:15:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "425942"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002254",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "11460",
+        "begin": "2014-10-03T01:00:00.000Z",
+        "broadcast": "R/2014-10-03T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1143842"
+      }
+    ]
+  },
+  {
+    "title": "コスモウォーリアー零",
+    "titleTranslate": {
+      "zh-Hans": [
+        "零战士"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2001-07-05T16:00:00.000Z",
+    "broadcast": "R/2001-07-05T16:00:00.000Z/P7D",
+    "end": "2001-09-27T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "127353"
+      },
+      {
+        "site": "unext",
+        "id": "SID0014831",
+        "begin": "2019-11-25T03:00:00.000Z",
+        "broadcast": "R/2019-11-25T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10230",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/25708"
+      },
+      {
+        "site": "mal",
+        "id": "1676"
+      },
+      {
+        "site": "anidb",
+        "id": "816"
+      },
+      {
+        "site": "aniList",
+        "id": "1676"
+      }
+    ]
+  },
+  {
+    "title": "星界の戦旗 特別編",
+    "titleTranslate": {
+      "zh-Hans": [
+        "星界的战旗 特别篇"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.sunrise-inc.co.jp/work/detail.php?cid=197",
+    "begin": "2001-07-06T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2001-07-06T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "445941"
+      },
+      {
+        "site": "danime",
+        "id": "20467",
+        "begin": "2024-12-25T15:00:00.000Z",
+        "broadcast": "R/2024-12-25T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/89496"
+      },
+      {
+        "site": "mal",
+        "id": "399"
+      },
+      {
+        "site": "anidb",
+        "id": "884"
+      },
+      {
+        "site": "aniList",
+        "id": "399"
+      }
+    ]
+  },
+  {
+    "title": "それいけ!アンパンマン ゴミラの星",
+    "titleTranslate": {
+      "zh-Hans": [
+        "面包超人：垃圾兽之星"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2001-07-13T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2001-07-13T16:51:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "317783"
+      },
+      {
+        "site": "unext",
+        "id": "SID0018540",
+        "begin": "2015-06-01T06:00:00.000Z",
+        "broadcast": "R/2015-06-01T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "27767",
+        "begin": "2025-04-29T15:00:00.000Z",
+        "broadcast": "R/2025-04-29T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/436620"
+      },
+      {
+        "site": "mal",
+        "id": "21947"
+      },
+      {
+        "site": "anidb",
+        "id": "7554"
+      },
+      {
+        "site": "aniList",
+        "id": "121837"
+      }
+    ]
+  },
+  {
+    "title": "キン肉マンII世",
+    "titleTranslate": {
+      "zh-Hans": [
+        "金肉人二世 剧场版",
+        "筋肉人二世 剧场版"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2001-07-13T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2001-07-13T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "500826"
+      },
+      {
+        "site": "danime",
+        "id": "20321",
+        "begin": "2020-02-01T01:00:00.000Z",
+        "broadcast": "R/2020-02-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003354",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/200779"
+      },
+      {
+        "site": "mal",
+        "id": "6310"
+      },
+      {
+        "site": "aniList",
+        "id": "6310"
+      },
+      {
+        "site": "anidb",
+        "id": "2131"
+      }
+    ]
+  },
+  {
+    "title": "ブラック・ジャック WEB",
+    "titleTranslate": {
+      "zh-Hans": [
+        "怪医黑杰克WEB版"
+      ],
+      "zh-Hant": [
+        "怪醫黑傑克 Flash Anime",
+        "怪醫黑傑克 FLASH ANIME"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2001-07-31T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2001-07-31T16:00:00.000Z",
+    "comment": "end unknown",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "504455"
+      },
+      {
+        "site": "danime",
+        "id": "11466",
+        "begin": "2016-01-29T01:00:00.000Z",
+        "broadcast": "R/2016-01-29T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003343",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tropics",
+        "id": "PLoGVqODys23B4T5OljAnOWwXqTfOh5WtJ",
+        "begin": "2025-08-14T13:00:00.000Z",
+        "broadcast": "R/2025-08-14T13:00:00.000Z/P1D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "146610",
+        "begin": "2025-08-14T16:00:00.000Z",
+        "broadcast": "R/2025-08-14T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "146610",
+        "begin": "2025-08-14T16:00:00.000Z",
+        "broadcast": "R/2025-08-14T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/262682"
+      }
+    ]
+  },
+  {
+    "title": "バッドばつ丸のオオカミが来た!",
+    "titleTranslate": {
+      "zh-Hans": [
+        "酷企鹅 狼来了"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2001-07-19T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2001-07-19T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "316629"
+      },
+      {
+        "site": "danime",
+        "id": "25520",
+        "begin": "2023-01-20T01:00:00.000Z",
+        "broadcast": "R/2023-01-20T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "22451"
+      },
+      {
+        "site": "anidb",
+        "id": "7827"
+      }
+    ]
+  },
+  {
+    "title": "Blue Remains",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.dmf.co.jp/blueremains",
+    "begin": "2001-07-19T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2001-07-19T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "138692"
+      },
+      {
+        "site": "mal",
+        "id": "4733"
+      },
+      {
+        "site": "anidb",
+        "id": "2627"
+      },
+      {
+        "site": "aniList",
+        "id": "4733"
+      }
+    ]
+  },
+  {
+    "title": "アリーテ姫",
+    "titleTranslate": {
+      "zh-Hans": [
+        "阿莱蒂公主"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.arete.jp/arete/index.html",
+    "begin": "2001-07-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2001-07-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "12282"
+      },
+      {
+        "site": "mal",
+        "id": "1028"
+      },
+      {
+        "site": "anidb",
+        "id": "1190"
+      },
+      {
+        "site": "aniList",
+        "id": "1028"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/59297"
       }
     ]
   }

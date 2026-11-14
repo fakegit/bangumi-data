@@ -15,6 +15,28 @@
       {
         "site": "bangumi",
         "id": "44932"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/44777"
+      },
+      {
+        "site": "danime",
+        "id": "24941",
+        "begin": "2025-12-21T15:00:00.000Z",
+        "broadcast": "R/2025-12-21T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "1236"
+      },
+      {
+        "site": "aniList",
+        "id": "1236"
+      },
+      {
+        "site": "anidb",
+        "id": "1593"
       }
     ]
   },
@@ -34,6 +56,22 @@
       {
         "site": "bangumi",
         "id": "37180"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/8996"
+      },
+      {
+        "site": "mal",
+        "id": "2816"
+      },
+      {
+        "site": "anidb",
+        "id": "1815"
+      },
+      {
+        "site": "aniList",
+        "id": "2816"
       }
     ]
   },
@@ -53,6 +91,22 @@
       {
         "site": "bangumi",
         "id": "65264"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/204801"
+      },
+      {
+        "site": "mal",
+        "id": "19947"
+      },
+      {
+        "site": "anidb",
+        "id": "1679"
+      },
+      {
+        "site": "aniList",
+        "id": "19947"
       }
     ]
   },
@@ -61,6 +115,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "未来少年柯南"
+      ],
+      "zh-Hant": [
+        "未來少年柯南"
+      ],
+      "en": [
+        "Future Boy Conan"
       ]
     },
     "type": "tv",
@@ -74,14 +134,32 @@
         "id": "10389"
       },
       {
-        "site": "nicovideo",
-        "id": "conan",
-        "begin": "2015-11-20T06:00:00.000Z"
+        "site": "unext",
+        "id": "SID0002334",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
       },
       {
-        "site": "bilibili",
-        "id": "2464",
-        "begin": "1978-04-04T16:00:00.000Z"
+        "site": "danime",
+        "id": "10226",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/19239"
+      },
+      {
+        "site": "mal",
+        "id": "302"
+      },
+      {
+        "site": "anidb",
+        "id": "330"
+      },
+      {
+        "site": "aniList",
+        "id": "302"
       }
     ]
   }

@@ -17,9 +17,74 @@
         "id": "27213"
       },
       {
-        "site": "pptv",
-        "id": "edSvLZX7a6kMiavI",
-        "begin": ""
+        "site": "tmdb",
+        "id": "tv/106404"
+      },
+      {
+        "site": "mal",
+        "id": "1488"
+      },
+      {
+        "site": "anidb",
+        "id": "569"
+      },
+      {
+        "site": "aniList",
+        "id": "1488"
+      }
+    ]
+  },
+  {
+    "title": "幻夢戦記レダ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "幻梦战记莉达",
+        "幻梦战记蕾达"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1985-02-28T16:00:00.000Z",
+    "end": "1985-02-28T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "25426"
+      },
+      {
+        "site": "bilibili",
+        "id": "5449",
+        "begin": "2016-08-16T06:59:00.000Z",
+        "broadcast": "R/2016-08-16T06:59:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0047082",
+        "begin": "2020-03-19T03:00:00.000Z",
+        "broadcast": "R/2020-03-19T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23691",
+        "begin": "2022-03-01T01:00:00.000Z",
+        "broadcast": "R/2022-03-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/182768"
+      },
+      {
+        "site": "mal",
+        "id": "2196"
+      },
+      {
+        "site": "anidb",
+        "id": "3339"
+      },
+      {
+        "site": "aniList",
+        "id": "2196"
       }
     ]
   }

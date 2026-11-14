@@ -3,7 +3,9 @@
     "title": "D・N・A2 ～何処かで失くしたあいつのアイツ～",
     "titleTranslate": {
       "zh-Hans": [
-        "再造基因"
+        "D·N·A² ~他到底失去了什么？~",
+        "再造基因",
+        "DNA²"
       ]
     },
     "type": "tv",
@@ -15,6 +17,28 @@
       {
         "site": "bangumi",
         "id": "3751"
+      },
+      {
+        "site": "bilibili",
+        "id": "7912",
+        "begin": "2017-11-01T10:10:00.000Z",
+        "broadcast": "R/2017-11-01T10:10:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/43384"
+      },
+      {
+        "site": "mal",
+        "id": "563"
+      },
+      {
+        "site": "anidb",
+        "id": "81"
+      },
+      {
+        "site": "aniList",
+        "id": "563"
       }
     ]
   },
@@ -23,6 +47,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "超时空要塞7"
+      ],
+      "zh-Hant": [
+        "超時空要塞7"
+      ],
+      "en": [
+        "Macross 7"
       ]
     },
     "type": "tv",
@@ -32,13 +62,43 @@
     "end": "1995-09-24T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "PAv2dNxCsvBT0Tk",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "3169"
+      },
+      {
+        "site": "unext",
+        "id": "SID0016938",
+        "begin": "2022-07-31T15:00:00.000Z",
+        "broadcast": "R/2022-07-31T15:00:00.000Z/P7D",
+        "comment": "TV未放映話: SID0016939"
+      },
+      {
+        "site": "disneyplus",
+        "id": "6VTFnLWm3vOs",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "20597",
+        "begin": "2016-02-01T01:00:00.000Z",
+        "broadcast": "R/2016-02-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/21735"
+      },
+      {
+        "site": "mal",
+        "id": "1397"
+      },
+      {
+        "site": "anidb",
+        "id": "442"
+      },
+      {
+        "site": "aniList",
+        "id": "1397"
       }
     ]
   },
@@ -63,6 +123,30 @@
         "site": "nicovideo",
         "id": "captsubaj",
         "begin": "2012-11-11T12:00:00.000Z"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/65835"
+      },
+      {
+        "site": "mal",
+        "id": "1674"
+      },
+      {
+        "site": "anidb",
+        "id": "507"
+      },
+      {
+        "site": "aniList",
+        "id": "1674"
+      },
+      {
+        "site": "acgnx",
+        "id": "足球小將"
+      },
+      {
+        "site": "dmhy",
+        "id": "足球小將"
       }
     ]
   },
@@ -74,6 +158,9 @@
       ],
       "zh-Hans": [
         "魔法骑士"
+      ],
+      "zh-Hant": [
+        "魔法騎士雷阿斯"
       ]
     },
     "type": "tv",
@@ -82,11 +169,6 @@
     "begin": "1994-10-17T16:00:00.000Z",
     "end": "1995-11-27T16:30:00.000Z",
     "sites": [
-      {
-        "site": "pptv",
-        "id": "2XJNyzOZCUeqKJA",
-        "begin": ""
-      },
       {
         "site": "mgtv",
         "id": "292188",
@@ -104,7 +186,46 @@
       {
         "site": "bilibili",
         "id": "2325",
-        "begin": "1994-10-16T16:00:00.000Z"
+        "begin": "1994-10-16T16:00:00.000Z",
+        "broadcast": "R/2014-08-04T11:30:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0012506",
+        "begin": "2016-02-25T03:00:00.000Z",
+        "broadcast": "R/2016-02-25T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10795",
+        "begin": "2013-04-05T01:00:00.000Z",
+        "broadcast": "R/2013-04-05T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "592",
+        "begin": "2025-03-07T04:00:00.000Z",
+        "broadcast": "R/2025-03-07T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/34158"
+      },
+      {
+        "site": "mal",
+        "id": "435"
+      },
+      {
+        "site": "aniList",
+        "id": "435"
+      },
+      {
+        "site": "anidb",
+        "id": "127"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "6abdf90a98d9339c5c7431a0"
       }
     ]
   },
@@ -122,11 +243,6 @@
     "end": "1995-09-14T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "BUdBvyeNicTueHIQ",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "3148"
       },
@@ -138,7 +254,48 @@
       {
         "site": "bilibili",
         "id": "2326",
-        "begin": "1994-10-12T16:00:00.000Z"
+        "begin": "1994-10-12T16:00:00.000Z",
+        "broadcast": "R/2013-03-14T00:47:10.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0030225",
+        "begin": "2018-08-14T03:00:00.000Z",
+        "broadcast": "R/2018-08-14T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "595681b7cc40e0d626c234d6"
+      },
+      {
+        "site": "danime",
+        "id": "21677",
+        "begin": "2017-07-22T03:00:00.000Z",
+        "broadcast": "R/2017-07-22T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/36247"
+      },
+      {
+        "site": "mal",
+        "id": "331"
+      },
+      {
+        "site": "anidb",
+        "id": "311"
+      },
+      {
+        "site": "aniList",
+        "id": "331"
+      },
+      {
+        "site": "acgnx",
+        "id": "咕嚕"
+      },
+      {
+        "site": "dmhy",
+        "id": "咕嚕"
       }
     ]
   },
@@ -158,6 +315,22 @@
       {
         "site": "bangumi",
         "id": "161680"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/34860"
+      },
+      {
+        "site": "mal",
+        "id": "1199"
+      },
+      {
+        "site": "anidb",
+        "id": "3626"
+      },
+      {
+        "site": "aniList",
+        "id": "1199"
       }
     ]
   },
@@ -179,9 +352,125 @@
         "id": "36971"
       },
       {
-        "site": "pptv",
-        "id": "0H1Ixia6UBEKlI4s",
-        "begin": ""
+        "site": "unext",
+        "id": "SID0002139",
+        "begin": "2019-11-30T03:00:00.000Z",
+        "broadcast": "R/2019-11-30T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10837",
+        "begin": "2013-06-07T01:00:00.000Z",
+        "broadcast": "R/2013-06-07T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/35195"
+      },
+      {
+        "site": "mal",
+        "id": "1233"
+      },
+      {
+        "site": "anidb",
+        "id": "198"
+      },
+      {
+        "site": "aniList",
+        "id": "1233"
+      }
+    ]
+  },
+  {
+    "title": "BLUE SEED",
+    "titleTranslate": {
+      "zh-Hans": [
+        "碧奇魂",
+        "种子特务"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1994-10-04T16:00:00.000Z",
+    "end": "1995-03-28T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "38938"
+      },
+      {
+        "site": "bilibili",
+        "id": "129332",
+        "begin": "2018-08-31T04:12:00.000Z",
+        "broadcast": "R/2018-08-31T04:12:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "25918",
+        "begin": "2023-12-31T15:00:00.000Z",
+        "broadcast": "R/2023-12-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/12634"
+      },
+      {
+        "site": "mal",
+        "id": "998"
+      },
+      {
+        "site": "anidb",
+        "id": "644"
+      },
+      {
+        "site": "aniList",
+        "id": "998"
+      }
+    ]
+  },
+  {
+    "title": "おたくの星座",
+    "titleTranslate": {},
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1994-10-06T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1994-10-06T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "79967"
+      },
+      {
+        "site": "danime",
+        "id": "10272",
+        "begin": "2017-11-24T01:00:00.000Z",
+        "broadcast": "R/2017-11-24T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/134036"
+      },
+      {
+        "site": "mal",
+        "id": "7915"
+      },
+      {
+        "site": "anidb",
+        "id": "3533"
+      },
+      {
+        "site": "aniList",
+        "id": "7915"
+      },
+      {
+        "site": "unext",
+        "id": "SID0012609",
+        "begin": "2026-09-26T03:00:00.000Z",
+        "broadcast": "R/2026-09-26T03:00:00.000Z/P7D"
       }
     ]
   }

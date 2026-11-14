@@ -7,6 +7,10 @@
       ],
       "en": [
         "The Seven Deadly Sins -Signs of holy war-"
+      ],
+      "zh-Hant": [
+        "七大罪 聖戰的預兆",
+        "七大罪SP：聖戰的預兆"
       ]
     },
     "type": "tv",
@@ -22,7 +26,62 @@
       {
         "site": "nicovideo",
         "id": "7-taizai02",
-        "begin": "2016-08-28T09:00:00.000Z"
+        "begin": "2016-08-28T09:00:00.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0026455",
+        "begin": "2016-08-29T03:00:00.000Z",
+        "broadcast": "R/2016-08-29T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "57765f72ca607f850f3f9362"
+      },
+      {
+        "site": "mikan",
+        "id": "800"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "76301",
+        "begin": "2024-11-01T03:00:00.000Z",
+        "broadcast": "R/2024-11-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "76301",
+        "begin": "2024-11-01T03:00:00.000Z",
+        "broadcast": "R/2024-11-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "21085",
+        "begin": "2016-08-29T03:00:00.000Z",
+        "broadcast": "R/2016-08-29T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "muse_tw",
+        "id": "PL12UaAf_xzfpBG6lK1-eacr85jHo8HiPT",
+        "begin": "2025-05-21T13:00:06.000Z",
+        "broadcast": "R/2025-05-21T13:00:06.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/62104/season/0/episode/4"
+      },
+      {
+        "site": "mal",
+        "id": "31722"
+      },
+      {
+        "site": "anidb",
+        "id": "12047"
+      },
+      {
+        "site": "aniList",
+        "id": "21385"
       }
     ]
   },
@@ -36,11 +95,6 @@
     "end": "2017-01-12T12:15:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "dbibZF3iclVZP2dNw",
-        "begin": ""
-      },
-      {
         "site": "qq",
         "id": "9/9fan764zm5pe3m8",
         "begin": ""
@@ -48,6 +102,22 @@
       {
         "site": "bangumi",
         "id": "175462"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/70602"
+      },
+      {
+        "site": "mal",
+        "id": "33969"
+      },
+      {
+        "site": "anidb",
+        "id": "13351"
+      },
+      {
+        "site": "aniList",
+        "id": "98863"
       }
     ]
   },
@@ -56,6 +126,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "伤物语II 热血篇"
+      ],
+      "zh-Hant": [
+        "傷物語 II 熱血篇"
       ]
     },
     "type": "movie",
@@ -76,7 +149,30 @@
       {
         "site": "nicovideo",
         "id": "kizumonogatari",
-        "begin": "2019-07-14T15:00:00.000Z"
+        "begin": "2019-07-14T15:00:00.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0042218",
+        "begin": "2019-07-15T03:00:00.000Z",
+        "broadcast": "R/2019-07-15T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "1131"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/362584"
+      },
+      {
+        "site": "mal",
+        "id": "31757"
+      },
+      {
+        "site": "aniList",
+        "id": "21399"
       }
     ]
   },
@@ -94,18 +190,30 @@
     "end": "2016-10-21T16:05:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "lZ9591icFNXPWVLw",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "189286"
       },
       {
         "site": "bilibili",
         "id": "5437",
-        "begin": "2016-08-04T16:00:01.000Z"
+        "begin": "2016-08-04T16:00:01.000Z",
+        "broadcast": "R/2016-08-09T07:49:08.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/211745"
+      },
+      {
+        "site": "mal",
+        "id": "33787"
+      },
+      {
+        "site": "anidb",
+        "id": "12316"
+      },
+      {
+        "site": "aniList",
+        "id": "103664"
       }
     ]
   },
@@ -124,18 +232,42 @@
     "end": "2016-08-21T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "q5139V3DM3HUUro",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "182406"
       },
       {
         "site": "bilibili",
         "id": "128792",
-        "begin": "2016-08-20T16:00:00.000Z"
+        "begin": "2016-08-20T16:00:00.000Z",
+        "broadcast": "R/2018-08-29T09:33:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0026474",
+        "begin": "2016-09-08T03:00:00.000Z",
+        "broadcast": "R/2016-09-08T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "21725",
+        "begin": "2017-08-04T01:00:00.000Z",
+        "broadcast": "R/2017-08-04T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/60667/season/0/episode/4"
+      },
+      {
+        "site": "mal",
+        "id": "30533"
+      },
+      {
+        "site": "anidb",
+        "id": "12123"
+      },
+      {
+        "site": "aniList",
+        "id": "21814"
       }
     ]
   },
@@ -153,18 +285,40 @@
     "end": "2016-08-01T16:40:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "VN66OKAGdrQXlf0",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "110658"
       },
       {
         "site": "bilibili",
         "id": "6071",
-        "begin": "2016-07-31T16:00:01.000Z"
+        "begin": "2016-07-31T16:00:01.000Z",
+        "broadcast": "R/2017-04-16T09:08:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0076812",
+        "begin": "2023-01-01T03:00:00.000Z",
+        "broadcast": "R/2023-01-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "802"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/291015"
+      },
+      {
+        "site": "mal",
+        "id": "27387"
+      },
+      {
+        "site": "anidb",
+        "id": "10800"
+      },
+      {
+        "site": "aniList",
+        "id": "21002"
       }
     ]
   },
@@ -185,6 +339,18 @@
       {
         "site": "bangumi",
         "id": "198230"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/417055"
+      },
+      {
+        "site": "mal",
+        "id": "48604"
+      },
+      {
+        "site": "anidb",
+        "id": "12309"
       }
     ]
   },
@@ -207,10 +373,322 @@
         "id": "161710"
       },
       {
+        "site": "unext",
+        "id": "SID0053410",
+        "begin": "2023-10-31T15:00:00.000Z",
+        "broadcast": "R/2023-10-31T15:00:00.000Z/P7D",
+        "comment": "後編: SID0053411"
+      },
+      {
+        "site": "danime",
+        "id": "24362",
+        "begin": "2023-10-31T15:00:00.000Z",
+        "broadcast": "R/2023-10-31T15:00:00.000Z/P7D",
+        "comment": "後編: 24363"
+      },
+      {
         "site": "nicovideo",
         "id": "gintama-aizenkouhen1",
         "begin": "",
+        "broadcast": "",
+        "comment": "後編: gintama-aizenkouhen2"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/57041/season/0/episode/8"
+      },
+      {
+        "site": "mal",
+        "id": "32366"
+      },
+      {
+        "site": "anidb",
+        "id": "11850"
+      },
+      {
+        "site": "aniList",
+        "id": "21588"
+      }
+    ]
+  },
+  {
+    "title": "君の名は。",
+    "titleTranslate": {
+      "zh-Hans": [
+        "你的名字。"
+      ],
+      "en": [
+        "Your Name."
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://kiminona.com",
+    "begin": "2016-08-25T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2016-08-25T17:46:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "160209"
+      },
+      {
+        "site": "unext",
+        "id": "SID0029295",
+        "begin": "2017-07-25T15:00:00.000Z",
+        "broadcast": "R/2017-07-25T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "1378"
+      },
+      {
+        "site": "prime",
+        "id": "B072BKM4FZ",
+        "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/372058"
+      },
+      {
+        "site": "mal",
+        "id": "32281"
+      },
+      {
+        "site": "anidb",
+        "id": "11829"
+      },
+      {
+        "site": "aniList",
+        "id": "21519"
+      }
+    ]
+  },
+  {
+    "title": "鷹の爪8 ～吉田くんのＸファイル～",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://xn--u9j429qiq1a.jp/xfile/",
+    "begin": "2016-08-26T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2016-08-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "187048"
+      },
+      {
+        "site": "unext",
+        "id": "SID0027860",
+        "begin": "2021-07-22T03:00:00.000Z",
+        "broadcast": "R/2021-07-22T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/863360"
+      },
+      {
+        "site": "mal",
+        "id": "33662"
+      },
+      {
+        "site": "aniList",
+        "id": "117287"
+      },
+      {
+        "site": "anidb",
+        "id": "12271"
+      }
+    ]
+  },
+  {
+    "title": "劇場版アイカツスターズ!",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 偶像活动Stars"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.aikatsu-movie.net/",
+    "begin": "2016-08-12T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2016-08-12T16:59:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "170120"
+      },
+      {
+        "site": "unext",
+        "id": "SID0044108",
+        "begin": "2019-11-05T03:00:00.000Z",
+        "broadcast": "R/2019-11-05T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "1197"
+      },
+      {
+        "site": "danime",
+        "id": "22959",
+        "begin": "2021-12-24T01:00:00.000Z",
+        "broadcast": "R/2021-12-24T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/463176"
+      },
+      {
+        "site": "mal",
+        "id": "31485"
+      },
+      {
+        "site": "anidb",
+        "id": "11526"
+      },
+      {
+        "site": "aniList",
+        "id": "21697"
+      }
+    ]
+  },
+  {
+    "title": "アイカツ!～ねらわれた魔法のアイカツ!カ―ド～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "偶像活动 ~被盯上的魔法偶活卡~"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.aikatsu-movie.net/",
+    "begin": "2016-08-12T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2016-08-12T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "200913"
+      },
+      {
+        "site": "unext",
+        "id": "SID0044107",
+        "begin": "2019-11-05T03:00:00.000Z",
+        "broadcast": "R/2019-11-05T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "1224"
+      },
+      {
+        "site": "danime",
+        "id": "22960",
+        "begin": "2021-12-24T01:00:00.000Z",
+        "broadcast": "R/2021-12-24T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/524239"
+      },
+      {
+        "site": "mal",
+        "id": "32806"
+      },
+      {
+        "site": "anidb",
+        "id": "12821"
+      },
+      {
+        "site": "aniList",
+        "id": "98332"
+      }
+    ]
+  },
+  {
+    "title": "クレヨンしんちゃん外伝 エイリアン vs. しんのすけ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "蜡笔小新外传 异形 VS 新之助"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2016-08-02T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2016-10-18T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "190589"
+      },
+      {
+        "site": "prime",
+        "id": "B09WZNZNHJ",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/67324"
+      },
+      {
+        "site": "mal",
+        "id": "33661"
+      },
+      {
+        "site": "anidb",
+        "id": "12270"
+      },
+      {
+        "site": "aniList",
+        "id": "98092"
+      }
+    ]
+  },
+  {
+    "title": "ルドルフとイッパイアッテナ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "黑猫鲁道夫"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://rudolf-ippaiattena.com/",
+    "begin": "2016-08-05T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2016-08-05T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "142263"
+      },
+      {
+        "site": "mal",
+        "id": "31373"
+      },
+      {
+        "site": "anidb",
+        "id": "11467"
+      },
+      {
+        "site": "aniList",
+        "id": "102058"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/429005"
       }
     ]
   }

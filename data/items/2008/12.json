@@ -10,21 +10,27 @@
     "lang": "ja",
     "officialSite": "http://maikaze.com/",
     "begin": "2008-12-30T16:00:00.000Z",
-    "end": "",
+    "end": "2008-12-30T16:00:00.000Z",
     "sites": [
-      {
-        "site": "pptv",
-        "id": "VYVicicWXLO3ncWsI",
-        "begin": ""
-      },
-      {
-        "site": "letv",
-        "id": "23613",
-        "begin": ""
-      },
       {
         "site": "bangumi",
         "id": "1171"
+      },
+      {
+        "site": "mikan",
+        "id": "1237"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/73361"
+      },
+      {
+        "site": "mal",
+        "id": "9874"
+      },
+      {
+        "site": "anidb",
+        "id": "6262"
       }
     ]
   },
@@ -49,6 +55,28 @@
         "site": "iqiyi",
         "id": "a_19rrhb4kld",
         "begin": "2015-08-11T08:03:32.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0089837",
+        "begin": "2023-08-23T03:00:00.000Z",
+        "broadcast": "R/2023-08-23T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/450999"
+      },
+      {
+        "site": "mal",
+        "id": "8145"
+      },
+      {
+        "site": "anidb",
+        "id": "7163"
+      },
+      {
+        "site": "aniList",
+        "id": "8145"
       }
     ]
   },
@@ -56,7 +84,11 @@
     "title": "劇場版BLEACH Fade to Black 君の名を呼ぶ",
     "titleTranslate": {
       "zh-Hans": [
-        "死神剧场版 消逝于黑暗中 呼唤着你的名字"
+        "死神剧场版 消逝于黑暗中 呼唤着你的名字",
+        "死神劇場版 呼喚你的名字"
+      ],
+      "zh-Hant": [
+        "死神劇場版 呼喚你的名字"
       ],
       "en": [
         "Bleach The Movie: Fade to Black"
@@ -73,9 +105,220 @@
         "id": "2875"
       },
       {
-        "site": "netflix",
-        "id": "70208801",
-        "begin": "2016-10-15T07:00:00.000Z"
+        "site": "bilibili_hk_mo_tw",
+        "id": "28338753",
+        "begin": "2022-09-09T10:00:00.000Z",
+        "broadcast": "R/2022-09-09T10:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0157653",
+        "begin": "2024-10-17T15:00:00.000Z",
+        "broadcast": "R/2024-10-17T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "27281",
+        "begin": "2024-08-18T15:00:00.000Z",
+        "broadcast": "R/2024-08-18T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/17165"
+      },
+      {
+        "site": "mal",
+        "id": "4835"
+      },
+      {
+        "site": "anidb",
+        "id": "6041"
+      },
+      {
+        "site": "aniList",
+        "id": "4835"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 メジャー 友情の一球(ウィニングショット)",
+    "titleTranslate": {
+      "zh-Hans": [
+        "棒球大联盟 剧场版 友情的一球"
+      ],
+      "zh-Hant": [
+        "棒球大聯盟電影版 友情的一球"
+      ],
+      "en": [
+        "MAJOR The Movie"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2008-12-12T16:00:00.000Z",
+    "end": "2008-12-12T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "3618"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002344",
+        "begin": "2024-03-08T03:00:00.000Z",
+        "broadcast": "R/2024-03-08T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26761",
+        "begin": "2024-01-21T15:00:00.000Z",
+        "broadcast": "R/2024-01-21T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "31190",
+        "begin": "2021-07-02T02:30:00.000Z",
+        "broadcast": "R/2021-07-02T02:30:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/77940"
+      },
+      {
+        "site": "mal",
+        "id": "5029"
+      },
+      {
+        "site": "anidb",
+        "id": "5839"
+      },
+      {
+        "site": "aniList",
+        "id": "5029"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 空の境界 第六章 忘却録音",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 空之境界 第六章 忘却录音"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.karanokyoukai.com/",
+    "begin": "2008-12-19T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2008-12-19T16:59:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "2225"
+      },
+      {
+        "site": "unext",
+        "id": "SID0066398",
+        "begin": "2022-02-23T03:00:00.000Z",
+        "broadcast": "R/2022-02-23T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/23166"
+      },
+      {
+        "site": "anidb",
+        "id": "4932"
+      },
+      {
+        "site": "danime",
+        "id": "29377",
+        "begin": "2026-10-29T15:00:00.000Z",
+        "broadcast": "R/2026-10-29T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "kiss×sis OAD",
+    "titleTranslate": {
+      "zh-Hans": [
+        "亲吻姐姐OAD"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://gentei.kodansha.co.jp/content/kiss_sis",
+    "begin": "2008-12-21T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2015-04-05T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "3359"
+      },
+      {
+        "site": "unext",
+        "id": "SID0047534",
+        "begin": "2024-11-12T03:00:00.000Z",
+        "broadcast": "R/2024-11-12T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23946",
+        "begin": "2020-12-25T01:00:00.000Z",
+        "broadcast": "R/2020-12-25T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/253007"
+      },
+      {
+        "site": "mal",
+        "id": "5042"
+      },
+      {
+        "site": "anidb",
+        "id": "6083"
+      },
+      {
+        "site": "aniList",
+        "id": "5042"
+      }
+    ]
+  },
+  {
+    "title": "映画! たまごっち うちゅーいちハッピーな物語!?",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2008-12-19T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2008-12-19T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "84049"
+      },
+      {
+        "site": "mal",
+        "id": "6517"
+      },
+      {
+        "site": "anidb",
+        "id": "7017"
+      },
+      {
+        "site": "aniList",
+        "id": "6517"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/565368"
       }
     ]
   }

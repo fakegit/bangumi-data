@@ -3,7 +3,8 @@
     "title": "天元突破 グレンラガン",
     "titleTranslate": {
       "zh-Hans": [
-        "天元突破 红莲螺岩"
+        "天元突破 红莲螺岩",
+        "天元突破红莲螺岩"
       ],
       "en": [
         "Gurren Lagann"
@@ -19,16 +20,6 @@
     "end": "2007-09-30T00:00:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "er6JB2icVRYPmZMw",
-        "begin": ""
-      },
-      {
-        "site": "letv",
-        "id": "37026",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "770"
       },
@@ -38,21 +29,56 @@
         "begin": "2015-12-28T03:00:00.000Z"
       },
       {
-        "site": "netflix",
-        "id": "70213196",
-        "begin": "2017-09-01T07:00:00.000Z"
-      },
-      {
         "site": "qq",
         "id": "s/szdqwhbgc8ndydf",
         "begin": "",
         "broadcast": ""
       },
       {
-        "site": "viu",
-        "id": "300892",
-        "begin": "2020-10-08T16:00:00.000Z",
-        "broadcast": "R/2020-10-08T16:00:00.000Z/P7D"
+        "site": "bilibili",
+        "id": "27059477",
+        "begin": "2019-04-09T03:23:00.000Z",
+        "broadcast": "R/2019-04-09T03:23:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0032045",
+        "begin": "2020-04-08T03:00:00.000Z",
+        "broadcast": "R/2020-04-08T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "11535",
+        "begin": "2018-12-31T01:00:00.000Z",
+        "broadcast": "R/2018-12-31T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/21729"
+      },
+      {
+        "site": "mal",
+        "id": "2001"
+      },
+      {
+        "site": "anidb",
+        "id": "4575"
+      },
+      {
+        "site": "aniList",
+        "id": "2001"
+      },
+      {
+        "site": "gamer",
+        "id": "486",
+        "begin": "2026-08-14T04:00:00.000Z",
+        "broadcast": "R/2026-08-14T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "486",
+        "begin": "2026-08-14T04:00:00.000Z",
+        "broadcast": "R/2026-08-14T04:00:00.000Z/P7D"
       }
     ]
   },
@@ -60,7 +86,8 @@
     "title": "REIDEEN",
     "titleTranslate": {
       "zh-Hans": [
-        "新勇者莱丁"
+        "新勇者莱丁",
+        "新勇者莱汀"
       ]
     },
     "type": "tv",
@@ -70,18 +97,42 @@
     "end": "2007-09-01T10:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "fsq1M5sBca8SkPg",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "11876"
       },
       {
         "site": "bilibili",
         "id": "1323",
-        "begin": "2007-03-02T16:00:00.000Z"
+        "begin": "2007-03-02T16:00:00.000Z",
+        "broadcast": "R/2010-08-13T08:32:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0017333",
+        "begin": "2023-10-31T15:00:00.000Z",
+        "broadcast": "R/2023-10-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10372",
+        "begin": "2020-03-13T01:00:00.000Z",
+        "broadcast": "R/2020-03-13T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/34775"
+      },
+      {
+        "site": "mal",
+        "id": "1693"
+      },
+      {
+        "site": "anidb",
+        "id": "4808"
+      },
+      {
+        "site": "aniList",
+        "id": "1693"
       }
     ]
   },
@@ -89,7 +140,8 @@
     "title": "ひとひら",
     "titleTranslate": {
       "zh-Hans": [
-        "初瓣"
+        "初瓣",
+        "女优大试炼"
       ]
     },
     "type": "tv",
@@ -99,23 +151,36 @@
     "end": "2007-06-13T02:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "YqyYFn7kVJL1c9s",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "5910"
       },
       {
         "site": "bilibili",
         "id": "4810",
-        "begin": "2007-03-27T16:00:01.000Z"
+        "begin": "2007-03-27T16:00:01.000Z",
+        "broadcast": "R/2016-06-14T06:36:05.000Z/P7D"
       },
       {
-        "site": "letv",
-        "id": "9475",
-        "begin": ""
+        "site": "danime",
+        "id": "10458",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/34095"
+      },
+      {
+        "site": "mal",
+        "id": "1721"
+      },
+      {
+        "site": "anidb",
+        "id": "4853"
+      },
+      {
+        "site": "aniList",
+        "id": "1721"
       }
     ]
   },
@@ -123,7 +188,8 @@
     "title": "MOONLIGHT MILE",
     "titleTranslate": {
       "zh-Hans": [
-        "月光旅程 -Lift off-"
+        "月光旅程 -Lift off-",
+        "月光之旅"
       ]
     },
     "type": "tv",
@@ -133,13 +199,24 @@
     "end": "2007-05-26T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "ruHbWcEnl9U4th4",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "2732"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/26792"
+      },
+      {
+        "site": "mal",
+        "id": "1941"
+      },
+      {
+        "site": "anidb",
+        "id": "4900"
+      },
+      {
+        "site": "aniList",
+        "id": "1941"
       }
     ]
   },
@@ -157,13 +234,24 @@
     "end": "2007-04-17T03:07:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "5Schnwdt3RtibicGQ",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "12381"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/53321"
+      },
+      {
+        "site": "mal",
+        "id": "1725"
+      },
+      {
+        "site": "anidb",
+        "id": "4778"
+      },
+      {
+        "site": "aniList",
+        "id": "1725"
       }
     ]
   },
@@ -172,6 +260,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "秒速5厘米"
+      ],
+      "en": [
+        "5 Centimeters Per Second"
       ]
     },
     "type": "movie",
@@ -180,11 +271,6 @@
     "begin": "2007-03-03T16:00:00.000Z",
     "end": "2007-03-03T17:03:00.000Z",
     "sites": [
-      {
-        "site": "letv",
-        "id": "7264",
-        "begin": ""
-      },
       {
         "site": "bangumi",
         "id": "927"
@@ -195,9 +281,38 @@
         "begin": ""
       },
       {
-        "site": "bilibili",
-        "id": "2688",
-        "begin": "2007-03-03T16:00:00.000Z"
+        "site": "unext",
+        "id": "SID0013582",
+        "begin": "2015-05-01T05:15:00.000Z",
+        "broadcast": "R/2015-05-01T05:15:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10677",
+        "begin": "2012-12-03T03:00:00.000Z",
+        "broadcast": "R/2012-12-03T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B00R7X45OU",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/38142"
+      },
+      {
+        "site": "mal",
+        "id": "1689"
+      },
+      {
+        "site": "anidb",
+        "id": "4568"
+      },
+      {
+        "site": "aniList",
+        "id": "1689"
       }
     ]
   },
@@ -206,6 +321,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "哆啦A梦 大雄的新魔界大冒险之7个魔法师"
+      ],
+      "zh-Hant": [
+        "電影 哆啦A夢 大雄的新魔界大冒險～7人魔法使～"
       ]
     },
     "type": "movie",
@@ -215,18 +333,8 @@
     "end": "2007-03-10T17:30:00.000Z",
     "sites": [
       {
-        "site": "letv",
-        "id": "81024",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "475"
-      },
-      {
-        "site": "pptv",
-        "id": "7qoHhe1TwwFk4ko",
-        "begin": ""
       },
       {
         "site": "qq",
@@ -241,7 +349,48 @@
       {
         "site": "bilibili",
         "id": "3869",
-        "begin": "2007-03-09T16:00:00.000Z"
+        "begin": "2007-03-09T16:00:00.000Z",
+        "broadcast": "R/2016-04-28T02:20:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "35-116",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0099877",
+        "begin": "2024-03-05T03:00:00.000Z",
+        "broadcast": "R/2024-03-05T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "26581",
+        "begin": "2023-03-16T02:00:00.000Z",
+        "broadcast": "R/2023-03-16T02:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0FHLHKJ9V",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/52795"
+      },
+      {
+        "site": "mal",
+        "id": "2673"
+      },
+      {
+        "site": "aniList",
+        "id": "2673"
+      },
+      {
+        "site": "anidb",
+        "id": "5432"
       }
     ]
   },
@@ -261,6 +410,10 @@
       {
         "site": "bangumi",
         "id": "82729"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/146097"
       }
     ]
   },
@@ -269,6 +422,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "海贼王 沙漠的王女与海贼们"
+      ],
+      "en": [
+        "One Piece 8: Episode of Alabasta"
       ]
     },
     "type": "movie",
@@ -280,6 +436,34 @@
       {
         "site": "bangumi",
         "id": "1999"
+      },
+      {
+        "site": "unext",
+        "id": "SID0012957",
+        "begin": "2019-07-01T03:00:00.000Z",
+        "broadcast": "R/2019-07-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26995",
+        "begin": "2024-03-07T15:00:00.000Z",
+        "broadcast": "R/2024-03-07T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/25278"
+      },
+      {
+        "site": "mal",
+        "id": "2107"
+      },
+      {
+        "site": "aniList",
+        "id": "2107"
+      },
+      {
+        "site": "anidb",
+        "id": "4851"
       }
     ]
   },
@@ -300,6 +484,22 @@
         "site": "nicovideo",
         "id": "mushiking-movie02",
         "begin": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0014777",
+        "begin": "2019-01-31T03:00:00.000Z",
+        "broadcast": "R/2019-01-31T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23344",
+        "begin": "2020-03-13T01:00:00.000Z",
+        "broadcast": "R/2020-03-13T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/727882"
       }
     ]
   },
@@ -321,14 +521,32 @@
         "id": "1265"
       },
       {
-        "site": "pptv",
-        "id": "Z9umJIzyYqADgek",
-        "begin": ""
-      },
-      {
         "site": "bilibili",
         "id": "1787",
-        "begin": "2007-03-27T16:00:00.000Z"
+        "begin": "2007-03-27T16:00:00.000Z",
+        "broadcast": "R/2017-06-28T10:02:28.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10574",
+        "begin": "2012-08-31T01:00:00.000Z",
+        "broadcast": "R/2012-08-31T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/95039"
+      },
+      {
+        "site": "mal",
+        "id": "1696"
+      },
+      {
+        "site": "anidb",
+        "id": "4860"
+      },
+      {
+        "site": "aniList",
+        "id": "1696"
       }
     ]
   },
@@ -350,14 +568,226 @@
         "id": "3762"
       },
       {
-        "site": "pptv",
-        "id": "9LQdmwNp2Rd6ibGA",
-        "begin": ""
+        "site": "bilibili",
+        "id": "4820",
+        "begin": "2007-03-16T16:00:01.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0014741",
+        "begin": "2019-03-08T03:00:00.000Z",
+        "broadcast": "R/2019-03-08T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "22214",
+        "begin": "2018-07-17T03:00:00.000Z",
+        "broadcast": "R/2018-07-17T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/212471"
+      },
+      {
+        "site": "mal",
+        "id": "2408"
+      },
+      {
+        "site": "anidb",
+        "id": "4818"
+      },
+      {
+        "site": "aniList",
+        "id": "2408"
+      }
+    ]
+  },
+  {
+    "title": "鉄人28号 白昼の残月",
+    "titleTranslate": {
+      "zh-Hans": [
+        "铁人28号 白昼之残月"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2007-03-30T16:00:00.000Z",
+    "end": "2007-03-30T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "37264"
       },
       {
         "site": "bilibili",
-        "id": "4820",
-        "begin": "2007-03-16T16:00:01.000Z"
+        "id": "1954",
+        "begin": "2014-05-21T13:59:00.000Z",
+        "broadcast": "R/2014-05-21T13:59:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "25652",
+        "begin": "2022-07-01T01:00:00.000Z",
+        "broadcast": "R/2022-07-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/90782"
+      },
+      {
+        "site": "mal",
+        "id": "10005"
+      },
+      {
+        "site": "anidb",
+        "id": "4936"
+      },
+      {
+        "site": "aniList",
+        "id": "10005"
+      }
+    ]
+  },
+  {
+    "title": "秘密結社 鷹の爪 THE MOVIE ~総統は二度死ぬ~",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2007-03-14T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2007-03-14T17:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "127131"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003253",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10566",
+        "begin": "2013-08-01T02:00:00.000Z",
+        "broadcast": "R/2013-08-01T02:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/581396"
+      },
+      {
+        "site": "mal",
+        "id": "8355"
+      },
+      {
+        "site": "aniList",
+        "id": "8355"
+      },
+      {
+        "site": "anidb",
+        "id": "6555"
+      }
+    ]
+  },
+  {
+    "title": "ぷちえゔぁ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "EVA爆笑学园",
+        "Q版EVA",
+        "福音小战士",
+        "新世纪福音战士原创网络动画：爆笑学园",
+        "新世纪福音战士ONA：爆笑学园"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://www.evangelion.co.jp/petit_eva/",
+    "begin": "2007-03-19T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2009-03-10T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "2682"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002836",
+        "begin": "2019-10-08T03:00:00.000Z",
+        "broadcast": "R/2019-10-08T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "27338",
+        "begin": "2024-10-31T15:00:00.000Z",
+        "broadcast": "R/2024-10-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/99639"
+      },
+      {
+        "site": "mal",
+        "id": "4130"
+      },
+      {
+        "site": "anidb",
+        "id": "6184"
+      },
+      {
+        "site": "aniList",
+        "id": "4130"
+      }
+    ]
+  },
+  {
+    "title": "オシャレ魔女♥ラブandベリー しあわせのまほう",
+    "titleTranslate": {
+      "zh-Hans": [
+        "时尚魔女LOVE & BERRY~幸福的魔法"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2007-03-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2007-03-20T16:51:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "102313"
+      },
+      {
+        "site": "unext",
+        "id": "SID0148438",
+        "begin": "2024-08-02T03:00:00.000Z",
+        "broadcast": "R/2024-08-02T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/968454"
+      },
+      {
+        "site": "mal",
+        "id": "3362"
+      },
+      {
+        "site": "anidb",
+        "id": "4997"
+      },
+      {
+        "site": "aniList",
+        "id": "3362"
       }
     ]
   }

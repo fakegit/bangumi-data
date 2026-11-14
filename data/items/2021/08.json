@@ -1,0 +1,615 @@
+[
+  {
+    "title": "僕のヒーローアカデミア THE MOVIE ワールドヒーローズミッション",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 我的英雄学院 World Heros' Mission",
+        "我的英雄学院：世界英雄任务"
+      ],
+      "zh-Hant": [
+        "我的英雄學院劇場版：世界英雄任務",
+        "我的英雄學院：世界英雄任務"
+      ],
+      "en": [
+        "My Hero Academia: World Heroes' Mission"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://heroaca-movie.com/",
+    "begin": "2021-08-05T16:00:00.000Z",
+    "end": "2021-08-05T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "321117"
+      },
+      {
+        "site": "netflix",
+        "id": "81642996",
+        "begin": "2022-11-24T00:00:00.000Z",
+        "broadcast": "R/2022-11-24T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0065169",
+        "begin": "2022-02-16T03:00:00.000Z",
+        "broadcast": "R/2022-02-16T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "114751",
+        "begin": "2024-04-19T04:00:00.000Z",
+        "broadcast": "R/2024-04-19T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "114751",
+        "begin": "2024-04-19T04:00:00.000Z",
+        "broadcast": "R/2024-04-19T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2641"
+      },
+      {
+        "site": "prime",
+        "id": "B0DW8V3Z7R",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "26567",
+        "begin": "2025-07-31T15:00:00.000Z",
+        "broadcast": "R/2025-07-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/768744"
+      },
+      {
+        "site": "mal",
+        "id": "44200"
+      },
+      {
+        "site": "anidb",
+        "id": "15873"
+      },
+      {
+        "site": "aniList",
+        "id": "126659"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GMTE00117460",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "岬のマヨイガ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "海岬的迷途之家"
+      ],
+      "zh-Hant": [
+        "海岬的迷途之家"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://misakinomayoiga.com/",
+    "begin": "2021-08-26T16:00:00.000Z",
+    "end": "2021-08-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "318542"
+      },
+      {
+        "site": "gamer",
+        "id": "114474",
+        "begin": "2022-12-23T04:00:00.000Z",
+        "broadcast": "R/2022-12-23T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "28237005",
+        "begin": "2022-03-12T02:00:00.000Z",
+        "broadcast": "R/2022-03-12T02:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2639"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/760758"
+      },
+      {
+        "site": "mal",
+        "id": "43755"
+      },
+      {
+        "site": "anidb",
+        "id": "15831"
+      },
+      {
+        "site": "aniList",
+        "id": "125838"
+      }
+    ]
+  },
+  {
+    "title": "BanG Dream! FILM LIVE 2nd Stage",
+    "titleTranslate": {
+      "zh-Hant": [
+        "BanG Dream！FILM LIVE 2nd Stage"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://anime.bang-dream.com/filmlive2/",
+    "begin": "2021-08-19T16:00:00.000Z",
+    "end": "2021-08-19T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "302228"
+      },
+      {
+        "site": "gamer",
+        "id": "110501",
+        "begin": "2022-07-21T06:00:00.000Z",
+        "broadcast": "R/2022-07-21T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "110501",
+        "begin": "2022-07-21T06:00:00.000Z",
+        "broadcast": "R/2022-07-21T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2780"
+      },
+      {
+        "site": "nicovideo",
+        "id": "bang-dream-film-live2",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "27962",
+        "begin": "2025-05-23T15:00:00.000Z",
+        "broadcast": "R/2025-05-23T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0195531",
+        "begin": "2025-05-23T15:00:00.000Z",
+        "broadcast": "R/2025-05-23T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/745115"
+      },
+      {
+        "site": "mal",
+        "id": "41462"
+      },
+      {
+        "site": "anidb",
+        "id": "15444"
+      },
+      {
+        "site": "aniList",
+        "id": "116610"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 Fate/kaleid liner プリズマ☆イリヤ Licht 名前の無い少女",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 Fate/kaleid liner 魔法少女☆伊莉雅 Licht 无名的少女",
+        "剧场版 Fate/kaleid liner 魔法少女☆伊莉雅 Licht 没有名字的少女"
+      ],
+      "zh-Hant": [
+        "魔法少女伊莉雅：Licht 無名的少女",
+        "Fate/kaleid liner 魔法少女☆伊莉雅 Licht 無名的少女"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://anime.prisma-illya.jp/movie/3",
+    "begin": "2021-08-26T16:00:00.000Z",
+    "end": "2021-08-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "306971"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28237331",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "prisma-illya-movie-licht",
+        "begin": "2022-04-30T15:00:00.000Z",
+        "broadcast": "R/2022-04-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0065326",
+        "begin": "2022-01-31T15:00:00.000Z",
+        "broadcast": "R/2022-01-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "115033",
+        "begin": "2024-05-03T04:00:00.000Z",
+        "broadcast": "R/2024-05-03T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "115033",
+        "begin": "2024-05-03T04:00:00.000Z",
+        "broadcast": "R/2024-05-03T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2645"
+      },
+      {
+        "site": "danime",
+        "id": "26289",
+        "begin": "2023-04-30T15:00:00.000Z",
+        "broadcast": "R/2023-04-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/843243"
+      },
+      {
+        "site": "mal",
+        "id": "42030"
+      },
+      {
+        "site": "anidb",
+        "id": "15565"
+      },
+      {
+        "site": "aniList",
+        "id": "118743"
+      }
+    ]
+  },
+  {
+    "title": "planetarian～雪圏球～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "星之梦～雪圏球～",
+        "星之梦～雪景球～",
+        "星之梦～雪圈球～"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2021-08-24T16:00:00.000Z",
+    "end": "2021-08-24T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "295090"
+      },
+      {
+        "site": "bilibili",
+        "id": "28234980",
+        "begin": "2021-08-25T01:00:00.000Z",
+        "broadcast": "R/2021-08-25T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "planetarian-snow-globe",
+        "begin": "2022-02-24T15:00:00.000Z",
+        "broadcast": "R/2022-02-24T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0066473",
+        "begin": "2022-02-25T03:00:00.000Z",
+        "broadcast": "R/2022-02-25T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2416"
+      },
+      {
+        "site": "danime",
+        "id": "25388",
+        "begin": "2022-03-18T01:00:00.000Z",
+        "broadcast": "R/2022-03-18T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/757683"
+      },
+      {
+        "site": "mal",
+        "id": "40778"
+      },
+      {
+        "site": "aniList",
+        "id": "113595"
+      },
+      {
+        "site": "anidb",
+        "id": "15284"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 きんいろモザイクThank you!!",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 黄金拼图 谢谢你!!",
+        "剧场版 黄金拼图 Thank you!!",
+        "剧场版 黄金嵌片 Thank you!!"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.kinmosa.com",
+    "begin": "2021-08-19T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2021-08-19T17:21:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "302373"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kinmosa-movie",
+        "begin": "2022-04-26T15:00:00.000Z",
+        "broadcast": "R/2022-04-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0068375",
+        "begin": "2022-04-26T15:00:00.000Z",
+        "broadcast": "R/2022-04-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2718"
+      },
+      {
+        "site": "danime",
+        "id": "26686",
+        "begin": "2023-10-31T15:00:00.000Z",
+        "broadcast": "R/2023-10-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/693853"
+      },
+      {
+        "site": "mal",
+        "id": "41471"
+      },
+      {
+        "site": "anidb",
+        "id": "15450"
+      },
+      {
+        "site": "aniList",
+        "id": "116676"
+      }
+    ]
+  },
+  {
+    "title": "トニカクカワイイ ～SNS～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "总之就是非常可爱 ～SNS～",
+        "总之就是非常可爱 OVA"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://tonikawa.com/",
+    "begin": "2021-08-17T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2021-08-17T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "322899"
+      },
+      {
+        "site": "unext",
+        "id": "SID0061820",
+        "begin": "2021-10-11T03:00:00.000Z",
+        "broadcast": "R/2021-10-11T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2541"
+      },
+      {
+        "site": "danime",
+        "id": "25051",
+        "begin": "2021-09-22T01:00:00.000Z",
+        "broadcast": "R/2021-09-22T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/100049/season/0/episode/14"
+      },
+      {
+        "site": "mal",
+        "id": "44931"
+      },
+      {
+        "site": "anidb",
+        "id": "15931"
+      },
+      {
+        "site": "aniList",
+        "id": "127371"
+      }
+    ]
+  },
+  {
+    "title": "深海のサバイバル！",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.toei-mangamatsuri.jp/",
+    "begin": "2021-08-12T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2021-08-12T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "338262"
+      },
+      {
+        "site": "unext",
+        "id": "SID0093662",
+        "begin": "2023-10-09T03:00:00.000Z",
+        "broadcast": "R/2023-10-09T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "27396",
+        "begin": "2024-10-10T03:00:00.000Z",
+        "broadcast": "R/2024-10-10T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/843245"
+      },
+      {
+        "site": "mal",
+        "id": "49369"
+      },
+      {
+        "site": "anidb",
+        "id": "16254"
+      },
+      {
+        "site": "aniList",
+        "id": "132444"
+      }
+    ]
+  },
+  {
+    "title": "映画おしりたんてい スフーレ島のひみつ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "电影屁屁侦探 舒芙蕾岛的秘密"
+      ],
+      "zh-Hant": [
+        "屁屁偵探：舒芙蕾島的秘密"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.oshiri-tantei.com/",
+    "begin": "2021-08-12T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2021-08-12T16:37:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "338261"
+      },
+      {
+        "site": "unext",
+        "id": "SID0067129",
+        "begin": "2022-03-01T03:00:00.000Z",
+        "broadcast": "R/2022-03-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26191",
+        "begin": "2023-03-31T01:00:00.000Z",
+        "broadcast": "R/2023-03-31T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/843247"
+      },
+      {
+        "site": "mal",
+        "id": "48784"
+      },
+      {
+        "site": "anidb",
+        "id": "16272"
+      },
+      {
+        "site": "aniList",
+        "id": "132698"
+      }
+    ]
+  },
+  {
+    "title": "Re:STARS 〜未来へ繋ぐ2つのきらぼし〜",
+    "titleTranslate": {
+      "zh-Hans": [
+        "今天开始做明星之天使情歌"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://re-stars.com/movie/",
+    "begin": "2021-08-02T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2021-08-02T17:29:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "364866"
+      },
+      {
+        "site": "unext",
+        "id": "SID0103352",
+        "begin": "2024-06-07T03:00:00.000Z",
+        "broadcast": "R/2024-06-07T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1163771"
+      },
+      {
+        "site": "mal",
+        "id": "58198"
+      },
+      {
+        "site": "aniList",
+        "id": "163544"
+      }
+    ]
+  }
+]

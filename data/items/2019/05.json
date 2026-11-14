@@ -6,7 +6,11 @@
         "CARDFIGHT!! Vanguard"
       ],
       "zh-Hans": [
-        "卡片战斗先导者（续・高校生篇）"
+        "卡片战斗先导者（续・高校生篇）",
+        "卡片战斗先导者 续・高校生篇"
+      ],
+      "zh-Hant": [
+        "卡片戰鬥！！先導者 續高校篇"
       ]
     },
     "type": "tv",
@@ -22,12 +26,45 @@
       {
         "site": "nicovideo",
         "id": "cf-vanguard-2019",
-        "begin": "2019-05-16T12:00:00.000Z"
+        "begin": "2019-05-16T12:00:00.000Z",
+        "broadcast": "R/2019-05-16T12:00:00.000Z/P7D"
       },
       {
         "site": "mgtv",
         "id": "332466",
         "begin": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0041607",
+        "begin": "2019-06-07T03:00:00.000Z",
+        "broadcast": "R/2019-06-07T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "5ca206b4d8405d2d2e62b963"
+      },
+      {
+        "site": "danime",
+        "id": "22705",
+        "begin": "2019-05-17T03:00:00.000Z",
+        "broadcast": "R/2019-05-17T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/107974/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "39244"
+      },
+      {
+        "site": "aniList",
+        "id": "109260"
+      },
+      {
+        "site": "anidb",
+        "id": "14681"
       }
     ]
   },
@@ -51,7 +88,34 @@
       {
         "site": "nicovideo",
         "id": "mirutights",
-        "begin": ""
+        "begin": "2019-05-18T13:00:00.000Z",
+        "broadcast": "R/2019-05-18T13:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "1952"
+      },
+      {
+        "site": "danime",
+        "id": "22715",
+        "begin": "2019-11-22T15:00:00.000Z",
+        "broadcast": "R/2019-11-22T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/86823"
+      },
+      {
+        "site": "mal",
+        "id": "38935"
+      },
+      {
+        "site": "anidb",
+        "id": "14571"
+      },
+      {
+        "site": "aniList",
+        "id": "106967"
       }
     ]
   },
@@ -71,7 +135,30 @@
       {
         "site": "nicovideo",
         "id": "wakige-anime",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "23001",
+        "begin": "2019-09-20T01:00:00.000Z",
+        "broadcast": "R/2019-09-20T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/519811"
+      },
+      {
+        "site": "mal",
+        "id": "37146"
+      },
+      {
+        "site": "anidb",
+        "id": "12687"
+      },
+      {
+        "site": "aniList",
+        "id": "113136"
       }
     ]
   },
@@ -96,7 +183,376 @@
       {
         "site": "nicovideo",
         "id": "kinpri-movie-sss",
-        "begin": "2020-07-13T15:00:00.000Z"
+        "begin": "2020-07-13T15:00:00.000Z",
+        "broadcast": "R/2020-07-13T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "24180",
+        "begin": "2020-08-14T01:00:00.000Z",
+        "broadcast": "R/2020-08-14T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/667001"
+      }
+    ]
+  },
+  {
+    "title": "甲鉄城のカバネリ～海門決戦～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "甲铁城的卡巴内利～海门决战～"
+      ],
+      "zh-Hant": [
+        "甲鐵城的卡巴內裡：海門決戰"
+      ],
+      "en": [
+        "Kabaneri of the Iron Fortress: The Battle of Unato"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://kabaneri.com/",
+    "begin": "2019-05-09T16:00:00.000Z",
+    "end": "2019-05-09T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "202270"
+      },
+      {
+        "site": "netflix",
+        "id": "81095103",
+        "begin": "2019-09-12T16:00:00.000Z",
+        "broadcast": "R/2019-09-12T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "1951"
+      },
+      {
+        "site": "unext",
+        "id": "SID0047533",
+        "begin": "2024-10-31T15:00:00.000Z",
+        "broadcast": "R/2024-10-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23962",
+        "begin": "2024-12-15T15:00:00.000Z",
+        "broadcast": "R/2024-12-15T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/567006"
+      },
+      {
+        "site": "mal",
+        "id": "34544"
+      },
+      {
+        "site": "anidb",
+        "id": "12654"
+      },
+      {
+        "site": "aniList",
+        "id": "97918"
+      }
+    ]
+  },
+  {
+    "title": "プロメア",
+    "titleTranslate": {
+      "zh-Hans": [
+        "普罗米亚",
+        "普羅米亞",
+        "烈焰救火隊"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://promare-movie.com",
+    "begin": "2019-05-23T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2019-05-23T17:51:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "218713"
+      },
+      {
+        "site": "unext",
+        "id": "SID0047493",
+        "begin": "2021-08-04T15:00:00.000Z",
+        "broadcast": "R/2021-08-04T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "28234481",
+        "begin": "2021-10-09T02:00:00.000Z",
+        "broadcast": "R/2021-10-09T02:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2103"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/553600"
+      },
+      {
+        "site": "mal",
+        "id": "35848"
+      },
+      {
+        "site": "anidb",
+        "id": "13261"
+      },
+      {
+        "site": "aniList",
+        "id": "99425"
+      }
+    ]
+  },
+  {
+    "title": "歎異抄をひらく",
+    "titleTranslate": {
+      "zh-Hans": [
+        "翻开叹异抄"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://tannisho.jp/",
+    "begin": "2019-05-23T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2019-05-23T17:38:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "276827"
+      },
+      {
+        "site": "prime",
+        "id": "B0B8SVNXB9",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/884754"
+      },
+      {
+        "site": "mal",
+        "id": "39479"
+      },
+      {
+        "site": "anidb",
+        "id": "14731"
+      }
+    ]
+  },
+  {
+    "title": "LUPIN THE IIIRD 峰不二子の嘘",
+    "titleTranslate": {
+      "zh-Hans": [
+        "鲁邦三世 峰不二子的谎言"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.lupin-3rd.net/fujiko-mine/",
+    "begin": "2019-05-30T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2019-05-30T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "276785"
+      },
+      {
+        "site": "unext",
+        "id": "SID0044209",
+        "begin": "2019-12-01T03:00:00.000Z",
+        "broadcast": "R/2019-12-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "24371",
+        "begin": "2020-11-20T03:00:00.000Z",
+        "broadcast": "R/2020-11-20T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0CVRLG5ZG",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/587870"
+      },
+      {
+        "site": "mal",
+        "id": "39487"
+      },
+      {
+        "site": "anidb",
+        "id": "14616"
+      },
+      {
+        "site": "aniList",
+        "id": "107313"
+      }
+    ]
+  },
+  {
+    "title": "ダヤンとタマと飛び猫と ～3つの猫の物語～",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2019-05-09T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2019-05-09T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "danime",
+        "id": "23123",
+        "begin": "2022-03-04T01:00:00.000Z",
+        "broadcast": "R/2022-03-04T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1365904"
+      },
+      {
+        "site": "mal",
+        "id": "39351"
+      },
+      {
+        "site": "anidb",
+        "id": "14699"
+      },
+      {
+        "site": "aniList",
+        "id": "129159"
+      }
+    ]
+  },
+  {
+    "title": "プロメア 前日譚",
+    "titleTranslate": {
+      "zh-Hans": [
+        "普罗米亚 前日谭",
+        "Promare 前日谭"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://promare-movie.com/",
+    "begin": "2019-05-22T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2019-06-06T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "282971"
+      },
+      {
+        "site": "mikan",
+        "id": "2089"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/323844"
+      }
+    ]
+  },
+  {
+    "title": "ホロのぐらふぃてぃ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "holo的涂鸦",
+        "hololive动画"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2019-05-04T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2020-06-13T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "282233"
+      },
+      {
+        "site": "danime",
+        "id": "26143",
+        "begin": "2023-02-13T01:00:00.000Z",
+        "broadcast": "R/2023-02-13T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/122522"
+      },
+      {
+        "site": "mal",
+        "id": "44042"
+      },
+      {
+        "site": "anidb",
+        "id": "15971"
+      },
+      {
+        "site": "aniList",
+        "id": "118123"
+      },
+      {
+        "site": "abema",
+        "id": "617-5",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "アーサー 騎士王の覚醒",
+    "titleTranslate": {
+      "zh-Hans": [
+        "亚瑟王 骑士王的觉醒"
+      ],
+      "zh-Hant": [
+        "亞瑟王 騎士王的覺醒"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://anime.monster-strike.com/",
+    "begin": "2019-05-10T16:00:00.000Z",
+    "broadcast": "R/2019-05-10T16:00:00.000Z/P7D",
+    "end": "2019-07-05T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "282692"
+      },
+      {
+        "site": "youtube",
+        "id": "PL8anBnIT2pG5sNBrcD84RspD996nBiIj4",
+        "begin": "2019-05-10T16:00:00.000Z",
+        "broadcast": "R/2019-05-10T16:00:00.000Z/P7D"
       }
     ]
   }

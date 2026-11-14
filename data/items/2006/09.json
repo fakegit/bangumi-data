@@ -13,13 +13,36 @@
     "end": "2006-11-24T15:00:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "kryHBW3TQ4HkYso",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "2090"
+      },
+      {
+        "site": "unext",
+        "id": "SID0011709",
+        "begin": "2020-11-26T15:00:00.000Z",
+        "broadcast": "R/2020-11-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10173",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/31741"
+      },
+      {
+        "site": "mal",
+        "id": "1498"
+      },
+      {
+        "site": "anidb",
+        "id": "4416"
+      },
+      {
+        "site": "aniList",
+        "id": "1498"
       }
     ]
   },
@@ -39,6 +62,22 @@
       {
         "site": "bangumi",
         "id": "88907"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/4335"
+      },
+      {
+        "site": "mal",
+        "id": "1212"
+      },
+      {
+        "site": "anidb",
+        "id": "1737"
+      },
+      {
+        "site": "aniList",
+        "id": "1212"
       }
     ]
   },
@@ -60,14 +99,32 @@
         "id": "84996"
       },
       {
-        "site": "pptv",
-        "id": "ibZ32dNxCsvBT0Tk",
-        "begin": ""
+        "site": "unext",
+        "id": "SID0015436",
+        "begin": "2019-05-02T03:00:00.000Z",
+        "broadcast": "R/2019-05-02T03:00:00.000Z/P7D"
       },
       {
-        "site": "bilibili",
-        "id": "3942",
-        "begin": "2006-09-07T16:00:01.000Z"
+        "site": "danime",
+        "id": "21764",
+        "begin": "2017-09-08T01:00:00.000Z",
+        "broadcast": "R/2017-09-08T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/80860"
+      },
+      {
+        "site": "mal",
+        "id": "4851"
+      },
+      {
+        "site": "anidb",
+        "id": "4634"
+      },
+      {
+        "site": "aniList",
+        "id": "4851"
       }
     ]
   },
@@ -87,6 +144,22 @@
       {
         "site": "bangumi",
         "id": "72655"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/169123"
+      },
+      {
+        "site": "mal",
+        "id": "1856"
+      },
+      {
+        "site": "anidb",
+        "id": "4785"
+      },
+      {
+        "site": "aniList",
+        "id": "1856"
       }
     ]
   },
@@ -106,6 +179,22 @@
       {
         "site": "bangumi",
         "id": "182294"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/45167"
+      },
+      {
+        "site": "mal",
+        "id": "1857"
+      },
+      {
+        "site": "anidb",
+        "id": "4397"
+      },
+      {
+        "site": "aniList",
+        "id": "1857"
       }
     ]
   },
@@ -115,6 +204,9 @@
       "zh-Hans": [
         "精灵宝可梦 钻石&珍珠",
         "精灵宝可梦 第3季"
+      ],
+      "zh-Hant": [
+        "寶可夢 鑽石與珍珠"
       ]
     },
     "type": "tv",
@@ -123,11 +215,6 @@
     "begin": "2006-09-28T16:00:00.000Z",
     "end": "2010-09-09T16:30:00.000Z",
     "sites": [
-      {
-        "site": "pptv",
-        "id": "BSELiafFXxwVo5k4",
-        "begin": ""
-      },
       {
         "site": "iqiyi",
         "id": "a_19rrhb7brp",
@@ -139,28 +226,53 @@
         "begin": ""
       },
       {
-        "site": "letv",
-        "id": "10006441",
-        "begin": ""
-      },
-      {
-        "site": "sohu",
-        "id": "s2017/jlbkm3",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "3021"
       },
       {
         "site": "bilibili",
         "id": "6162",
-        "begin": "2006-09-27T16:00:01.000Z"
+        "begin": "2006-09-27T16:00:01.000Z",
+        "broadcast": "R/2017-05-10T10:24:00.000Z/P7D"
       },
       {
         "site": "youku",
         "id": "cc004882962411de83b1",
         "begin": "2014-11-24T17:38:20.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0159289",
+        "begin": "2024-11-21T15:00:00.000Z",
+        "broadcast": "R/2024-11-21T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/60572/season/10"
+      },
+      {
+        "site": "mal",
+        "id": "1565"
+      },
+      {
+        "site": "anidb",
+        "id": "4728"
+      },
+      {
+        "site": "aniList",
+        "id": "1565"
+      },
+      {
+        "site": "danime",
+        "id": "28703",
+        "begin": "2026-04-30T15:00:00.000Z",
+        "broadcast": "R/2026-04-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "2-27",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -180,6 +292,121 @@
       {
         "site": "bangumi",
         "id": "48994"
+      },
+      {
+        "site": "unext",
+        "id": "SID0015339",
+        "begin": "2023-09-01T03:00:00.000Z",
+        "broadcast": "R/2023-09-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26561",
+        "begin": "2024-05-01T15:00:00.000Z",
+        "broadcast": "R/2024-05-01T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/34182/season/0/episode/5"
+      },
+      {
+        "site": "mal",
+        "id": "1584"
+      },
+      {
+        "site": "anidb",
+        "id": "4419"
+      },
+      {
+        "site": "aniList",
+        "id": "1584"
+      }
+    ]
+  },
+  {
+    "title": "カレイドスター ぐっどだよ! ぐぅーっど!",
+    "titleTranslate": {
+      "zh-Hans": [
+        "百变之星 妙啊！妙！",
+        "万花筒之星 妙不可言",
+        "星梦美少女OVA3",
+        "卡莱多之星OVA3"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.gonzo.co.jp/archives/kaleido-star/",
+    "begin": "2006-09-26T16:00:00.000Z",
+    "end": "2006-09-26T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "37065"
+      },
+      {
+        "site": "bilibili",
+        "id": "3779",
+        "begin": "2016-04-19T02:18:00.000Z",
+        "broadcast": "R/2016-04-19T02:18:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/12501/season/0/episode/3"
+      },
+      {
+        "site": "mal",
+        "id": "1501"
+      },
+      {
+        "site": "anidb",
+        "id": "3120"
+      },
+      {
+        "site": "aniList",
+        "id": "1501"
+      }
+    ]
+  },
+  {
+    "title": "永遠の法",
+    "titleTranslate": {
+      "zh-Hans": [
+        "永远之法"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2006-09-29T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2006-09-29T17:55:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "68741"
+      },
+      {
+        "site": "unext",
+        "id": "SID0227151",
+        "begin": "2025-10-01T03:00:00.000Z",
+        "broadcast": "R/2025-10-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/324821"
+      },
+      {
+        "site": "mal",
+        "id": "6939"
+      },
+      {
+        "site": "aniList",
+        "id": "6939"
+      },
+      {
+        "site": "anidb",
+        "id": "4631"
       }
     ]
   }

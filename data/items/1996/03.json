@@ -24,6 +24,34 @@
       {
         "site": "bangumi",
         "id": "5434"
+      },
+      {
+        "site": "unext",
+        "id": "SID0011656",
+        "begin": "2021-04-24T03:00:00.000Z",
+        "broadcast": "R/2021-04-24T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "24434",
+        "begin": "2022-02-28T15:00:00.000Z",
+        "broadcast": "R/2022-02-28T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/3570/season/5"
+      },
+      {
+        "site": "mal",
+        "id": "996"
+      },
+      {
+        "site": "anidb",
+        "id": "2542"
+      },
+      {
+        "site": "aniList",
+        "id": "996"
       }
     ]
   },
@@ -48,6 +76,34 @@
         "site": "nicovideo",
         "id": "makibao-anime",
         "begin": "2017-03-10T09:00:00.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0011793",
+        "begin": "2024-09-30T15:00:00.000Z",
+        "broadcast": "R/2024-09-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "27322",
+        "begin": "2024-09-12T15:00:00.000Z",
+        "broadcast": "R/2024-09-12T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/34080"
+      },
+      {
+        "site": "mal",
+        "id": "3550"
+      },
+      {
+        "site": "anidb",
+        "id": "3156"
+      },
+      {
+        "site": "aniList",
+        "id": "3550"
       }
     ]
   },
@@ -77,6 +133,28 @@
         "site": "iqiyi",
         "id": "a_19rrhb4015",
         "begin": "2016-02-04T10:34:13.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0010775",
+        "begin": "2018-07-27T03:00:00.000Z",
+        "broadcast": "R/2018-07-27T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/39148"
+      },
+      {
+        "site": "mal",
+        "id": "893"
+      },
+      {
+        "site": "anidb",
+        "id": "1129"
+      },
+      {
+        "site": "aniList",
+        "id": "893"
       }
     ]
   },
@@ -94,11 +172,6 @@
     "end": "1996-03-02T17:40:00.000Z",
     "sites": [
       {
-        "site": "letv",
-        "id": "80951",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "458"
       },
@@ -110,7 +183,36 @@
       {
         "site": "bilibili",
         "id": "2564",
-        "begin": "1996-03-01T16:00:00.000Z"
+        "begin": "1996-03-01T16:00:00.000Z",
+        "broadcast": "R/2015-02-27T08:04:05.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "35-106",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0099861",
+        "begin": "2024-03-05T03:00:00.000Z",
+        "broadcast": "R/2024-03-05T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/106164"
+      },
+      {
+        "site": "mal",
+        "id": "2675"
+      },
+      {
+        "site": "aniList",
+        "id": "2675"
+      },
+      {
+        "site": "anidb",
+        "id": "5046"
       }
     ]
   },
@@ -128,13 +230,151 @@
     "end": "1996-08-21T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "bdumJIzyYqADgek",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "80698"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/105650"
+      },
+      {
+        "site": "mal",
+        "id": "1701"
+      },
+      {
+        "site": "anidb",
+        "id": "1489"
+      },
+      {
+        "site": "aniList",
+        "id": "1701"
+      }
+    ]
+  },
+  {
+    "title": "それゆけ! 宇宙戦艦ヤマモト・ヨーコ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "宇宙战舰山本洋子"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1996-03-05T16:00:00.000Z",
+    "end": "1996-06-04T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "27206"
+      },
+      {
+        "site": "bilibili",
+        "id": "2226",
+        "begin": "2013-09-12T07:34:00.000Z",
+        "broadcast": "R/2013-09-12T07:34:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "24574",
+        "begin": "2021-03-26T01:00:00.000Z",
+        "broadcast": "R/2021-03-26T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/115931"
+      },
+      {
+        "site": "mal",
+        "id": "1100"
+      },
+      {
+        "site": "anidb",
+        "id": "338"
+      },
+      {
+        "site": "aniList",
+        "id": "1100"
+      }
+    ]
+  },
+  {
+    "title": "同級生2",
+    "titleTranslate": {
+      "zh-Hans": [
+        "同级生2"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1996-03-21T16:00:00.000Z",
+    "end": "1998-12-17T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "74484"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003238",
+        "begin": "2022-10-31T03:00:00.000Z",
+        "broadcast": "R/2022-10-31T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "20458",
+        "begin": "2015-11-20T01:00:00.000Z",
+        "broadcast": "R/2015-11-20T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "4842"
+      },
+      {
+        "site": "aniList",
+        "id": "4842"
+      },
+      {
+        "site": "anidb",
+        "id": "2566"
+      }
+    ]
+  },
+  {
+    "title": "チョッちゃん物語",
+    "titleTranslate": {
+      "zh-Hans": [
+        "风雨中的小豆豆"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1996-03-19T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1996-03-19T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "83172"
+      },
+      {
+        "site": "mal",
+        "id": "4201"
+      },
+      {
+        "site": "anidb",
+        "id": "4002"
+      },
+      {
+        "site": "aniList",
+        "id": "4201"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/608382"
       }
     ]
   }

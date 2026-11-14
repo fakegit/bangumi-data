@@ -4,6 +4,10 @@
     "titleTranslate": {
       "zh-Hans": [
         "新世纪福音战士剧场版 死与新生"
+      ],
+      "en": [
+        "EVANGELION: DEATH (TRUE)²",
+        "Neon Genesis Evangelion: Death & Rebirth"
       ]
     },
     "type": "movie",
@@ -24,7 +28,8 @@
       {
         "site": "bilibili",
         "id": "10312",
-        "begin": "1997-03-14T16:00:00.000Z"
+        "begin": "1997-03-14T16:00:00.000Z",
+        "broadcast": "R/2017-10-04T10:44:00.000Z/P7D"
       },
       {
         "site": "acfun",
@@ -35,6 +40,46 @@
         "site": "youku",
         "id": "ef28557461ad11e0bea1",
         "begin": "2020-05-07T13:40:09.000Z"
+      },
+      {
+        "site": "netflix",
+        "id": "81033473",
+        "begin": "2019-06-20T16:00:00.000Z",
+        "broadcast": "R/2019-06-20T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0042409",
+        "begin": "2019-08-01T03:00:00.000Z",
+        "broadcast": "R/2019-08-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0FQXD325P",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "28227",
+        "begin": "2025-09-30T15:00:00.000Z",
+        "broadcast": "R/2025-09-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/21832"
+      },
+      {
+        "site": "mal",
+        "id": "31"
+      },
+      {
+        "site": "anidb",
+        "id": "326"
+      },
+      {
+        "site": "aniList",
+        "id": "31"
       }
     ]
   },
@@ -59,6 +104,34 @@
         "site": "iqiyi",
         "id": "a_19rrhb4kld",
         "begin": "2015-08-11T08:03:32.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003096",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "24692",
+        "begin": "2022-06-15T01:00:00.000Z",
+        "broadcast": "R/2022-06-15T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/573475"
+      },
+      {
+        "site": "mal",
+        "id": "8156"
+      },
+      {
+        "site": "aniList",
+        "id": "8156"
+      },
+      {
+        "site": "anidb",
+        "id": "7357"
       }
     ]
   },
@@ -78,6 +151,16 @@
       {
         "site": "bangumi",
         "id": "190705"
+      },
+      {
+        "site": "unext",
+        "id": "SID0011500",
+        "begin": "2018-11-01T03:00:00.000Z",
+        "broadcast": "R/2018-11-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/18095"
       }
     ]
   },
@@ -97,6 +180,34 @@
       {
         "site": "bangumi",
         "id": "158798"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/731437"
+      },
+      {
+        "site": "mal",
+        "id": "8228"
+      },
+      {
+        "site": "anidb",
+        "id": "4018"
+      },
+      {
+        "site": "aniList",
+        "id": "8228"
+      },
+      {
+        "site": "unext",
+        "id": "SID0018722",
+        "begin": "2026-05-01T03:00:00.000Z",
+        "broadcast": "R/2026-05-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "24710",
+        "begin": "2026-04-09T15:00:00.000Z",
+        "broadcast": "R/2026-04-09T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -114,23 +225,317 @@
     "end": "1997-03-08T17:40:00.000Z",
     "sites": [
       {
-        "site": "letv",
-        "id": "80952",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "459"
       },
       {
-        "site": "pptv",
-        "id": "7qoHhe1TwwFk4ko",
-        "begin": ""
+        "site": "bilibili",
+        "id": "3864",
+        "begin": "1997-03-07T16:00:01.000Z",
+        "broadcast": "R/2016-04-27T08:38:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "35-107",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0099862",
+        "begin": "2024-03-05T03:00:00.000Z",
+        "broadcast": "R/2024-03-05T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/163394"
+      },
+      {
+        "site": "mal",
+        "id": "2678"
+      },
+      {
+        "site": "aniList",
+        "id": "2678"
+      },
+      {
+        "site": "anidb",
+        "id": "6584"
+      }
+    ]
+  },
+  {
+    "title": "神秘の世界エルハザード2",
+    "titleTranslate": {
+      "zh-Hans": [
+        "神秘的世界 EL-HAZARD 2 OVA"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1997-03-20T16:00:00.000Z",
+    "end": "1997-10-24T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "81172"
       },
       {
         "site": "bilibili",
-        "id": "3864",
-        "begin": "1997-03-07T16:00:01.000Z"
+        "id": "4031",
+        "begin": "2016-05-20T07:34:00.000Z",
+        "broadcast": "R/2016-05-20T07:34:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/44775/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "118"
+      },
+      {
+        "site": "anidb",
+        "id": "305"
+      },
+      {
+        "site": "aniList",
+        "id": "118"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 フランダースの犬",
+    "titleTranslate": {
+      "zh-Hans": [
+        "佛兰德斯的狗",
+        "义犬报恩",
+        "龙龙与忠狗"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.nippon-animation.co.jp/work/dog_of_flanders_movie.html",
+    "begin": "1997-03-14T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1997-03-14T17:42:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "19051"
+      },
+      {
+        "site": "unext",
+        "id": "SID0048815",
+        "begin": "2020-06-01T03:00:00.000Z",
+        "broadcast": "R/2020-06-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "21232",
+        "begin": "2016-11-04T01:00:00.000Z",
+        "broadcast": "R/2016-11-04T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/48661"
+      },
+      {
+        "site": "mal",
+        "id": "2623"
+      },
+      {
+        "site": "anidb",
+        "id": "1646"
+      },
+      {
+        "site": "aniList",
+        "id": "2623"
+      }
+    ]
+  },
+  {
+    "title": "VAMPIRE HUNTER The Animated Series",
+    "titleTranslate": {
+      "zh-Hans": [
+        "恶魔战士",
+        "魔域幽灵",
+        "恶魔猎人",
+        "吸血鬼猎人"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1997-03-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1998-03-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "38422"
+      },
+      {
+        "site": "danime",
+        "id": "28317",
+        "begin": "2025-10-10T15:00:00.000Z",
+        "broadcast": "R/2025-10-10T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0237515",
+        "begin": "2025-10-11T03:00:00.000Z",
+        "broadcast": "R/2025-10-11T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "149-33",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/88506"
+      },
+      {
+        "site": "mal",
+        "id": "1952"
+      },
+      {
+        "site": "anidb",
+        "id": "59"
+      },
+      {
+        "site": "aniList",
+        "id": "1952"
+      }
+    ]
+  },
+  {
+    "title": "ケロケロちゃいむ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "青蛙公主"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1997-03-05T16:00:00.000Z",
+    "broadcast": "R/1997-03-05T16:00:00.000Z/P7D",
+    "end": "1997-09-24T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "421441"
+      },
+      {
+        "site": "danime",
+        "id": "29009",
+        "begin": "2026-05-19T15:00:00.000Z",
+        "broadcast": "R/2026-05-19T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "2074"
+      },
+      {
+        "site": "aniList",
+        "id": "2074"
+      },
+      {
+        "site": "anidb",
+        "id": "808"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/34085"
+      }
+    ]
+  },
+  {
+    "title": "機関車先生",
+    "titleTranslate": {
+      "zh-Hans": [
+        "机关车先生"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1997-03-28T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1997-03-28T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "109615"
+      },
+      {
+        "site": "mal",
+        "id": "23085"
+      },
+      {
+        "site": "anidb",
+        "id": "4300"
+      },
+      {
+        "site": "aniList",
+        "id": "159417"
+      }
+    ]
+  },
+  {
+    "title": "花より男子",
+    "titleTranslate": {
+      "zh-Hans": [
+        "花样男子 剧场版"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1997-03-07T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1997-03-07T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "58256"
+      },
+      {
+        "site": "danime",
+        "id": "29206",
+        "begin": "2026-09-30T15:00:00.000Z",
+        "broadcast": "R/2026-09-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "2071"
+      },
+      {
+        "site": "anidb",
+        "id": "1249"
+      },
+      {
+        "site": "aniList",
+        "id": "2071"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/411273"
+      },
+      {
+        "site": "unext",
+        "id": "SID0318287",
+        "begin": "2026-09-30T15:00:00.000Z",
+        "broadcast": "R/2026-09-30T15:00:00.000Z/P7D"
       }
     ]
   }

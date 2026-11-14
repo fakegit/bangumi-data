@@ -4,6 +4,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "ACCA13区监察课 Regards"
+      ],
+      "zh-Hant": [
+        "ACCA13 區監察課 Regards"
       ]
     },
     "type": "ova",
@@ -25,7 +28,593 @@
       {
         "site": "bilibili",
         "id": "28228721",
-        "begin": "2020-03-26T16:00:00.000Z"
+        "begin": "2020-03-26T16:00:00.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "mikan",
+        "id": "2166"
+      },
+      {
+        "site": "nicovideo",
+        "id": "acca-anime",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "24301",
+        "begin": "2024-01-31T15:00:00.000Z",
+        "broadcast": "R/2024-01-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/642225"
+      },
+      {
+        "site": "mal",
+        "id": "39610"
+      },
+      {
+        "site": "anidb",
+        "id": "14799"
+      },
+      {
+        "site": "aniList",
+        "id": "108714"
+      }
+    ]
+  },
+  {
+    "title": "恐竜少女ガウ子 シーズン2",
+    "titleTranslate": {
+      "zh-Hans": [
+        "恐龙女孩 第二季"
+      ],
+      "zh-Hant": [
+        "恐龍女孩 第二季"
+      ],
+      "en": [
+        "Dino Girl Gauko Season 2"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://www.gauko.com/",
+    "begin": "2020-03-19T16:00:00.000Z",
+    "end": "2020-03-19T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "302673"
+      },
+      {
+        "site": "netflix",
+        "id": "80216180",
+        "begin": "2019-11-22T00:00:00.000Z",
+        "broadcast": "R/2019-11-22T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/95579/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "41421"
+      },
+      {
+        "site": "anidb",
+        "id": "15574"
+      },
+      {
+        "site": "aniList",
+        "id": "115794"
+      }
+    ]
+  },
+  {
+    "title": "岸辺露伴は動かない OVA",
+    "titleTranslate": {
+      "zh-Hans": [
+        "岸边露伴一动不动 OVA"
+      ],
+      "zh-Hant": [
+        "岸邊露伴一動也不動 OVA"
+      ],
+      "en": [
+        "Thus Spoke Kishibe Rohan OVA"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://jojo-animation.com/ova/rohan",
+    "begin": "2020-03-24T16:00:00.000Z",
+    "end": "2020-03-24T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "289138"
+      },
+      {
+        "site": "netflix",
+        "id": "81280998",
+        "begin": "2021-02-17T16:00:00.000Z",
+        "broadcast": "R/2021-02-17T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "28233715",
+        "begin": "2021-02-20T10:00:00.000Z",
+        "broadcast": "R/2021-02-20T10:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2234"
+      },
+      {
+        "site": "danime",
+        "id": "26421",
+        "begin": "2023-06-01T03:00:00.000Z",
+        "broadcast": "R/2023-06-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "muse_tw",
+        "id": "PL12UaAf_xzfoDqaRnX7GP6ZaRWHkRu9sq",
+        "begin": "2025-06-09T14:00:06.000Z",
+        "broadcast": "R/2025-06-09T14:00:06.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "33191"
+      },
+      {
+        "site": "aniList",
+        "id": "21778"
+      },
+      {
+        "site": "anidb",
+        "id": "13812"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/118443"
+      },
+      {
+        "site": "abema",
+        "id": "199-56",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "オルタード・カーボン：リスリーブド",
+    "titleTranslate": {
+      "zh-Hans": [
+        "副本：义体置换"
+      ],
+      "zh-Hant": [
+        "碳變：義體置換"
+      ],
+      "en": [
+        "Altered Carbon: Resleeved"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2020-03-18T16:00:00.000Z",
+    "end": "2020-03-18T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "277363"
+      },
+      {
+        "site": "netflix",
+        "id": "81001991",
+        "begin": "2020-03-18T16:00:00.000Z",
+        "broadcast": "R/2020-03-18T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/665251"
+      },
+      {
+        "site": "mal",
+        "id": "40613"
+      },
+      {
+        "site": "anidb",
+        "id": "14481"
+      },
+      {
+        "site": "aniList",
+        "id": "115715"
+      }
+    ]
+  },
+  {
+    "title": "本好きの下剋上 司書になるためには手段を選んでいられません 外伝",
+    "titleTranslate": {
+      "zh-Hans": [
+        "小书痴的下克上 为了成为图书管理员而不择手段 外传"
+      ],
+      "zh-Hant": [
+        "小書痴的下剋上：為了成為圖書管理員不擇手段！ 外傳"
+      ],
+      "en": [
+        "Ascendance of a Bookworm OVA"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.tobooks.jp/booklove_ova/",
+    "begin": "2020-03-09T16:00:00.000Z",
+    "end": "2020-03-09T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "296129"
+      },
+      {
+        "site": "danime",
+        "id": "23652",
+        "begin": "2020-03-10T15:00:00.000Z",
+        "broadcast": "R/2020-03-10T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "40841"
+      },
+      {
+        "site": "anidb",
+        "id": "15300"
+      },
+      {
+        "site": "aniList",
+        "id": "113811"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/91768/season/0"
+      }
+    ]
+  },
+  {
+    "title": "人形アニメ ハイキュー!!",
+    "titleTranslate": {
+      "zh-Hans": [
+        "人偶动画 排球!!"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "https://haikyu.jp/comic/figure-animation.html",
+    "begin": "2020-03-03T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2020-03-03T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "293947"
+      },
+      {
+        "site": "nicovideo",
+        "id": "haikyu-figure-animation",
+        "begin": "2023-12-14T15:00:00.000Z",
+        "broadcast": "R/2023-12-14T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0096784",
+        "begin": "2023-12-14T15:00:00.000Z",
+        "broadcast": "R/2023-12-14T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "19-185",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "26781",
+        "begin": "2023-12-21T15:00:00.000Z",
+        "broadcast": "R/2023-12-21T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0CM9VH3GM",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/876391"
+      }
+    ]
+  },
+  {
+    "title": "PSYCHO-PASS サイコパス 3 FIRST INSPECTOR",
+    "titleTranslate": {
+      "zh-Hans": [
+        "心理测量者3 FIRST INSPECTOR",
+        "心理测量者 第三季 FIRST INSPECTOR",
+        "PSYCHO-PASS 第三季 FIRST INSPECTOR"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://psycho-pass.com/",
+    "begin": "2020-03-26T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2020-03-26T18:15:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "296308"
+      },
+      {
+        "site": "unext",
+        "id": "SID0051545",
+        "begin": "2023-10-14T15:00:00.000Z",
+        "broadcast": "R/2023-10-14T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2173"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GR75253JY",
+        "begin": "2016-09-15T14:00:00.000Z",
+        "broadcast": "R/2016-09-15T14:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "24567",
+        "begin": "2021-03-26T15:00:00.000Z",
+        "broadcast": "R/2021-03-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/655431"
+      },
+      {
+        "site": "mal",
+        "id": "40858"
+      },
+      {
+        "site": "aniList",
+        "id": "113917"
+      },
+      {
+        "site": "anidb",
+        "id": "15308"
+      }
+    ]
+  },
+  {
+    "title": "大家さんと僕",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www6.nhk.or.jp/nhkpr/post/original.html?i=22382",
+    "begin": "2020-03-02T14:45:00.000Z",
+    "broadcast": "R/2020-03-02T14:45:00.000Z/P7D",
+    "end": "2021-03-23T14:45:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "303679"
+      },
+      {
+        "site": "unext",
+        "id": "SID0065474",
+        "begin": "2022-02-11T03:00:00.000Z",
+        "broadcast": "R/2022-02-11T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "25376",
+        "begin": "2022-03-11T01:00:00.000Z",
+        "broadcast": "R/2022-03-11T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/197485"
+      },
+      {
+        "site": "mal",
+        "id": "41349"
+      },
+      {
+        "site": "anidb",
+        "id": "15402"
+      },
+      {
+        "site": "aniList",
+        "id": "117280"
+      }
+    ]
+  },
+  {
+    "title": "アイカツオンパレード！ドリームストーリー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "偶像活动 on Parade Dream Story",
+        "偶活学园 on Parade！Dream Story",
+        "偶像活动 on Parade 特別篇",
+        "偶像活动盛装大巡游特别篇",
+        "偶像活动大游行 Web动画"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://www.aikatsu.net/webanime/",
+    "begin": "2020-03-27T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2020-07-10T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "302549"
+      },
+      {
+        "site": "danime",
+        "id": "24374",
+        "begin": "2020-12-03T02:00:00.000Z",
+        "broadcast": "R/2020-12-03T02:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/94313/season/0"
+      },
+      {
+        "site": "mal",
+        "id": "41555"
+      },
+      {
+        "site": "anidb",
+        "id": "15479"
+      },
+      {
+        "site": "aniList",
+        "id": "116979"
+      }
+    ]
+  },
+  {
+    "title": "アイドルマスター シンデレラガールズ劇場 Extra Stage",
+    "titleTranslate": {
+      "zh-Hans": [
+        "偶像大师 灰姑娘女孩剧场 Extra Stage",
+        "偶像大师 灰姑娘女孩剧场 第5期",
+        "偶像大师 灰姑娘女孩剧场 第五季"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://cingeki-anime.com",
+    "begin": "2020-03-23T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2021-04-12T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "302738"
+      },
+      {
+        "site": "mikan",
+        "id": "2226"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/71012/season/5"
+      },
+      {
+        "site": "mal",
+        "id": "41299"
+      },
+      {
+        "site": "anidb",
+        "id": "15396"
+      },
+      {
+        "site": "aniList",
+        "id": "115519"
+      },
+      {
+        "site": "acgnx",
+        "id": "孩劇"
+      },
+      {
+        "site": "dmhy",
+        "id": "孩劇"
+      }
+    ]
+  },
+  {
+    "title": "通常攻撃が全体攻撃で二回攻撃のお母さんは好きですか？ OVA",
+    "titleTranslate": {
+      "zh-Hans": [
+        "普通攻击是全体攻击而且能二次攻击的妈妈你喜欢吗？ OVA",
+        "普通攻击是全体二连击，这样的妈妈你喜欢吗？ OVA"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "https://okaasan-online.com/",
+    "begin": "2020-03-24T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2020-03-24T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "302767"
+      },
+      {
+        "site": "mikan",
+        "id": "2235"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/88808/season/0"
+      },
+      {
+        "site": "mal",
+        "id": "40102"
+      },
+      {
+        "site": "aniList",
+        "id": "110445"
+      }
+    ]
+  },
+  {
+    "title": "忍たま乱太郎 第28シリーズ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "忍者乱太郎 第28季"
+      ],
+      "zh-Hant": [
+        "忍者亂太郎 第 28 季"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.nhk.or.jp/anime/nintama/",
+    "begin": "2020-03-29T16:00:00.000Z",
+    "broadcast": "R/2020-03-29T16:00:00.000Z/P7D",
+    "end": "2021-01-12T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "303902"
+      },
+      {
+        "site": "gamer",
+        "id": "153615",
+        "begin": "2026-08-17T02:00:00.000Z",
+        "broadcast": "R/2026-08-17T02:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "153615",
+        "begin": "2026-08-17T02:00:00.000Z",
+        "broadcast": "R/2026-08-17T02:00:00.000Z/P7D"
       }
     ]
   }

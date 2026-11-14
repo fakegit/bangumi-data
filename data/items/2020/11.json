@@ -3,7 +3,11 @@
     "title": "デート・ア・バレット　ナイトメア・オア・クイーン",
     "titleTranslate": {
       "zh-Hans": [
+        "约会大作战 赤黑新章：红或白",
         "约战狂三外传 红或白篇"
+      ],
+      "zh-Hant": [
+        "約會大作戰 DATE A BULLET 赤黑新章：紅或白"
       ]
     },
     "type": "movie",
@@ -20,14 +24,58 @@
       {
         "site": "nicovideo",
         "id": "date-a-bullet-movie2",
+        "begin": "2021-03-23T15:00:00.000Z",
+        "broadcast": "R/2021-03-23T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "117491",
+        "begin": "2021-05-21T09:00:00.000Z",
+        "broadcast": "R/2021-05-21T09:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28234240",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0056346",
+        "begin": "2021-03-24T03:00:00.000Z",
+        "broadcast": "R/2021-03-24T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2396"
+      },
+      {
+        "site": "danime",
+        "id": "25192",
+        "begin": "2021-12-23T15:00:00.000Z",
+        "broadcast": "R/2021-12-23T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/723343"
+      },
+      {
+        "site": "mal",
+        "id": "42423"
+      },
+      {
+        "site": "aniList",
+        "id": "121034"
       }
     ]
   },
   {
     "title": "モンスターストライク THE MOVIE ルシファー 絶望の夜明け",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hant": [
+        "怪物彈珠 THE MOVIE 路西法 絕望的黎明"
+      ]
+    },
     "type": "movie",
     "lang": "ja",
     "officialSite": "https://anime-movie.monster-strike.com/2020",
@@ -42,8 +90,36 @@
       {
         "site": "nicovideo",
         "id": "movie-monster-strike",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2021-06-02T15:00:00.000Z",
+        "broadcast": "R/2021-06-02T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0058290",
+        "begin": "2021-05-28T15:00:00.000Z",
+        "broadcast": "R/2021-05-28T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "25161",
+        "begin": "2021-11-30T15:00:00.000Z",
+        "broadcast": "R/2021-11-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1307982"
+      },
+      {
+        "site": "mal",
+        "id": "41519"
+      },
+      {
+        "site": "anidb",
+        "id": "15470"
+      },
+      {
+        "site": "aniList",
+        "id": "116962"
       }
     ]
   },
@@ -68,8 +144,46 @@
       {
         "site": "nicovideo",
         "id": "kimikana",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2021-05-09T03:00:00.000Z",
+        "broadcast": "R/2021-05-09T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "28235052",
+        "begin": "2021-09-02T10:00:00.000Z",
+        "broadcast": "R/2021-09-02T10:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0057487",
+        "begin": "2021-04-23T03:00:00.000Z",
+        "broadcast": "R/2021-04-23T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2532"
+      },
+      {
+        "site": "danime",
+        "id": "25694",
+        "begin": "2022-07-01T01:00:00.000Z",
+        "broadcast": "R/2022-07-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/680041"
+      },
+      {
+        "site": "mal",
+        "id": "41379"
+      },
+      {
+        "site": "anidb",
+        "id": "15414"
+      },
+      {
+        "site": "aniList",
+        "id": "116226"
       }
     ]
   },
@@ -94,8 +208,304 @@
       {
         "site": "nicovideo",
         "id": "grisaia-pt-movie",
+        "begin": "2021-04-30T15:00:00.000Z",
+        "broadcast": "R/2021-04-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0057798",
+        "begin": "2021-04-30T15:00:00.000Z",
+        "broadcast": "R/2021-04-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2339"
+      },
+      {
+        "site": "danime",
+        "id": "25758",
+        "begin": "2022-09-30T15:00:00.000Z",
+        "broadcast": "R/2022-09-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0B7DMHL4C",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/779019"
+      },
+      {
+        "site": "mal",
+        "id": "42392"
+      },
+      {
+        "site": "aniList",
+        "id": "120892"
+      },
+      {
+        "site": "anidb",
+        "id": "13273"
+      }
+    ]
+  },
+  {
+    "title": "STAND BY ME ドラえもん 2",
+    "titleTranslate": {
+      "zh-Hans": [
+        "哆啦A梦：伴我同行2",
+        "哆啦 A 梦：伴我同行 2"
+      ],
+      "zh-Hant": [
+        "STAND BY ME 哆啦 A 夢 2",
+        "STAND BY ME 多啦 A 夢 2"
+      ],
+      "en": [
+        "STAND BY ME Doraemon 2"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://doraemon-3d.com/",
+    "begin": "2020-11-19T16:00:00.000Z",
+    "end": "2020-11-19T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "296287"
+      },
+      {
+        "site": "netflix",
+        "id": "81451264",
+        "begin": "2021-12-24T00:00:00.000Z",
+        "broadcast": "R/2021-12-24T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0099895",
+        "begin": "2024-03-05T03:00:00.000Z",
+        "broadcast": "R/2024-03-05T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2471"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/728754"
+      },
+      {
+        "site": "mal",
+        "id": "40853"
+      },
+      {
+        "site": "anidb",
+        "id": "15306"
+      },
+      {
+        "site": "aniList",
+        "id": "122575"
+      }
+    ]
+  },
+  {
+    "title": "RWBY Volume 8",
+    "titleTranslate": {
+      "zh-Hans": [
+        "红白黑黄 第八季",
+        "四色战记 / RWBY 第八季"
+      ]
+    },
+    "type": "web",
+    "lang": "en",
+    "officialSite": "https://roosterteeth.com/series/rwby",
+    "begin": "2019-11-06T16:00:00.000Z",
+    "end": "2021-03-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "316105"
+      },
+      {
+        "site": "bilibili",
+        "id": "20286254",
+        "begin": "2023-06-29T10:00:01.000Z",
+        "broadcast": "R/2023-06-29T10:00:01.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/50137/season/8"
+      }
+    ]
+  },
+  {
+    "title": "魔女見習いをさがして",
+    "titleTranslate": {
+      "zh-Hans": [
+        "寻找见习魔女"
+      ],
+      "zh-Hant": [
+        "尋找小魔女 DoReMi"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://lookingfor-magical-doremi.com/",
+    "begin": "2020-11-12T16:00:00.000Z",
+    "end": "2020-11-12T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "278898"
+      },
+      {
+        "site": "nicovideo",
+        "id": "lookingfor-magical-doremi",
+        "begin": "2021-12-22T15:00:00.000Z",
+        "broadcast": "R/2021-12-22T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0064806",
+        "begin": "2021-12-22T15:00:00.000Z",
+        "broadcast": "R/2021-12-22T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/532961"
+      },
+      {
+        "site": "mal",
+        "id": "39585"
+      },
+      {
+        "site": "anidb",
+        "id": "14790"
+      },
+      {
+        "site": "aniList",
+        "id": "108630"
+      }
+    ]
+  },
+  {
+    "title": "汉化日记 第二季",
+    "titleTranslate": {
+      "zh-Hans": [
+        "汉化日记 第二季",
+        "汉化日记 第2季",
+        "汉化日记2"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2020-11-14T16:00:00.000Z",
+    "broadcast": "R/2020-11-14T16:00:00.000Z/P7D",
+    "end": "2021-01-23T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "291635"
+      },
+      {
+        "site": "unext",
+        "id": "SID0072648",
+        "begin": "2022-08-31T15:00:00.000Z",
+        "broadcast": "R/2022-08-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/94209/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "42956"
+      },
+      {
+        "site": "anidb",
+        "id": "16720"
+      },
+      {
+        "site": "aniList",
+        "id": "121679"
+      }
+    ]
+  },
+  {
+    "title": "ファイアボール ゲボイデ＝ボイデ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "火球最终章"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://www.disney.co.jp/tv/sp/fireball/gb.html",
+    "begin": "2020-11-08T12:57:00.000Z",
+    "broadcast": "R/2020-11-08T12:57:00.000Z/P7D",
+    "end": "2020-12-05T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "316612"
+      },
+      {
+        "site": "disneyplus",
+        "id": "3zktnefpg5bp",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/202482"
+      },
+      {
+        "site": "mal",
+        "id": "43350"
+      },
+      {
+        "site": "anidb",
+        "id": "15775"
+      },
+      {
+        "site": "aniList",
+        "id": "125491"
+      }
+    ]
+  },
+  {
+    "title": "日本沈没2020 劇場編集版 -シズマヌキボウ-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "日本沉没2020 剧场剪辑版 -不沉的希望-"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2020-11-12T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2020-11-12T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "314069"
+      },
+      {
+        "site": "mal",
+        "id": "44585"
+      },
+      {
+        "site": "anidb",
+        "id": "16547"
       }
     ]
   }

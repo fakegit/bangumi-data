@@ -1,0 +1,310 @@
+[
+  {
+    "title": "わんだふるぷりきゅあ！",
+    "titleTranslate": {
+      "en": [
+        "WonderfulPrecure!"
+      ],
+      "zh-Hans": [
+        "美妙宠物 光之美少女！",
+        "Wonderful 光之美少女！"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.asahi.co.jp/precure/",
+    "begin": "2024-02-03T23:30:00.000Z",
+    "broadcast": "R/2024-02-03T23:30:00.000Z/P7D",
+    "end": "2025-01-26T00:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "467784"
+      },
+      {
+        "site": "unext",
+        "id": "SID0097235",
+        "begin": "2024-02-06T15:00:00.000Z",
+        "broadcast": "R/2024-02-06T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3274"
+      },
+      {
+        "site": "danime",
+        "id": "26748",
+        "begin": "2024-02-06T15:00:00.000Z",
+        "broadcast": "R/2024-02-06T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0CHC6RVWT",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/243216"
+      },
+      {
+        "site": "mal",
+        "id": "57390"
+      },
+      {
+        "site": "anidb",
+        "id": "18294"
+      },
+      {
+        "site": "aniList",
+        "id": "171030"
+      }
+    ]
+  },
+  {
+    "title": "シノアリス 一番最後のモノガタリ",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://sinoalice.jp/movie/",
+    "begin": "2024-02-22T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-02-22T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "476718"
+      },
+      {
+        "site": "unext",
+        "id": "SID0100789",
+        "begin": "2024-04-04T15:00:00.000Z",
+        "broadcast": "R/2024-04-04T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1297646"
+      },
+      {
+        "site": "mal",
+        "id": "59224"
+      },
+      {
+        "site": "aniList",
+        "id": "186764"
+      }
+    ]
+  },
+  {
+    "title": "大室家 dear sisters",
+    "titleTranslate": {
+      "zh-Hans": [
+        "大室家 亲爱的姐妹们"
+      ],
+      "zh-Hant": [
+        "大室家-親愛的姊妹"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://ohmuroke.com/",
+    "begin": "2024-02-01T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-02-01T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "448655"
+      },
+      {
+        "site": "unext",
+        "id": "SID0100461",
+        "begin": "2024-04-04T15:00:00.000Z",
+        "broadcast": "R/2024-04-04T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3285"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ohmuroke-ds",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "134656",
+        "begin": "2025-09-19T04:00:00.000Z",
+        "broadcast": "R/2025-09-19T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1177096"
+      },
+      {
+        "site": "mal",
+        "id": "56175"
+      },
+      {
+        "site": "anidb",
+        "id": "18146"
+      },
+      {
+        "site": "aniList",
+        "id": "167984"
+      }
+    ]
+  },
+  {
+    "title": "劇場版ハイキュー!! ゴミ捨て場の決戦",
+    "titleTranslate": {
+      "zh-Hans": [
+        "排球少年！！垃圾场决战",
+        "剧场版排球!! 垃圾场的决战",
+        "剧场版 排球少年!! 垃圾场的决战"
+      ],
+      "zh-Hant": [
+        "排球少年！！劇場版：垃圾場的決戰",
+        "劇場版 排球少年!! 垃圾場的決戰"
+      ],
+      "en": [
+        "Haikyu!!: The Dumpster Battle"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://haikyu.jp/movie/",
+    "begin": "2024-02-15T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-02-15T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "394621"
+      },
+      {
+        "site": "netflix",
+        "id": "81930066",
+        "begin": "2024-10-30T00:00:00.000Z",
+        "broadcast": "R/2024-10-30T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0159138",
+        "begin": "2024-10-29T15:00:00.000Z",
+        "broadcast": "R/2024-10-29T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "21236139",
+        "begin": "2025-01-10T08:00:00.000Z",
+        "broadcast": "R/2025-01-10T08:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "27691",
+        "begin": "2025-03-02T15:00:00.000Z",
+        "broadcast": "R/2025-03-02T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0DK1MHX1B",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mikan",
+        "id": "3478"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1012201"
+      },
+      {
+        "site": "nicovideo",
+        "id": "haikyu-movie",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mal",
+        "id": "52742"
+      },
+      {
+        "site": "anidb",
+        "id": "17570"
+      },
+      {
+        "site": "aniList",
+        "id": "153658"
+      }
+    ]
+  },
+  {
+    "title": "GREAT PRETENDER razbliuto",
+    "titleTranslate": {
+      "zh-Hans": [
+        "大欺诈师 razbliuto"
+      ],
+      "en": [
+        "GREAT PRETENDER razbliuto"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://www.greatpretender.jp/",
+    "begin": "2024-02-22T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-02-22T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "465773"
+      },
+      {
+        "site": "mikan",
+        "id": "3277"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GJ0H7QG4K",
+        "begin": "2024-02-21T15:00:00.000Z",
+        "broadcast": "R/2024-02-21T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "27717",
+        "begin": "2025-02-22T15:00:00.000Z",
+        "broadcast": "R/2025-02-22T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0173479",
+        "begin": "2025-02-23T03:00:00.000Z",
+        "broadcast": "R/2025-02-23T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1220441"
+      },
+      {
+        "site": "mal",
+        "id": "57184"
+      },
+      {
+        "site": "anidb",
+        "id": "18280"
+      },
+      {
+        "site": "aniList",
+        "id": "170935"
+      }
+    ]
+  }
+]

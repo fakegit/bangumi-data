@@ -7,6 +7,9 @@
       ],
       "zh-Hant": [
         "鬼滅之刃 遊郭篇"
+      ],
+      "en": [
+        "Demon Slayer: Kimetsu no Yaiba Entertainment District Arc"
       ]
     },
     "type": "tv",
@@ -27,6 +30,99 @@
         "begin": "2021-12-05T15:45:00.000Z",
         "broadcast": "R/2021-12-05T15:45:00.000Z/P7D",
         "comment": "粵語版: 419032"
+      },
+      {
+        "site": "netflix",
+        "id": "81091393",
+        "begin": "2021-12-05T14:15:00.000Z",
+        "broadcast": "R/2021-12-05T14:15:00.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "1DuIg0wour9D",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "115835",
+        "begin": "2021-12-05T15:45:00.000Z",
+        "broadcast": "R/2021-12-05T15:45:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "28235125",
+        "begin": "2022-03-12T12:00:00.000Z",
+        "broadcast": "R/2022-03-12T12:00:00.000Z/P7D",
+        "comment": "中配版: 20316645"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kimetsu_yukakuhen",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "26-75",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0061983",
+        "begin": "2021-12-05T16:00:00.000Z",
+        "broadcast": "R/2021-12-05T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "115835",
+        "begin": "2021-12-05T15:45:00.000Z",
+        "broadcast": "R/2021-12-05T15:45:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "鬼滅之刃 遊郭篇|列車篇"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "615bb91fd7f73dd4ed5c4403"
+      },
+      {
+        "site": "mikan",
+        "id": "2604"
+      },
+      {
+        "site": "danime",
+        "id": "25102",
+        "begin": "2021-12-05T16:00:00.000Z",
+        "broadcast": "R/2021-12-05T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0DGVQ3W21",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/85937/season/3"
+      },
+      {
+        "site": "mal",
+        "id": "47778"
+      },
+      {
+        "site": "aniList",
+        "id": "142329"
+      },
+      {
+        "site": "anidb",
+        "id": "16054"
+      },
+      {
+        "site": "acgnx",
+        "id": "鬼滅之刃"
       }
     ]
   },
@@ -38,9 +134,30 @@
     "officialSite": "https://www.nhk.or.jp/matsuyama/debunekochan/",
     "begin": "2021-12-19T15:53:00.000Z",
     "broadcast": "R/2021-12-19T15:53:00.000Z/P7D",
-    "end": "",
+    "end": "2022-02-28T16:30:00.000Z",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "366528"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/136935"
+      },
+      {
+        "site": "mal",
+        "id": "49431"
+      },
+      {
+        "site": "anidb",
+        "id": "16923"
+      },
+      {
+        "site": "aniList",
+        "id": "131477"
+      }
+    ]
   },
   {
     "title": "魔法科高校の劣等生 追憶編",
@@ -49,7 +166,11 @@
         "魔法科高校的劣等生 追忆篇"
       ],
       "zh-Hant": [
-        "魔法科高中的劣等生: 追憶篇"
+        "魔法科高中的劣等生: 追憶篇",
+        "魔法科高中的劣等生 追憶篇"
+      ],
+      "en": [
+        "The Irregular at Magic High School: Reminiscence Arc"
       ]
     },
     "type": "tv",
@@ -64,10 +185,612 @@
         "id": "329436"
       },
       {
-        "site": "viu",
-        "id": "416948",
-        "begin": "2021-12-31T16:00:00.000Z",
-        "broadcast": "R/2021-12-31T16:00:00.000Z/P0D"
+        "site": "gamer",
+        "id": "120950",
+        "begin": "2021-12-31T16:30:00.000Z",
+        "broadcast": "R/2021-12-31T16:30:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "mahouka-tsuiokuhen",
+        "begin": "2022-01-05T15:00:00.000Z",
+        "broadcast": "R/2022-01-05T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0063372",
+        "begin": "2022-01-05T15:00:00.000Z",
+        "broadcast": "R/2022-01-05T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "120950",
+        "begin": "2021-12-31T16:30:00.000Z",
+        "broadcast": "R/2021-12-31T16:30:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2653"
+      },
+      {
+        "site": "danime",
+        "id": "25184",
+        "begin": "2023-07-31T15:00:00.000Z",
+        "broadcast": "R/2023-07-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0CBD8N472",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "disneyplus",
+        "id": "75QaYcu3qT7z",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/60833/season/0/episode/8"
+      },
+      {
+        "site": "mal",
+        "id": "48375"
+      },
+      {
+        "site": "anidb",
+        "id": "16081"
+      },
+      {
+        "site": "aniList",
+        "id": "130389"
+      },
+      {
+        "site": "acgnx",
+        "id": "魔法 劣等"
+      },
+      {
+        "site": "dmhy",
+        "id": "魔法 劣等"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 呪術廻戦 0",
+    "titleTranslate": {
+      "zh-Hans": [
+        "咒术回战 0：剧场版",
+        "剧场版 咒术回战 0"
+      ],
+      "zh-Hant": [
+        "咒術迴戰 0 劇場版",
+        "劇場版咒術迴戰 0",
+        "劇場版 咒術迴戰 0"
+      ],
+      "en": [
+        "Jujutsu Kaisen 0: The Movie"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://jujutsukaisen-movie.jp/",
+    "begin": "2021-12-23T16:00:00.000Z",
+    "end": "2021-12-23T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "331559"
+      },
+      {
+        "site": "netflix",
+        "id": "81602834",
+        "begin": "2022-09-20T16:00:00.000Z",
+        "broadcast": "R/2022-09-20T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28339655",
+        "begin": "2022-09-21T08:00:00.000Z",
+        "broadcast": "R/2022-09-21T08:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "jujutsukaisen-movie",
+        "begin": "2023-02-23T15:00:00.000Z",
+        "broadcast": "R/2023-02-23T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0078792",
+        "begin": "2023-02-23T15:00:00.000Z",
+        "broadcast": "R/2023-02-23T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2807"
+      },
+      {
+        "site": "danime",
+        "id": "26466",
+        "begin": "2023-06-23T15:00:00.000Z",
+        "broadcast": "R/2023-06-23T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "22006270",
+        "begin": "2025-04-03T10:00:00.000Z",
+        "broadcast": "R/2025-04-03T10:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "536-4",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/810693"
+      },
+      {
+        "site": "mal",
+        "id": "48561"
+      },
+      {
+        "site": "anidb",
+        "id": "16169"
+      },
+      {
+        "site": "aniList",
+        "id": "131573"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GMTE00194450",
+        "begin": "2021-12-24T00:00:00.000Z",
+        "broadcast": "R/2021-12-24T00:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ロード・エルメロイⅡ世の事件簿 -魔眼蒐集列車 特別編",
+    "titleTranslate": {
+      "zh-Hans": [
+        "君主·埃尔梅罗二世事件簿 魔眼收集列车 特别篇"
+      ],
+      "zh-Hant": [
+        "艾梅洛閣下 II 世事件簿 -魔眼蒐集列車 Grace note- 特別篇"
+      ],
+      "en": [
+        "Lord El-Melloi II-sei no Jikenbo: \"Rail Zeppelin\" Grace note"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://anime.elmelloi.com/",
+    "begin": "2021-12-30T16:00:00.000Z",
+    "end": "2021-12-30T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "340842"
+      },
+      {
+        "site": "gamer",
+        "id": "121152",
+        "begin": "2021-12-31T14:30:00.000Z",
+        "broadcast": "R/2021-12-31T14:30:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "anime_elmelloi_special",
+        "begin": "2022-04-30T03:00:00.000Z",
+        "broadcast": "R/2022-04-30T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0067492",
+        "begin": "2022-03-30T03:00:00.000Z",
+        "broadcast": "R/2022-03-30T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "121152",
+        "begin": "2021-12-31T14:30:00.000Z",
+        "broadcast": "R/2021-12-31T14:30:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2656"
+      },
+      {
+        "site": "danime",
+        "id": "22597",
+        "begin": "2020-04-01T01:00:00.000Z",
+        "broadcast": "R/2020-04-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/85368/season/0/episode/2"
+      },
+      {
+        "site": "mal",
+        "id": "49361"
+      },
+      {
+        "site": "anidb",
+        "id": "16421"
+      },
+      {
+        "site": "aniList",
+        "id": "136344"
+      },
+      {
+        "site": "acgnx",
+        "id": "世事件簿"
+      },
+      {
+        "site": "dmhy",
+        "id": "世事件簿"
+      }
+    ]
+  },
+  {
+    "title": "ARIA The BENEDIZIONE",
+    "titleTranslate": {
+      "zh-Hans": [
+        "水星领航员 The BENEDIZIONE"
+      ],
+      "zh-Hant": [
+        "水星領航員 ARIA The BENEDIZIONE"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://ariacompany.net",
+    "begin": "2021-12-02T16:00:00.000Z",
+    "end": "2021-12-02T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "329948"
+      },
+      {
+        "site": "gamer",
+        "id": "116200",
+        "begin": "2022-07-27T04:00:00.000Z",
+        "broadcast": "R/2022-07-27T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "aria-benedizione",
+        "begin": "2022-07-27T03:00:00.000Z",
+        "broadcast": "R/2022-07-27T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0068989",
+        "begin": "2022-07-27T03:00:00.000Z",
+        "broadcast": "R/2022-07-27T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "116200",
+        "begin": "2022-07-27T04:00:00.000Z",
+        "broadcast": "R/2022-07-27T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2783"
+      },
+      {
+        "site": "danime",
+        "id": "25845",
+        "begin": "2023-06-30T15:00:00.000Z",
+        "broadcast": "R/2023-06-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/808604"
+      },
+      {
+        "site": "mal",
+        "id": "48411"
+      },
+      {
+        "site": "anidb",
+        "id": "16092"
+      },
+      {
+        "site": "aniList",
+        "id": "130558"
+      }
+    ]
+  },
+  {
+    "title": "ギヴン うらがわの存在",
+    "titleTranslate": {
+      "zh-Hans": [
+        "GIVEN 内侧的存在"
+      ],
+      "zh-Hant": [
+        "GIVEN 被贈與的未來 劇場版：反面的存在"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "https://given-anime.com/oad/",
+    "begin": "2021-12-01T16:00:00.000Z",
+    "end": "2021-12-01T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "337433"
+      },
+      {
+        "site": "gamer",
+        "id": "120753",
+        "begin": "2022-06-24T04:00:00.000Z",
+        "broadcast": "R/2022-06-24T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0097079",
+        "begin": "2024-01-13T03:00:00.000Z",
+        "broadcast": "R/2024-01-13T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26785",
+        "begin": "2023-12-31T15:00:00.000Z",
+        "broadcast": "R/2023-12-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0CPV91PM2",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1507294"
+      },
+      {
+        "site": "mal",
+        "id": "49053"
+      },
+      {
+        "site": "anidb",
+        "id": "16357"
+      },
+      {
+        "site": "aniList",
+        "id": "134710"
+      }
+    ]
+  },
+  {
+    "title": "ガールズ&パンツァー 最終章 第3話",
+    "titleTranslate": {
+      "zh-Hans": [
+        "少女与战车 最终章 第3话"
+      ],
+      "zh-Hant": [
+        "少女與戰車 最終章 第3話"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://girls-und-panzer-finale.jp",
+    "begin": "2021-12-23T16:00:00.000Z",
+    "end": "2021-12-23T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "208826"
+      },
+      {
+        "site": "unext",
+        "id": "SID0065387",
+        "begin": "2022-01-25T15:00:00.000Z",
+        "broadcast": "R/2022-01-25T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2951"
+      },
+      {
+        "site": "danime",
+        "id": "26530",
+        "begin": "2025-07-31T15:00:00.000Z",
+        "broadcast": "R/2025-07-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/746880"
+      },
+      {
+        "site": "mal",
+        "id": "39166"
+      },
+      {
+        "site": "aniList",
+        "id": "124115"
+      }
+    ]
+  },
+  {
+    "title": "空色ユーティリティ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "一杆青空",
+        "空色Utility"
+      ],
+      "en": [
+        "Sorairo Utility"
+      ],
+      "zh-Hant": [
+        "一桿青空"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.yostar-pictures.co.jp/sorairo-utility",
+    "begin": "2021-12-31T10:30:00.000Z",
+    "end": "2021-12-31T10:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "354247"
+      },
+      {
+        "site": "bilibili",
+        "id": "28235977",
+        "begin": "2022-01-21T10:00:00.000Z",
+        "broadcast": "R/2022-01-21T10:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "sorairo-utility",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0163331",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mikan",
+        "id": "2652"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GG5H5XDJM",
+        "begin": "2021-12-31T10:30:00.000Z",
+        "broadcast": "R/2021-12-31T10:30:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "25717",
+        "begin": "2022-07-29T01:00:00.000Z",
+        "broadcast": "R/2022-07-29T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "677aa0972f6756712facfc8c"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/922806"
+      },
+      {
+        "site": "mal",
+        "id": "50209"
+      },
+      {
+        "site": "anidb",
+        "id": "16935"
+      },
+      {
+        "site": "aniList",
+        "id": "140700"
+      },
+      {
+        "site": "abema",
+        "id": "189-79",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "フラ・フラダンス",
+    "titleTranslate": {
+      "zh-Hans": [
+        "扶桑花之舞"
+      ],
+      "zh-Hant": [
+        "扶桑花女孩之舞"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://hula-fulladance.com",
+    "begin": "2021-12-02T16:00:00.000Z",
+    "end": "2021-12-02T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "318543"
+      },
+      {
+        "site": "gamer",
+        "id": "114473",
+        "begin": "2023-08-03T16:00:00.000Z",
+        "broadcast": "R/2023-08-03T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2781"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/760765"
+      },
+      {
+        "site": "mal",
+        "id": "43762"
+      },
+      {
+        "site": "anidb",
+        "id": "15829"
+      },
+      {
+        "site": "aniList",
+        "id": "125841"
+      }
+    ]
+  },
+  {
+    "title": "雄狮少年",
+    "titleTranslate": {
+      "zh-Hans": [
+        "雄狮少年"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://gaga.ne.jp/lionshonen/",
+    "begin": "2021-12-16T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2021-12-16T17:44:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "338424"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/839803"
+      },
+      {
+        "site": "mal",
+        "id": "52769"
+      },
+      {
+        "site": "anidb",
+        "id": "16633"
+      },
+      {
+        "site": "aniList",
+        "id": "131994"
       }
     ]
   }

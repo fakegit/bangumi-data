@@ -1,0 +1,139 @@
+[
+  {
+    "title": "ナイン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "最后的冠军"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1983-05-03T16:00:00.000Z",
+    "broadcast": "R/1983-05-03T16:00:00.000Z/P7D",
+    "end": "1984-09-04T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "82321"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/701874"
+      },
+      {
+        "site": "mal",
+        "id": "8953"
+      },
+      {
+        "site": "anidb",
+        "id": "3147"
+      },
+      {
+        "site": "aniList",
+        "id": "9242"
+      }
+    ]
+  },
+  {
+    "title": "ゴルゴ13",
+    "titleTranslate": {
+      "zh-Hans": [
+        "骷髅13 剧场版"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1983-05-27T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1983-05-27T17:31:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "52783"
+      },
+      {
+        "site": "unext",
+        "id": "SID0038635",
+        "begin": "2018-12-27T03:00:00.000Z",
+        "broadcast": "R/2018-12-27T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23340",
+        "begin": "2020-03-13T01:00:00.000Z",
+        "broadcast": "R/2020-03-13T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/17922"
+      },
+      {
+        "site": "mal",
+        "id": "1760"
+      },
+      {
+        "site": "anidb",
+        "id": "1076"
+      },
+      {
+        "site": "aniList",
+        "id": "1760"
+      }
+    ]
+  },
+  {
+    "title": "ストップ!!ひばりくん!",
+    "titleTranslate": {
+      "zh-Hans": [
+        "停止!!云雀君!!",
+        "STOP!!云雀君",
+        "变男变女变变变"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1983-05-19T16:00:00.000Z",
+    "broadcast": "R/1983-05-19T16:00:00.000Z/P7D",
+    "end": "1984-01-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "255511"
+      },
+      {
+        "site": "unext",
+        "id": "SID0073671",
+        "begin": "2022-10-20T03:00:00.000Z",
+        "broadcast": "R/2022-10-20T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26168",
+        "begin": "2023-02-28T01:00:00.000Z",
+        "broadcast": "R/2023-02-28T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/95560"
+      },
+      {
+        "site": "mal",
+        "id": "3332"
+      },
+      {
+        "site": "anidb",
+        "id": "1931"
+      },
+      {
+        "site": "aniList",
+        "id": "3332"
+      }
+    ]
+  }
+]

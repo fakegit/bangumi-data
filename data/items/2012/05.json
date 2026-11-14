@@ -20,6 +20,22 @@
       {
         "site": "bangumi",
         "id": "39496"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/959919"
+      },
+      {
+        "site": "mal",
+        "id": "12695"
+      },
+      {
+        "site": "anidb",
+        "id": "8919"
+      },
+      {
+        "site": "aniList",
+        "id": "12695"
       }
     ]
   },
@@ -37,11 +53,6 @@
     "end": "2012-05-19T17:45:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "UDchnwdt3RtibicGQ",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "33068"
       },
@@ -49,6 +60,34 @@
         "site": "bilibili",
         "id": "4540",
         "begin": "2012-05-18T16:00:01.000Z"
+      },
+      {
+        "site": "danime",
+        "id": "26216",
+        "begin": "2023-05-26T01:00:00.000Z",
+        "broadcast": "R/2023-05-26T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0918XKFYX",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/186969"
+      },
+      {
+        "site": "mal",
+        "id": "6219"
+      },
+      {
+        "site": "anidb",
+        "id": "8928"
+      },
+      {
+        "site": "aniList",
+        "id": "6219"
       }
     ]
   },
@@ -66,13 +105,24 @@
     "end": "2012-05-25T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "T5Bs6lK4KGbJR68",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "43139"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/66209"
+      },
+      {
+        "site": "mal",
+        "id": "12501"
+      },
+      {
+        "site": "anidb",
+        "id": "8850"
+      },
+      {
+        "site": "aniList",
+        "id": "12501"
       }
     ]
   },
@@ -95,9 +145,20 @@
         "id": "140988"
       },
       {
-        "site": "bilibili",
-        "id": "4538",
-        "begin": "2012-05-18T16:00:00.000Z"
+        "site": "tmdb",
+        "id": "movie/1032332"
+      },
+      {
+        "site": "mal",
+        "id": "17010"
+      },
+      {
+        "site": "aniList",
+        "id": "17010"
+      },
+      {
+        "site": "anidb",
+        "id": "9263"
       }
     ]
   },
@@ -123,6 +184,65 @@
         "site": "bilibili",
         "id": "4541",
         "begin": "2012-04-30T16:00:00.000Z"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/739614"
+      },
+      {
+        "site": "mal",
+        "id": "13835"
+      },
+      {
+        "site": "aniList",
+        "id": "13835"
+      },
+      {
+        "site": "anidb",
+        "id": "8867"
+      }
+    ]
+  },
+  {
+    "title": "PES: Peace Eco Smile",
+    "titleTranslate": {
+      "zh-Hans": [
+        "驾临地球"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://www.toytoyota.com/pes/",
+    "begin": "2012-05-24T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2012-08-16T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "41864"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GYE5XGK9R",
+        "begin": "2012-07-02T11:00:00.000Z",
+        "broadcast": "R/2012-07-02T11:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/53093"
+      },
+      {
+        "site": "mal",
+        "id": "13427"
+      },
+      {
+        "site": "anidb",
+        "id": "9121"
+      },
+      {
+        "site": "aniList",
+        "id": "13427"
       }
     ]
   }

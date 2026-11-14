@@ -6,12 +6,17 @@
         "Healin' Good♥Precure"
       ],
       "zh-Hans": [
-        "Healin' Good ♥ 光之美少女"
+        "Healin' Good ♥ 光之美少女",
+        "元气魔法♥光之美少女",
+        "完美治愈 光之美少女",
+        "治Q",
+        "奶Q",
+        "治愈Q娃"
       ]
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "http://www.toei-anim.co.jp/tv/healingood_precure/",
+    "officialSite": "https://www.asahi.co.jp/precure/healingood/",
     "begin": "2020-02-01T23:30:00.000Z",
     "end": "2021-02-21T00:00:00.000Z",
     "comment": "",
@@ -24,6 +29,50 @@
         "site": "iqiyi",
         "id": "a_19rrhx03kt",
         "begin": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0060746",
+        "begin": "2021-09-01T03:00:00.000Z",
+        "broadcast": "R/2021-09-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "5e1b4efc4f7a796559d914bd"
+      },
+      {
+        "site": "mikan",
+        "id": "2159"
+      },
+      {
+        "site": "danime",
+        "id": "25011",
+        "begin": "2021-09-24T01:00:00.000Z",
+        "broadcast": "R/2021-09-24T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/96914"
+      },
+      {
+        "site": "mal",
+        "id": "40610"
+      },
+      {
+        "site": "anidb",
+        "id": "15231"
+      },
+      {
+        "site": "aniList",
+        "id": "112748"
+      },
+      {
+        "site": "acgnx",
+        "id": "光之"
+      },
+      {
+        "site": "dmhy",
+        "id": "光之"
       }
     ]
   },
@@ -32,6 +81,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "天地无用! 魉皇鬼 第5期"
+      ],
+      "zh-Hant": [
+        "天地無用！魎皇鬼 第 5 期"
       ]
     },
     "type": "ova",
@@ -54,6 +106,44 @@
         "site": "qq",
         "id": "m/mzc00200gfw31x8",
         "begin": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "tenchimuyo5th",
+        "begin": "2022-01-07T03:00:00.000Z",
+        "broadcast": "R/2022-01-07T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0065304",
+        "begin": "2022-01-07T03:00:00.000Z",
+        "broadcast": "R/2022-01-07T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2278"
+      },
+      {
+        "site": "danime",
+        "id": "25199",
+        "begin": "2021-12-25T01:00:00.000Z",
+        "broadcast": "R/2021-12-25T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/43004/season/5"
+      },
+      {
+        "site": "mal",
+        "id": "40097"
+      },
+      {
+        "site": "anidb",
+        "id": "15007"
+      },
+      {
+        "site": "aniList",
+        "id": "114442"
       }
     ]
   },
@@ -62,6 +152,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "哥布林杀手：哥布林的王冠"
+      ],
+      "zh-Hant": [
+        "哥布林殺手 -GOBLIN’S CROWN-"
       ]
     },
     "type": "movie",
@@ -78,7 +171,48 @@
       {
         "site": "nicovideo",
         "id": "goblins-crown",
-        "begin": ""
+        "begin": "2020-09-24T15:00:00.000Z",
+        "broadcast": "R/2020-09-24T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0051713",
+        "begin": "2020-09-24T15:00:00.000Z",
+        "broadcast": "R/2020-09-24T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2262"
+      },
+      {
+        "site": "danime",
+        "id": "24264",
+        "begin": "2020-09-24T15:00:00.000Z",
+        "broadcast": "R/2020-09-24T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/631132"
+      },
+      {
+        "site": "mal",
+        "id": "39576"
+      },
+      {
+        "site": "anidb",
+        "id": "14782"
+      },
+      {
+        "site": "aniList",
+        "id": "108623"
+      },
+      {
+        "site": "acgnx",
+        "id": "哥布林 殺手"
+      },
+      {
+        "site": "dmhy",
+        "id": "哥布林 殺手"
       }
     ]
   },
@@ -103,8 +237,40 @@
       {
         "site": "nicovideo",
         "id": "movie-shirobako",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2021-02-07T15:00:00.000Z",
+        "broadcast": "R/2021-02-07T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0053489",
+        "begin": "2021-02-07T15:00:00.000Z",
+        "broadcast": "R/2021-02-07T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2338"
+      },
+      {
+        "site": "danime",
+        "id": "25177",
+        "begin": "2021-12-23T01:00:00.000Z",
+        "broadcast": "R/2021-12-23T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/532323"
+      },
+      {
+        "site": "mal",
+        "id": "37804"
+      },
+      {
+        "site": "anidb",
+        "id": "14061"
+      },
+      {
+        "site": "aniList",
+        "id": "101574"
       }
     ]
   },
@@ -115,7 +281,8 @@
         "世界第一初恋～求婚篇～"
       ],
       "zh-Hant": [
-        "世界一初戀 ～求婚編～"
+        "世界一初戀 ～求婚編～",
+        "世界一初戀～求婚編～"
       ]
     },
     "type": "movie",
@@ -132,12 +299,13 @@
       {
         "site": "nicovideo",
         "id": "sekai-ichi",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2021-06-10T15:00:00.000Z",
+        "broadcast": "R/2021-06-10T15:00:00.000Z/P7D"
       },
       {
         "site": "ani_one_asia",
-        "id": "PLxSscENEp7JjM24pCe0eOaMBcDsq-frmr",
+        "id": "PLXClulHiq7AQ",
+        "url": "https://www.youtube.com/show/VLPLXClulHiq7AQ?season=3&sbp=CgEzGgAqC1F1TGtyRFh1VW1nQAFKDVBTR2tkTk9LR2lqTEk%253D",
         "begin": "2020-08-11T16:00:00.000Z",
         "broadcast": "R/2020-08-11T16:00:00.000Z/P0D"
       },
@@ -146,6 +314,337 @@
         "id": "PLC18xlbCdwtSphYFQlWGdeWJpcbNuh3Mb",
         "begin": "2022-07-24T16:00:00.000Z",
         "broadcast": "R/2022-07-24T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0059040",
+        "begin": "2021-06-11T03:00:00.000Z",
+        "broadcast": "R/2021-06-11T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2265"
+      },
+      {
+        "site": "danime",
+        "id": "24771",
+        "begin": "2021-06-11T01:00:00.000Z",
+        "broadcast": "R/2021-06-11T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/658565"
+      },
+      {
+        "site": "mal",
+        "id": "40314"
+      },
+      {
+        "site": "anidb",
+        "id": "15055"
+      },
+      {
+        "site": "aniList",
+        "id": "111305"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "110026",
+        "begin": "2026-07-31T04:00:00.000Z",
+        "broadcast": "R/2026-07-31T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "110026",
+        "begin": "2026-07-31T04:00:00.000Z",
+        "broadcast": "R/2026-07-31T04:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "虫籠のカガステル",
+    "titleTranslate": {
+      "zh-Hans": [
+        "虫笼的卡伽斯特尔"
+      ],
+      "zh-Hant": [
+        "蟲籠的卡伽斯特爾"
+      ],
+      "en": [
+        "Cagaster of an Insect Cage"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2020-02-05T16:00:00.000Z",
+    "end": "2020-02-05T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "266224"
+      },
+      {
+        "site": "netflix",
+        "id": "80224581",
+        "begin": "2020-02-05T16:00:00.000Z",
+        "broadcast": "R/2020-02-05T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/94795"
+      },
+      {
+        "site": "mal",
+        "id": "38663"
+      },
+      {
+        "site": "anidb",
+        "id": "14479"
+      },
+      {
+        "site": "aniList",
+        "id": "109586"
+      }
+    ]
+  },
+  {
+    "title": "囀る鳥は羽ばたかない The clouds gather",
+    "titleTranslate": {
+      "zh-Hans": [
+        "鸣鸟不飞 The clouds gather"
+      ],
+      "zh-Hant": [
+        "鳴鳥不飛：烏雲密布"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://saezuru.com/",
+    "begin": "2020-02-14T16:00:00.000Z",
+    "end": "2020-02-14T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "281305"
+      },
+      {
+        "site": "gamer",
+        "id": "108388",
+        "begin": "2023-10-20T04:00:00.000Z",
+        "broadcast": "R/2023-10-20T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2260"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/650498"
+      },
+      {
+        "site": "mal",
+        "id": "39761"
+      },
+      {
+        "site": "anidb",
+        "id": "14889"
+      },
+      {
+        "site": "aniList",
+        "id": "109171"
+      },
+      {
+        "site": "unext",
+        "id": "SID0065923",
+        "begin": "2026-11-01T03:00:00.000Z",
+        "broadcast": "R/2026-11-01T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 Gのレコンギスタ II ベルリ 撃進",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 高达G之复国运动 II 贝尔利出击",
+        "剧场版 G之复国运动 II 贝尔利出击"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.g-reco.net/2nd/",
+    "begin": "2020-02-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2020-02-20T17:34:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "286124"
+      },
+      {
+        "site": "unext",
+        "id": "SID0046126",
+        "begin": "2020-02-21T03:00:00.000Z",
+        "broadcast": "R/2020-02-21T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "g-reco-movie2",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/659896"
+      },
+      {
+        "site": "danime",
+        "id": "25665",
+        "begin": "2025-12-19T15:00:00.000Z",
+        "broadcast": "R/2025-12-19T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "デジモンアドベンチャー LAST EVOLUTION 絆",
+    "titleTranslate": {
+      "zh-Hans": [
+        "数码宝贝大冒险：最后的进化·羁绊",
+        "数码宝贝：最后的进化",
+        "数码宝贝大冒险 LAST EVOLUTION 绊"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://digimon-adventure.net",
+    "begin": "2020-02-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2020-02-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "255547"
+      },
+      {
+        "site": "unext",
+        "id": "SID0051546",
+        "begin": "2020-10-02T03:00:00.000Z",
+        "broadcast": "R/2020-10-02T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2268"
+      },
+      {
+        "site": "danime",
+        "id": "26130",
+        "begin": "2023-02-28T01:00:00.000Z",
+        "broadcast": "R/2023-02-28T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/571265"
+      },
+      {
+        "site": "mal",
+        "id": "38088"
+      },
+      {
+        "site": "anidb",
+        "id": "14240"
+      },
+      {
+        "site": "aniList",
+        "id": "108260"
+      }
+    ]
+  },
+  {
+    "title": "爆丸アーマードアライアンス",
+    "titleTranslate": {
+      "zh-Hans": [
+        "爆丸6 装甲联盟",
+        "爆丸之星域争霸 第二季"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.bakugan.jp/armoredalliance/",
+    "begin": "2020-02-15T16:00:00.000Z",
+    "broadcast": "R/2020-02-15T16:00:00.000Z/P7D",
+    "end": "2021-01-02T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "303551"
+      },
+      {
+        "site": "unext",
+        "id": "SID0047167",
+        "begin": "2020-04-03T08:00:00.000Z",
+        "broadcast": "R/2020-04-03T08:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23715",
+        "begin": "2020-04-03T08:00:00.000Z",
+        "broadcast": "R/2020-04-03T08:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/273045"
+      },
+      {
+        "site": "bilibili",
+        "id": "284813398",
+        "begin": "2025-11-18T10:00:00.000Z",
+        "broadcast": "R/2025-11-18T10:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "41405"
+      },
+      {
+        "site": "aniList",
+        "id": "116415"
+      },
+      {
+        "site": "anidb",
+        "id": "15431"
+      }
+    ]
+  },
+  {
+    "title": "映画 ねこねこ日本史 龍馬のはちゃめちゃタイムトラベルぜよ!",
+    "titleTranslate": {
+      "en": [
+        "Neko Neko Nihonshi Movie: Ryouma no Hachamecha Time Travel ze yo!"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://neco-neco-movie.com/",
+    "begin": "2020-02-21T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2020-02-21T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "291054"
+      },
+      {
+        "site": "mal",
+        "id": "40425"
+      },
+      {
+        "site": "anidb",
+        "id": "15104"
       }
     ]
   }

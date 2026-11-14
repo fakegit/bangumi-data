@@ -3,7 +3,9 @@
     "title": "ダンボール戦機",
     "titleTranslate": {
       "zh-Hans": [
-        "纸箱战机"
+        "纸箱战机",
+        "纸片战机",
+        "弹波战机"
       ]
     },
     "type": "tv",
@@ -12,11 +14,6 @@
     "begin": "2011-03-02T10:27:00.000Z",
     "end": "2012-01-11T10:55:00.000Z",
     "sites": [
-      {
-        "site": "pptv",
-        "id": "9k04th6E9DKVE3s",
-        "begin": ""
-      },
       {
         "site": "iqiyi",
         "id": "a_19rrk6f6c9",
@@ -27,14 +24,40 @@
         "id": "12332"
       },
       {
-        "site": "letv",
-        "id": "39210",
-        "begin": ""
+        "site": "unext",
+        "id": "SID0002704",
+        "begin": "2011-06-23T06:00:00.000Z",
+        "broadcast": "R/2011-06-23T06:00:00.000Z/P7D"
       },
       {
-        "site": "bilibili",
-        "id": "1695",
-        "begin": "2011-03-01T16:00:00.000Z"
+        "site": "dmhy",
+        "id": "紙箱戰機"
+      },
+      {
+        "site": "danime",
+        "id": "10673",
+        "begin": "2012-11-16T01:00:00.000Z",
+        "broadcast": "R/2012-11-16T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/38812"
+      },
+      {
+        "site": "mal",
+        "id": "7081"
+      },
+      {
+        "site": "anidb",
+        "id": "8226"
+      },
+      {
+        "site": "aniList",
+        "id": "7081"
+      },
+      {
+        "site": "acgnx",
+        "id": "紙箱戰機"
       }
     ]
   },
@@ -52,18 +75,36 @@
     "end": "2011-03-26T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "wwYCgOhOvvxf3UU",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "14759"
       },
       {
-        "site": "letv",
-        "id": "42060",
-        "begin": ""
+        "site": "unext",
+        "id": "SID0046988",
+        "begin": "2020-03-19T03:00:00.000Z",
+        "broadcast": "R/2020-03-19T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "11619",
+        "begin": "2020-01-31T01:00:00.000Z",
+        "broadcast": "R/2020-01-31T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/259488"
+      },
+      {
+        "site": "mal",
+        "id": "10502"
+      },
+      {
+        "site": "anidb",
+        "id": "8143"
+      },
+      {
+        "site": "aniList",
+        "id": "10502"
       }
     ]
   },
@@ -81,18 +122,24 @@
     "end": "2011-03-19T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "wwYCgOhOvvxf3UU",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "49020"
       },
       {
-        "site": "letv",
-        "id": "42060",
-        "begin": ""
+        "site": "tmdb",
+        "id": "movie/259478"
+      },
+      {
+        "site": "mal",
+        "id": "10016"
+      },
+      {
+        "site": "anidb",
+        "id": "8255"
+      },
+      {
+        "site": "aniList",
+        "id": "10016"
       }
     ]
   },
@@ -110,23 +157,30 @@
     "end": "2011-03-05T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "wwYCgOhOvvxf3UU",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "49018"
       },
       {
         "site": "bilibili",
         "id": "958",
-        "begin": "2011-03-04T16:00:00.000Z"
+        "begin": "2011-03-04T16:00:00.000Z",
+        "broadcast": "R/2011-03-25T08:12:00.000Z/P7D"
       },
       {
-        "site": "letv",
-        "id": "42060",
-        "begin": ""
+        "site": "tmdb",
+        "id": "movie/259485"
+      },
+      {
+        "site": "mal",
+        "id": "10501"
+      },
+      {
+        "site": "anidb",
+        "id": "8257"
+      },
+      {
+        "site": "aniList",
+        "id": "10501"
       }
     ]
   },
@@ -144,18 +198,24 @@
     "end": "2011-03-19T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "wwYCgOhOvvxf3UU",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "49019"
       },
       {
-        "site": "letv",
-        "id": "42060",
-        "begin": ""
+        "site": "tmdb",
+        "id": "movie/71813"
+      },
+      {
+        "site": "mal",
+        "id": "10500"
+      },
+      {
+        "site": "aniList",
+        "id": "10500"
+      },
+      {
+        "site": "anidb",
+        "id": "8256"
       }
     ]
   },
@@ -164,6 +224,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "哆啦A梦：新大雄与铁人兵团"
+      ],
+      "zh-Hant": [
+        "電影 哆啦A夢 新大雄與鐵人兵團～振翅吧 天使們～"
       ]
     },
     "type": "movie",
@@ -173,18 +236,8 @@
     "end": "2011-03-05T17:30:00.000Z",
     "sites": [
       {
-        "site": "letv",
-        "id": "46395",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "19130"
-      },
-      {
-        "site": "pptv",
-        "id": "7qoHhe1TwwFk4ko",
-        "begin": ""
       },
       {
         "site": "qq",
@@ -199,7 +252,48 @@
       {
         "site": "bilibili",
         "id": "3900",
-        "begin": "2011-03-04T16:00:00.000Z"
+        "begin": "2011-03-04T16:00:00.000Z",
+        "broadcast": "R/2016-04-28T06:12:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "35-120",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0099884",
+        "begin": "2024-03-05T03:00:00.000Z",
+        "broadcast": "R/2024-03-05T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "38398",
+        "begin": "2023-03-16T02:00:00.000Z",
+        "broadcast": "R/2023-03-16T02:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0FLBWNNDP",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/137227"
+      },
+      {
+        "site": "mal",
+        "id": "10534"
+      },
+      {
+        "site": "anidb",
+        "id": "7770"
+      },
+      {
+        "site": "aniList",
+        "id": "10534"
       }
     ]
   },
@@ -208,6 +302,10 @@
     "titleTranslate": {
       "zh-Hans": [
         "世界第一初恋 OAD"
+      ],
+      "zh-Hant": [
+        "世界一初戀～小野寺律的情況～",
+        "世界一初戀～羽鳥芳雪的情況～"
       ]
     },
     "type": "ova",
@@ -217,13 +315,38 @@
     "end": "2011-09-27T16:30:00.000Z",
     "sites": [
       {
-        "site": "letv",
-        "id": "41120",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "13973"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/42554/season/0"
+      },
+      {
+        "site": "mal",
+        "id": "8063"
+      },
+      {
+        "site": "anidb",
+        "id": "7921"
+      },
+      {
+        "site": "aniList",
+        "id": "8063"
+      },
+      {
+        "site": "gamer",
+        "id": "34649",
+        "begin": "2026-09-30T04:00:00.000Z",
+        "broadcast": "R/2026-09-30T04:00:00.000Z/P7D",
+        "comment": "小野寺律的情況, 羽鳥芳雪的情況: 78998"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "34649",
+        "begin": "2026-09-30T04:00:00.000Z",
+        "broadcast": "R/2026-09-30T04:00:00.000Z/P7D",
+        "comment": "小野寺律的情況, 羽鳥芳雪的情況: 78998"
       }
     ]
   },
@@ -245,14 +368,37 @@
         "id": "13045"
       },
       {
-        "site": "letv",
-        "id": "89803",
-        "begin": ""
-      },
-      {
         "site": "iqiyi",
         "id": "a_19rrhb4tzt",
         "begin": "2015-08-07T08:45:07.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0016683",
+        "begin": "2018-10-04T03:00:00.000Z",
+        "broadcast": "R/2018-10-04T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "22062",
+        "begin": "2018-04-27T01:00:00.000Z",
+        "broadcast": "R/2018-04-27T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/84155"
+      },
+      {
+        "site": "mal",
+        "id": "9979"
+      },
+      {
+        "site": "anidb",
+        "id": "8074"
+      },
+      {
+        "site": "aniList",
+        "id": "9979"
       }
     ]
   },
@@ -261,6 +407,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "海贼王 追寻草帽"
+      ],
+      "en": [
+        "ONE PIECE Mugiwara Chase"
       ]
     },
     "type": "movie",
@@ -272,6 +421,34 @@
       {
         "site": "bangumi",
         "id": "20523"
+      },
+      {
+        "site": "unext",
+        "id": "SID0100141",
+        "begin": "2024-03-07T15:00:00.000Z",
+        "broadcast": "R/2024-03-07T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "27023",
+        "begin": "2024-03-07T15:00:00.000Z",
+        "broadcast": "R/2024-03-07T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/79082"
+      },
+      {
+        "site": "mal",
+        "id": "9999"
+      },
+      {
+        "site": "anidb",
+        "id": "8010"
+      },
+      {
+        "site": "aniList",
+        "id": "9999"
       }
     ]
   },
@@ -290,11 +467,6 @@
     "end": "2011-09-15T16:01:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "GxD8euJIuPZZ1z8",
-        "begin": ""
-      },
-      {
         "site": "iqiyi",
         "id": "a_19rrha81ux",
         "begin": "2016-12-13T09:02:47.000Z"
@@ -306,7 +478,20 @@
       {
         "site": "bilibili",
         "id": "5871",
-        "begin": "2011-03-25T16:00:00.000Z"
+        "begin": "2011-03-25T16:00:00.000Z",
+        "broadcast": "R/2021-08-20T08:16:36.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/13961/season/4"
+      },
+      {
+        "site": "mal",
+        "id": "10513"
+      },
+      {
+        "site": "aniList",
+        "id": "10513"
       }
     ]
   },
@@ -326,6 +511,22 @@
       {
         "site": "bangumi",
         "id": "161697"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/34860"
+      },
+      {
+        "site": "mal",
+        "id": "1199"
+      },
+      {
+        "site": "anidb",
+        "id": "3626"
+      },
+      {
+        "site": "aniList",
+        "id": "1199"
       }
     ]
   },
@@ -343,11 +544,6 @@
     "end": "2011-11-25T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "sPvFQ6sRgb8iaoAg",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "6998"
       },
@@ -357,9 +553,33 @@
         "begin": "2014-03-24T14:00:00.000Z"
       },
       {
-        "site": "bilibili",
-        "id": "2147",
-        "begin": "2011-03-24T16:00:00.000Z"
+        "site": "unext",
+        "id": "SID0003282",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10888",
+        "begin": "2013-07-05T01:00:00.000Z",
+        "broadcast": "R/2013-07-05T01:00:00.000Z/P7D",
+        "comment": "香花の章: 20924"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/66854"
+      },
+      {
+        "site": "mal",
+        "id": "9088"
+      },
+      {
+        "site": "anidb",
+        "id": "7728"
+      },
+      {
+        "site": "aniList",
+        "id": "9088"
       }
     ]
   },
@@ -381,14 +601,26 @@
         "id": "10461"
       },
       {
-        "site": "pptv",
-        "id": "Zb6aGIDmVpT3dd0",
-        "begin": ""
-      },
-      {
         "site": "bilibili",
         "id": "5067",
-        "begin": "2011-03-02T16:00:01.000Z"
+        "begin": "2011-03-02T16:00:01.000Z",
+        "broadcast": "R/2016-06-22T09:44:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/209897"
+      },
+      {
+        "site": "mal",
+        "id": "9935"
+      },
+      {
+        "site": "anidb",
+        "id": "8310"
+      },
+      {
+        "site": "aniList",
+        "id": "9935"
       }
     ]
   },
@@ -400,7 +632,7 @@
     "officialSite": "http://www.nhk.or.jp/kids/program/pakkororin.html",
     "begin": "2011-03-27T23:24:00.000Z",
     "broadcast": "R/2018-10-01T23:24:00.000Z/P7D",
-    "end": "",
+    "end": "2011-03-27T23:24:00.000Z",
     "sites": [
       {
         "site": "bangumi",
@@ -411,6 +643,10 @@
         "id": "pakkororin",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "mal",
+        "id": "38099"
       }
     ]
   },
@@ -435,7 +671,18 @@
       {
         "site": "bilibili",
         "id": "2861",
-        "begin": "2011-03-24T16:00:00.000Z"
+        "begin": "2011-03-24T16:00:00.000Z",
+        "broadcast": "R/2015-10-15T21:44:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10630",
+        "begin": "2012-09-21T01:00:00.000Z",
+        "broadcast": "R/2012-09-21T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/44680/season/0"
       }
     ]
   },
@@ -460,7 +707,16 @@
       {
         "site": "bilibili",
         "id": "1566",
-        "begin": "2011-03-25T16:00:00.000Z"
+        "begin": "2011-03-25T16:00:00.000Z",
+        "broadcast": "R/2011-09-05T15:56:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/18874"
+      },
+      {
+        "site": "mal",
+        "id": "10090"
       }
     ]
   },
@@ -485,7 +741,143 @@
       {
         "site": "bilibili",
         "id": "3395",
-        "begin": "2011-03-08T16:00:00.000Z"
+        "begin": "2011-03-08T16:00:00.000Z",
+        "broadcast": "R/2016-03-08T05:57:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/36250/season/0/episode/4"
+      }
+    ]
+  },
+  {
+    "title": "ブレイク ブレイド 第六章 慟哭ノ砦",
+    "titleTranslate": {
+      "zh-Hans": [
+        "破刃之剑 第六章 恸哭之寨"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://breakblade.jp/",
+    "begin": "2011-03-25T16:00:00.000Z",
+    "end": "2011-03-25T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "11045"
+      },
+      {
+        "site": "bilibili",
+        "id": "3364",
+        "begin": "2016-02-24T07:01:10.000Z",
+        "broadcast": "R/2016-02-24T07:01:10.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/55438"
+      },
+      {
+        "site": "mal",
+        "id": "10092"
+      },
+      {
+        "site": "aniList",
+        "id": "10092"
+      }
+    ]
+  },
+  {
+    "title": "忍たま乱太郎 忍術学園 全員出動！の段",
+    "titleTranslate": {
+      "zh-Hans": [
+        "忍者乱太郎 忍术学园全员出动之段"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2011-03-11T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2011-03-11T17:18:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "22630"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002766",
+        "begin": "2019-04-01T03:00:00.000Z",
+        "broadcast": "R/2019-04-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23461",
+        "begin": "2020-02-28T01:00:00.000Z",
+        "broadcast": "R/2020-02-28T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/117082"
+      },
+      {
+        "site": "mal",
+        "id": "10114"
+      },
+      {
+        "site": "anidb",
+        "id": "7983"
+      },
+      {
+        "site": "aniList",
+        "id": "10114"
+      }
+    ]
+  },
+  {
+    "title": "トリコ3D 開幕!グルメアドベンチャー!!",
+    "titleTranslate": {
+      "zh-Hans": [
+        "美食的俘虏3D 开幕！美食家的冒险！！",
+        "美食猎人TORIKO 3D 开幕！美食家的冒险！！"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.jump-heroesfilm.com/",
+    "begin": "2011-03-18T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2011-03-18T16:40:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "14959"
+      },
+      {
+        "site": "danime",
+        "id": "26230",
+        "begin": "2023-04-28T01:00:00.000Z",
+        "broadcast": "R/2023-04-28T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/166268"
+      },
+      {
+        "site": "mal",
+        "id": "10074"
+      },
+      {
+        "site": "aniList",
+        "id": "10074"
+      },
+      {
+        "site": "anidb",
+        "id": "8009"
       }
     ]
   }

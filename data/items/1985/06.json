@@ -1,0 +1,96 @@
+[
+  {
+    "title": "魔法のスターマジカルエミ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "魔法之星爱美",
+        "魔幻小公主",
+        "小小魔术师"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1985-06-06T16:00:00.000Z",
+    "broadcast": "R/1985-06-06T16:00:00.000Z/P7D",
+    "end": "1986-02-27T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "67780"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002878",
+        "begin": "2024-06-27T15:00:00.000Z",
+        "broadcast": "R/2024-06-27T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "27148",
+        "begin": "2024-06-27T15:00:00.000Z",
+        "broadcast": "R/2024-06-27T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/83479"
+      },
+      {
+        "site": "mal",
+        "id": "2038"
+      },
+      {
+        "site": "anidb",
+        "id": "1444"
+      },
+      {
+        "site": "aniList",
+        "id": "2038"
+      }
+    ]
+  },
+  {
+    "title": "装甲騎兵ボトムズVOL.I STORIES OF THE \"A.T.VOTOMS\"",
+    "titleTranslate": {
+      "zh-Hans": [
+        "装甲骑兵VOL.I STORIES OF THE \"A.T.VOTOMS\""
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "https://www.sunrise-inc.co.jp/work/detail.php?cid=222",
+    "begin": "1985-06-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1985-06-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "313516"
+      },
+      {
+        "site": "danime",
+        "id": "28542",
+        "begin": "2025-12-12T15:00:00.000Z",
+        "broadcast": "R/2025-12-12T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "12439"
+      },
+      {
+        "site": "aniList",
+        "id": "12439"
+      },
+      {
+        "site": "anidb",
+        "id": "9846"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1300683"
+      }
+    ]
+  }
+]

@@ -25,6 +25,34 @@
         "site": "iqiyi",
         "id": "a_19rrhb4015",
         "begin": "2016-02-04T10:34:13.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0010761",
+        "begin": "2018-07-27T03:00:00.000Z",
+        "broadcast": "R/2018-07-27T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0F1B3YYLY",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/116776"
+      },
+      {
+        "site": "mal",
+        "id": "892"
+      },
+      {
+        "site": "anidb",
+        "id": "1142"
+      },
+      {
+        "site": "aniList",
+        "id": "892"
       }
     ]
   },
@@ -54,6 +82,34 @@
         "site": "iqiyi",
         "id": "a_19rrhb4um9",
         "begin": "2016-02-16T07:22:34.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0011325",
+        "begin": "2019-12-26T03:00:00.000Z",
+        "broadcast": "R/2019-12-26T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/66105"
+      },
+      {
+        "site": "mal",
+        "id": "1255"
+      },
+      {
+        "site": "anidb",
+        "id": "1887"
+      },
+      {
+        "site": "aniList",
+        "id": "1255"
+      },
+      {
+        "site": "danime",
+        "id": "24706",
+        "begin": "2026-04-09T15:00:00.000Z",
+        "broadcast": "R/2026-04-09T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -71,11 +127,6 @@
     "end": "1988-12-24T10:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "EV0npQ1z4yGEAmo",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "72815"
       },
@@ -83,6 +134,22 @@
         "site": "bilibili",
         "id": "2400",
         "begin": "1988-07-01T16:00:00.000Z"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/114799"
+      },
+      {
+        "site": "mal",
+        "id": "4663"
+      },
+      {
+        "site": "anidb",
+        "id": "3563"
+      },
+      {
+        "site": "aniList",
+        "id": "4663"
       }
     ]
   },
@@ -104,9 +171,32 @@
         "id": "7345"
       },
       {
-        "site": "pptv",
-        "id": "4086uCCG9jSXFX0",
-        "begin": ""
+        "site": "unext",
+        "id": "SID0004311",
+        "begin": "2016-03-24T03:00:00.000Z",
+        "broadcast": "R/2016-03-24T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "20287",
+        "begin": "2015-08-28T01:00:00.000Z",
+        "broadcast": "R/2015-08-28T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/80223"
+      },
+      {
+        "site": "mal",
+        "id": "1384"
+      },
+      {
+        "site": "anidb",
+        "id": "172"
+      },
+      {
+        "site": "aniList",
+        "id": "1384"
       }
     ]
   },
@@ -114,6 +204,9 @@
     "title": "AKIRA",
     "titleTranslate": {
       "zh-Hans": [
+        "阿基拉"
+      ],
+      "zh-Hant": [
         "阿基拉"
       ]
     },
@@ -128,19 +221,197 @@
         "id": "5118"
       },
       {
-        "site": "letv",
-        "id": "10002031",
-        "begin": ""
+        "site": "unext",
+        "id": "SID0013707",
+        "begin": "2019-11-01T03:00:00.000Z",
+        "broadcast": "R/2019-11-01T03:00:00.000Z/P7D"
       },
       {
-        "site": "bilibili",
-        "id": "5489",
-        "begin": "1988-07-15T16:00:01.000Z"
+        "site": "danime",
+        "id": "11088",
+        "begin": "2020-03-27T03:00:00.000Z",
+        "broadcast": "R/2020-03-27T03:00:00.000Z/P7D"
       },
       {
-        "site": "acfun",
-        "id": "6002683",
-        "begin": ""
+        "site": "tmdb",
+        "id": "movie/149"
+      },
+      {
+        "site": "mal",
+        "id": "47"
+      },
+      {
+        "site": "anidb",
+        "id": "28"
+      },
+      {
+        "site": "aniList",
+        "id": "47"
+      }
+    ]
+  },
+  {
+    "title": "ビリ犬",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1988-07-10T16:00:00.000Z",
+    "broadcast": "R/1988-07-10T16:00:00.000Z/P7D",
+    "end": "1989-03-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "188851"
+      },
+      {
+        "site": "unext",
+        "id": "SID0004903",
+        "begin": "2016-02-18T15:00:00.000Z",
+        "broadcast": "R/2016-02-18T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23305",
+        "begin": "2020-03-06T01:00:00.000Z",
+        "broadcast": "R/2020-03-06T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "8520"
+      },
+      {
+        "site": "anidb",
+        "id": "3517"
+      },
+      {
+        "site": "aniList",
+        "id": "8520"
+      }
+    ]
+  },
+  {
+    "title": "闘将!!拉麺男 劇場版",
+    "titleTranslate": {
+      "zh-Hans": [
+        "斗将！拉面男 剧场版"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1988-07-22T16:00:00.000Z",
+    "end": "1989-07-22T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "314022"
+      },
+      {
+        "site": "unext",
+        "id": "SID0091519",
+        "begin": "2023-09-10T03:00:00.000Z",
+        "broadcast": "R/2023-09-10T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "16728"
+      },
+      {
+        "site": "anidb",
+        "id": "2319"
+      },
+      {
+        "site": "aniList",
+        "id": "16728"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/774593"
+      }
+    ]
+  },
+  {
+    "title": "ビックリマン 無縁ゾーンの秘宝",
+    "titleTranslate": {
+      "zh-Hans": [
+        "仙魔大战 无缘zone的秘宝"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1988-07-08T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1988-07-08T16:45:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "487095"
+      },
+      {
+        "site": "danime",
+        "id": "24700",
+        "begin": "2022-06-15T01:00:00.000Z",
+        "broadcast": "R/2022-06-15T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002822",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1352903"
+      },
+      {
+        "site": "mal",
+        "id": "10200"
+      },
+      {
+        "site": "anidb",
+        "id": "7354"
+      },
+      {
+        "site": "aniList",
+        "id": "10200"
+      }
+    ]
+  },
+  {
+    "title": "白旗の少女 琉子",
+    "titleTranslate": {
+      "zh-Hans": [
+        "举白旗的少女 琉子"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1988-07-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1988-07-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "220063"
+      },
+      {
+        "site": "mal",
+        "id": "9546"
+      },
+      {
+        "site": "anidb",
+        "id": "6385"
+      },
+      {
+        "site": "aniList",
+        "id": "9546"
       }
     ]
   }

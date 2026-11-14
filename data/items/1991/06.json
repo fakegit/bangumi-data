@@ -1,0 +1,81 @@
+[
+  {
+    "title": "ふしぎの海のナディア 劇場用オリジナル版",
+    "titleTranslate": {
+      "zh-Hans": [
+        "蓝宝石之谜 剧场版",
+        "海底两万里 剧场版"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1991-06-28T15:00:00.000Z",
+    "end": "1991-06-28T15:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "34418"
+      },
+      {
+        "site": "bilibili",
+        "id": "3150",
+        "begin": "2015-12-06T14:22:00.000Z",
+        "broadcast": "R/2015-12-06T14:22:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/121139"
+      },
+      {
+        "site": "mal",
+        "id": "1252"
+      },
+      {
+        "site": "anidb",
+        "id": "603"
+      },
+      {
+        "site": "aniList",
+        "id": "1252"
+      }
+    ]
+  },
+  {
+    "title": "スローステップ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "含羞草"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1991-05-31T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1991-10-31T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "25415"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/105700"
+      },
+      {
+        "site": "mal",
+        "id": "2180"
+      },
+      {
+        "site": "anidb",
+        "id": "2909"
+      },
+      {
+        "site": "aniList",
+        "id": "2180"
+      }
+    ]
+  }
+]

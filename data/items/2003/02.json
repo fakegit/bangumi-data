@@ -3,7 +3,9 @@
     "title": "明日のナージャ",
     "titleTranslate": {
       "zh-Hans": [
-        "明日的娜嘉"
+        "明日的娜嘉",
+        "妮嘉寻亲记",
+        "明日之星娜佳"
       ]
     },
     "type": "tv",
@@ -13,23 +15,42 @@
     "end": "2004-01-25T00:00:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "grGMCnLYSIbpZ88",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "9564"
       },
       {
         "site": "bilibili",
         "id": "1992",
-        "begin": "2003-02-01T16:00:00.000Z"
+        "begin": "2003-02-01T16:00:00.000Z",
+        "broadcast": "R/2013-07-24T16:54:00.000Z/P7D"
       },
       {
-        "site": "letv",
-        "id": "34425",
-        "begin": ""
+        "site": "unext",
+        "id": "SID0010842",
+        "begin": "2019-10-24T03:00:00.000Z",
+        "broadcast": "R/2019-10-24T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "22625",
+        "begin": "2022-08-01T01:00:00.000Z",
+        "broadcast": "R/2022-08-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/34821"
+      },
+      {
+        "site": "mal",
+        "id": "1946"
+      },
+      {
+        "site": "anidb",
+        "id": "520"
+      },
+      {
+        "site": "aniList",
+        "id": "1946"
       }
     ]
   },
@@ -49,6 +70,22 @@
       {
         "site": "bangumi",
         "id": "38431"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/45012"
+      },
+      {
+        "site": "mal",
+        "id": "7048"
+      },
+      {
+        "site": "aniList",
+        "id": "7048"
+      },
+      {
+        "site": "anidb",
+        "id": "714"
       }
     ]
   },
@@ -90,9 +127,88 @@
         "id": "10357"
       },
       {
-        "site": "pptv",
-        "id": "o4RicicWXLO3ncWsI",
-        "begin": ""
+        "site": "mal",
+        "id": "138"
+      },
+      {
+        "site": "anidb",
+        "id": "545"
+      },
+      {
+        "site": "aniList",
+        "id": "138"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/45952/season/0/episode/9"
+      }
+    ]
+  },
+  {
+    "title": "魔獣戦線 THE APOCALYPSE",
+    "titleTranslate": {
+      "zh-Hans": [
+        "魔兽战线 THE APOCALYPSE"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2003-02-22T16:00:00.000Z",
+    "broadcast": "R/2003-02-22T16:00:00.000Z/P7D",
+    "end": "2003-05-17T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "57607"
+      },
+      {
+        "site": "unext",
+        "id": "SID0016954",
+        "begin": "2019-11-25T03:00:00.000Z",
+        "broadcast": "R/2019-11-25T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10286",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/101219"
+      },
+      {
+        "site": "mal",
+        "id": "1708"
+      },
+      {
+        "site": "anidb",
+        "id": "709"
+      },
+      {
+        "site": "aniList",
+        "id": "1708"
+      }
+    ]
+  },
+  {
+    "title": "ハムちゃんずの宝さがし大作戦 〜はむはー!!すてきな海のなつやすみ〜",
+    "titleTranslate": {},
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2003-02-28T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2003-02-28T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "abema",
+        "id": "2-36",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }

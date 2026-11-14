@@ -5,6 +5,9 @@
       "zh-Hans": [
         "犬夜叉 天下霸道之剑"
       ],
+      "zh-Hant": [
+        "犬夜叉劇場版：天下霸道之劍"
+      ],
       "en": [
         "InuYasha: The Movie 3: Swords of an Honorable Ruler"
       ]
@@ -21,23 +24,36 @@
         "begin": ""
       },
       {
-        "site": "letv",
-        "id": "46371",
-        "begin": ""
-      },
-      {
-        "site": "pptv",
-        "id": "56MQjvZczApt61M",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "18616"
       },
       {
-        "site": "netflix",
-        "id": "70036200",
-        "begin": "2017-09-01T07:00:00.000Z"
+        "site": "unext",
+        "id": "SID0052757",
+        "begin": "2020-11-06T15:00:00.000Z",
+        "broadcast": "R/2020-11-06T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/34295"
+      },
+      {
+        "site": "mal",
+        "id": "451"
+      },
+      {
+        "site": "anidb",
+        "id": "1320"
+      },
+      {
+        "site": "aniList",
+        "id": "451"
+      },
+      {
+        "site": "gamer",
+        "id": "21914",
+        "begin": "2026-08-07T04:00:00.000Z",
+        "broadcast": "R/2026-08-07T04:00:00.000Z/P7D"
       }
     ]
   },
@@ -55,11 +71,6 @@
     "end": "2004-06-25T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "9VgjoQlv3x2AicmY",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "3293"
       },
@@ -71,7 +82,8 @@
       {
         "site": "bilibili",
         "id": "2093",
-        "begin": "2003-12-20T16:00:00.000Z"
+        "begin": "2003-12-20T16:00:00.000Z",
+        "broadcast": "R/2015-02-15T08:30:00.000Z/P7D"
       },
       {
         "site": "acfun",
@@ -82,6 +94,361 @@
         "site": "youku",
         "id": "83760ee026e011e6b32f",
         "begin": "2020-06-02T05:05:43.000Z"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/34812/season/3"
+      },
+      {
+        "site": "mal",
+        "id": "255"
+      },
+      {
+        "site": "anidb",
+        "id": "1282"
+      },
+      {
+        "site": "aniList",
+        "id": "255"
+      }
+    ]
+  },
+  {
+    "title": "ブラック・ジャック2時間スペシャル 〜命をめぐる4つの奇跡〜",
+    "titleTranslate": {
+      "zh-Hans": [
+        "怪医黑杰克特别篇 4个生命的奇迹"
+      ],
+      "zh-Hant": [
+        "怪醫黑傑克特別版 4 個生命奇蹟"
+      ],
+      "en": [
+        "Black Jack Special: The 4 Miracles of Life"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2003-12-21T16:00:00.000Z",
+    "end": "2003-12-21T18:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "120070"
+      },
+      {
+        "site": "danime",
+        "id": "11448",
+        "begin": "2014-09-26T01:00:00.000Z",
+        "broadcast": "R/2014-09-26T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002311",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "55655",
+        "begin": "2017-06-02T04:00:00.000Z",
+        "broadcast": "R/2017-06-02T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "muse_tw",
+        "id": "PL12UaAf_xzfontAKHF-UWsalm2MkJzrTQ",
+        "begin": "2019-12-08T11:30:04.000Z",
+        "broadcast": "R/2019-12-08T11:30:04.000Z/P7D",
+        "comment": "國語: PL12UaAf_xzfpcuncrOmeuGFWkLHgTAvie"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1232739"
+      },
+      {
+        "site": "mal",
+        "id": "1373"
+      },
+      {
+        "site": "anidb",
+        "id": "2672"
+      },
+      {
+        "site": "aniList",
+        "id": "1373"
+      }
+    ]
+  },
+  {
+    "title": "映画 あたしンち",
+    "titleTranslate": {
+      "zh-Hans": [
+        "电影 我们这一家",
+        "我们这一家 剧场版"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2003-12-05T16:00:00.000Z",
+    "end": "2003-12-05T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "49287"
+      },
+      {
+        "site": "bilibili",
+        "id": "2039",
+        "begin": "2016-03-01T08:28:08.000Z",
+        "broadcast": "R/2016-03-01T08:28:08.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "35-51",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0003128",
+        "begin": "2017-08-03T03:00:00.000Z",
+        "broadcast": "R/2017-08-03T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "20350",
+        "begin": "2015-10-02T01:00:00.000Z",
+        "broadcast": "R/2015-10-02T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/278470"
+      },
+      {
+        "site": "mal",
+        "id": "9795"
+      },
+      {
+        "site": "anidb",
+        "id": "3608"
+      },
+      {
+        "site": "aniList",
+        "id": "9795"
+      }
+    ]
+  },
+  {
+    "title": "モエかん THE ANIMATION",
+    "titleTranslate": {
+      "zh-Hans": [
+        "萌娘商社"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2003-12-18T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2004-07-22T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "43507"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002902",
+        "begin": "2022-10-22T03:00:00.000Z",
+        "broadcast": "R/2022-10-22T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "11215",
+        "begin": "2017-11-24T01:00:00.000Z",
+        "broadcast": "R/2017-11-24T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/91161"
+      },
+      {
+        "site": "mal",
+        "id": "625"
+      },
+      {
+        "site": "aniList",
+        "id": "625"
+      },
+      {
+        "site": "anidb",
+        "id": "1633"
+      }
+    ]
+  },
+  {
+    "title": "こちら葛飾区亀有公園前派出所 THE MOVIE2 UFO襲来! トルネード大作戦!!",
+    "titleTranslate": {
+      "zh-Hans": [
+        "乌龙派出所 剧场版2：UFO来袭！飞龙丸号大作战"
+      ],
+      "zh-Hant": [
+        "烏龍派出所電影版2：UFO大逆襲 龍捲風大作戰"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2003-12-19T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2003-12-19T17:49:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "54608"
+      },
+      {
+        "site": "unext",
+        "id": "SID0027789",
+        "begin": "2017-01-01T03:00:00.000Z",
+        "broadcast": "R/2017-01-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "21457",
+        "begin": "2017-02-24T01:00:00.000Z",
+        "broadcast": "R/2017-02-24T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "82266",
+        "begin": "2021-08-06T07:00:00.000Z",
+        "broadcast": "R/2021-08-06T07:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/512563"
+      },
+      {
+        "site": "mal",
+        "id": "3547"
+      },
+      {
+        "site": "anidb",
+        "id": "3461"
+      },
+      {
+        "site": "aniList",
+        "id": "3547"
+      }
+    ]
+  },
+  {
+    "title": "それいけ! アンパンマン 怪傑ナガネギマンとドレミ姫",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2003-12-06T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2003-12-06T16:20:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "320205"
+      },
+      {
+        "site": "unext",
+        "id": "SID0018545",
+        "begin": "2016-03-01T03:00:00.000Z",
+        "broadcast": "R/2016-03-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/716731"
+      },
+      {
+        "site": "mal",
+        "id": "27491"
+      },
+      {
+        "site": "aniList",
+        "id": "171929"
+      },
+      {
+        "site": "anidb",
+        "id": "7758"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 とっとこハム太郎 ハムハムグランプリン オーロラ谷の奇跡 リボンちゃん危機一髪!",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2003-12-12T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2003-12-12T16:51:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "417396"
+      },
+      {
+        "site": "abema",
+        "id": "2-32",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/355144"
+      }
+    ]
+  },
+  {
+    "title": "インターステラ5555:THE 5TORY OF THE 5ECRET 5TAR 5YSTEM",
+    "titleTranslate": {
+      "zh-Hans": [
+        "星际5555:异星梦系统秘传"
+      ],
+      "en": [
+        "Interstella5555: The 5tory of The 5ecret 5tar 5ystem"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.bacfilms.com/site/interstella/",
+    "begin": "2003-12-02T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2003-12-02T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "91628"
+      },
+      {
+        "site": "mal",
+        "id": "731"
+      },
+      {
+        "site": "anidb",
+        "id": "1153"
+      },
+      {
+        "site": "aniList",
+        "id": "731"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/11049"
       }
     ]
   }

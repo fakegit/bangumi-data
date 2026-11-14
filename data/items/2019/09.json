@@ -3,7 +3,8 @@
     "title": "みにゆり",
     "titleTranslate": {
       "zh-Hans": [
-        "迷你百合"
+        "迷你百合",
+        "迷你摇曳百合"
       ]
     },
     "type": "web",
@@ -21,6 +22,30 @@
         "site": "nicovideo",
         "id": "miniyuri",
         "begin": "2019-10-25T03:00:00.000Z"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "5d9a9acb306f1a0007beb928"
+      },
+      {
+        "site": "mikan",
+        "id": "2029"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/52891/season/0/episode/4"
+      },
+      {
+        "site": "mal",
+        "id": "40369"
+      },
+      {
+        "site": "aniList",
+        "id": "110382"
+      },
+      {
+        "site": "anidb",
+        "id": "14971"
       }
     ]
   },
@@ -48,7 +73,8 @@
       {
         "site": "bilibili",
         "id": "28222687",
-        "begin": "2019-09-30T23:33:00.000Z"
+        "begin": "2019-09-30T23:33:00.000Z",
+        "broadcast": "R/2019-09-30T23:33:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
@@ -72,9 +98,64 @@
       },
       {
         "site": "ani_one_asia",
-        "id": "PLxSscENEp7JgYlcdbTLD-clFGEgbt5mZC",
+        "id": "PLIA137b2JUFI",
+        "url": "https://www.youtube.com/show/VLPLIA137b2JUFI?season=2&sbp=CgEyGgAqC0J5NldTTm9xV2RzQAFKDVBTTmROOEpDWERVME0%253D",
         "begin": "2021-05-05T16:00:00.000Z",
         "broadcast": "R/2021-05-05T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "107629",
+        "begin": "2019-09-30T23:35:00.000Z",
+        "broadcast": "R/2019-09-30T23:35:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28222835",
+        "begin": "2019-09-30T23:33:00.000Z",
+        "broadcast": "R/2019-09-30T23:33:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0043444",
+        "begin": "2019-10-01T03:00:00.000Z",
+        "broadcast": "R/2019-10-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "5d9392b94e9c003faceb5c6e"
+      },
+      {
+        "site": "mikan",
+        "id": "2071"
+      },
+      {
+        "site": "danime",
+        "id": "23027",
+        "begin": "2019-10-01T03:00:00.000Z",
+        "broadcast": "R/2019-10-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/67656/season/2"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "107629",
+        "begin": "2026-01-02T04:00:00.000Z",
+        "broadcast": "R/2026-01-02T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "40228"
+      },
+      {
+        "site": "anidb",
+        "id": "15036"
+      },
+      {
+        "site": "aniList",
+        "id": "110881"
       }
     ]
   },
@@ -100,6 +181,22 @@
         "site": "nicovideo",
         "id": "zenonzard-anime",
         "begin": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/93596"
+      },
+      {
+        "site": "mal",
+        "id": "40940"
+      },
+      {
+        "site": "aniList",
+        "id": "112033"
+      },
+      {
+        "site": "anidb",
+        "id": "15092"
       }
     ]
   },
@@ -108,6 +205,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "请问您今天要来点兔子吗？？～Sing for You～"
+      ],
+      "zh-Hant": [
+        "請問您今天要來點兔子嗎？～Sing For You～"
       ]
     },
     "type": "ova",
@@ -129,13 +229,68 @@
       {
         "site": "bilibili",
         "id": "28225115",
-        "begin": "2019-12-20T16:00:00.000Z"
+        "begin": "2019-12-20T16:00:00.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "101412",
+        "begin": "2019-12-19T16:00:00.000Z",
+        "broadcast": "R/2019-12-19T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0044959",
+        "begin": "2020-01-01T03:00:00.000Z",
+        "broadcast": "R/2020-01-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "101412",
+        "begin": "2019-12-19T16:00:00.000Z",
+        "broadcast": "R/2019-12-19T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2017"
+      },
+      {
+        "site": "danime",
+        "id": "24306",
+        "begin": "2020-10-31T15:00:00.000Z",
+        "broadcast": "R/2020-10-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "muse_tw",
+        "id": "PL12UaAf_xzfovEY72Dn9LL-GhxrfgkWhG",
+        "begin": "2020-12-26T14:00:10.000Z",
+        "broadcast": "R/2020-12-26T14:00:10.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/60843/season/0"
+      },
+      {
+        "site": "mal",
+        "id": "38333"
+      },
+      {
+        "site": "anidb",
+        "id": "14401"
+      },
+      {
+        "site": "aniList",
+        "id": "104199"
       }
     ]
   },
   {
     "title": "BanG Dream! FILM LIVE",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hant": [
+        "BanG Dream！FILM LIVE"
+      ]
+    },
     "type": "movie",
     "lang": "ja",
     "officialSite": "https://anime.bang-dream.com/filmlive/",
@@ -150,13 +305,46 @@
       {
         "site": "bilibili",
         "id": "28227003",
-        "begin": "2020-01-05T16:00:00.000Z"
+        "begin": "2020-01-05T16:00:03.000Z",
+        "broadcast": "R/2020-01-05T16:00:03.000Z/P7D"
       },
       {
         "site": "nicovideo",
         "id": "bang-dream-film-live",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0060951",
+        "begin": "2021-08-24T15:00:00.000Z",
+        "broadcast": "R/2021-08-24T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2389"
+      },
+      {
+        "site": "danime",
+        "id": "24971",
+        "begin": "2021-08-24T15:00:00.000Z",
+        "broadcast": "R/2021-08-24T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/613199"
+      },
+      {
+        "site": "mal",
+        "id": "39619"
+      },
+      {
+        "site": "anidb",
+        "id": "14802"
+      },
+      {
+        "site": "aniList",
+        "id": "108735"
       }
     ]
   },
@@ -165,6 +353,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "小怪兽成长日记 蹒跚学步"
+      ],
+      "zh-Hant": [
+        "小怪獸成長日記"
+      ],
+      "en": [
+        "THE KAIJU STEP"
       ]
     },
     "type": "tv",
@@ -187,6 +381,44 @@
         "site": "nicovideo",
         "id": "kaijustep",
         "begin": "2020-09-02T15:00:00.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "28338170",
+        "begin": "2022-05-31T16:00:05.000Z",
+        "broadcast": "R/2022-05-31T16:00:05.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "131761",
+        "begin": "2023-04-28T03:00:00.000Z",
+        "broadcast": "R/2023-04-28T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0051059",
+        "begin": "2020-09-01T03:00:00.000Z",
+        "broadcast": "R/2020-09-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "5d9392c74e9c003faceb5ca2"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/196638"
+      },
+      {
+        "site": "mal",
+        "id": "39628"
+      },
+      {
+        "site": "anidb",
+        "id": "14806"
+      },
+      {
+        "site": "aniList",
+        "id": "110089"
       }
     ]
   },
@@ -211,7 +443,42 @@
       {
         "site": "bilibili",
         "id": "28222724",
-        "begin": "2019-09-26T16:00:00.000Z"
+        "begin": "2019-09-26T16:00:00.000Z",
+        "broadcast": "R/2019-09-27T12:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0049399",
+        "begin": "2020-07-15T03:00:00.000Z",
+        "broadcast": "R/2020-07-15T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2070"
+      },
+      {
+        "site": "nicovideo",
+        "id": "gineiden-dnt-seiran",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "24112",
+        "begin": "2020-07-15T03:00:00.000Z",
+        "broadcast": "R/2020-07-15T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/516052"
+      },
+      {
+        "site": "mal",
+        "id": "36369"
+      },
+      {
+        "site": "aniList",
+        "id": "100780"
       }
     ]
   },
@@ -236,7 +503,294 @@
       {
         "site": "bilibili",
         "id": "28222715",
-        "begin": "2019-09-24T16:00:00.000Z"
+        "begin": "2019-09-24T16:00:00.000Z",
+        "broadcast": "R/2019-09-25T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0047250",
+        "begin": "2020-04-01T03:00:00.000Z",
+        "broadcast": "R/2020-04-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/67075/season/0/episode/8"
+      },
+      {
+        "site": "mal",
+        "id": "39651"
+      },
+      {
+        "site": "anidb",
+        "id": "14941"
+      },
+      {
+        "site": "aniList",
+        "id": "109819"
+      },
+      {
+        "site": "abema",
+        "id": "199-38",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "ヴァイオレット・エヴァーガーデン 外伝 - 永遠と自動手記人形 -",
+    "titleTranslate": {
+      "zh-Hans": [
+        "紫罗兰永恒花园 外传 - 永远与自动手记人偶 -",
+        "紫羅蘭永恆花園外傳：永遠與自動手記人偶"
+      ],
+      "zh-Hant": [
+        "紫羅蘭永恆花園外傳：永遠與自動手記人偶"
+      ],
+      "en": [
+        "Violet Evergarden: Eternity and the Auto Memory Doll"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.violet-evergarden.jp/sidestory/",
+    "begin": "2019-09-05T16:00:00.000Z",
+    "end": "2019-09-05T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "280837"
+      },
+      {
+        "site": "netflix",
+        "id": "81208936",
+        "begin": "2020-03-31T16:00:00.000Z",
+        "broadcast": "R/2020-03-31T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "28226644",
+        "begin": "2020-03-17T16:00:01.000Z",
+        "broadcast": "R/2020-03-17T16:00:01.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2168"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/610892"
+      },
+      {
+        "site": "mal",
+        "id": "39741"
+      },
+      {
+        "site": "anidb",
+        "id": "14840"
+      },
+      {
+        "site": "aniList",
+        "id": "109190"
+      }
+    ]
+  },
+  {
+    "title": "鬼灯の冷徹 第弐期 OAD",
+    "titleTranslate": {
+      "zh-Hans": [
+        "鬼灯的冷彻 第二季 OAD"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.hozukino-reitetsu.com/oad2/",
+    "begin": "2019-09-19T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2019-09-19T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "278449"
+      },
+      {
+        "site": "unext",
+        "id": "SID0050895",
+        "begin": "2020-09-12T03:00:00.000Z",
+        "broadcast": "R/2020-09-12T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2405"
+      },
+      {
+        "site": "danime",
+        "id": "25315",
+        "begin": "2022-03-22T15:00:00.000Z",
+        "broadcast": "R/2022-03-22T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "HELLO WORLD",
+    "titleTranslate": {
+      "zh-Hans": [
+        "你好 世界"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://hello-world-movie.com",
+    "begin": "2019-09-19T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2019-09-19T17:38:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "269090"
+      },
+      {
+        "site": "unext",
+        "id": "SID0046073",
+        "begin": "2022-04-20T03:00:00.000Z",
+        "broadcast": "R/2022-04-20T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2176"
+      },
+      {
+        "site": "prime",
+        "id": "B085KS9SVF",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/604605"
+      },
+      {
+        "site": "mal",
+        "id": "38816"
+      },
+      {
+        "site": "anidb",
+        "id": "14532"
+      },
+      {
+        "site": "aniList",
+        "id": "106240"
+      }
+    ]
+  },
+  {
+    "title": "ANOTHER WORLD",
+    "titleTranslate": {},
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://www.hikaritv.net/sp/another-world/",
+    "begin": "2019-09-12T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2019-10-03T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "289310"
+      },
+      {
+        "site": "mikan",
+        "id": "2088"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/92710"
+      },
+      {
+        "site": "mal",
+        "id": "40295"
+      },
+      {
+        "site": "anidb",
+        "id": "15065"
+      },
+      {
+        "site": "aniList",
+        "id": "111733"
+      }
+    ]
+  },
+  {
+    "title": "モノのかみさま ここたま",
+    "titleTranslate": {
+      "zh-Hans": [
+        "万物之神 心灵"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://toy.bandai.co.jp/series/cocotama/",
+    "begin": "2019-09-25T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2020-02-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "302363"
+      },
+      {
+        "site": "danime",
+        "id": "25107",
+        "begin": "2021-10-15T01:00:00.000Z",
+        "broadcast": "R/2021-10-15T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/97247"
+      },
+      {
+        "site": "mal",
+        "id": "40437"
+      },
+      {
+        "site": "anidb",
+        "id": "15109"
+      },
+      {
+        "site": "aniList",
+        "id": "112036"
+      }
+    ]
+  },
+  {
+    "title": "罗小黑战记",
+    "titleTranslate": {
+      "zh-Hans": [
+        "罗小黑战记 电影版",
+        "罗小黑战记大电影",
+        "羅小黒戦記"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://luoxiaohei-movie.com/",
+    "begin": "2019-09-06T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2019-09-06T17:41:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "159725"
+      },
+      {
+        "site": "danime",
+        "id": "27735",
+        "begin": "2025-03-18T03:00:00.000Z",
+        "broadcast": "R/2025-03-18T03:00:00.000Z/P7D"
       }
     ]
   }

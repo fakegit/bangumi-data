@@ -6,7 +6,10 @@
         "STAR☆TWINKLE PRECURE"
       ],
       "zh-Hans": [
-        "星光☆闪亮 光之美少女"
+        "星光☆闪亮 光之美少女",
+        "Star☆Twinkle 光之美少女",
+        "星Q",
+        "星闪Q娃"
       ]
     },
     "type": "tv",
@@ -23,6 +26,50 @@
         "site": "iqiyi",
         "id": "a_19rrhul389",
         "begin": "2019-02-03T03:32:28.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0051882",
+        "begin": "2020-10-01T03:00:00.000Z",
+        "broadcast": "R/2020-10-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "5c2b732a96ff38314480b62a"
+      },
+      {
+        "site": "mikan",
+        "id": "1887"
+      },
+      {
+        "site": "danime",
+        "id": "24395",
+        "begin": "2020-12-25T01:00:00.000Z",
+        "broadcast": "R/2020-12-25T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/85322"
+      },
+      {
+        "site": "mal",
+        "id": "38578"
+      },
+      {
+        "site": "anidb",
+        "id": "14459"
+      },
+      {
+        "site": "aniList",
+        "id": "105857"
+      },
+      {
+        "site": "acgnx",
+        "id": "光之"
+      },
+      {
+        "site": "dmhy",
+        "id": "光之"
       }
     ]
   },
@@ -38,7 +85,7 @@
     "officialSite": "http://tsunoanime.jp/",
     "begin": "2019-02-26T19:28:00.000Z",
     "broadcast": "R/2019-02-26T19:28:00.000Z/P7D",
-    "end": "",
+    "end": "2020-02-19T19:28:00.000Z",
     "sites": [
       {
         "site": "bangumi",
@@ -47,7 +94,8 @@
       {
         "site": "nicovideo",
         "id": "tsunoanime",
-        "begin": "2019-02-21T13:00:00.000Z"
+        "begin": "2019-02-21T13:00:00.000Z",
+        "broadcast": "R/2019-02-21T13:00:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -66,6 +114,30 @@
         "id": "m/mzc00200phfx0pi",
         "begin": "2020-03-31T07:00:00.000Z",
         "broadcast": "R/2020-03-31T07:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0047101",
+        "begin": "2020-04-12T03:00:00.000Z",
+        "broadcast": "R/2020-04-12T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "22876",
+        "begin": "2019-07-12T03:00:00.000Z",
+        "broadcast": "R/2019-07-12T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "39003"
+      },
+      {
+        "site": "anidb",
+        "id": "14597"
+      },
+      {
+        "site": "aniList",
+        "id": "107653"
       }
     ]
   },
@@ -74,6 +146,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "王室教师海涅 剧场版"
+      ],
+      "zh-Hant": [
+        "劇場版 王室教師海涅"
       ]
     },
     "type": "movie",
@@ -89,7 +164,8 @@
       {
         "site": "bilibili",
         "id": "16179187",
-        "begin": "2019-02-16T16:00:00.000Z"
+        "begin": "2019-02-16T16:00:00.000Z",
+        "broadcast": "R/2019-02-16T15:00:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -97,9 +173,36 @@
         "begin": "2019-02-16T04:29:30.000Z"
       },
       {
-        "site": "nicovideo",
-        "id": "movie-heine",
-        "begin": ""
+        "site": "unext",
+        "id": "SID0041918",
+        "begin": "2019-06-28T03:00:00.000Z",
+        "broadcast": "R/2019-06-28T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "1957"
+      },
+      {
+        "site": "danime",
+        "id": "22799",
+        "begin": "2023-03-01T01:00:00.000Z",
+        "broadcast": "R/2023-03-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/553932"
+      },
+      {
+        "site": "mal",
+        "id": "38313"
+      },
+      {
+        "site": "anidb",
+        "id": "14394"
+      },
+      {
+        "site": "aniList",
+        "id": "104286"
       }
     ]
   },
@@ -119,7 +222,30 @@
       {
         "site": "nicovideo",
         "id": "horamimi2",
-        "begin": "2019-04-12T13:30:00.000Z"
+        "begin": "2019-04-12T13:30:00.000Z",
+        "broadcast": "R/2019-04-12T13:30:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "22741",
+        "begin": "2019-04-13T03:00:00.000Z",
+        "broadcast": "R/2019-04-13T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/89576/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "39380"
+      },
+      {
+        "site": "anidb",
+        "id": "14733"
+      },
+      {
+        "site": "aniList",
+        "id": "107984"
       }
     ]
   },
@@ -128,6 +254,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "幼女战记 剧场版"
+      ],
+      "zh-Hant": [
+        "幼女戰記 劇場版"
       ]
     },
     "type": "movie",
@@ -144,7 +273,40 @@
       {
         "site": "nicovideo",
         "id": "youjo-senki-movie",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0047060",
+        "begin": "2020-03-13T03:00:00.000Z",
+        "broadcast": "R/2020-03-13T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "1966"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/553839"
+      },
+      {
+        "site": "prime",
+        "id": "B0GZ53WX1K",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mal",
+        "id": "37055"
+      },
+      {
+        "site": "anidb",
+        "id": "13717"
+      },
+      {
+        "site": "aniList",
+        "id": "100878"
       }
     ]
   },
@@ -153,6 +315,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "Code Geass 复活的鲁路修"
+      ],
+      "en": [
+        "Code Geass: Lelouch of the Re;surrection"
       ]
     },
     "type": "movie",
@@ -167,14 +332,47 @@
         "id": "199228"
       },
       {
-        "site": "nicovideo",
-        "id": "r-geass",
-        "begin": ""
-      },
-      {
         "site": "youku",
         "id": "ffcdcef0e26e42a89ec5",
         "begin": "2019-12-12T07:26:40.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0044110",
+        "begin": "2019-12-19T03:00:00.000Z",
+        "broadcast": "R/2019-12-19T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2026"
+      },
+      {
+        "site": "nicovideo",
+        "id": "r-geass",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "27112",
+        "begin": "2024-05-09T15:00:00.000Z",
+        "broadcast": "R/2024-05-09T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/553837"
+      },
+      {
+        "site": "mal",
+        "id": "34437"
+      },
+      {
+        "site": "anidb",
+        "id": "12566"
+      },
+      {
+        "site": "aniList",
+        "id": "97880"
       }
     ]
   },
@@ -183,6 +381,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "期待在地下城邂逅有错吗－俄里翁之矢－"
+      ],
+      "zh-Hant": [
+        "劇場版 在地下城尋求邂逅是否搞錯了什麼 ─ 獵戶座之箭 ─"
       ]
     },
     "type": "movie",
@@ -199,7 +400,317 @@
       {
         "site": "nicovideo",
         "id": "danmachi-movie",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0039297",
+        "begin": "2019-06-29T03:00:00.000Z",
+        "broadcast": "R/2019-06-29T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "1962"
+      },
+      {
+        "site": "abema",
+        "id": "174-15",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "23918",
+        "begin": "2020-03-31T15:00:00.000Z",
+        "broadcast": "R/2020-03-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0FLHLYB3Y",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/553835"
+      },
+      {
+        "site": "mal",
+        "id": "37348"
+      },
+      {
+        "site": "anidb",
+        "id": "13830"
+      },
+      {
+        "site": "aniList",
+        "id": "101166"
+      }
+    ]
+  },
+  {
+    "title": "『DOUBLE DECKER! ダグ＆キリル』EXTRA",
+    "titleTranslate": {
+      "zh-Hans": [
+        "『DOUBLE DECKER! 道格&基里尔』EXTRA"
+      ],
+      "zh-Hant": [
+        "Double Decker! 道格＆基里爾 OVA"
+      ],
+      "en": [
+        "Double Decker! Doug and Kirill OVA"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://dabudeka.com/",
+    "begin": "2019-02-09T16:00:00.000Z",
+    "end": "2019-04-09T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "270085"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/82046/season/0"
+      },
+      {
+        "site": "mal",
+        "id": "38895"
+      },
+      {
+        "site": "aniList",
+        "id": "106690"
+      }
+    ]
+  },
+  {
+    "title": "ファイトリーグ ギア・ガジェット・ジェネレーターズ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "交锋联盟 机巧一族"
+      ],
+      "zh-Hant": [
+        "Fight League 交鋒聯盟"
+      ],
+      "en": [
+        "Fight League"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://anime.fight-league.com/",
+    "begin": "2019-02-13T16:00:00.000Z",
+    "end": "2019-08-07T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "267484"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/86813"
+      },
+      {
+        "site": "mal",
+        "id": "38719"
+      },
+      {
+        "site": "anidb",
+        "id": "14498"
+      },
+      {
+        "site": "aniList",
+        "id": "106508"
+      }
+    ]
+  },
+  {
+    "title": "PSYCHO-PASS サイコパス Sinners of the System Case.2 First Guardian",
+    "titleTranslate": {
+      "zh-Hans": [
+        "心理测量者 Sinners of the System Case.2 First Guardian"
+      ],
+      "zh-Hant": [
+        "PSYCHO-PASS 心靈判官 Sinners of the System Case.2 First Guardian"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://psycho-pass.com/ss",
+    "begin": "2019-02-14T16:00:00.000Z",
+    "end": "2019-02-14T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "239924"
+      },
+      {
+        "site": "unext",
+        "id": "SID0079421",
+        "begin": "2023-04-07T15:00:00.000Z",
+        "broadcast": "R/2023-04-07T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "1969"
+      },
+      {
+        "site": "danime",
+        "id": "26105",
+        "begin": "2025-04-27T15:00:00.000Z",
+        "broadcast": "R/2025-04-27T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/559562"
+      },
+      {
+        "site": "mal",
+        "id": "37441"
+      },
+      {
+        "site": "aniList",
+        "id": "104382"
+      }
+    ]
+  },
+  {
+    "title": "劇場版シティーハンター 新宿プライベート・アイズ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 城市猎人 新宿私家侦探"
+      ],
+      "zh-Hant": [
+        "城市獵人劇場版 新宿 PRIVATE EYES"
+      ],
+      "en": [
+        "City Hunter the Movie: Shinjuku Private Eyes"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://cityhunter-movie.com/",
+    "begin": "2019-02-07T16:00:00.000Z",
+    "end": "2019-02-07T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "240821"
+      },
+      {
+        "site": "unext",
+        "id": "SID0044098",
+        "begin": "2019-10-30T03:00:00.000Z",
+        "broadcast": "R/2019-10-30T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2021"
+      },
+      {
+        "site": "danime",
+        "id": "24469",
+        "begin": "2024-12-25T15:00:00.000Z",
+        "broadcast": "R/2024-12-25T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/540141"
+      },
+      {
+        "site": "mal",
+        "id": "37516"
+      },
+      {
+        "site": "anidb",
+        "id": "13943"
+      },
+      {
+        "site": "aniList",
+        "id": "101345"
+      }
+    ]
+  },
+  {
+    "title": "映画コラショの海底わくわく大冒険!",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://gaga.ne.jp/korasho/",
+    "begin": "2019-01-31T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2019-01-31T17:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "338474"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/605962"
+      },
+      {
+        "site": "mal",
+        "id": "38743"
+      },
+      {
+        "site": "anidb",
+        "id": "14508"
+      },
+      {
+        "site": "aniList",
+        "id": "166051"
+      }
+    ]
+  },
+  {
+    "title": "FINAL FANTASY XV: EPISODE ARDYN – PROLOGUE",
+    "titleTranslate": {
+      "zh-Hans": [
+        "最终幻想15 艾汀篇 - 序章"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://www.jp.square-enix.com/ff15/dlc/epa/",
+    "begin": "2019-02-16T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2019-02-16T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "282591"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GMTE00170280",
+        "begin": "2019-02-16T22:00:00.000Z",
+        "broadcast": "R/2019-02-16T22:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/844390"
+      },
+      {
+        "site": "mal",
+        "id": "38664"
+      },
+      {
+        "site": "anidb",
+        "id": "14480"
+      },
+      {
+        "site": "aniList",
+        "id": "107624"
       }
     ]
   }

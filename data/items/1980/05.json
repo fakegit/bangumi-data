@@ -20,6 +20,73 @@
         "site": "bilibili",
         "id": "2448",
         "begin": "1980-05-08T16:00:00.000Z"
+      },
+      {
+        "site": "danime",
+        "id": "11578",
+        "begin": "2024-12-25T15:00:00.000Z",
+        "broadcast": "R/2024-12-25T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/13465"
+      },
+      {
+        "site": "mal",
+        "id": "930"
+      },
+      {
+        "site": "anidb",
+        "id": "1807"
+      },
+      {
+        "site": "aniList",
+        "id": "930"
+      }
+    ]
+  },
+  {
+    "title": "がんばれ!!タブチくん!! 第2弾 激闘ペナントレース",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.tms-e.co.jp/alltitles/1980s/027302.html",
+    "begin": "1980-05-02T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1980-05-02T17:35:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "311800"
+      },
+      {
+        "site": "unext",
+        "id": "SID0038239",
+        "begin": "2018-11-27T03:00:00.000Z",
+        "broadcast": "R/2018-11-27T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23333",
+        "begin": "2020-03-13T01:00:00.000Z",
+        "broadcast": "R/2020-03-13T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/559695"
+      },
+      {
+        "site": "mal",
+        "id": "18377"
+      },
+      {
+        "site": "aniList",
+        "id": "18377"
+      },
+      {
+        "site": "anidb",
+        "id": "3143"
       }
     ]
   }

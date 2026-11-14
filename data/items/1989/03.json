@@ -13,11 +13,6 @@
     "end": "1989-08-25T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "cq2XFX3jU5H0cto",
-        "begin": ""
-      },
-      {
         "site": "qq",
         "id": "h/hyeg0kuopccwl8b",
         "begin": ""
@@ -25,6 +20,40 @@
       {
         "site": "bangumi",
         "id": "1015"
+      },
+      {
+        "site": "unext",
+        "id": "SID0012898",
+        "begin": "2008-10-31T15:00:00.000Z",
+        "broadcast": "R/2008-10-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "gundam-0080",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "26200",
+        "begin": "2025-04-10T15:00:00.000Z",
+        "broadcast": "R/2025-04-10T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/46512"
+      },
+      {
+        "site": "mal",
+        "id": "82"
+      },
+      {
+        "site": "anidb",
+        "id": "716"
+      },
+      {
+        "site": "aniList",
+        "id": "82"
       }
     ]
   },
@@ -48,12 +77,41 @@
       {
         "site": "nicovideo",
         "id": "saint_seiya",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "iqiyi",
         "id": "a_19rrhb4um9",
         "begin": "2016-02-16T07:22:34.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0011323",
+        "begin": "2019-12-26T03:00:00.000Z",
+        "broadcast": "R/2019-12-26T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/83088"
+      },
+      {
+        "site": "mal",
+        "id": "1260"
+      },
+      {
+        "site": "anidb",
+        "id": "1889"
+      },
+      {
+        "site": "aniList",
+        "id": "1260"
+      },
+      {
+        "site": "danime",
+        "id": "24707",
+        "begin": "2026-04-09T15:00:00.000Z",
+        "broadcast": "R/2026-04-09T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -71,18 +129,8 @@
     "end": "1989-03-11T17:30:00.000Z",
     "sites": [
       {
-        "site": "letv",
-        "id": "79694",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "448"
-      },
-      {
-        "site": "pptv",
-        "id": "7qoHhe1TwwFk4ko",
-        "begin": ""
       },
       {
         "site": "qq",
@@ -92,7 +140,42 @@
       {
         "site": "bilibili",
         "id": "2557",
-        "begin": "1989-03-10T16:00:00.000Z"
+        "begin": "1989-03-10T16:00:00.000Z",
+        "broadcast": "R/2015-05-16T06:02:03.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "35-99",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0099854",
+        "begin": "2024-03-05T03:00:00.000Z",
+        "broadcast": "R/2024-03-05T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0DW75VR3P",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/142527"
+      },
+      {
+        "site": "mal",
+        "id": "2666"
+      },
+      {
+        "site": "anidb",
+        "id": "6591"
+      },
+      {
+        "site": "aniList",
+        "id": "2666"
       }
     ]
   },
@@ -100,7 +183,11 @@
     "title": "ファイブスター物語",
     "titleTranslate": {
       "zh-Hans": [
-        "五星物语 剧场版"
+        "五星物语 剧场版",
+        "五星物语"
+      ],
+      "zh-Hant": [
+        "五星物語 劇場版"
       ]
     },
     "type": "movie",
@@ -118,6 +205,398 @@
         "site": "qq",
         "id": "c/cibu368ne92ed7s",
         "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "2390",
+        "begin": "2014-10-29T06:16:00.000Z",
+        "broadcast": "R/2014-10-29T06:16:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10641",
+        "begin": "2012-10-12T01:00:00.000Z",
+        "broadcast": "R/2012-10-12T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/34375"
+      },
+      {
+        "site": "mal",
+        "id": "2042"
+      },
+      {
+        "site": "anidb",
+        "id": "730"
+      },
+      {
+        "site": "aniList",
+        "id": "2042"
+      }
+    ]
+  },
+  {
+    "title": "ヴイナス戦記",
+    "titleTranslate": {
+      "zh-Hans": [
+        "金星战记",
+        "维纳斯战记"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://venuswars.jp/",
+    "begin": "1989-03-10T16:00:00.000Z",
+    "end": "1989-03-10T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "63686"
+      },
+      {
+        "site": "bilibili",
+        "id": "5186",
+        "begin": "2016-07-12T04:02:34.000Z",
+        "broadcast": "R/2016-07-12T04:02:34.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0042194",
+        "begin": "2019-07-26T03:00:00.000Z",
+        "broadcast": "R/2019-07-26T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23983",
+        "begin": "2020-05-31T15:00:00.000Z",
+        "broadcast": "R/2020-05-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/31769"
+      },
+      {
+        "site": "mal",
+        "id": "544"
+      },
+      {
+        "site": "anidb",
+        "id": "620"
+      },
+      {
+        "site": "aniList",
+        "id": "544"
+      }
+    ]
+  },
+  {
+    "title": "宇宙皇子（地上編）",
+    "titleTranslate": {
+      "zh-Hans": [
+        "宇宙皇子 地上篇"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1989-03-10T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1989-03-10T17:22:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "77616"
+      },
+      {
+        "site": "unext",
+        "id": "SID0096716",
+        "begin": "2023-12-26T03:00:00.000Z",
+        "broadcast": "R/2023-12-26T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10012",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/838442"
+      },
+      {
+        "site": "mal",
+        "id": "5921"
+      },
+      {
+        "site": "anidb",
+        "id": "5813"
+      },
+      {
+        "site": "aniList",
+        "id": "5921"
+      }
+    ]
+  },
+  {
+    "title": "それいけ!アンパンマン キラキラ星の涙",
+    "titleTranslate": {
+      "zh-Hans": [
+        "面包超人：亮晶晶星的眼泪"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.tms-e.co.jp/alltitles/anpanman/060301.html",
+    "begin": "1989-03-10T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1989-03-10T17:15:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "418852"
+      },
+      {
+        "site": "unext",
+        "id": "SID0018518",
+        "begin": "2015-06-01T06:00:00.000Z",
+        "broadcast": "R/2015-06-01T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "27774",
+        "begin": "2025-04-29T15:00:00.000Z",
+        "broadcast": "R/2025-04-29T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/437947"
+      },
+      {
+        "site": "mal",
+        "id": "16163"
+      },
+      {
+        "site": "aniList",
+        "id": "16163"
+      },
+      {
+        "site": "anidb",
+        "id": "5812"
+      }
+    ]
+  },
+  {
+    "title": "戦え!超ロボット生命体 トランスフォーマーV",
+    "titleTranslate": {
+      "zh-Hans": [
+        "变形金刚之胜利斗争",
+        "变形金刚-胜利之斗争",
+        "变形金刚-胜利争斗"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1989-03-13T16:00:00.000Z",
+    "broadcast": "R/1989-03-13T16:00:00.000Z/P7D",
+    "end": "1989-12-18T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "285379"
+      },
+      {
+        "site": "danime",
+        "id": "11492",
+        "begin": "2016-02-01T01:00:00.000Z",
+        "broadcast": "R/2016-02-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/19553"
+      },
+      {
+        "site": "mal",
+        "id": "926"
+      },
+      {
+        "site": "anidb",
+        "id": "2065"
+      },
+      {
+        "site": "aniList",
+        "id": "926"
+      }
+    ]
+  },
+  {
+    "title": "ヤンキー烈風隊",
+    "titleTranslate": {
+      "zh-Hans": [
+        "不良少年烈风队"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1989-03-16T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1989-03-16T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "103182"
+      },
+      {
+        "site": "danime",
+        "id": "26239",
+        "begin": "2023-04-28T01:00:00.000Z",
+        "broadcast": "R/2023-04-28T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0017260",
+        "begin": "2025-06-01T03:00:00.000Z",
+        "broadcast": "R/2025-06-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/212159"
+      },
+      {
+        "site": "mal",
+        "id": "12791"
+      },
+      {
+        "site": "anidb",
+        "id": "5814"
+      },
+      {
+        "site": "aniList",
+        "id": "12791"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 ひみつのアッコちゃん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 甜蜜小天使"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1989-03-17T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1989-03-17T16:25:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "499293"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003258",
+        "begin": "2020-01-19T03:00:00.000Z",
+        "broadcast": "R/2020-01-19T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/846277"
+      },
+      {
+        "site": "mal",
+        "id": "12569"
+      },
+      {
+        "site": "anidb",
+        "id": "1896"
+      },
+      {
+        "site": "aniList",
+        "id": "12569"
+      }
+    ]
+  },
+  {
+    "title": "アニメ三銃士 アラミスの冒険",
+    "titleTranslate": {
+      "zh-Hans": [
+        "三个火枪手 阿拉密斯的冒险"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1989-03-10T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1989-03-10T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "458112"
+      },
+      {
+        "site": "mal",
+        "id": "2334"
+      },
+      {
+        "site": "anidb",
+        "id": "3639"
+      },
+      {
+        "site": "aniList",
+        "id": "2334"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/85806"
+      }
+    ]
+  },
+  {
+    "title": "ドラミちゃん ミニドラSOS!!!",
+    "titleTranslate": {
+      "zh-Hans": [
+        "哆啦美与迷你哆啦SOS"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1989-03-10T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1989-03-10T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "121740"
+      },
+      {
+        "site": "mal",
+        "id": "2647"
+      },
+      {
+        "site": "anidb",
+        "id": "7116"
+      },
+      {
+        "site": "aniList",
+        "id": "2647"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/326391"
       }
     ]
   }

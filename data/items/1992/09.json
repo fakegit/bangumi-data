@@ -16,6 +16,142 @@
       {
         "site": "bangumi",
         "id": "54256"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002731",
+        "begin": "2018-04-13T03:00:00.000Z",
+        "broadcast": "R/2018-04-13T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23276",
+        "begin": "2020-03-13T01:00:00.000Z",
+        "broadcast": "R/2020-03-13T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/43004"
+      },
+      {
+        "site": "mal",
+        "id": "539"
+      },
+      {
+        "site": "anidb",
+        "id": "205"
+      },
+      {
+        "site": "aniList",
+        "id": "539"
+      }
+    ]
+  },
+  {
+    "title": "絶対無敵ライジンオー OVA",
+    "titleTranslate": {
+      "zh-Hans": [
+        "绝对无敌雷神王OVA"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1992-09-29T16:00:00.000Z",
+    "end": "1993-02-03T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "92950"
+      },
+      {
+        "site": "bilibili",
+        "id": "3305",
+        "begin": "2016-01-20T07:26:00.000Z",
+        "broadcast": "R/2016-01-20T07:26:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/117411"
+      }
+    ]
+  },
+  {
+    "title": "ハローキティのまほうのリンゴ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "凯蒂猫 魔法苹果"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1992-09-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1992-09-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "315448"
+      },
+      {
+        "site": "unext",
+        "id": "SID0027600",
+        "begin": "2017-01-20T03:00:00.000Z",
+        "broadcast": "R/2017-01-20T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "22479"
+      },
+      {
+        "site": "anidb",
+        "id": "7777"
+      }
+    ]
+  },
+  {
+    "title": "ハローキティのロンドンにおりた宇宙人",
+    "titleTranslate": {
+      "zh-Hans": [
+        "凯蒂猫 在伦敦的外星人"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1992-09-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1992-09-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "315445"
+      },
+      {
+        "site": "danime",
+        "id": "25490",
+        "begin": "2022-12-23T01:00:00.000Z",
+        "broadcast": "R/2022-12-23T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1183984"
+      },
+      {
+        "site": "mal",
+        "id": "17953"
+      },
+      {
+        "site": "anidb",
+        "id": "7784"
+      },
+      {
+        "site": "aniList",
+        "id": "17953"
       }
     ]
   }

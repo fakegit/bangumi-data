@@ -4,6 +4,10 @@
     "titleTranslate": {
       "zh-Hans": [
         "铁臂阿童木"
+      ],
+      "zh-Hant": [
+        "原子小金剛",
+        "小飛俠阿童木"
       ]
     },
     "type": "tv",
@@ -13,11 +17,6 @@
     "end": "1981-12-23T22:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "1byYFn7kVJL1c9s",
-        "begin": ""
-      },
-      {
         "site": "iqiyi",
         "id": "a_19rrjabctp",
         "begin": "2011-01-24T01:12:47.000Z"
@@ -25,11 +24,6 @@
       {
         "site": "qq",
         "id": "z/zgi40gqg05wouh9",
-        "begin": ""
-      },
-      {
-        "site": "sohu",
-        "id": "s2014/tbatm",
         "begin": ""
       },
       {
@@ -44,12 +38,41 @@
       {
         "site": "bilibili",
         "id": "2449",
-        "begin": "1980-09-30T16:00:00.000Z"
+        "begin": "1980-09-30T16:00:00.000Z",
+        "broadcast": "R/2013-02-07T10:04:00.000Z/P7D"
       },
       {
         "site": "youku",
         "id": "537342fa927311e0a046",
         "begin": "2011-04-03T07:52:06.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002251",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10918",
+        "begin": "2013-08-02T01:00:00.000Z",
+        "broadcast": "R/2013-08-02T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/23022"
+      },
+      {
+        "site": "mal",
+        "id": "3044"
+      },
+      {
+        "site": "aniList",
+        "id": "3044"
+      },
+      {
+        "site": "anidb",
+        "id": "1446"
       }
     ]
   },
@@ -73,7 +96,36 @@
       {
         "site": "bilibili",
         "id": "1951",
-        "begin": "1980-10-02T16:00:00.000Z"
+        "begin": "1980-10-02T16:00:00.000Z",
+        "broadcast": "R/2014-04-26T14:19:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0039467",
+        "begin": "2019-03-21T03:00:00.000Z",
+        "broadcast": "R/2019-03-21T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10309",
+        "begin": "2020-02-01T01:00:00.000Z",
+        "broadcast": "R/2020-02-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/44461"
+      },
+      {
+        "site": "mal",
+        "id": "4208"
+      },
+      {
+        "site": "anidb",
+        "id": "1672"
+      },
+      {
+        "site": "aniList",
+        "id": "4208"
       }
     ]
   },
@@ -81,7 +133,8 @@
     "title": "あしたのジョー2",
     "titleTranslate": {
       "zh-Hans": [
-        "明日之丈2"
+        "明日之丈2",
+        "明日之丈 第二季"
       ]
     },
     "type": "tv",
@@ -103,6 +156,138 @@
         "site": "qq",
         "id": "0/0r3wk97yhzn2bpe",
         "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "28234062",
+        "begin": "2021-03-24T06:43:04.000Z",
+        "broadcast": "R/2021-03-24T06:43:04.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0013722",
+        "begin": "2018-02-08T03:00:00.000Z",
+        "broadcast": "R/2018-02-08T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "11557",
+        "begin": "2014-12-12T01:00:00.000Z",
+        "broadcast": "R/2014-12-12T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/25117/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "2921"
+      },
+      {
+        "site": "anidb",
+        "id": "1458"
+      },
+      {
+        "site": "aniList",
+        "id": "2921"
+      }
+    ]
+  },
+  {
+    "title": "銀河鉄道999 君は母のように愛せるか!!",
+    "titleTranslate": {
+      "zh-Hans": [
+        "银河铁道999：你能像母亲一样爱着吗"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1980-10-01T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1980-10-01T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "416986"
+      },
+      {
+        "site": "unext",
+        "id": "SID0011076",
+        "begin": "2019-12-07T03:00:00.000Z",
+        "broadcast": "R/2019-12-07T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "24519",
+        "begin": "2021-03-05T01:00:00.000Z",
+        "broadcast": "R/2021-03-05T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/699971"
+      },
+      {
+        "site": "mal",
+        "id": "6735"
+      },
+      {
+        "site": "aniList",
+        "id": "6735"
+      },
+      {
+        "site": "anidb",
+        "id": "4122"
+      }
+    ]
+  },
+  {
+    "title": "宇宙戦艦ヤマトIII",
+    "titleTranslate": {
+      "zh-Hans": [
+        "宇宙战舰大和号3"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1980-10-10T16:00:00.000Z",
+    "broadcast": "R/1980-10-10T16:00:00.000Z/P7D",
+    "end": "1981-04-03T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "53898"
+      },
+      {
+        "site": "unext",
+        "id": "SID0174164",
+        "begin": "2025-03-14T03:00:00.000Z",
+        "broadcast": "R/2025-03-14T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "28382",
+        "begin": "2025-11-07T15:00:00.000Z",
+        "broadcast": "R/2025-11-07T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/13339/season/3"
+      },
+      {
+        "site": "mal",
+        "id": "1652"
+      },
+      {
+        "site": "aniList",
+        "id": "1652"
+      },
+      {
+        "site": "anidb",
+        "id": "2661"
       }
     ]
   }

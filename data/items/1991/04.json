@@ -4,6 +4,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "绝对无敌雷神王"
+      ],
+      "zh-Hant": [
+        "絕對無敵 雷神王"
       ]
     },
     "type": "tv",
@@ -19,7 +22,30 @@
       {
         "site": "bilibili",
         "id": "3304",
-        "begin": "1991-04-02T16:00:01.000Z"
+        "begin": "1991-04-02T16:00:01.000Z",
+        "broadcast": "R/2016-01-20T07:21:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/87166"
+      },
+      {
+        "site": "danime",
+        "id": "20586",
+        "begin": "2025-12-12T15:00:00.000Z",
+        "broadcast": "R/2025-12-12T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "1897"
+      },
+      {
+        "site": "anidb",
+        "id": "4486"
+      },
+      {
+        "site": "aniList",
+        "id": "1897"
       }
     ]
   },
@@ -44,6 +70,245 @@
         "site": "nicovideo",
         "id": "hsm-nanafushigi",
         "begin": "2017-07-07T15:00:00.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0029933",
+        "begin": "2017-07-27T03:00:00.000Z",
+        "broadcast": "R/2017-07-27T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "21672",
+        "begin": "2017-08-11T01:00:00.000Z",
+        "broadcast": "R/2017-08-11T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/43895"
+      },
+      {
+        "site": "mal",
+        "id": "9882"
+      },
+      {
+        "site": "anidb",
+        "id": "6027"
+      },
+      {
+        "site": "aniList",
+        "id": "9882"
+      }
+    ]
+  },
+  {
+    "title": "シティーハンター`91",
+    "titleTranslate": {
+      "zh-Hans": [
+        "城市猎人`91",
+        "城市猎人 第四季",
+        "城市猎人4",
+        "城市猎人91"
+      ],
+      "zh-Hant": [
+        "城市獵人’91"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1991-04-28T10:00:00.000Z",
+    "end": "1991-10-10T07:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "53937"
+      },
+      {
+        "site": "bilibili",
+        "id": "28228558",
+        "begin": "2020-04-12T13:13:17.000Z",
+        "broadcast": "R/2020-04-12T13:13:17.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0013055",
+        "begin": "2008-12-19T06:00:00.000Z",
+        "broadcast": "R/2008-12-19T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "30501",
+        "begin": "2020-01-17T09:30:00.000Z",
+        "broadcast": "R/2020-01-17T09:30:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "21708",
+        "begin": "2017-08-10T01:00:00.000Z",
+        "broadcast": "R/2017-08-10T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "30501",
+        "begin": "2020-01-17T09:30:00.000Z",
+        "broadcast": "R/2020-01-17T09:30:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/36046/season/4"
+      },
+      {
+        "site": "mal",
+        "id": "1473"
+      },
+      {
+        "site": "anidb",
+        "id": "1565"
+      },
+      {
+        "site": "aniList",
+        "id": "1473"
+      }
+    ]
+  },
+  {
+    "title": "アニメひみつの花園",
+    "titleTranslate": {
+      "zh-Hans": [
+        "动画秘密花园"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1991-04-18T16:00:00.000Z",
+    "end": "1992-03-26T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "78751"
+      },
+      {
+        "site": "bilibili",
+        "id": "2344",
+        "begin": "2013-06-30T23:16:35.000Z",
+        "broadcast": "R/2013-06-30T23:16:35.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/111450"
+      },
+      {
+        "site": "mal",
+        "id": "2810"
+      },
+      {
+        "site": "anidb",
+        "id": "3671"
+      },
+      {
+        "site": "aniList",
+        "id": "2810"
+      }
+    ]
+  },
+  {
+    "title": "ジャンケンマン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "正气大侠",
+        "包剪槌小飞侠"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1991-04-03T16:00:00.000Z",
+    "broadcast": "R/1991-04-03T16:00:00.000Z/P7D",
+    "end": "1992-03-25T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "18618"
+      },
+      {
+        "site": "unext",
+        "id": "SID0004943",
+        "begin": "2016-03-24T03:00:00.000Z",
+        "broadcast": "R/2016-03-24T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10419",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/43991"
+      },
+      {
+        "site": "mal",
+        "id": "7405"
+      },
+      {
+        "site": "anidb",
+        "id": "6520"
+      },
+      {
+        "site": "aniList",
+        "id": "7405"
+      }
+    ]
+  },
+  {
+    "title": "どろろんぱっ!",
+    "titleTranslate": {
+      "zh-Hans": [
+        "飘飘小灵仙"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1991-04-07T16:00:00.000Z",
+    "broadcast": "R/1991-04-07T16:00:00.000Z/P7D",
+    "end": "1991-09-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "189019"
+      },
+      {
+        "site": "unext",
+        "id": "SID0012677",
+        "begin": "2021-01-07T03:00:00.000Z",
+        "broadcast": "R/2021-01-07T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "24503",
+        "begin": "2021-02-26T01:00:00.000Z",
+        "broadcast": "R/2021-02-26T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/236132"
+      },
+      {
+        "site": "mal",
+        "id": "24663"
+      },
+      {
+        "site": "anidb",
+        "id": "7329"
+      },
+      {
+        "site": "aniList",
+        "id": "107010"
       }
     ]
   }

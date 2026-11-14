@@ -1,17 +1,5 @@
 [
   {
-    "title": "キラキラADらっこちゃん",
-    "titleTranslate": {},
-    "type": "tv",
-    "lang": "ja",
-    "officialSite": "",
-    "begin": "2022-03-15T17:59:00.000Z",
-    "broadcast": "R/2022-03-15T17:59:00.000Z/P7D",
-    "end": "",
-    "comment": "",
-    "sites": []
-  },
-  {
     "title": "パリピ孔明",
     "titleTranslate": {
       "zh-Hans": [
@@ -19,11 +7,14 @@
       ],
       "zh-Hant": [
         "派對咖孔明"
+      ],
+      "en": [
+        "Ya Boy Kongming!"
       ]
     },
     "type": "tv",
     "lang": "ja",
-    "officialSite": "https://paripikoumei-anime.com/",
+    "officialSite": "https://paripikoumei-anime.com/tv/",
     "begin": "2022-03-31T14:00:00.000Z",
     "broadcast": "R/2022-03-31T14:00:00.000Z/P7D",
     "end": "2022-06-16T14:30:00.000Z",
@@ -50,6 +41,80 @@
         "id": "PLC18xlbCdwtTierIi_Irs16qMtScQxSc-",
         "begin": "2022-07-27T16:00:00.000Z",
         "broadcast": "R/2022-07-27T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "120624",
+        "begin": "2022-07-28T10:00:00.000Z",
+        "broadcast": "R/2022-07-28T10:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81593152",
+        "begin": "2022-09-19T16:00:00.000Z",
+        "broadcast": "R/2022-09-19T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "paripikoumei-anime",
+        "begin": "2022-04-10T14:00:00.000Z",
+        "broadcast": "R/2022-04-10T14:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0066838",
+        "begin": "2022-04-07T14:00:00.000Z",
+        "broadcast": "R/2022-04-07T14:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "120624",
+        "begin": "2022-07-28T10:00:00.000Z",
+        "broadcast": "R/2022-07-28T10:00:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "派對 孔明"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "6247749f70e8f89b23a18542"
+      },
+      {
+        "site": "mikan",
+        "id": "2726"
+      },
+      {
+        "site": "danime",
+        "id": "25348",
+        "begin": "2022-04-07T14:00:00.000Z",
+        "broadcast": "R/2022-04-07T14:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/138441"
+      },
+      {
+        "site": "mal",
+        "id": "50380"
+      },
+      {
+        "site": "anidb",
+        "id": "16970"
+      },
+      {
+        "site": "aniList",
+        "id": "141774"
+      },
+      {
+        "site": "abema",
+        "id": "194-27",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "acgnx",
+        "id": "派對 孔明"
       }
     ]
   },
@@ -71,6 +136,34 @@
       {
         "site": "bangumi",
         "id": "373931"
+      },
+      {
+        "site": "unext",
+        "id": "SID0067416",
+        "begin": "2022-03-10T14:30:00.000Z",
+        "broadcast": "R/2022-03-10T14:30:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "25387",
+        "begin": "2022-03-10T14:30:00.000Z",
+        "broadcast": "R/2022-03-10T14:30:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/219261"
+      },
+      {
+        "site": "mal",
+        "id": "51218"
+      },
+      {
+        "site": "aniList",
+        "id": "146140"
+      },
+      {
+        "site": "anidb",
+        "id": "17240"
       }
     ]
   },
@@ -88,6 +181,663 @@
     "broadcast": "R/2022-03-27T16:06:00.000Z/P7D",
     "end": "2022-03-27T16:57:00.000Z",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "mal",
+        "id": "51997"
+      },
+      {
+        "site": "anidb",
+        "id": "17306"
+      }
+    ]
+  },
+  {
+    "title": "コタローは1人暮らし",
+    "titleTranslate": {
+      "zh-Hans": [
+        "小太郎一个人生活"
+      ],
+      "zh-Hant": [
+        "小太郎一個人生活"
+      ],
+      "en": [
+        "Kotaro Lives Alone"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://kotaro-anime.com",
+    "begin": "2022-03-09T16:00:00.000Z",
+    "end": "2022-03-09T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "350362"
+      },
+      {
+        "site": "netflix",
+        "id": "81275353",
+        "begin": "2022-03-09T16:00:00.000Z",
+        "broadcast": "R/2022-03-09T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0D6ZRPY48",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/134581"
+      },
+      {
+        "site": "mal",
+        "id": "49909"
+      },
+      {
+        "site": "anidb",
+        "id": "16795"
+      },
+      {
+        "site": "aniList",
+        "id": "139589"
+      }
+    ]
+  },
+  {
+    "title": "テルマエ・ロマエ ノヴァエ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "新罗马浴场"
+      ],
+      "zh-Hant": [
+        "新羅馬浴場"
+      ],
+      "en": [
+        "Thermae Romae Novae"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2022-03-27T16:00:00.000Z",
+    "end": "2022-03-27T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "317692"
+      },
+      {
+        "site": "netflix",
+        "id": "81264354",
+        "begin": "2022-03-27T16:00:00.000Z",
+        "broadcast": "R/2022-03-27T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2674"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/112169"
+      },
+      {
+        "site": "mal",
+        "id": "43693"
+      },
+      {
+        "site": "anidb",
+        "id": "15813"
+      },
+      {
+        "site": "aniList",
+        "id": "125447"
+      }
+    ]
+  },
+  {
+    "title": "ストライク・ザ・ブラッドFINAL",
+    "titleTranslate": {
+      "zh-Hans": [
+        "噬血狂袭 最终季"
+      ],
+      "zh-Hant": [
+        "噬血狂襲 FINAL"
+      ],
+      "en": [
+        "STRIKE THE BLOOD FINAL"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.strike-the-blood.com/final/index.html",
+    "begin": "2022-03-29T16:00:00.000Z",
+    "end": "2022-07-28T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "340288"
+      },
+      {
+        "site": "nicovideo",
+        "id": "strike-the-blood-final-ova",
+        "begin": "2023-04-30T15:00:00.000Z",
+        "broadcast": "R/2023-04-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0086022",
+        "begin": "2023-04-30T15:00:00.000Z",
+        "broadcast": "R/2023-04-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2729"
+      },
+      {
+        "site": "danime",
+        "id": "25957",
+        "begin": "2024-02-29T15:00:00.000Z",
+        "broadcast": "R/2024-02-29T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/61440/season/5"
+      },
+      {
+        "site": "mal",
+        "id": "49316"
+      },
+      {
+        "site": "anidb",
+        "id": "16412"
+      },
+      {
+        "site": "aniList",
+        "id": "136226"
+      }
+    ]
+  },
+  {
+    "title": "銀河英雄伝説 Die Neue These 激突 第1章",
+    "titleTranslate": {
+      "zh-Hans": [
+        "银河英雄传说 Die Neue These 激突 第1章",
+        "银河英雄传说：全新命题 激战"
+      ],
+      "zh-Hant": [
+        "銀河英雄傳說  Die Neue These  激突"
+      ],
+      "en": [
+        "Legend of the Galactic Heroes: Die Neue These - Collision"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://gineiden-anime.com/",
+    "begin": "2022-03-03T16:00:00.000Z",
+    "end": "2022-03-03T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "315026"
+      },
+      {
+        "site": "bilibili",
+        "id": "28237243",
+        "begin": "2022-04-14T23:00:01.000Z",
+        "broadcast": "R/2022-04-14T23:00:01.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "gineiden-dnt-movie",
+        "begin": "2022-07-02T15:00:00.000Z",
+        "broadcast": "R/2022-07-02T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0111139",
+        "begin": "2024-07-03T03:00:00.000Z",
+        "broadcast": "R/2024-07-03T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2670"
+      },
+      {
+        "site": "danime",
+        "id": "27203",
+        "begin": "2024-07-07T03:00:00.000Z",
+        "broadcast": "R/2024-07-07T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/918427"
+      },
+      {
+        "site": "mal",
+        "id": "42886"
+      },
+      {
+        "site": "anidb",
+        "id": "15728"
+      },
+      {
+        "site": "aniList",
+        "id": "124032"
+      }
+    ]
+  },
+  {
+    "title": "銀河英雄伝説 Die Neue These 激突 第2章",
+    "titleTranslate": {
+      "zh-Hans": [
+        "银河英雄传说 Die Neue These 激突 第2章"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://gineiden-anime.com/",
+    "begin": "2022-03-31T16:00:00.000Z",
+    "end": "2022-03-31T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "361384"
+      },
+      {
+        "site": "bilibili",
+        "id": "28237243",
+        "begin": "2022-04-14T23:00:01.000Z",
+        "broadcast": "R/2022-04-14T23:00:01.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "gineiden-dnt-movie",
+        "begin": "2022-07-02T15:00:00.000Z",
+        "broadcast": "R/2022-07-02T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0111139",
+        "begin": "2024-07-03T03:00:00.000Z",
+        "broadcast": "R/2024-07-03T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "27203",
+        "begin": "2024-07-07T03:00:00.000Z",
+        "broadcast": "R/2024-07-07T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/918428"
+      }
+    ]
+  },
+  {
+    "title": "とつくにの少女",
+    "titleTranslate": {
+      "zh-Hans": [
+        "外之国的少女"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "https://www.totsukuni.com/",
+    "begin": "2022-03-09T16:00:00.000Z",
+    "end": "2022-03-09T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "329907"
+      },
+      {
+        "site": "bilibili",
+        "id": "28237281",
+        "begin": "2023-07-02T04:00:00.000Z",
+        "broadcast": "R/2023-07-02T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0148139",
+        "begin": "2024-07-25T03:00:00.000Z",
+        "broadcast": "R/2024-07-25T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2801"
+      },
+      {
+        "site": "danime",
+        "id": "27452",
+        "begin": "2024-10-29T15:00:00.000Z",
+        "broadcast": "R/2024-10-29T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0BX1RQKGK",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/802699"
+      },
+      {
+        "site": "mal",
+        "id": "48405"
+      },
+      {
+        "site": "aniList",
+        "id": "130550"
+      },
+      {
+        "site": "anidb",
+        "id": "16091"
+      }
+    ]
+  },
+  {
+    "title": "映画ドラえもん のび太の宇宙小戦争2021",
+    "titleTranslate": {
+      "zh-Hans": [
+        "哆啦A梦：大雄的宇宙小战争 2021",
+        "哆啦A梦 大雄的宇宙小战争 2021"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://doraeiga.com/2021/",
+    "begin": "2022-03-03T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2022-03-03T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "325571"
+      },
+      {
+        "site": "abema",
+        "id": "35-130",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0099894",
+        "begin": "2024-03-05T03:00:00.000Z",
+        "broadcast": "R/2024-03-05T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2859"
+      },
+      {
+        "site": "prime",
+        "id": "B0DW93N4HJ",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/782054"
+      },
+      {
+        "site": "mal",
+        "id": "44025"
+      },
+      {
+        "site": "anidb",
+        "id": "15852"
+      },
+      {
+        "site": "aniList",
+        "id": "126783"
+      }
+    ]
+  },
+  {
+    "title": "永遠の831",
+    "titleTranslate": {
+      "zh-Hans": [
+        "永远的831"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://eienno831.com",
+    "begin": "2022-03-17T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2022-03-17T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "345021"
+      },
+      {
+        "site": "mikan",
+        "id": "2661"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/857756"
+      },
+      {
+        "site": "mal",
+        "id": "49532"
+      },
+      {
+        "site": "anidb",
+        "id": "16513"
+      },
+      {
+        "site": "aniList",
+        "id": "137378"
+      }
+    ]
+  },
+  {
+    "title": "ブルーサーマル",
+    "titleTranslate": {
+      "zh-Hans": [
+        "BLUE THERMAL",
+        "BLUE THERMAL -青凪大学体育会航空部-"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://blue-thermal.jp",
+    "begin": "2022-03-03T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2022-03-03T17:43:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "347782"
+      },
+      {
+        "site": "unext",
+        "id": "SID0069328",
+        "begin": "2022-07-13T03:00:00.000Z",
+        "broadcast": "R/2022-07-13T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2800"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/865767"
+      },
+      {
+        "site": "mal",
+        "id": "49665"
+      },
+      {
+        "site": "anidb",
+        "id": "16552"
+      },
+      {
+        "site": "aniList",
+        "id": "138379"
+      }
+    ]
+  },
+  {
+    "title": "映画おしりたんてい シリアーティ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "电影屁屁侦探 屁里亚蒂",
+        "屁屁侦探剧场版 股里亚蒂"
+      ],
+      "zh-Hant": [
+        "屁屁偵探：天才惡人屁屁亞蒂"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://oshiri-movie.com/shiriarty/",
+    "begin": "2022-03-17T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2022-03-17T16:52:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "366217"
+      },
+      {
+        "site": "unext",
+        "id": "SID0076990",
+        "begin": "2022-12-24T03:00:00.000Z",
+        "broadcast": "R/2022-12-24T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26334",
+        "begin": "2023-05-01T03:00:00.000Z",
+        "broadcast": "R/2023-05-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "25038104",
+        "begin": "2025-01-27T10:00:01.000Z",
+        "broadcast": "R/2025-01-27T10:00:01.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/952083"
+      },
+      {
+        "site": "mal",
+        "id": "54346"
+      },
+      {
+        "site": "anidb",
+        "id": "16924"
+      },
+      {
+        "site": "aniList",
+        "id": "142806"
+      }
+    ]
+  },
+  {
+    "title": "あんさんぶるスターズ！！-Road to Show!!-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "偶像梦幻祭！！-Road to Show!!-"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://ensemblestars-anime.com/rts/",
+    "begin": "2022-03-03T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2022-03-03T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "358909"
+      },
+      {
+        "site": "danime",
+        "id": "26395",
+        "begin": "2023-04-29T15:00:00.000Z",
+        "broadcast": "R/2023-04-29T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/949394"
+      },
+      {
+        "site": "mal",
+        "id": "50414"
+      },
+      {
+        "site": "anidb",
+        "id": "16985"
+      },
+      {
+        "site": "aniList",
+        "id": "141907"
+      }
+    ]
+  },
+  {
+    "title": "映画しまじろう しまじろうとキラキラおうこくのおうじさま",
+    "titleTranslate": {
+      "zh-Hans": [
+        "巧虎与闪亮闪亮王国的王子殿下",
+        "巧虎与塔鲁王子"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2022-03-10T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2022-03-10T17:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "424945"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/951557"
+      },
+      {
+        "site": "mal",
+        "id": "54269"
+      },
+      {
+        "site": "anidb",
+        "id": "17068"
+      },
+      {
+        "site": "aniList",
+        "id": "172973"
+      },
+      {
+        "site": "danime",
+        "id": "28866",
+        "begin": "2026-04-26T15:00:00.000Z",
+        "broadcast": "R/2026-04-26T15:00:00.000Z/P7D"
+      }
+    ]
   }
 ]

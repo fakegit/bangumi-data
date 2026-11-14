@@ -13,18 +13,8 @@
     "end": "1987-03-14T17:30:00.000Z",
     "sites": [
       {
-        "site": "letv",
-        "id": "80864",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "444"
-      },
-      {
-        "site": "pptv",
-        "id": "7qoHhe1TwwFk4ko",
-        "begin": ""
       },
       {
         "site": "qq",
@@ -35,6 +25,40 @@
         "site": "bilibili",
         "id": "2555",
         "begin": "1987-03-13T16:00:00.000Z"
+      },
+      {
+        "site": "abema",
+        "id": "35-97",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0099851",
+        "begin": "2024-03-05T03:00:00.000Z",
+        "broadcast": "R/2024-03-05T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0FKB94J4X",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/72565"
+      },
+      {
+        "site": "mal",
+        "id": "2657"
+      },
+      {
+        "site": "aniList",
+        "id": "2657"
+      },
+      {
+        "site": "anidb",
+        "id": "6593"
       }
     ]
   },
@@ -52,13 +76,24 @@
     "end": "1988-03-20T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "n9GrKZH3Z6UIhu4",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "65339"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/99162"
+      },
+      {
+        "site": "mal",
+        "id": "729"
+      },
+      {
+        "site": "anidb",
+        "id": "3047"
+      },
+      {
+        "site": "aniList",
+        "id": "729"
       }
     ]
   },
@@ -67,6 +102,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "王立宇宙军 欧尼亚米斯之翼"
+      ],
+      "zh-Hant": [
+        "王立宇宙軍 歐尼亞米斯之翼"
       ]
     },
     "type": "movie",
@@ -85,6 +123,268 @@
         "id": "m/mzc00200bpfv3nj",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "24467",
+        "begin": "2025-01-16T15:00:00.000Z",
+        "broadcast": "R/2025-01-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0014133",
+        "begin": "2025-01-16T15:00:00.000Z",
+        "broadcast": "R/2025-01-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/20043"
+      },
+      {
+        "site": "mal",
+        "id": "1034"
+      },
+      {
+        "site": "anidb",
+        "id": "196"
+      },
+      {
+        "site": "aniList",
+        "id": "1034"
+      }
+    ]
+  },
+  {
+    "title": "北斗の拳2",
+    "titleTranslate": {
+      "zh-Hans": [
+        "北斗神拳2"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1987-03-11T16:00:00.000Z",
+    "broadcast": "R/1987-03-11T16:00:00.000Z/P7D",
+    "end": "1988-02-17T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "53742"
+      },
+      {
+        "site": "unext",
+        "id": "SID0013396",
+        "begin": "2017-04-20T03:00:00.000Z",
+        "broadcast": "R/2017-04-20T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10481",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/56387/season/5"
+      },
+      {
+        "site": "mal",
+        "id": "1356"
+      },
+      {
+        "site": "anidb",
+        "id": "984"
+      },
+      {
+        "site": "aniList",
+        "id": "1356"
+      }
+    ]
+  },
+  {
+    "title": "グリム童話 金の鳥",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1987-03-13T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1987-03-13T16:52:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "83544"
+      },
+      {
+        "site": "unext",
+        "id": "SID0091509",
+        "begin": "2023-09-10T03:00:00.000Z",
+        "broadcast": "R/2023-09-10T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/466000"
+      },
+      {
+        "site": "mal",
+        "id": "3760"
+      },
+      {
+        "site": "anidb",
+        "id": "2316"
+      },
+      {
+        "site": "aniList",
+        "id": "3760"
+      }
+    ]
+  },
+  {
+    "title": "ダーティペア",
+    "titleTranslate": {
+      "zh-Hans": [
+        "银河女警花 剧场版",
+        "不良搭档 剧场版",
+        "Dirty Pair 剧场版"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.sunrise-anime.jp/sunrise-inc/works/detail.php?cid=103",
+    "begin": "1987-03-13T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1987-03-13T17:27:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "66376"
+      },
+      {
+        "site": "unext",
+        "id": "SID0239696",
+        "begin": "2025-10-20T15:00:00.000Z",
+        "broadcast": "R/2025-10-20T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "28356",
+        "begin": "2025-10-09T15:00:00.000Z",
+        "broadcast": "R/2025-10-09T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/334921"
+      },
+      {
+        "site": "mal",
+        "id": "1796"
+      },
+      {
+        "site": "aniList",
+        "id": "1796"
+      },
+      {
+        "site": "anidb",
+        "id": "1032"
+      }
+    ]
+  },
+  {
+    "title": "バツ&テリー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "龙兄虎弟"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1987-03-13T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1987-03-13T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "88421"
+      },
+      {
+        "site": "mal",
+        "id": "16514"
+      },
+      {
+        "site": "anidb",
+        "id": "7058"
+      },
+      {
+        "site": "aniList",
+        "id": "16514"
+      }
+    ]
+  },
+  {
+    "title": "プロゴルファー猿 甲賀秘境! 影の忍法ゴルファー参上!",
+    "titleTranslate": {
+      "zh-Hans": [
+        "球场小神将:甲贺秘境!影之忍法高尔夫球手参上"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1987-03-13T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1987-03-13T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "189445"
+      },
+      {
+        "site": "mal",
+        "id": "17321"
+      },
+      {
+        "site": "anidb",
+        "id": "7576"
+      },
+      {
+        "site": "aniList",
+        "id": "17321"
+      }
+    ]
+  },
+  {
+    "title": "ブンナよ, 木からおりてこい",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1987-03-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1987-03-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "383136"
+      },
+      {
+        "site": "mal",
+        "id": "23611"
+      },
+      {
+        "site": "anidb",
+        "id": "7617"
+      },
+      {
+        "site": "aniList",
+        "id": "130126"
       }
     ]
   }

@@ -13,13 +13,36 @@
     "end": "1985-12-27T10:55:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "bLSQDnbcTIrta9M",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "20831"
+      },
+      {
+        "site": "unext",
+        "id": "SID0004809",
+        "begin": "2016-03-24T03:00:00.000Z",
+        "broadcast": "R/2016-03-24T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10136",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/9478"
+      },
+      {
+        "site": "mal",
+        "id": "2255"
+      },
+      {
+        "site": "anidb",
+        "id": "1692"
+      },
+      {
+        "site": "aniList",
+        "id": "2255"
       }
     ]
   },
@@ -40,6 +63,34 @@
       {
         "site": "bangumi",
         "id": "213634"
+      },
+      {
+        "site": "unext",
+        "id": "SID0038640",
+        "begin": "2019-01-10T03:00:00.000Z",
+        "broadcast": "R/2019-01-10T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23370",
+        "begin": "2020-03-13T01:00:00.000Z",
+        "broadcast": "R/2020-03-13T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/21274"
+      },
+      {
+        "site": "mal",
+        "id": "2805"
+      },
+      {
+        "site": "anidb",
+        "id": "4409"
+      },
+      {
+        "site": "aniList",
+        "id": "2805"
       }
     ]
   },
@@ -59,6 +110,259 @@
       {
         "site": "bangumi",
         "id": "131172"
+      },
+      {
+        "site": "unext",
+        "id": "SID0004925",
+        "begin": "2016-03-24T03:00:00.000Z",
+        "broadcast": "R/2016-03-24T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10429",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/117347"
+      }
+    ]
+  },
+  {
+    "title": "プロゴルファー猿",
+    "titleTranslate": {
+      "zh-Hans": [
+        "球场小神将",
+        "职业高尔夫猿"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1985-04-01T16:00:00.000Z",
+    "broadcast": "R/1985-04-01T16:00:00.000Z/P7D",
+    "end": "1988-03-27T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "189441"
+      },
+      {
+        "site": "unext",
+        "id": "SID0004803",
+        "begin": "2016-02-18T15:00:00.000Z",
+        "broadcast": "R/2016-02-18T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "35-5dpiptebuab",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "11099",
+        "begin": "2014-01-10T01:00:00.000Z",
+        "broadcast": "R/2014-01-10T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/206908"
+      },
+      {
+        "site": "mal",
+        "id": "16650"
+      },
+      {
+        "site": "aniList",
+        "id": "16650"
+      },
+      {
+        "site": "anidb",
+        "id": "3167"
+      }
+    ]
+  },
+  {
+    "title": "へーい!ブンブー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "奔奔",
+        "嘿！奔奔"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1985-04-07T16:00:00.000Z",
+    "broadcast": "R/1985-04-07T16:00:00.000Z/P7D",
+    "end": "1986-03-24T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "39026"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003334",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "24056",
+        "begin": "2020-08-21T01:00:00.000Z",
+        "broadcast": "R/2020-08-21T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/13488"
+      },
+      {
+        "site": "mal",
+        "id": "3434"
+      },
+      {
+        "site": "aniList",
+        "id": "3434"
+      },
+      {
+        "site": "anidb",
+        "id": "2705"
+      }
+    ]
+  },
+  {
+    "title": "炎のアルペンローゼ ジュディ&ランディ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "火焰的阿尔卑斯玫瑰 茱蒂&蓝迪"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1985-04-05T16:00:00.000Z",
+    "broadcast": "R/1985-04-05T16:00:00.000Z/P7D",
+    "end": "1985-10-04T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "75942"
+      },
+      {
+        "site": "danime",
+        "id": "27580",
+        "begin": "2024-12-12T15:00:00.000Z",
+        "broadcast": "R/2024-12-12T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/13685"
+      },
+      {
+        "site": "mal",
+        "id": "3807"
+      },
+      {
+        "site": "aniList",
+        "id": "3807"
+      },
+      {
+        "site": "anidb",
+        "id": "3667"
+      }
+    ]
+  },
+  {
+    "title": "るんは風の中",
+    "titleTranslate": {
+      "zh-Hans": [
+        "风中之露"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1985-04-12T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1985-04-12T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "98053"
+      },
+      {
+        "site": "danime",
+        "id": "24064",
+        "begin": "2020-07-10T01:00:00.000Z",
+        "broadcast": "R/2020-07-10T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/400147"
+      },
+      {
+        "site": "mal",
+        "id": "14247"
+      },
+      {
+        "site": "anidb",
+        "id": "3615"
+      },
+      {
+        "site": "aniList",
+        "id": "14247"
+      }
+    ]
+  },
+  {
+    "title": "六三四の剣",
+    "titleTranslate": {
+      "zh-Hans": [
+        "六三四之剑",
+        "剑击小精灵"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1985-04-17T16:00:00.000Z",
+    "broadcast": "R/1985-04-17T16:00:00.000Z/P7D",
+    "end": "1986-09-25T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "23447"
+      },
+      {
+        "site": "unext",
+        "id": "SID0012617",
+        "begin": "2025-05-15T03:00:00.000Z",
+        "broadcast": "R/2025-05-15T03:00:00.000Z/P7D",
+        "comment": "青春編 #50-72: SID0012618"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/113056"
+      },
+      {
+        "site": "mal",
+        "id": "4062"
+      },
+      {
+        "site": "anidb",
+        "id": "5546"
+      },
+      {
+        "site": "aniList",
+        "id": "4062"
       }
     ]
   }

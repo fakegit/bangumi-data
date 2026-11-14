@@ -15,6 +15,150 @@
       {
         "site": "bangumi",
         "id": "127778"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002478",
+        "begin": "2019-12-26T03:00:00.000Z",
+        "broadcast": "R/2019-12-26T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10945",
+        "begin": "2013-08-30T01:00:00.000Z",
+        "broadcast": "R/2013-08-30T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/394253"
+      },
+      {
+        "site": "mal",
+        "id": "2470"
+      },
+      {
+        "site": "aniList",
+        "id": "2470"
+      },
+      {
+        "site": "anidb",
+        "id": "727"
+      }
+    ]
+  },
+  {
+    "title": "科学忍者隊ガッチャマン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "科学小飞侠 剧场版",
+        "科学小飞侠 THE MOVIE"
+      ],
+      "zh-Hant": [
+        "科學小飛俠 劇場版"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1978-07-14T16:00:00.000Z",
+    "end": "1978-07-14T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "80846"
+      },
+      {
+        "site": "bilibili",
+        "id": "6399",
+        "begin": "2017-08-21T03:38:00.000Z",
+        "broadcast": "R/2017-08-21T03:38:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003373",
+        "begin": "2019-08-26T03:00:00.000Z",
+        "broadcast": "R/2019-08-26T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10894",
+        "begin": "2020-02-14T01:00:00.000Z",
+        "broadcast": "R/2020-02-14T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/331399"
+      },
+      {
+        "site": "mal",
+        "id": "3153"
+      },
+      {
+        "site": "aniList",
+        "id": "3153"
+      },
+      {
+        "site": "anidb",
+        "id": "5434"
+      },
+      {
+        "site": "tropics",
+        "id": "PLJU4SlFL1a-U",
+        "begin": "2026-09-04T12:30:06.000Z",
+        "broadcast": "R/2026-09-04T12:30:06.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "38240",
+        "begin": "2026-09-04T04:00:00.000Z",
+        "broadcast": "R/2026-09-04T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "38240",
+        "begin": "2026-09-04T04:00:00.000Z",
+        "broadcast": "R/2026-09-04T04:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "宇宙魔神ダイケンゴー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "宇宙魔神大剑豪"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1978-07-26T16:00:00.000Z",
+    "end": "1979-02-14T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "37281"
+      },
+      {
+        "site": "bilibili",
+        "id": "2461",
+        "begin": "2014-06-05T15:12:25.000Z",
+        "broadcast": "R/2014-06-05T15:12:25.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/94236"
+      },
+      {
+        "site": "mal",
+        "id": "10224"
+      },
+      {
+        "site": "anidb",
+        "id": "3151"
+      },
+      {
+        "site": "aniList",
+        "id": "10224"
       }
     ]
   }

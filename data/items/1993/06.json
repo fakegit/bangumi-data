@@ -17,14 +17,102 @@
         "id": "25399"
       },
       {
-        "site": "pptv",
-        "id": "hMbCQKgOfrwfnQU",
-        "begin": ""
+        "site": "tmdb",
+        "id": "tv/71999"
       },
       {
-        "site": "letv",
-        "id": "15247",
-        "begin": ""
+        "site": "mal",
+        "id": "1016"
+      },
+      {
+        "site": "anidb",
+        "id": "147"
+      },
+      {
+        "site": "aniList",
+        "id": "1016"
+      }
+    ]
+  },
+  {
+    "title": "獣兵衛忍風帖",
+    "titleTranslate": {
+      "zh-Hans": [
+        "兽兵卫忍风帖"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1993-06-04T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1993-06-04T17:32:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "8582"
+      },
+      {
+        "site": "unext",
+        "id": "SID0095544",
+        "begin": "2023-11-17T15:00:00.000Z",
+        "broadcast": "R/2023-11-17T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26753",
+        "begin": "2023-12-07T15:00:00.000Z",
+        "broadcast": "R/2023-12-07T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/14282"
+      },
+      {
+        "site": "mal",
+        "id": "617"
+      },
+      {
+        "site": "anidb",
+        "id": "277"
+      },
+      {
+        "site": "aniList",
+        "id": "617"
+      }
+    ]
+  },
+  {
+    "title": "NG騎士ラムネ&amp;40 DX ワクワク時空 炎の大捜査戦",
+    "titleTranslate": {
+      "zh-Hans": [
+        "NG骑士柠檬汽水&40 DX"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1993-06-22T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1993-09-21T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "37251"
+      },
+      {
+        "site": "unext",
+        "id": "SID0004930",
+        "begin": "2016-03-24T03:00:00.000Z",
+        "broadcast": "R/2016-03-24T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10203",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
       }
     ]
   }

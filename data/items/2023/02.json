@@ -1,0 +1,372 @@
+[
+  {
+    "title": "ひろがるスカイ！プリキュア",
+    "titleTranslate": {
+      "zh-Hans": [
+        "开阔天空！光之美少女",
+        "伸向天空！光之美少女",
+        "海阔天空！光之美少女",
+        "天空Q娃",
+        "空Q"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.asahi.co.jp/precure/hirogarusky/",
+    "begin": "2023-02-04T23:30:00.000Z",
+    "broadcast": "R/2023-02-04T23:30:00.000Z/P7D",
+    "end": "2024-01-28T00:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "409323"
+      },
+      {
+        "site": "unext",
+        "id": "SID0077286",
+        "begin": "2023-02-07T15:00:00.000Z",
+        "broadcast": "R/2023-02-07T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2950"
+      },
+      {
+        "site": "danime",
+        "id": "25954",
+        "begin": "2023-02-07T15:00:00.000Z",
+        "broadcast": "R/2023-02-07T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/213883"
+      },
+      {
+        "site": "mal",
+        "id": "53716"
+      },
+      {
+        "site": "anidb",
+        "id": "17742"
+      },
+      {
+        "site": "aniList",
+        "id": "157883"
+      },
+      {
+        "site": "acgnx",
+        "id": "光之"
+      },
+      {
+        "site": "dmhy",
+        "id": "光之"
+      }
+    ]
+  },
+  {
+    "title": "MAKE MY DAY",
+    "titleTranslate": {
+      "zh-Hans": [
+        "冰雪极境"
+      ],
+      "zh-Hant": [
+        "冰雪極境"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://www.asahi.co.jp/precure/delicious/",
+    "begin": "2023-02-01T16:00:00.000Z",
+    "broadcast": "R/2023-02-01T16:00:00.000Z/P0D",
+    "end": "2023-02-01T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "338655"
+      },
+      {
+        "site": "netflix",
+        "id": "81176967",
+        "begin": "2023-02-01T16:00:00.000Z",
+        "broadcast": "R/2023-02-01T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/217710"
+      },
+      {
+        "site": "mal",
+        "id": "49164"
+      },
+      {
+        "site": "anidb",
+        "id": "16378"
+      },
+      {
+        "site": "aniList",
+        "id": "135429"
+      }
+    ]
+  },
+  {
+    "title": "Spicy Candy",
+    "titleTranslate": {
+      "zh-Hans": [
+        "辣糖甜心"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://www.spicycandy.net/",
+    "begin": "2023-02-13T16:00:00.000Z",
+    "broadcast": "R/2023-02-01T16:00:00.000Z/P0D",
+    "end": "2023-02-28T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "419847"
+      },
+      {
+        "site": "bilibili",
+        "id": "28481048",
+        "begin": "2023-02-14T04:00:01.000Z",
+        "broadcast": "R/2023-02-14T04:00:01.000Z/P7D",
+        "comment": "中文配音: 28481049"
+      },
+      {
+        "site": "danime",
+        "id": "28153",
+        "begin": "2025-07-31T15:00:00.000Z",
+        "broadcast": "R/2025-07-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "54558"
+      },
+      {
+        "site": "anidb",
+        "id": "17869"
+      }
+    ]
+  },
+  {
+    "title": " 映画 佐々木と宮野ー卒業編ー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "电影 佐佐木与宫野ー毕业篇ー",
+        "电影版 佐佐木与宫野 毕业篇"
+      ],
+      "zh-Hant": [
+        "佐佐木與宮野：畢業篇：電影版",
+        "電影版 佐佐木與宮野ー畢業篇ー"
+      ],
+      "en": [
+        "Sasaki and Miyano: Graduation"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://sasamiya.com/",
+    "begin": "2023-02-16T16:00:00.000Z",
+    "end": "2023-02-16T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "376008"
+      },
+      {
+        "site": "netflix",
+        "id": "81702475",
+        "begin": "2023-09-29T16:00:00.000Z",
+        "broadcast": "R/2023-09-29T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "sasamiya-movie",
+        "begin": "2023-10-31T15:00:00.000Z",
+        "broadcast": "R/2023-10-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0090196",
+        "begin": "2023-08-01T03:00:00.000Z",
+        "broadcast": "R/2023-08-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "127957",
+        "begin": "2024-05-10T04:00:00.000Z",
+        "broadcast": "R/2024-05-10T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "127957",
+        "begin": "2024-05-10T04:00:00.000Z",
+        "broadcast": "R/2024-05-10T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3106"
+      },
+      {
+        "site": "danime",
+        "id": "27194",
+        "begin": "2024-07-31T15:00:00.000Z",
+        "broadcast": "R/2024-07-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/998731"
+      },
+      {
+        "site": "mal",
+        "id": "51440"
+      },
+      {
+        "site": "anidb",
+        "id": "17287"
+      },
+      {
+        "site": "aniList",
+        "id": "146743"
+      }
+    ]
+  },
+  {
+    "title": "RWBY Volume 9",
+    "titleTranslate": {
+      "zh-Hans": [
+        "红白黑黄 第九季",
+        "四色战记 / RWBY 第九季"
+      ]
+    },
+    "type": "web",
+    "lang": "en",
+    "officialSite": "https://roosterteeth.com/series/rwby",
+    "begin": "2023-02-17T16:00:00.000Z",
+    "end": "2023-04-21T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "390395"
+      },
+      {
+        "site": "bilibili",
+        "id": "21090783",
+        "begin": "2023-10-05T10:00:01.000Z",
+        "broadcast": "R/2023-10-05T10:00:01.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/50137/season/9"
+      }
+    ]
+  },
+  {
+    "title": "BLUE GIANT",
+    "titleTranslate": {
+      "zh-Hans": [
+        "蓝色巨星"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://bluegiant-movie.jp/",
+    "begin": "2023-02-16T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-02-16T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "353792"
+      },
+      {
+        "site": "unext",
+        "id": "SID0093993",
+        "begin": "2023-10-18T03:00:00.000Z",
+        "broadcast": "R/2023-10-18T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3190"
+      },
+      {
+        "site": "danime",
+        "id": "26941",
+        "begin": "2024-03-07T15:00:00.000Z",
+        "broadcast": "R/2024-03-07T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0CH6LKMWV",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/887870"
+      },
+      {
+        "site": "mal",
+        "id": "50183"
+      },
+      {
+        "site": "anidb",
+        "id": "16919"
+      },
+      {
+        "site": "aniList",
+        "id": "140499"
+      }
+    ]
+  },
+  {
+    "title": "KUROMI'S PRETTY JOURNEY",
+    "titleTranslate": {
+      "zh-Hant": [
+        "酷洛米的繽紛旅程"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://kuromi.sanrio.co.jp/prettyjourney/",
+    "begin": "2023-02-16T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-03-30T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "420442"
+      },
+      {
+        "site": "gamer",
+        "id": "141829",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/220632"
+      },
+      {
+        "site": "mal",
+        "id": "54535"
+      },
+      {
+        "site": "anidb",
+        "id": "17867"
+      },
+      {
+        "site": "aniList",
+        "id": "161632"
+      }
+    ]
+  }
+]

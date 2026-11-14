@@ -15,6 +15,22 @@
       {
         "site": "bangumi",
         "id": "209603"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/31661"
+      },
+      {
+        "site": "mal",
+        "id": "3151"
+      },
+      {
+        "site": "anidb",
+        "id": "1219"
+      },
+      {
+        "site": "aniList",
+        "id": "3151"
       }
     ]
   },
@@ -34,6 +50,22 @@
       {
         "site": "bangumi",
         "id": "89725"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/19752"
+      },
+      {
+        "site": "mal",
+        "id": "2495"
+      },
+      {
+        "site": "anidb",
+        "id": "563"
+      },
+      {
+        "site": "aniList",
+        "id": "2495"
       }
     ]
   },
@@ -58,6 +90,28 @@
         "site": "youku",
         "id": "cc004d00962411de83b1",
         "begin": "2013-01-20T09:22:51.000Z"
+      },
+      {
+        "site": "danime",
+        "id": "11426",
+        "begin": "2014-09-05T01:00:00.000Z",
+        "broadcast": "R/2014-09-05T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/35465"
+      },
+      {
+        "site": "mal",
+        "id": "1126"
+      },
+      {
+        "site": "anidb",
+        "id": "225"
+      },
+      {
+        "site": "aniList",
+        "id": "1126"
       }
     ]
   },
@@ -82,6 +136,34 @@
         "site": "nicovideo",
         "id": "muryou",
         "begin": "2013-12-27T03:00:00.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002518",
+        "begin": "2019-10-25T03:00:00.000Z",
+        "broadcast": "R/2019-10-25T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "11035",
+        "begin": "2013-11-08T01:00:00.000Z",
+        "broadcast": "R/2013-11-08T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/113907"
+      },
+      {
+        "site": "mal",
+        "id": "1179"
+      },
+      {
+        "site": "anidb",
+        "id": "482"
+      },
+      {
+        "site": "aniList",
+        "id": "1179"
       }
     ]
   },
@@ -100,13 +182,30 @@
     "end": "2007-01-26T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "Fz4KiaPBWxgRn5U0",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "42789"
+      },
+      {
+        "site": "unext",
+        "id": "SID0012879",
+        "begin": "2023-01-12T15:00:00.000Z",
+        "broadcast": "R/2023-01-12T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/101719"
+      },
+      {
+        "site": "mal",
+        "id": "3288"
+      },
+      {
+        "site": "anidb",
+        "id": "1125"
+      },
+      {
+        "site": "aniList",
+        "id": "3288"
       }
     ]
   },
@@ -128,14 +227,152 @@
         "id": "1848"
       },
       {
-        "site": "pptv",
-        "id": "icEs2tByC8jCTEXk",
-        "begin": ""
-      },
-      {
         "site": "youku",
         "id": "9690860ab34911e0a046",
         "begin": "2013-01-05T08:05:18.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "1968",
+        "begin": "2011-02-12T09:13:00.000Z",
+        "broadcast": "R/2011-02-12T09:13:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0013631",
+        "begin": "2021-01-29T03:00:00.000Z",
+        "broadcast": "R/2021-01-29T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10381",
+        "begin": "2020-02-21T01:00:00.000Z",
+        "broadcast": "R/2020-02-21T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/96326"
+      },
+      {
+        "site": "mal",
+        "id": "208"
+      },
+      {
+        "site": "anidb",
+        "id": "105"
+      },
+      {
+        "site": "aniList",
+        "id": "208"
+      }
+    ]
+  },
+  {
+    "title": "メトロポリス",
+    "titleTranslate": {
+      "zh-Hans": [
+        "大都会"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.bandaivisual.co.jp/metropolis/index.html",
+    "begin": "2001-05-25T16:00:00.000Z",
+    "end": "2001-05-25T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "2328"
+      },
+      {
+        "site": "bilibili",
+        "id": "5311",
+        "begin": "2016-07-22T07:35:00.000Z",
+        "broadcast": "R/2016-07-22T07:35:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003378",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10933",
+        "begin": "2013-08-02T01:00:00.000Z",
+        "broadcast": "R/2013-08-02T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B078GX5FTY",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/9606"
+      },
+      {
+        "site": "mal",
+        "id": "522"
+      },
+      {
+        "site": "anidb",
+        "id": "78"
+      },
+      {
+        "site": "aniList",
+        "id": "522"
+      }
+    ]
+  },
+  {
+    "title": "オフサイド",
+    "titleTranslate": {
+      "zh-Hans": [
+        "少年足球",
+        "铜墙铁壁"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.asahi-net.or.jp/~va3d-isbs/offside_top.html",
+    "begin": "2001-05-09T16:00:00.000Z",
+    "broadcast": "R/2001-05-09T16:00:00.000Z/P7D",
+    "end": "2002-01-30T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "56999"
+      },
+      {
+        "site": "unext",
+        "id": "SID0066832",
+        "begin": "2022-03-01T03:00:00.000Z",
+        "broadcast": "R/2022-03-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "25185",
+        "begin": "2021-12-17T01:00:00.000Z",
+        "broadcast": "R/2021-12-17T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/103159"
+      },
+      {
+        "site": "mal",
+        "id": "5200"
+      },
+      {
+        "site": "aniList",
+        "id": "5200"
+      },
+      {
+        "site": "anidb",
+        "id": "2416"
       }
     ]
   }

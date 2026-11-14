@@ -13,11 +13,6 @@
     "end": "1988-01-30T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "B0kzsRlic7y2QDnY",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "20266"
       },
@@ -25,6 +20,28 @@
         "site": "bilibili",
         "id": "2414",
         "begin": "1987-02-06T16:00:00.000Z"
+      },
+      {
+        "site": "danime",
+        "id": "20490",
+        "begin": "2024-06-30T15:00:00.000Z",
+        "broadcast": "R/2024-06-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/9652"
+      },
+      {
+        "site": "mal",
+        "id": "865"
+      },
+      {
+        "site": "anidb",
+        "id": "1112"
+      },
+      {
+        "site": "aniList",
+        "id": "865"
       }
     ]
   },
@@ -45,6 +62,34 @@
       {
         "site": "bangumi",
         "id": "15176"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002799",
+        "begin": "2008-12-05T06:00:00.000Z",
+        "broadcast": "R/2008-12-05T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "11326",
+        "begin": "2014-06-27T01:00:00.000Z",
+        "broadcast": "R/2014-06-27T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/42882"
+      },
+      {
+        "site": "mal",
+        "id": "1347"
+      },
+      {
+        "site": "anidb",
+        "id": "68"
+      },
+      {
+        "site": "aniList",
+        "id": "1347"
       }
     ]
   }

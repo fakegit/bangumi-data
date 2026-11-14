@@ -3,14 +3,23 @@
     "title": "ポケットモンスター(2019)",
     "titleTranslate": {
       "zh-Hans": [
-        "宝可梦"
+        "宝可梦",
+        "宝可梦 旅途",
+        "宝可梦(2019)",
+        "精灵宝可梦 2019"
+      ],
+      "zh-Hant": [
+        "寶可夢旅途"
+      ],
+      "en": [
+        "Pokémon Journeys: The Series"
       ]
     },
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://www.tv-tokyo.co.jp/anime/pocketmonster/",
     "begin": "2019-11-17T08:30:00.000Z",
-    "end": "",
+    "end": "2022-12-16T10:25:00.000Z",
     "comment": "",
     "sites": [
       {
@@ -20,7 +29,74 @@
       {
         "site": "nicovideo",
         "id": "pokemon_anime",
-        "begin": "2019-11-25T03:00:00.000Z"
+        "begin": "2019-11-25T03:00:00.000Z",
+        "broadcast": "R/2019-11-25T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81275355",
+        "begin": "2020-11-20T00:00:00.000Z",
+        "broadcast": "R/2020-11-20T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "21173224",
+        "begin": "2023-12-22T02:00:00.000Z",
+        "broadcast": "R/2023-12-22T02:00:00.000Z/P7D",
+        "comment": "第一季（中配）"
+      },
+      {
+        "site": "unext",
+        "id": "SID0047504",
+        "begin": "2021-04-23T10:30:00.000Z",
+        "broadcast": "R/2021-04-23T10:30:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2086"
+      },
+      {
+        "site": "danime",
+        "id": "24324",
+        "begin": "2020-10-30T10:30:00.000Z",
+        "broadcast": "R/2020-10-30T10:30:00.000Z/P7D",
+        "comment": "#1-50, #51-100: 24483, #101-147: 25323"
+      },
+      {
+        "site": "prime",
+        "id": "B09TF8FJP1",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/60572/season/23"
+      },
+      {
+        "site": "mal",
+        "id": "40351"
+      },
+      {
+        "site": "anidb",
+        "id": "15067"
+      },
+      {
+        "site": "aniList",
+        "id": "112153"
+      },
+      {
+        "site": "acgnx",
+        "id": "寵物小精靈|寶可夢 旅途"
+      },
+      {
+        "site": "dmhy",
+        "id": "寵物小精靈|寶可夢 旅途"
+      },
+      {
+        "site": "abema",
+        "id": "2-22",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -28,7 +104,11 @@
     "title": "ルパン三世 プリズン・オブ・ザ・パスト",
     "titleTranslate": {
       "zh-Hans": [
-        "鲁邦三世 Prison of the Past"
+        "鲁邦三世 Prison of the Past",
+        "鲁邦三世 过去的监狱"
+      ],
+      "zh-Hant": [
+        "魯邦三世 過去的監獄"
       ]
     },
     "type": "tv",
@@ -41,6 +121,22 @@
       {
         "site": "bangumi",
         "id": "292940"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/641909"
+      },
+      {
+        "site": "mal",
+        "id": "40578"
+      },
+      {
+        "site": "anidb",
+        "id": "15198"
+      },
+      {
+        "site": "aniList",
+        "id": "112658"
       }
     ]
   },
@@ -65,7 +161,40 @@
       {
         "site": "nicovideo",
         "id": "iyapan-anime2",
-        "begin": "2019-11-22T15:00:00.000Z"
+        "begin": "2019-11-22T15:00:00.000Z",
+        "broadcast": "R/2019-11-22T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2087"
+      },
+      {
+        "site": "unext",
+        "id": "SID0045281",
+        "begin": "2024-11-12T03:00:00.000Z",
+        "broadcast": "R/2024-11-12T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23193",
+        "begin": "2020-02-01T01:00:00.000Z",
+        "broadcast": "R/2020-02-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/80867/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "38163"
+      },
+      {
+        "site": "anidb",
+        "id": "14259"
+      },
+      {
+        "site": "aniList",
+        "id": "104979"
       }
     ]
   },
@@ -90,13 +219,53 @@
       {
         "site": "nicovideo",
         "id": "yuruyuri_ova",
-        "begin": "2019-12-12T15:00:00.000Z"
+        "begin": "2019-12-12T15:00:00.000Z",
+        "broadcast": "R/2019-12-12T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0044972",
+        "begin": "2019-12-13T03:00:00.000Z",
+        "broadcast": "R/2019-12-13T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2083"
+      },
+      {
+        "site": "danime",
+        "id": "24711",
+        "begin": "2021-05-01T01:00:00.000Z",
+        "broadcast": "R/2021-05-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/52891/season/0/episode/8"
+      },
+      {
+        "site": "mal",
+        "id": "37773"
+      },
+      {
+        "site": "aniList",
+        "id": "102090"
+      },
+      {
+        "site": "anidb",
+        "id": "14047"
       }
     ]
   },
   {
     "title": "映画 すみっコぐらし とびだす絵本とひみつのコ",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "角落小伙伴：魔法绘本里的新朋友"
+      ],
+      "zh-Hant": [
+        "劇場版 角落小夥伴 魔法繪本裡的新朋友"
+      ]
+    },
     "type": "movie",
     "lang": "ja",
     "officialSite": "http://sumikkogurashi-movie.com/",
@@ -111,7 +280,40 @@
       {
         "site": "nicovideo",
         "id": "sumikkogurashi-movie",
-        "begin": ""
+        "begin": "2020-04-07T15:00:00.000Z",
+        "broadcast": "R/2020-04-07T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0047096",
+        "begin": "2020-04-08T03:00:00.000Z",
+        "broadcast": "R/2020-04-08T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2174"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/636959"
+      },
+      {
+        "site": "danime",
+        "id": "24611",
+        "begin": "2025-11-21T15:00:00.000Z",
+        "broadcast": "R/2025-11-21T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "39250"
+      },
+      {
+        "site": "anidb",
+        "id": "14683"
+      },
+      {
+        "site": "aniList",
+        "id": "111905"
       }
     ]
   },
@@ -120,6 +322,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "Re：从零开始的异世界生活 冰结之绊"
+      ],
+      "zh-Hant": [
+        "Re：從零開始的異世界生活 冰結之絆"
       ]
     },
     "type": "ova",
@@ -136,7 +341,8 @@
       {
         "site": "nicovideo",
         "id": "re-zero-hyoketsu",
-        "begin": ""
+        "begin": "2020-06-11T15:00:00.000Z",
+        "broadcast": "R/2020-06-11T15:00:00.000Z/P7D"
       },
       {
         "site": "qq",
@@ -146,12 +352,67 @@
       {
         "site": "bilibili",
         "id": "28226009",
-        "begin": "2020-04-30T16:00:00.000Z"
+        "begin": "2020-04-30T16:00:00.000Z",
+        "broadcast": "R/2020-04-30T16:00:01.000Z/P7D"
       },
       {
         "site": "youku",
         "id": "eaaf65bbfbcd4537b533",
         "begin": "2020-07-07T03:34:04.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "104647",
+        "begin": "2020-08-25T09:00:00.000Z",
+        "broadcast": "R/2020-08-25T09:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28340506",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "25-146",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0047972",
+        "begin": "2020-06-12T03:00:00.000Z",
+        "broadcast": "R/2020-06-12T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "104647",
+        "begin": "2020-08-25T09:00:00.000Z",
+        "broadcast": "R/2020-08-25T09:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2225"
+      },
+      {
+        "site": "danime",
+        "id": "23980",
+        "begin": "2020-06-05T01:00:00.000Z",
+        "broadcast": "R/2020-06-05T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/566451"
+      },
+      {
+        "site": "mal",
+        "id": "38414"
+      },
+      {
+        "site": "prime",
+        "id": "B0GTSM19BX",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -176,7 +437,40 @@
       {
         "site": "bilibili",
         "id": "28228384",
-        "begin": "2020-03-18T16:00:00.000Z"
+        "begin": "2020-03-18T16:00:00.000Z",
+        "broadcast": "R/2020-03-20T10:56:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0056467",
+        "begin": "2021-03-26T03:00:00.000Z",
+        "broadcast": "R/2021-03-26T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2172"
+      },
+      {
+        "site": "danime",
+        "id": "25086",
+        "begin": "2021-09-30T01:00:00.000Z",
+        "broadcast": "R/2021-09-30T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/649826"
+      },
+      {
+        "site": "mal",
+        "id": "39931"
+      },
+      {
+        "site": "anidb",
+        "id": "14946"
+      },
+      {
+        "site": "aniList",
+        "id": "126876"
       }
     ]
   },
@@ -185,6 +479,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "虚构推理 迷你动画"
+      ],
+      "zh-Hant": [
+        "虛構推理 迷你動畫"
       ]
     },
     "type": "web",
@@ -207,6 +504,16 @@
         "site": "iqiyi",
         "id": "a_19rrhweb61",
         "begin": ""
+      },
+      {
+        "site": "muse_tw",
+        "id": "PL12UaAf_xzfrAmQ6gTcdQmXmsWtErmJlT",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/93653/season/0"
       }
     ]
   },
@@ -215,6 +522,13 @@
     "titleTranslate": {
       "zh-Hans": [
         "银河英雄传说 Die Neue These 星乱 第3章"
+      ],
+      "zh-Hant": [
+        "銀河英雄傳說 Die Neue These 星亂",
+        "銀河英雄傳說：全新命題 星亂"
+      ],
+      "en": [
+        "Legend of the Galactic Heroes: Die Neue These Second"
       ]
     },
     "type": "movie",
@@ -231,7 +545,44 @@
       {
         "site": "bilibili",
         "id": "28222724",
-        "begin": "2019-09-26T16:00:00.000Z"
+        "begin": "2019-09-26T16:00:00.000Z",
+        "broadcast": "R/2019-09-27T12:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28222814",
+        "begin": "2019-09-27T12:01:33.000Z",
+        "broadcast": "R/2019-09-27T12:01:33.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0049399",
+        "begin": "2020-07-15T03:00:00.000Z",
+        "broadcast": "R/2020-07-15T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "gineiden-dnt-seiran",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "24112",
+        "begin": "2020-07-15T03:00:00.000Z",
+        "broadcast": "R/2020-07-15T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/635684"
+      },
+      {
+        "site": "mal",
+        "id": "36371"
+      },
+      {
+        "site": "anidb",
+        "id": "13473"
       }
     ]
   },
@@ -240,6 +591,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "列比乌斯"
+      ],
+      "zh-Hant": [
+        "列比烏斯"
+      ],
+      "en": [
+        "Levius"
       ]
     },
     "type": "web",
@@ -256,7 +613,30 @@
       {
         "site": "bilibili",
         "id": "28229026",
-        "begin": "2020-05-27T16:00:00.000Z"
+        "begin": "2020-05-27T16:00:00.000Z",
+        "broadcast": "R/2020-05-28T10:06:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "80156799",
+        "begin": "2019-11-28T00:00:00.000Z",
+        "broadcast": "R/2019-11-28T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/93899"
+      },
+      {
+        "site": "mal",
+        "id": "39574"
+      },
+      {
+        "site": "anidb",
+        "id": "14784"
+      },
+      {
+        "site": "aniList",
+        "id": "108598"
       }
     ]
   },
@@ -264,7 +644,8 @@
     "title": "RWBY Volume 7",
     "titleTranslate": {
       "zh-Hans": [
-        "红白黑黄 第七季"
+        "红白黑黄 第七季",
+        "四色战记 / RWBY 第七季"
       ]
     },
     "type": "web",
@@ -277,6 +658,20 @@
       {
         "site": "bangumi",
         "id": "285936"
+      },
+      {
+        "site": "bilibili",
+        "id": "20143126",
+        "begin": "2023-03-30T10:00:01.000Z",
+        "broadcast": "R/2023-03-30T10:00:01.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2092"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/50137/season/7"
       }
     ]
   },
@@ -297,6 +692,276 @@
       {
         "site": "bangumi",
         "id": "291175"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1188098"
+      }
+    ]
+  },
+  {
+    "title": "恐竜少女ガウ子",
+    "titleTranslate": {
+      "zh-Hans": [
+        "恐龙女孩"
+      ],
+      "zh-Hant": [
+        "恐龍女孩"
+      ],
+      "en": [
+        "Dino Girl Gauko"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://www.gauko.com/",
+    "begin": "2019-11-21T16:00:00.000Z",
+    "end": "2019-11-21T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "302672"
+      },
+      {
+        "site": "netflix",
+        "id": "80216180",
+        "begin": "2019-11-22T00:00:00.000Z",
+        "broadcast": "R/2019-11-22T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/95579"
+      },
+      {
+        "site": "mal",
+        "id": "39849"
+      },
+      {
+        "site": "anidb",
+        "id": "14927"
+      },
+      {
+        "site": "aniList",
+        "id": "109639"
+      }
+    ]
+  },
+  {
+    "title": "HUMAN LOST 人間失格",
+    "titleTranslate": {
+      "zh-Hans": [
+        "HUMAN LOST 人间失格"
+      ],
+      "zh-Hant": [
+        "HUMAN LOST 人間失格"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://human-lost.jp/",
+    "begin": "2019-11-28T16:00:00.000Z",
+    "end": "2019-11-28T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "278768"
+      },
+      {
+        "site": "bilibili",
+        "id": "28234059",
+        "begin": "2021-03-26T12:00:01.000Z",
+        "broadcast": "R/2021-03-26T12:00:01.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0052136",
+        "begin": "2020-11-04T03:00:00.000Z",
+        "broadcast": "R/2020-11-04T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/593240"
+      },
+      {
+        "site": "mal",
+        "id": "39584"
+      },
+      {
+        "site": "anidb",
+        "id": "14787"
+      },
+      {
+        "site": "aniList",
+        "id": "108626"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 Gのレコンギスタ I 行け！コア・ファイター",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 高达G之复国运动 I 去吧！核心战机",
+        "剧场版 G之复国运动 I 去吧！核心战机"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.g-reco.net/1st/",
+    "begin": "2019-11-28T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2019-11-28T17:36:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "152365"
+      },
+      {
+        "site": "unext",
+        "id": "SID0044109",
+        "begin": "2019-11-29T03:00:00.000Z",
+        "broadcast": "R/2019-11-29T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "g-reco-movie1",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/648969"
+      },
+      {
+        "site": "danime",
+        "id": "25664",
+        "begin": "2025-12-19T15:00:00.000Z",
+        "broadcast": "R/2025-12-19T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "38714"
+      },
+      {
+        "site": "aniList",
+        "id": "105596"
+      },
+      {
+        "site": "anidb",
+        "id": "13108"
+      }
+    ]
+  },
+  {
+    "title": "ぼくたちは勉強ができない OVA",
+    "titleTranslate": {
+      "zh-Hans": [
+        "我们真的学不来 OVA"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2019-10-31T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2020-04-02T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "294059"
+      },
+      {
+        "site": "mikan",
+        "id": "2084"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/87432/season/0"
+      },
+      {
+        "site": "mal",
+        "id": "39819"
+      },
+      {
+        "site": "anidb",
+        "id": "14918"
+      },
+      {
+        "site": "aniList",
+        "id": "109492"
+      }
+    ]
+  },
+  {
+    "title": "ランウェイで笑って ミニアニメ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "请在T台上微笑 迷你动画",
+        "请在伸展台上微笑 迷你动画"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://twitter.com/runway_anime",
+    "begin": "2019-11-04T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2020-03-30T16:00:00.000Z",
+    "comment": "end may be wrong",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "302669"
+      },
+      {
+        "site": "danime",
+        "id": "23220",
+        "begin": "2020-01-24T01:00:00.000Z",
+        "broadcast": "R/2020-01-24T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/93688/season/0"
+      },
+      {
+        "site": "mal",
+        "id": "42487"
+      },
+      {
+        "site": "aniList",
+        "id": "116328"
+      }
+    ]
+  },
+  {
+    "title": "エンド・オブ・ザ・ワールド",
+    "titleTranslate": {
+      "zh-Hans": [
+        "世界终结"
+      ],
+      "zh-Hant": [
+        "世界之終結"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://anime.monster-strike.com/",
+    "begin": "2019-11-29T16:00:00.000Z",
+    "broadcast": "R/2019-11-29T16:00:00.000Z/P7D",
+    "end": "2019-12-30T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "294820"
+      },
+      {
+        "site": "youtube",
+        "id": "PL8anBnIT2pG5sNBrcD84RspD996nBiIj4",
+        "begin": "2019-11-29T16:00:00.000Z",
+        "broadcast": "R/2019-11-29T16:00:00.000Z/P7D"
       }
     ]
   }

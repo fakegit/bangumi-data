@@ -1,0 +1,1244 @@
+[
+  {
+    "title": "葬送のフリーレン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "葬送的芙莉莲"
+      ],
+      "zh-Hant": [
+        "葬送的芙莉蓮"
+      ],
+      "en": [
+        "Frieren: Beyond the Journey's End",
+        "Frieren: Beyond Journey's End"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://frieren-anime.jp/",
+    "begin": "2023-09-29T14:00:00.000Z",
+    "broadcast": "R/2023-09-29T14:00:00.000Z/P7D",
+    "end": "2024-03-22T15:15:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "400602"
+      },
+      {
+        "site": "netflix",
+        "id": "81726714",
+        "begin": "2023-09-28T16:00:00.000Z",
+        "broadcast": "R/2023-09-28T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "viu",
+        "id": "2247874",
+        "begin": "2023-09-28T16:00:00.000Z",
+        "broadcast": "R/2023-09-28T16:00:00.000Z/P7D",
+        "comment": "粵語版: 2262136"
+      },
+      {
+        "site": "gamer",
+        "id": "127137",
+        "begin": "2023-09-29T14:30:00.000Z",
+        "broadcast": "R/2023-09-29T14:30:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "21087073",
+        "begin": "2023-10-24T12:00:01.000Z",
+        "broadcast": "R/2023-10-24T12:00:01.000Z/P7D",
+        "comment": "中配版: 26650111"
+      },
+      {
+        "site": "abema",
+        "id": "19-171",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0091754",
+        "begin": "2023-09-29T15:00:00.000Z",
+        "broadcast": "R/2023-09-29T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "1rlaH8IM0pkQ",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer_hk",
+        "id": "127137",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "dmhy",
+        "id": "葬送"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "65186f864c90aa63daeaa22b"
+      },
+      {
+        "site": "mikan",
+        "id": "3141"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GG5H5XQX4",
+        "begin": "2023-09-29T12:00:00.000Z",
+        "broadcast": "R/2023-09-29T12:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26609",
+        "begin": "2023-09-29T15:00:00.000Z",
+        "broadcast": "R/2023-09-29T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0CJRFZ6JD",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UchK0q9OZI8AlRs8MusD5gAr",
+        "begin": "2024-08-06T13:30:06.000Z",
+        "broadcast": "R/2024-08-06T13:30:06.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/209867"
+      },
+      {
+        "site": "nicovideo",
+        "id": "frieren-anime",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mal",
+        "id": "52991"
+      },
+      {
+        "site": "anidb",
+        "id": "17617"
+      },
+      {
+        "site": "aniList",
+        "id": "154587"
+      },
+      {
+        "site": "muse_tw",
+        "id": "PLBfXfKRiIs1A",
+        "begin": "2023-09-29T14:30:10.000Z",
+        "broadcast": "R/2023-09-29T14:30:10.000Z/P7D",
+        "comment": "國語: PLLx6IBB_YSpA"
+      },
+      {
+        "site": "acgnx",
+        "id": "芙莉蓮"
+      }
+    ]
+  },
+  {
+    "title": "五等分の花嫁∽",
+    "titleTranslate": {
+      "zh-Hans": [
+        "五等分的新娘∽",
+        "五等分的新娘∽特別篇"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.tbs.co.jp/anime/5hanayome",
+    "begin": "2023-09-01T16:00:00.000Z",
+    "end": "2023-09-09T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "427233"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "20344514",
+        "begin": "2023-09-02T09:30:01.000Z",
+        "broadcast": "R/2023-09-02T09:30:01.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "5hanayome3",
+        "begin": "2023-09-10T15:00:00.000Z",
+        "broadcast": "R/2023-09-10T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0091852",
+        "begin": "2023-09-10T15:00:00.000Z",
+        "broadcast": "R/2023-09-10T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3137"
+      },
+      {
+        "site": "danime",
+        "id": "26577",
+        "begin": "2023-09-10T15:00:00.000Z",
+        "broadcast": "R/2023-09-10T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0CGZ5MCNL",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1153706"
+      },
+      {
+        "site": "mal",
+        "id": "54915"
+      },
+      {
+        "site": "anidb",
+        "id": "17968"
+      },
+      {
+        "site": "aniList",
+        "id": "163327"
+      }
+    ]
+  },
+  {
+    "title": "火の鳥 エデンの宙",
+    "titleTranslate": {
+      "zh-Hans": [
+        "火鸟 伊甸之宙",
+        "火鸟：伊甸17号"
+      ],
+      "zh-Hant": [
+        "火之鳥：伊甸17"
+      ],
+      "en": [
+        "Phoenix: Eden17"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2023-09-12T16:00:00.000Z",
+    "end": "2023-09-12T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "409350"
+      },
+      {
+        "site": "disneyplus",
+        "id": "6gAZqfKsde3I",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mikan",
+        "id": "3142"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/215402"
+      },
+      {
+        "site": "mal",
+        "id": "53720"
+      },
+      {
+        "site": "anidb",
+        "id": "17743"
+      },
+      {
+        "site": "aniList",
+        "id": "157957"
+      }
+    ]
+  },
+  {
+    "title": "Castlevania: Nocturne",
+    "titleTranslate": {
+      "zh-Hans": [
+        "恶魔城：夜曲"
+      ],
+      "zh-Hant": [
+        "惡魔城：夜曲"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2023-09-27T16:00:00.000Z",
+    "end": "2023-09-27T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "386947"
+      },
+      {
+        "site": "netflix",
+        "id": "81436901",
+        "begin": "2023-09-27T16:00:00.000Z",
+        "broadcast": "R/2023-09-27T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/123548"
+      }
+    ]
+  },
+  {
+    "title": "め組の大吾 救国のオレンジ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "特搜组大吾 救国的橘色部队",
+        "消防员的故事 救国的橘色部队",
+        "烈焰先鋒 救國的橘衣消防員",
+        "特搜组大吾：救国的橘色部队"
+      ],
+      "zh-Hant": [
+        "烈焰先鋒 救國的橘衣消防員",
+        "烈焰先鋒：救國的橘衣消防員"
+      ],
+      "en": [
+        "Firefighter Daigo: Rescuer in Orange"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://meguminodaigo.com/",
+    "begin": "2023-09-30T08:30:00.000Z",
+    "broadcast": "R/2023-09-30T08:30:00.000Z/P7D",
+    "end": "2024-03-23T09:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "411106"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtTjVYhqX-2qoDgcc2Lrpruv",
+        "begin": "2023-09-30T09:00:00.000Z",
+        "broadcast": "R/2023-09-30T10:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JjUyg2zOamli_yuodl2aQFO",
+        "begin": "2023-09-30T09:00:00.000Z",
+        "broadcast": "R/2023-09-30T10:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "129253",
+        "begin": "2023-09-30T10:00:00.000Z",
+        "broadcast": "R/2023-09-30T10:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "meguminodaigo",
+        "begin": "2023-10-03T15:00:00.000Z",
+        "broadcast": "R/2023-10-03T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0091706",
+        "begin": "2023-10-03T15:00:00.000Z",
+        "broadcast": "R/2023-10-03T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "129253",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "dmhy",
+        "id": "救國 橘"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "65186f894c90aa63daeaa23b"
+      },
+      {
+        "site": "mikan",
+        "id": "3192"
+      },
+      {
+        "site": "netflix",
+        "id": "81902696",
+        "begin": "2024-08-13T16:00:00.000Z",
+        "broadcast": "R/2024-08-13T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26597",
+        "begin": "2023-10-03T15:00:00.000Z",
+        "broadcast": "R/2023-10-03T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0CJQFQH5K",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/223780"
+      },
+      {
+        "site": "mal",
+        "id": "53848"
+      },
+      {
+        "site": "anidb",
+        "id": "17771"
+      },
+      {
+        "site": "aniList",
+        "id": "158791"
+      },
+      {
+        "site": "acgnx",
+        "id": "特搜組 大吾"
+      }
+    ]
+  },
+  {
+    "title": "チキップダンサーズ(第3期)",
+    "titleTranslate": {
+      "zh-Hans": [
+        "小鸡舞者 第三季"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.san-x.co.jp/chickipdancers/anime/",
+    "begin": "2023-09-24T23:45:00.000Z",
+    "broadcast": "R/2023-09-24T23:45:00.000Z/P7D",
+    "end": "2023-12-18T23:45:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "451858"
+      },
+      {
+        "site": "unext",
+        "id": "SID0093576",
+        "begin": "2023-10-01T03:00:00.000Z",
+        "broadcast": "R/2023-10-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "65186f784c90aa63daeaa1e5"
+      },
+      {
+        "site": "danime",
+        "id": "26634",
+        "begin": "2023-10-01T03:00:00.000Z",
+        "broadcast": "R/2023-10-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/132227/season/3"
+      },
+      {
+        "site": "mal",
+        "id": "56504"
+      },
+      {
+        "site": "anidb",
+        "id": "18151"
+      },
+      {
+        "site": "aniList",
+        "id": "170660"
+      },
+      {
+        "site": "acgnx",
+        "id": "Chickip Dancers"
+      },
+      {
+        "site": "dmhy",
+        "id": "Chickip Dancers"
+      }
+    ]
+  },
+  {
+    "title": "お嬢と番犬くん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "大小姐和看门犬",
+        "大小姐与看门狗"
+      ],
+      "zh-Hant": [
+        "大小姐和看門犬"
+      ],
+      "en": [
+        "A Girl and Her Guard Dog",
+        "A Girl & Her Guard Dog"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://ojoutobankenkun.com/",
+    "begin": "2023-09-28T16:05:00.000Z",
+    "broadcast": "R/2023-09-28T16:05:00.000Z/P7D",
+    "end": "2023-12-21T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "403631"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLByk2mUIcR5c",
+        "url": "https://www.youtube.com/show/VLPLByk2mUIcR5c?season=1&sbp=CgExGgBAAUoNUFNIX1phNGttUkZfTQ%253D%253D",
+        "begin": "2023-09-28T16:30:00.000Z",
+        "broadcast": "R/2023-09-28T16:30:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLVO2jFuoKbRw",
+        "url": "https://www.youtube.com/show/VLPLVO2jFuoKbRw?season=1&sbp=CgExGgBAAUoNUFNJZVVBeU1PMU1Ycw%253D%253D",
+        "begin": "2023-09-28T16:30:00.000Z",
+        "broadcast": "R/2023-09-28T16:30:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "127917",
+        "begin": "2023-09-28T17:05:00.000Z",
+        "broadcast": "R/2023-09-28T17:05:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ojoutobankenkun",
+        "begin": "2023-10-11T15:00:00.000Z",
+        "broadcast": "R/2023-10-11T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0091709",
+        "begin": "2023-10-11T15:00:00.000Z",
+        "broadcast": "R/2023-10-11T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81736254",
+        "begin": "2024-01-30T16:00:00.000Z",
+        "broadcast": "R/2024-01-30T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "127917",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "65186f834c90aa63daeaa21d"
+      },
+      {
+        "site": "mikan",
+        "id": "3139"
+      },
+      {
+        "site": "danime",
+        "id": "27193",
+        "begin": "2024-06-30T15:00:00.000Z",
+        "broadcast": "R/2024-06-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0CJRF67LM",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GW4HM7W7Q",
+        "begin": "2023-09-28T15:30:00.000Z",
+        "broadcast": "R/2023-09-28T15:30:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/212053"
+      },
+      {
+        "site": "mal",
+        "id": "53300"
+      },
+      {
+        "site": "anidb",
+        "id": "17666"
+      },
+      {
+        "site": "aniList",
+        "id": "155527"
+      },
+      {
+        "site": "acgnx",
+        "id": "大小姐 看門狗"
+      },
+      {
+        "site": "dmhy",
+        "id": "大小姐 看門狗"
+      },
+      {
+        "site": "abema",
+        "id": "189-64",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "ラグナクリムゾン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "狩龙人拉格纳"
+      ],
+      "zh-Hant": [
+        "狩龍人拉格納",
+        "克拉龍人拉格納"
+      ],
+      "en": [
+        "Ragna Crimson"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://ragna-crimson.com/",
+    "begin": "2023-09-30T16:00:00.000Z",
+    "broadcast": "R/2023-09-30T16:00:00.000Z/P7D",
+    "end": "2024-03-30T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "374648"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UchB7DtUZ4MPpaTmr_ZkgpV1",
+        "begin": "2023-09-30T16:00:00.000Z",
+        "broadcast": "R/2023-09-30T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "123490",
+        "begin": "2023-09-30T16:30:00.000Z",
+        "broadcast": "R/2023-09-30T16:30:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "21087176",
+        "begin": "2023-09-30T16:30:01.000Z",
+        "broadcast": "R/2023-09-30T16:30:01.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ragna-crimson",
+        "begin": "2023-10-05T15:00:00.000Z",
+        "broadcast": "R/2023-10-05T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0093574",
+        "begin": "2023-09-30T15:00:00.000Z",
+        "broadcast": "R/2023-09-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "65186f8e4c90aa63daeaa253"
+      },
+      {
+        "site": "mikan",
+        "id": "3193"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "123490",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "26616",
+        "begin": "2023-09-30T15:00:00.000Z",
+        "broadcast": "R/2023-09-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "muse_tw",
+        "id": "PL12UaAf_xzfp_uOtg2M8yHR8P6sTzN0ot",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "prime",
+        "id": "B0CBYC8TYH",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/195459"
+      },
+      {
+        "site": "mal",
+        "id": "51297"
+      },
+      {
+        "site": "anidb",
+        "id": "17263"
+      },
+      {
+        "site": "aniList",
+        "id": "146493"
+      },
+      {
+        "site": "acgnx",
+        "id": "狩龍人"
+      },
+      {
+        "site": "dmhy",
+        "id": "狩龍人"
+      }
+    ]
+  },
+  {
+    "title": "MFゴースト",
+    "titleTranslate": {
+      "zh-Hans": [
+        "极速车魂",
+        "燃油車鬥魂"
+      ],
+      "zh-Hant": [
+        "燃油車鬥魂",
+        "MF GHOST 燃油車鬥魂"
+      ],
+      "en": [
+        "MF GHOST"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://mfg-anime.com/",
+    "begin": "2023-09-30T14:00:00.000Z",
+    "broadcast": "R/2023-09-30T14:00:00.000Z/P7D",
+    "end": "2023-12-17T15:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "364252"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtQFJtzY7g5s5M1AZMF5qE9o",
+        "begin": "2023-09-30T16:00:00.000Z",
+        "broadcast": "R/2023-09-30T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7Jh4asVGiKSeBUV-E0JucCRv",
+        "begin": "2023-09-30T16:00:00.000Z",
+        "broadcast": "R/2023-09-30T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "mytv",
+        "id": "mfghost_139624",
+        "begin": "2023-09-30T15:00:00.000Z",
+        "broadcast": "R/2023-09-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "121227",
+        "begin": "2023-09-30T15:00:00.000Z",
+        "broadcast": "R/2023-09-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "168-53",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0091745",
+        "begin": "2023-10-07T15:30:00.000Z",
+        "broadcast": "R/2023-10-07T15:30:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81715444",
+        "begin": "2024-01-30T16:00:00.000Z",
+        "broadcast": "R/2024-01-30T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "121227",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "dmhy",
+        "id": "MF GHOST"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "65186f764c90aa63daeaa1e1"
+      },
+      {
+        "site": "mikan",
+        "id": "3194"
+      },
+      {
+        "site": "bilibili",
+        "id": "21775256",
+        "begin": "2024-05-24T10:00:00.000Z",
+        "broadcast": "R/2024-05-24T10:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "mfg-anime",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "26645",
+        "begin": "2023-10-06T15:30:00.000Z",
+        "broadcast": "R/2023-10-06T15:30:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0CHLDYKTY",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/154526"
+      },
+      {
+        "site": "disneyplus",
+        "id": "4RjkhBlw98oi",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mal",
+        "id": "50695"
+      },
+      {
+        "site": "anidb",
+        "id": "17094"
+      },
+      {
+        "site": "aniList",
+        "id": "143327"
+      },
+      {
+        "site": "acgnx",
+        "id": "MF GHOST"
+      }
+    ]
+  },
+  {
+    "title": "冒険者になりたいと都に出て行った娘がSランクになってた",
+    "titleTranslate": {
+      "en": [
+        "My Daughter Left the Nest and Returned an S-Rank Adventurer"
+      ],
+      "zh-Hans": [
+        "因想当冒险者而前往大都市的女儿已经升到了S级",
+        "想當冒險者前往都市的女兒成為 S 級",
+        "想当冒险者的女儿到首都当了等级S的冒险者",
+        "冒险者女儿到大都市当了S级冒险者"
+      ],
+      "zh-Hant": [
+        "想當冒險者前往都市的女兒成為 S 級",
+        "想當冒險者前往都市的女兒成為S級"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://s-rank-musume.com/",
+    "begin": "2023-09-28T14:00:00.000Z",
+    "broadcast": "R/2023-09-28T14:00:00.000Z/P7D",
+    "end": "2023-12-21T14:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "406736"
+      },
+      {
+        "site": "gamer",
+        "id": "133419",
+        "begin": "2023-09-28T15:00:00.000Z",
+        "broadcast": "R/2023-09-28T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "21086382",
+        "begin": "2023-11-02T14:00:00.000Z",
+        "broadcast": "R/2023-11-02T14:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "21093439",
+        "begin": "2023-09-28T14:00:01.000Z",
+        "broadcast": "R/2023-09-28T14:00:01.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "11-53",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0091737",
+        "begin": "2023-10-05T16:35:00.000Z",
+        "broadcast": "R/2023-10-05T16:35:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "65186f814c90aa63daeaa217"
+      },
+      {
+        "site": "mikan",
+        "id": "3140"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "G5PHNM9M5",
+        "begin": "2023-09-28T13:45:00.000Z",
+        "broadcast": "R/2023-09-28T13:45:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "27569",
+        "begin": "2025-01-10T15:00:00.000Z",
+        "broadcast": "R/2025-01-10T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81990516",
+        "begin": "2025-06-18T16:00:00.000Z",
+        "broadcast": "R/2025-06-18T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/229609"
+      },
+      {
+        "site": "mal",
+        "id": "53494"
+      },
+      {
+        "site": "anidb",
+        "id": "17695"
+      },
+      {
+        "site": "aniList",
+        "id": "156184"
+      },
+      {
+        "site": "acgnx",
+        "id": "冒險者 女兒"
+      },
+      {
+        "site": "dmhy",
+        "id": "冒險者 女兒"
+      }
+    ]
+  },
+  {
+    "title": "アリスとテレスのまぼろし工場",
+    "titleTranslate": {
+      "zh-Hans": [
+        "爱丽丝和特蕾丝的幻影工厂",
+        "爱丽丝与特蕾斯的梦幻工厂",
+        "maboroshi：爱丽丝和特蕾丝的梦幻工厂"
+      ],
+      "zh-Hant": [
+        "愛麗絲與特蕾絲的虛幻工廠",
+        "maboroshi：愛麗絲與特蕾絲的虛幻工廠"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://maboroshi.movie/",
+    "begin": "2023-09-14T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-09-14T17:50:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "340167"
+      },
+      {
+        "site": "netflix",
+        "id": "81450803",
+        "begin": "2024-01-14T16:00:00.000Z",
+        "broadcast": "R/2024-01-14T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3275"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/845387"
+      },
+      {
+        "site": "mal",
+        "id": "49303"
+      },
+      {
+        "site": "anidb",
+        "id": "16408"
+      },
+      {
+        "site": "aniList",
+        "id": "136149"
+      }
+    ]
+  },
+  {
+    "title": "映画 プリキュアオールスターズF",
+    "titleTranslate": {
+      "zh-Hans": [
+        "电影 光之美少女 All Stars F",
+        "光之美少女群星F",
+        "光之美少女全明星F"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://2023allstars-f.precure-movie.com/",
+    "begin": "2023-09-14T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-09-14T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "422699"
+      },
+      {
+        "site": "unext",
+        "id": "SID0101001",
+        "begin": "2024-04-23T15:00:00.000Z",
+        "broadcast": "R/2024-04-23T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "130694",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "27258",
+        "begin": "2024-08-31T15:00:00.000Z",
+        "broadcast": "R/2024-08-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1094448"
+      },
+      {
+        "site": "mal",
+        "id": "54650"
+      },
+      {
+        "site": "anidb",
+        "id": "17890"
+      },
+      {
+        "site": "aniList",
+        "id": "159429"
+      }
+    ]
+  },
+  {
+    "title": "劇場版シティーハンター 天使の涙",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 城市猎人 天使之泪"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://cityhunter-movie.com/",
+    "begin": "2023-09-07T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-09-07T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "377649"
+      },
+      {
+        "site": "nicovideo",
+        "id": "cityhunter-movie",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0166431",
+        "begin": "2025-02-13T15:00:00.000Z",
+        "broadcast": "R/2025-02-13T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "27683",
+        "begin": "2025-02-13T15:00:00.000Z",
+        "broadcast": "R/2025-02-13T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1056133"
+      },
+      {
+        "site": "mal",
+        "id": "51585"
+      },
+      {
+        "site": "aniList",
+        "id": "147189"
+      },
+      {
+        "site": "anidb",
+        "id": "17310"
+      }
+    ]
+  },
+  {
+    "title": "放課後のブレス",
+    "titleTranslate": {
+      "zh-Hans": [
+        "帕底亚的课后时光"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://www.pokemon.co.jp/ex/sv/ja/sp_anime/",
+    "begin": "2023-09-05T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-12-12T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "449459"
+      },
+      {
+        "site": "abema",
+        "id": "2-41",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mal",
+        "id": "56218"
+      },
+      {
+        "site": "aniList",
+        "id": "168092"
+      },
+      {
+        "site": "anidb",
+        "id": "18152"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/232214"
+      },
+      {
+        "site": "danime",
+        "id": "28744",
+        "begin": "2026-03-19T15:00:00.000Z",
+        "broadcast": "R/2026-03-19T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0308433",
+        "begin": "2026-07-22T03:00:00.000Z",
+        "broadcast": "R/2026-07-22T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "GAMERA -Rebirth-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "大怪兽加美拉：重生",
+        "加美拉 -复活-"
+      ],
+      "zh-Hant": [
+        "大怪獸卡美拉：重生"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://gamera-rebirth.com/",
+    "begin": "2023-09-06T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-09-06T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "418289"
+      },
+      {
+        "site": "netflix",
+        "id": "81087387",
+        "begin": "2023-09-06T16:00:00.000Z",
+        "broadcast": "R/2023-09-06T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "53627"
+      },
+      {
+        "site": "aniList",
+        "id": "160831"
+      },
+      {
+        "site": "anidb",
+        "id": "17841"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/214592"
+      }
+    ]
+  }
+]

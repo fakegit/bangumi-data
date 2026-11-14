@@ -6,7 +6,8 @@
         "ROBOT GIRLS Z +"
       ],
       "zh-Hans": [
-        "机器人少女Z+"
+        "机器人少女Z+",
+        "机器人少女Z PLUS"
       ]
     },
     "type": "web",
@@ -27,12 +28,35 @@
       {
         "site": "bilibili",
         "id": "3802",
-        "begin": "2015-05-19T16:00:01.000Z"
+        "begin": "2015-05-19T16:00:01.000Z",
+        "broadcast": "R/2016-04-20T02:39:00.000Z/P7D"
       },
       {
         "site": "youku",
         "id": "36f31c16d50b11e49e2a",
         "begin": "2016-06-28T10:14:31.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0085323",
+        "begin": "2023-05-03T03:00:00.000Z",
+        "broadcast": "R/2023-05-03T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/71465/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "29035"
+      },
+      {
+        "site": "anidb",
+        "id": "10999"
+      },
+      {
+        "site": "aniList",
+        "id": "20998"
       }
     ]
   },
@@ -41,6 +65,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "Code Geass 亡国的阿基德 第三章「辉芒陨落」"
+      ],
+      "en": [
+        "Code Geass - Akito the Exiled EPISODE 3: The Brightness Falls"
       ]
     },
     "type": "movie",
@@ -50,19 +77,9 @@
     "end": "2015-05-02T17:00:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "otmjIYnvX50AfuY",
-        "begin": ""
-      },
-      {
         "site": "iqiyi",
         "id": "a_19rrh9mhz9",
         "begin": "2016-08-31T16:02:16.000Z"
-      },
-      {
-        "site": "letv",
-        "id": "82177",
-        "begin": ""
       },
       {
         "site": "bangumi",
@@ -71,7 +88,42 @@
       {
         "site": "bilibili",
         "id": "1659",
-        "begin": "2012-08-03T16:00:00.000Z"
+        "begin": "2012-08-03T16:00:00.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0013602",
+        "begin": "2015-03-19T15:00:00.000Z",
+        "broadcast": "R/2015-03-19T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "55103d0c1fe5c31a190a06ca"
+      },
+      {
+        "site": "danime",
+        "id": "21965",
+        "begin": "2024-01-31T15:00:00.000Z",
+        "broadcast": "R/2024-01-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/347200"
+      },
+      {
+        "site": "mal",
+        "id": "15199"
+      },
+      {
+        "site": "aniList",
+        "id": "15199"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GRP585ZQR",
+        "begin": "2021-08-05T06:59:00.000Z",
+        "broadcast": "R/2021-08-05T06:59:00.000Z/P7D"
       }
     ]
   },
@@ -89,11 +141,6 @@
     "end": "2015-05-30T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "PwnjYckvn91AviaY",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "126581"
       },
@@ -101,6 +148,18 @@
         "site": "youku",
         "id": "584d7d9655fa11e5b692",
         "begin": "2016-06-02T08:23:03.000Z"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/42410/season/0/episode/3"
+      },
+      {
+        "site": "mal",
+        "id": "30191"
+      },
+      {
+        "site": "aniList",
+        "id": "21068"
       }
     ]
   },
@@ -120,11 +179,6 @@
     "end": "2015-05-16T16:00:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "Aia0Hhe1TwwFk4ko",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "120700"
       },
@@ -136,12 +190,41 @@
       {
         "site": "bilibili",
         "id": "2648",
-        "begin": "2015-05-15T16:00:00.000Z"
+        "begin": "2015-05-15T16:00:00.000Z",
+        "broadcast": "R/2015-08-02T10:15:00.000Z/P7D"
       },
       {
         "site": "youku",
         "id": "c201251cf9d911e4abda",
         "begin": "2016-06-28T10:14:32.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0044767",
+        "begin": "2019-11-30T03:00:00.000Z",
+        "broadcast": "R/2019-11-30T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23611",
+        "begin": "2020-03-13T01:00:00.000Z",
+        "broadcast": "R/2020-03-13T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/312966"
+      },
+      {
+        "site": "mal",
+        "id": "28957"
+      },
+      {
+        "site": "anidb",
+        "id": "10991"
+      },
+      {
+        "site": "aniList",
+        "id": "21008"
       }
     ]
   },
@@ -170,7 +253,24 @@
       {
         "site": "bilibili",
         "id": "5866",
-        "begin": "2015-05-22T16:00:01.000Z"
+        "begin": "2015-05-22T16:00:01.000Z",
+        "broadcast": "R/2017-01-08T05:34:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0020403",
+        "begin": "2019-11-30T03:00:00.000Z",
+        "broadcast": "R/2019-11-30T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "22027",
+        "begin": "2018-03-16T01:00:00.000Z",
+        "broadcast": "R/2018-03-16T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/763801"
       }
     ]
   },
@@ -192,19 +292,45 @@
         "id": "111760"
       },
       {
-        "site": "pptv",
-        "id": "cOzIRq4UhMIlows",
-        "begin": ""
-      },
-      {
         "site": "bilibili",
         "id": "3839",
-        "begin": "2015-05-22T16:00:01.000Z"
+        "begin": "2015-05-22T16:00:01.000Z",
+        "broadcast": "R/2021-05-16T10:00:05.000Z/P7D"
       },
       {
         "site": "youku",
         "id": "6ee503b6004711e5b692",
         "begin": "2016-06-09T03:54:36.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0020410",
+        "begin": "2023-04-01T03:00:00.000Z",
+        "broadcast": "R/2023-04-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "24236",
+        "begin": "2023-04-01T01:00:00.000Z",
+        "broadcast": "R/2023-04-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B099WMQM87",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/321487"
+      },
+      {
+        "site": "mal",
+        "id": "28881"
+      },
+      {
+        "site": "aniList",
+        "id": "20990"
       }
     ]
   },
@@ -226,14 +352,44 @@
         "id": "109869"
       },
       {
-        "site": "pptv",
-        "id": "QOjEQqoQgL4hnwc",
-        "begin": ""
-      },
-      {
         "site": "bilibili",
         "id": "2800",
-        "begin": "2015-05-07T16:00:00.000Z"
+        "begin": "2015-05-07T16:00:00.000Z",
+        "broadcast": "R/2015-05-01T05:48:50.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0026142",
+        "begin": "2016-08-11T03:00:00.000Z",
+        "broadcast": "R/2016-08-11T03:00:00.000Z/P7D",
+        "comment": "第2部 響-ひびき-: SID0026143, 第3部 憧-あこがれ-: SID0026144, 第4部 朝-あした-: SID0026145"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "551378971fe5c31a190a0724"
+      },
+      {
+        "site": "danime",
+        "id": "21058",
+        "begin": "2016-08-19T01:00:00.000Z",
+        "broadcast": "R/2016-08-19T01:00:00.000Z/P7D",
+        "comment": "第2部 響-ひびき-: 21059, 第3部 憧-あこがれ-: 21060, 第4部 朝-あした-: 21061"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/342126"
+      },
+      {
+        "site": "mal",
+        "id": "25729"
+      },
+      {
+        "site": "aniList",
+        "id": "20805"
+      },
+      {
+        "site": "anidb",
+        "id": "10767"
       }
     ]
   },
@@ -255,19 +411,31 @@
         "id": "115980"
       },
       {
-        "site": "pptv",
-        "id": "nrKeHITqWpj7eeE",
-        "begin": ""
-      },
-      {
         "site": "bilibili",
         "id": "3423",
-        "begin": "2015-05-14T16:00:01.000Z"
+        "begin": "2015-05-14T16:00:01.000Z",
+        "broadcast": "R/2016-03-14T03:18:00.000Z/P7D"
       },
       {
         "site": "youku",
         "id": "978eea7a1cad11e5b432",
         "begin": "2016-06-28T10:14:32.000Z"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/61663/season/0"
+      },
+      {
+        "site": "mal",
+        "id": "28069"
+      },
+      {
+        "site": "anidb",
+        "id": "10892"
+      },
+      {
+        "site": "aniList",
+        "id": "21039"
       }
     ]
   },
@@ -292,14 +460,31 @@
         "id": "102774"
       },
       {
-        "site": "netflix",
-        "id": "80075828",
-        "begin": "2017-10-01T07:00:00.000Z"
-      },
-      {
         "site": "youku",
         "id": "77c646bc08d411e5b5ce",
         "begin": "2015-11-25T15:57:22.000Z"
+      },
+      {
+        "site": "danime",
+        "id": "24188",
+        "begin": "2024-01-31T15:00:00.000Z",
+        "broadcast": "R/2024-01-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/267970"
+      },
+      {
+        "site": "mal",
+        "id": "23987"
+      },
+      {
+        "site": "anidb",
+        "id": "10611"
+      },
+      {
+        "site": "aniList",
+        "id": "20709"
       }
     ]
   },
@@ -328,7 +513,81 @@
       {
         "site": "bilibili",
         "id": "2941",
-        "begin": "2015-05-29T16:00:00.000Z"
+        "begin": "2015-05-29T16:00:00.000Z",
+        "broadcast": "R/2015-11-02T08:39:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0017894",
+        "begin": "2015-12-25T03:00:00.000Z",
+        "broadcast": "R/2015-12-25T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "20522",
+        "begin": "2015-12-25T03:00:00.000Z",
+        "broadcast": "R/2015-12-25T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/45254/season/0/episode/3"
+      },
+      {
+        "site": "abema",
+        "id": "174-4",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mal",
+        "id": "26023"
+      },
+      {
+        "site": "anidb",
+        "id": "10803"
+      },
+      {
+        "site": "aniList",
+        "id": "20824"
+      },
+      {
+        "site": "acgnx",
+        "id": "奈亚子F"
+      },
+      {
+        "site": "dmhy",
+        "id": "奈亚子F"
+      }
+    ]
+  },
+  {
+    "title": "出番ですよ!オニギリズ",
+    "titleTranslate": {},
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2015-05-28T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2015-05-28T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "330864"
+      },
+      {
+        "site": "unext",
+        "id": "SID0190604",
+        "begin": "2025-06-01T03:00:00.000Z",
+        "broadcast": "R/2025-06-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "30893"
+      },
+      {
+        "site": "anidb",
+        "id": "11636"
       }
     ]
   }

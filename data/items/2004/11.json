@@ -13,18 +13,30 @@
     "end": "2005-02-03T14:00:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "Yc24Np4EdLIVkics",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "22405"
       },
       {
         "site": "bilibili",
         "id": "1878",
-        "begin": "2004-11-03T16:00:00.000Z"
+        "begin": "2004-11-03T16:00:00.000Z",
+        "broadcast": "R/2010-12-31T16:10:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/34662"
+      },
+      {
+        "site": "mal",
+        "id": "336"
+      },
+      {
+        "site": "anidb",
+        "id": "2599"
+      },
+      {
+        "site": "aniList",
+        "id": "336"
       }
     ]
   },
@@ -42,11 +54,6 @@
     "end": "2004-11-20T17:30:00.000Z",
     "sites": [
       {
-        "site": "letv",
-        "id": "87679",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "1707"
       },
@@ -54,6 +61,46 @@
         "site": "nicovideo",
         "id": "kumonomukou",
         "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "2545",
+        "begin": "2015-06-24T10:38:00.000Z",
+        "broadcast": "R/2015-06-24T10:38:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0013612",
+        "begin": "2015-05-01T05:15:00.000Z",
+        "broadcast": "R/2015-05-01T05:15:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10676",
+        "begin": "2012-12-03T03:00:00.000Z",
+        "broadcast": "R/2012-12-03T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0B8KX65SN",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/12924"
+      },
+      {
+        "site": "mal",
+        "id": "433"
+      },
+      {
+        "site": "anidb",
+        "id": "469"
+      },
+      {
+        "site": "aniList",
+        "id": "433"
       }
     ]
   },
@@ -63,6 +110,9 @@
       "zh-Hans": [
         "棒球大联盟 第一季",
         "棒球大联盟 第1季"
+      ],
+      "zh-Hant": [
+        "棒球大聯盟"
       ]
     },
     "type": "tv",
@@ -72,11 +122,6 @@
     "end": "2005-05-21T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "IQ34dt5EtPJV0zs",
-        "begin": ""
-      },
-      {
         "site": "iqiyi",
         "id": "a_19rrhc067l",
         "begin": "2014-11-07T07:19:01.000Z"
@@ -84,6 +129,54 @@
       {
         "site": "bangumi",
         "id": "2885"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002339",
+        "begin": "2023-03-07T15:00:00.000Z",
+        "broadcast": "R/2023-03-07T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26755",
+        "begin": "2024-01-14T15:00:00.000Z",
+        "broadcast": "R/2024-01-14T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "18778",
+        "begin": "2021-05-19T05:00:00.000Z",
+        "broadcast": "R/2021-05-19T05:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "2-2bxddsdhdiw",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/29602"
+      },
+      {
+        "site": "mal",
+        "id": "627"
+      },
+      {
+        "site": "anidb",
+        "id": "2168"
+      },
+      {
+        "site": "aniList",
+        "id": "627"
+      },
+      {
+        "site": "acgnx",
+        "id": "棒球大聯盟"
+      },
+      {
+        "site": "dmhy",
+        "id": "棒球大聯盟"
       }
     ]
   },
@@ -92,6 +185,13 @@
     "titleTranslate": {
       "zh-Hans": [
         "哈尔的移动城堡"
+      ],
+      "zh-Hant": [
+        "霍爾的移動城堡",
+        "哈爾移動城堡"
+      ],
+      "en": [
+        "Howl’s Moving Castle"
       ]
     },
     "type": "movie",
@@ -108,6 +208,34 @@
       {
         "site": "bangumi",
         "id": "312"
+      },
+      {
+        "site": "netflix",
+        "id": "70028883",
+        "begin": "2020-03-30T16:00:00.000Z",
+        "broadcast": "R/2020-03-30T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "28340776",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/4935"
+      },
+      {
+        "site": "mal",
+        "id": "431"
+      },
+      {
+        "site": "anidb",
+        "id": "1218"
+      },
+      {
+        "site": "aniList",
+        "id": "431"
       }
     ]
   },
@@ -125,11 +253,6 @@
     "end": "2006-02-24T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "WZVv7VW7K2nMSrI",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "2695"
       },
@@ -137,6 +260,34 @@
         "site": "nicovideo",
         "id": "ova-top",
         "begin": "2016-07-06T06:00:00.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003175",
+        "begin": "2020-02-27T03:00:00.000Z",
+        "broadcast": "R/2020-02-27T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "20951",
+        "begin": "2024-02-29T15:00:00.000Z",
+        "broadcast": "R/2024-02-29T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/43778"
+      },
+      {
+        "site": "mal",
+        "id": "391"
+      },
+      {
+        "site": "aniList",
+        "id": "391"
+      },
+      {
+        "site": "anidb",
+        "id": "1374"
       }
     ]
   },
@@ -154,13 +305,36 @@
     "end": "2006-08-25T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "VZdx71e9LWvOTLQ",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "768"
+      },
+      {
+        "site": "danime",
+        "id": "22196",
+        "begin": "2025-01-16T15:00:00.000Z",
+        "broadcast": "R/2025-01-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0015957",
+        "begin": "2025-01-16T15:00:00.000Z",
+        "broadcast": "R/2025-01-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/66931/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "1002"
+      },
+      {
+        "site": "aniList",
+        "id": "1002"
+      },
+      {
+        "site": "anidb",
+        "id": "2120"
       }
     ]
   }

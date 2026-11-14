@@ -4,6 +4,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "超魔神英雄传"
+      ],
+      "zh-Hant": [
+        "超魔神英雄傳"
       ]
     },
     "type": "tv",
@@ -12,11 +15,6 @@
     "begin": "1997-10-02T16:00:00.000Z",
     "end": "1998-09-24T16:30:00.000Z",
     "sites": [
-      {
-        "site": "pptv",
-        "id": "lJp29FzCMnDTUbk",
-        "begin": ""
-      },
       {
         "site": "bangumi",
         "id": "1974"
@@ -30,6 +28,28 @@
         "site": "iqiyi",
         "id": "a_19rrgyamst",
         "begin": "2018-05-16T09:42:21.000Z"
+      },
+      {
+        "site": "danime",
+        "id": "11623",
+        "begin": "2024-12-25T15:00:00.000Z",
+        "broadcast": "R/2024-12-25T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/19612/season/3"
+      },
+      {
+        "site": "mal",
+        "id": "3432"
+      },
+      {
+        "site": "anidb",
+        "id": "1083"
+      },
+      {
+        "site": "aniList",
+        "id": "3432"
       }
     ]
   },
@@ -38,6 +58,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "剑风传奇"
+      ],
+      "zh-Hant": [
+        "烙印勇士"
       ]
     },
     "type": "tv",
@@ -47,11 +70,6 @@
     "end": "1998-03-31T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "k7uGBGzSQoDjYck",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "696"
       },
@@ -59,6 +77,40 @@
         "site": "nicovideo",
         "id": "kenpudenki-berserk-anime",
         "begin": "2016-07-27T06:00:00.000Z"
+      },
+      {
+        "site": "netflix",
+        "id": "80243876",
+        "begin": "2022-11-30T00:00:00.000Z",
+        "broadcast": "R/2022-11-30T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002206",
+        "begin": "2019-06-28T03:00:00.000Z",
+        "broadcast": "R/2019-06-28T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10717",
+        "begin": "2013-01-04T01:00:00.000Z",
+        "broadcast": "R/2013-01-04T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/35935"
+      },
+      {
+        "site": "mal",
+        "id": "33"
+      },
+      {
+        "site": "anidb",
+        "id": "98"
+      },
+      {
+        "site": "aniList",
+        "id": "33"
       }
     ]
   },
@@ -66,7 +118,9 @@
     "title": "バトルアスリーテス大運動会",
     "titleTranslate": {
       "zh-Hans": [
-        "大运动会"
+        "BATTLE ATHLETESS 大运动会",
+        "大运动会",
+        "超时空金牌小女将"
       ]
     },
     "type": "tv",
@@ -76,18 +130,42 @@
     "end": "1998-03-27T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "5kk0shqA8C6RD3c",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "10413"
       },
       {
         "site": "bilibili",
         "id": "2285",
-        "begin": "1997-10-02T16:00:00.000Z"
+        "begin": "1997-10-02T16:00:00.000Z",
+        "broadcast": "R/2013-10-01T23:05:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002727",
+        "begin": "2020-05-02T03:00:00.000Z",
+        "broadcast": "R/2020-05-02T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23249",
+        "begin": "2020-03-13T01:00:00.000Z",
+        "broadcast": "R/2020-03-13T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/94196"
+      },
+      {
+        "site": "mal",
+        "id": "1186"
+      },
+      {
+        "site": "anidb",
+        "id": "504"
+      },
+      {
+        "site": "aniList",
+        "id": "1186"
       }
     ]
   },
@@ -107,6 +185,22 @@
       {
         "site": "bangumi",
         "id": "161683"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/34860"
+      },
+      {
+        "site": "mal",
+        "id": "1199"
+      },
+      {
+        "site": "anidb",
+        "id": "3626"
+      },
+      {
+        "site": "aniList",
+        "id": "1199"
       }
     ]
   },
@@ -124,18 +218,30 @@
     "end": "1997-12-18T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "P3BMyjKYCEapJ48",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "67782"
       },
       {
         "site": "bilibili",
         "id": "5444",
-        "begin": "1997-10-01T16:00:01.000Z"
+        "begin": "1997-10-01T16:00:01.000Z",
+        "broadcast": "R/2016-08-15T03:14:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/34094"
+      },
+      {
+        "site": "mal",
+        "id": "2364"
+      },
+      {
+        "site": "anidb",
+        "id": "588"
+      },
+      {
+        "site": "aniList",
+        "id": "2364"
       }
     ]
   },
@@ -153,11 +259,6 @@
     "end": "1998-03-30T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "vY149l7ENHLVU7s",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "4466"
       },
@@ -165,6 +266,367 @@
         "site": "nicovideo",
         "id": "vampire-miyu",
         "begin": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0003411",
+        "begin": "2016-03-24T03:00:00.000Z",
+        "broadcast": "R/2016-03-24T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10253",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/42460"
+      },
+      {
+        "site": "mal",
+        "id": "690"
+      },
+      {
+        "site": "anidb",
+        "id": "391"
+      },
+      {
+        "site": "aniList",
+        "id": "690"
+      }
+    ]
+  },
+  {
+    "title": "八雲立つ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "八云立",
+        "出云传奇"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1997-10-24T16:00:00.000Z",
+    "end": "1997-11-24T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "6021"
+      },
+      {
+        "site": "bilibili",
+        "id": "3077",
+        "begin": "2015-11-27T08:28:00.000Z",
+        "broadcast": "R/2015-11-27T08:28:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/44754"
+      },
+      {
+        "site": "mal",
+        "id": "1026"
+      },
+      {
+        "site": "anidb",
+        "id": "1795"
+      },
+      {
+        "site": "aniList",
+        "id": "1026"
+      },
+      {
+        "site": "unext",
+        "id": "SID0017197",
+        "begin": "2026-09-17T15:00:00.000Z",
+        "broadcast": "R/2026-09-17T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "29205",
+        "begin": "2026-09-17T15:00:00.000Z",
+        "broadcast": "R/2026-09-17T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ネクスト戦記EHRGEIZ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "NEXT战记EHRGEIZ"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1997-09-30T16:00:00.000Z",
+    "end": "1997-12-23T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "37465"
+      },
+      {
+        "site": "bilibili",
+        "id": "2284",
+        "begin": "2014-06-15T06:14:00.000Z",
+        "broadcast": "R/2014-06-15T06:14:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "11064",
+        "begin": "2013-12-06T01:00:00.000Z",
+        "broadcast": "R/2013-12-06T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/27537"
+      },
+      {
+        "site": "mal",
+        "id": "4929"
+      },
+      {
+        "site": "aniList",
+        "id": "4929"
+      },
+      {
+        "site": "anidb",
+        "id": "2615"
+      }
+    ]
+  },
+  {
+    "title": "勇者指令ダグオン 水晶の瞳の少年",
+    "titleTranslate": {
+      "zh-Hans": [
+        "勇者指令 水晶之瞳的少年",
+        "勇者指令 OVA"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.yusha.net/dagwon/ova.html",
+    "begin": "1997-10-21T16:00:00.000Z",
+    "end": "1997-12-27T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "202960"
+      },
+      {
+        "site": "bilibili",
+        "id": "2302",
+        "begin": "2012-07-28T07:00:00.000Z",
+        "broadcast": "R/2012-07-28T07:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/98561/season/0"
+      },
+      {
+        "site": "mal",
+        "id": "5396"
+      },
+      {
+        "site": "anidb",
+        "id": "3153"
+      },
+      {
+        "site": "aniList",
+        "id": "5396"
+      }
+    ]
+  },
+  {
+    "title": "金田一少年の事件簿スペシャル 死神病院殺人事件",
+    "titleTranslate": {
+      "zh-Hans": [
+        "金田一少年事件簿 死神病院杀人事件",
+        "死神病院殺人事件"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1997-10-12T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1997-10-12T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "100451"
+      },
+      {
+        "site": "unext",
+        "id": "SID0011082",
+        "begin": "2019-12-13T03:00:00.000Z",
+        "broadcast": "R/2019-12-13T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "24822",
+        "begin": "2021-06-25T01:00:00.000Z",
+        "broadcast": "R/2021-06-25T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/23587/season/0"
+      }
+    ]
+  },
+  {
+    "title": "エルフを狩るモノたち II",
+    "titleTranslate": {
+      "zh-Hans": [
+        "妖精狩猎者II",
+        "古怪猎人2",
+        "精灵狩猎者II"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1997-09-30T16:00:00.000Z",
+    "broadcast": "R/1997-09-30T16:00:00.000Z/P7D",
+    "end": "1997-12-23T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "43473"
+      },
+      {
+        "site": "unext",
+        "id": "SID0014116",
+        "begin": "2020-11-17T15:00:00.000Z",
+        "broadcast": "R/2020-11-17T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10690",
+        "begin": "2012-12-28T01:00:00.000Z",
+        "broadcast": "R/2012-12-28T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/12565/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "1046"
+      },
+      {
+        "site": "aniList",
+        "id": "1046"
+      },
+      {
+        "site": "anidb",
+        "id": "80"
+      }
+    ]
+  },
+  {
+    "title": "さくらももこ劇場 コジコジ",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1997-10-03T16:00:00.000Z",
+    "broadcast": "R/1997-10-03T16:00:00.000Z/P7D",
+    "end": "1999-09-24T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "220515"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003380",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "22050",
+        "begin": "2018-03-30T01:00:00.000Z",
+        "broadcast": "R/2018-03-30T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/23005"
+      },
+      {
+        "site": "mal",
+        "id": "3869"
+      },
+      {
+        "site": "anidb",
+        "id": "4090"
+      },
+      {
+        "site": "aniList",
+        "id": "3869"
+      },
+      {
+        "site": "abema",
+        "id": "482-204",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "電脳戦隊ヴギィ'ズ★エンジェル",
+    "titleTranslate": {
+      "zh-Hans": [
+        "美少女电脑战队",
+        "电脑战队Voogie's Angel"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1997-10-23T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1998-07-23T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "82780"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002734",
+        "begin": "2022-10-31T03:00:00.000Z",
+        "broadcast": "R/2022-10-31T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "11214",
+        "begin": "2017-11-24T01:00:00.000Z",
+        "broadcast": "R/2017-11-24T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/44605"
+      },
+      {
+        "site": "mal",
+        "id": "2453"
+      },
+      {
+        "site": "aniList",
+        "id": "101178"
+      },
+      {
+        "site": "anidb",
+        "id": "494"
       }
     ]
   }

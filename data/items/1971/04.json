@@ -15,6 +15,77 @@
       {
         "site": "bangumi",
         "id": "70326"
+      },
+      {
+        "site": "danime",
+        "id": "27983",
+        "begin": "2025-05-30T15:00:00.000Z",
+        "broadcast": "R/2025-05-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/20237"
+      },
+      {
+        "site": "mal",
+        "id": "3819"
+      },
+      {
+        "site": "anidb",
+        "id": "3155"
+      },
+      {
+        "site": "aniList",
+        "id": "3819"
+      }
+    ]
+  },
+  {
+    "title": "アニメンタリー 決断",
+    "titleTranslate": {
+      "zh-Hans": [
+        "动画纪录片 决断"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1971-04-02T16:00:00.000Z",
+    "broadcast": "R/1971-04-02T16:00:00.000Z/P7D",
+    "end": "1971-09-24T15:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "166763"
+      },
+      {
+        "site": "unext",
+        "id": "SID0017880",
+        "begin": "2022-04-28T03:00:00.000Z",
+        "broadcast": "R/2022-04-28T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23291",
+        "begin": "2020-02-07T01:00:00.000Z",
+        "broadcast": "R/2020-02-07T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/124144"
+      },
+      {
+        "site": "mal",
+        "id": "8436"
+      },
+      {
+        "site": "aniList",
+        "id": "8436"
+      },
+      {
+        "site": "anidb",
+        "id": "5484"
       }
     ]
   }

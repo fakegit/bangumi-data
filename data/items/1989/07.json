@@ -21,6 +21,28 @@
       {
         "site": "bangumi",
         "id": "195909"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003211",
+        "begin": "2019-08-31T03:00:00.000Z",
+        "broadcast": "R/2019-08-31T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23296",
+        "begin": "2020-02-14T01:00:00.000Z",
+        "broadcast": "R/2020-02-14T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/8747"
+      },
+      {
+        "site": "abema",
+        "id": "19-220",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -50,6 +72,28 @@
         "site": "nicovideo",
         "id": "DBZ",
         "begin": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0010762",
+        "begin": "2018-07-27T03:00:00.000Z",
+        "broadcast": "R/2018-07-27T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/28609"
+      },
+      {
+        "site": "mal",
+        "id": "894"
+      },
+      {
+        "site": "anidb",
+        "id": "1043"
+      },
+      {
+        "site": "aniList",
+        "id": "894"
       }
     ]
   },
@@ -58,6 +102,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "魔女宅急便"
+      ],
+      "zh-Hant": [
+        "魔女宅急便"
+      ],
+      "en": [
+        "Kiki’s Delivery Service"
       ]
     },
     "type": "movie",
@@ -74,6 +124,28 @@
       {
         "site": "bangumi",
         "id": "305"
+      },
+      {
+        "site": "netflix",
+        "id": "60027106",
+        "begin": "2020-01-30T16:00:00.000Z",
+        "broadcast": "R/2020-01-30T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/16859"
+      },
+      {
+        "site": "mal",
+        "id": "512"
+      },
+      {
+        "site": "anidb",
+        "id": "286"
+      },
+      {
+        "site": "aniList",
+        "id": "512"
       }
     ]
   },
@@ -91,13 +163,24 @@
     "end": "1989-08-02T15:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "9WtFwyuRATibiaIIg",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "217850"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/108970/season/0"
+      },
+      {
+        "site": "mal",
+        "id": "6067"
+      },
+      {
+        "site": "anidb",
+        "id": "4009"
+      },
+      {
+        "site": "aniList",
+        "id": "6067"
       }
     ]
   },
@@ -106,6 +189,10 @@
     "titleTranslate": {
       "zh-Hans": [
         "机动警察 东京毁灭战"
+      ],
+      "zh-Hant": [
+        "機動警察 劇場版1 東京毀滅戰",
+        "機動警察 劇場版 1"
       ]
     },
     "type": "movie",
@@ -124,9 +211,262 @@
         "begin": ""
       },
       {
-        "site": "bilibili",
-        "id": "4016",
-        "begin": "1989-07-14T16:00:01.000Z"
+        "site": "unext",
+        "id": "SID0014487",
+        "begin": "2018-06-04T03:00:00.000Z",
+        "broadcast": "R/2018-06-04T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10247",
+        "begin": "2020-03-13T01:00:00.000Z",
+        "broadcast": "R/2020-03-13T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "38221",
+        "begin": "2025-10-01T04:00:00.000Z",
+        "broadcast": "R/2025-10-01T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/14571"
+      },
+      {
+        "site": "mal",
+        "id": "1095"
+      },
+      {
+        "site": "aniList",
+        "id": "1095"
+      },
+      {
+        "site": "anidb",
+        "id": "777"
+      }
+    ]
+  },
+  {
+    "title": "悪魔くん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "恶魔小子"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://lineup.toei-anim.co.jp/ja/movie/movie_akumakun/",
+    "begin": "1989-07-14T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1989-07-14T16:40:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "418082"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003188",
+        "begin": "2020-01-11T03:00:00.000Z",
+        "broadcast": "R/2020-01-11T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "24916",
+        "begin": "2021-07-30T01:00:00.000Z",
+        "broadcast": "R/2021-07-30T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/524432"
+      },
+      {
+        "site": "mal",
+        "id": "8226"
+      },
+      {
+        "site": "aniList",
+        "id": "8226"
+      },
+      {
+        "site": "anidb",
+        "id": "2050"
+      }
+    ]
+  },
+  {
+    "title": "ハローキティのシンデレラ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "凯蒂猫的灰姑娘"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1989-07-21T16:00:00.000Z",
+    "end": "1989-07-21T16:40:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "285396"
+      },
+      {
+        "site": "unext",
+        "id": "SID0093067",
+        "begin": "2023-10-01T03:00:00.000Z",
+        "broadcast": "R/2023-10-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "25522",
+        "begin": "2023-01-20T01:00:00.000Z",
+        "broadcast": "R/2023-01-20T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "9291"
+      },
+      {
+        "site": "anidb",
+        "id": "7782"
+      },
+      {
+        "site": "aniList",
+        "id": "168867"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1518649"
+      }
+    ]
+  },
+  {
+    "title": "ARIEL",
+    "titleTranslate": {},
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1989-07-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1991-04-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "37505"
+      },
+      {
+        "site": "danime",
+        "id": "27293",
+        "begin": "2024-09-30T15:00:00.000Z",
+        "broadcast": "R/2024-09-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/125453"
+      },
+      {
+        "site": "mal",
+        "id": "2839"
+      },
+      {
+        "site": "anidb",
+        "id": "2368"
+      },
+      {
+        "site": "aniList",
+        "id": "2839"
+      }
+    ]
+  },
+  {
+    "title": "緑の猫",
+    "titleTranslate": {
+      "zh-Hans": [
+        "绿猫"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1989-06-30T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1989-06-30T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "112593"
+      },
+      {
+        "site": "danime",
+        "id": "24062",
+        "begin": "2020-07-10T01:00:00.000Z",
+        "broadcast": "R/2020-07-10T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/400139"
+      },
+      {
+        "site": "mal",
+        "id": "11799"
+      },
+      {
+        "site": "anidb",
+        "id": "3613"
+      },
+      {
+        "site": "aniList",
+        "id": "11799"
+      }
+    ]
+  },
+  {
+    "title": "ひみつのアッコちゃん 海だ！おばけだ！！夏祭り",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://lineup.toei-anim.co.jp/ja/movie/movie_akko_umida/",
+    "begin": "1989-07-14T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1989-07-14T16:25:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "525133"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002824",
+        "begin": "2020-01-19T03:00:00.000Z",
+        "broadcast": "R/2020-01-19T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/846279"
+      },
+      {
+        "site": "mal",
+        "id": "12971"
+      },
+      {
+        "site": "anidb",
+        "id": "2044"
+      },
+      {
+        "site": "aniList",
+        "id": "12971"
+      },
+      {
+        "site": "danime",
+        "id": "24917",
+        "begin": "2026-04-09T15:00:00.000Z",
+        "broadcast": "R/2026-04-09T15:00:00.000Z/P7D"
       }
     ]
   }

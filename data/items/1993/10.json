@@ -9,7 +9,8 @@
         "SLAM DUNK"
       ],
       "zh-Hant": [
-        "男兒當入樽"
+        "男兒當入樽",
+        "灌籃高手"
       ]
     },
     "type": "tv",
@@ -38,6 +39,52 @@
         "begin": "2015-12-17T16:00:00.000Z",
         "broadcast": "R/2015-12-17T16:00:00.000Z/P7D",
         "comment": "粵語版:126198"
+      },
+      {
+        "site": "abema",
+        "id": "5-33",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0002236",
+        "begin": "2017-04-20T03:00:00.000Z",
+        "broadcast": "R/2017-04-20T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10774",
+        "begin": "2013-04-05T01:00:00.000Z",
+        "broadcast": "R/2013-04-05T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0D8DN2495",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/42573"
+      },
+      {
+        "site": "mal",
+        "id": "170"
+      },
+      {
+        "site": "anidb",
+        "id": "590"
+      },
+      {
+        "site": "aniList",
+        "id": "170"
+      },
+      {
+        "site": "netflix",
+        "id": "70024218",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -55,11 +102,6 @@
     "end": "1993-10-21T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "7kUvrRV76ymMCnI",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "28712"
       }
@@ -70,6 +112,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "魔神英雄传 永恒传说"
+      ],
+      "zh-Hant": [
+        "魔神英雄傳 永恆傳說"
       ]
     },
     "type": "ova",
@@ -83,19 +128,218 @@
         "id": "38723"
       },
       {
-        "site": "pptv",
-        "id": "Xu3YVr4klNI1sxs",
-        "begin": ""
-      },
-      {
         "site": "bilibili",
         "id": "4001",
-        "begin": "1992-12-31T16:00:01.000Z"
+        "begin": "1992-12-31T16:00:01.000Z",
+        "broadcast": "R/2016-05-17T03:50:00.000Z/P7D"
       },
       {
         "site": "qq",
         "id": "m/mlxe8zlsnmjzhxm",
         "begin": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0031112",
+        "begin": "2024-12-20T03:00:00.000Z",
+        "broadcast": "R/2024-12-20T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26855",
+        "begin": "2024-12-25T15:00:00.000Z",
+        "broadcast": "R/2024-12-25T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/241319"
+      },
+      {
+        "site": "mal",
+        "id": "7601"
+      },
+      {
+        "site": "anidb",
+        "id": "5755"
+      },
+      {
+        "site": "aniList",
+        "id": "7601"
+      }
+    ]
+  },
+  {
+    "title": "ジャングルの王者ターちゃん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "秀逗泰山",
+        "抵死泰山"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1993-10-13T16:00:00.000Z",
+    "broadcast": "R/1993-10-13T16:00:00.000Z/P7D",
+    "end": "1994-09-28T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "60191"
+      },
+      {
+        "site": "danime",
+        "id": "20937",
+        "begin": "2025-08-22T15:00:00.000Z",
+        "broadcast": "R/2025-08-22T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/70850"
+      },
+      {
+        "site": "mal",
+        "id": "3418"
+      },
+      {
+        "site": "anidb",
+        "id": "4040"
+      },
+      {
+        "site": "aniList",
+        "id": "3418"
+      }
+    ]
+  },
+  {
+    "title": "超音戦士ボーグマン2 -新世紀2058-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "超音战士Borgman2 -新世纪2058-"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1993-09-30T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1993-11-30T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "53936"
+      },
+      {
+        "site": "unext",
+        "id": "SID0004302",
+        "begin": "2016-03-24T03:00:00.000Z",
+        "broadcast": "R/2016-03-24T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10636",
+        "begin": "2012-09-28T01:00:00.000Z",
+        "broadcast": "R/2012-09-28T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/129651"
+      }
+    ]
+  },
+  {
+    "title": "平成イヌ物語バウ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "家有贱狗",
+        "家有傻犬"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1993-10-03T16:00:00.000Z",
+    "broadcast": "R/1993-10-03T16:00:00.000Z/P7D",
+    "end": "1994-09-21T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "14645"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002318",
+        "begin": "2023-02-01T03:00:00.000Z",
+        "broadcast": "R/2023-02-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/101726"
+      },
+      {
+        "site": "mal",
+        "id": "2749"
+      },
+      {
+        "site": "anidb",
+        "id": "3976"
+      },
+      {
+        "site": "aniList",
+        "id": "2749"
+      }
+    ]
+  },
+  {
+    "title": "特捜戦車隊ドミニオン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "特搜战车队Dominion",
+        "新特搜机动队"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1993-10-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1994-10-21T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "35799"
+      },
+      {
+        "site": "danime",
+        "id": "29203",
+        "begin": "2026-08-31T15:00:00.000Z",
+        "broadcast": "R/2026-08-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0015913",
+        "begin": "2026-08-31T15:00:00.000Z",
+        "broadcast": "R/2026-08-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "1152"
+      },
+      {
+        "site": "aniList",
+        "id": "1152"
+      },
+      {
+        "site": "anidb",
+        "id": "897"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/45137/season/2"
       }
     ]
   }

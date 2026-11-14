@@ -4,6 +4,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "终物语 下"
+      ],
+      "zh-Hant": [
+        "終物語 第二季"
       ]
     },
     "type": "tv",
@@ -19,12 +22,51 @@
       {
         "site": "bilibili",
         "id": "6345",
-        "begin": "2017-08-12T12:00:00.000Z"
+        "begin": "2017-08-12T12:00:00.000Z",
+        "broadcast": "R/2017-08-13T10:10:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
         "id": "owarimonogatari2",
         "begin": "2018-10-31T15:00:00.000Z"
+      },
+      {
+        "site": "abema",
+        "id": "26-2mzbynr-cph",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0038181",
+        "begin": "2018-11-10T03:00:00.000Z",
+        "broadcast": "R/2018-11-10T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "1396"
+      },
+      {
+        "site": "danime",
+        "id": "22455",
+        "begin": "2018-11-01T01:00:00.000Z",
+        "broadcast": "R/2018-11-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/46195/season/0/episode/35"
+      },
+      {
+        "site": "mal",
+        "id": "35247"
+      },
+      {
+        "site": "anidb",
+        "id": "13033"
+      },
+      {
+        "site": "aniList",
+        "id": "21745"
       }
     ]
   },
@@ -54,6 +96,26 @@
         "site": "iqiyi",
         "id": "a_19rrhd9rlx",
         "begin": "2017-09-08T06:55:18.000Z"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/273291"
+      },
+      {
+        "site": "mal",
+        "id": "37167"
+      },
+      {
+        "site": "aniList",
+        "id": "149097"
+      },
+      {
+        "site": "acgnx",
+        "id": "直感"
+      },
+      {
+        "site": "dmhy",
+        "id": "直感"
       }
     ]
   },
@@ -79,6 +141,26 @@
         "site": "qq",
         "id": "i/ik13w0qkrtxnmb9",
         "begin": ""
+      },
+      {
+        "site": "mikan",
+        "id": "1395"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/73321"
+      },
+      {
+        "site": "mal",
+        "id": "35204"
+      },
+      {
+        "site": "anidb",
+        "id": "13005"
+      },
+      {
+        "site": "aniList",
+        "id": "99934"
       }
     ]
   },
@@ -112,7 +194,36 @@
       {
         "site": "bilibili",
         "id": "8232",
-        "begin": "2017-11-14T16:00:00.000Z"
+        "begin": "2017-11-14T16:00:00.000Z",
+        "broadcast": "R/2017-11-14T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0034132",
+        "begin": "2018-04-16T03:00:00.000Z",
+        "broadcast": "R/2018-04-16T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "22117",
+        "begin": "2018-04-16T01:00:00.000Z",
+        "broadcast": "R/2018-04-16T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/655614"
+      },
+      {
+        "site": "mal",
+        "id": "35182"
+      },
+      {
+        "site": "anidb",
+        "id": "12993"
+      },
+      {
+        "site": "aniList",
+        "id": "98599"
       }
     ]
   },
@@ -137,6 +248,16 @@
         "site": "iqiyi",
         "id": "a_19rrhcx3xx",
         "begin": "2017-08-27T08:38:21.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0035255",
+        "begin": "2018-06-01T03:00:00.000Z",
+        "broadcast": "R/2018-06-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/541867"
       }
     ]
   },
@@ -145,6 +266,13 @@
     "titleTranslate": {
       "zh-Hans": [
         "排球少年 特集！赌在春高上的青春"
+      ],
+      "zh-Hant": [
+        "排球少年！！特集！賭在春高排球上的青春",
+        "排球少年!! OVA 3: 特集！賭在春高排球上的青春"
+      ],
+      "en": [
+        "Haikyu!! OVA 3: Special Feature! The Spring Tournament of Their Youth"
       ]
     },
     "type": "ova",
@@ -162,6 +290,58 @@
         "site": "youku",
         "id": "acbb86e260a74492a770",
         "begin": "2020-02-11T05:37:50.000Z"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JiJ50hiPCCd_lhnAB-y91Jc",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "19-48",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0050585",
+        "begin": "2020-08-19T03:00:00.000Z",
+        "broadcast": "R/2020-08-19T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "24148",
+        "begin": "2020-08-18T15:00:00.000Z",
+        "broadcast": "R/2020-08-18T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0F494QWF5",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/60863/season/0/episode/3"
+      },
+      {
+        "site": "mal",
+        "id": "35321"
+      },
+      {
+        "site": "anidb",
+        "id": "13332"
+      },
+      {
+        "site": "aniList",
+        "id": "107351"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GY8VM8MWY",
+        "begin": "2014-04-06T00:00:00.000Z",
+        "broadcast": "R/2014-04-06T00:00:00.000Z/P7D"
       }
     ]
   },
@@ -170,6 +350,10 @@
     "titleTranslate": {
       "zh-Hans": [
         "剧场版 Fate/kaleid liner 魔法少女☆伊莉雅 雪下的誓言"
+      ],
+      "zh-Hant": [
+        "魔法少女☆伊莉雅 – 雪下的誓言",
+        "Fate/kaleid liner 魔法少女☆伊莉雅 雪下的誓言"
       ]
     },
     "type": "movie",
@@ -186,13 +370,64 @@
       {
         "site": "bilibili",
         "id": "141252",
-        "begin": "2018-01-30T16:00:00.000Z"
+        "begin": "2018-01-30T16:00:00.000Z",
+        "broadcast": "R/2018-10-09T10:00:00.000Z/P7D"
       },
       {
         "site": "nicovideo",
         "id": "prisma-illya-movie-sekka",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtQkQG0uR6Bh3-G37Y2JxT34",
+        "begin": "2022-12-23T16:00:00.000Z",
+        "broadcast": "R/2022-12-23T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0045257",
+        "begin": "2020-01-10T03:00:00.000Z",
+        "broadcast": "R/2020-01-10T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "87738",
+        "begin": "2024-05-03T04:00:00.000Z",
+        "broadcast": "R/2024-05-03T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "87738",
+        "begin": "2024-05-03T04:00:00.000Z",
+        "broadcast": "R/2024-05-03T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "1479"
+      },
+      {
+        "site": "danime",
+        "id": "23110",
+        "begin": "2019-11-29T01:00:00.000Z",
+        "broadcast": "R/2019-11-29T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/461083"
+      },
+      {
+        "site": "mal",
+        "id": "34100"
+      },
+      {
+        "site": "aniList",
+        "id": "97757"
+      },
+      {
+        "site": "anidb",
+        "id": "12420"
       }
     ]
   },
@@ -217,7 +452,36 @@
       {
         "site": "bilibili",
         "id": "125312",
-        "begin": "2017-08-24T16:00:00.000Z"
+        "begin": "2017-08-24T16:00:00.000Z",
+        "broadcast": "R/2018-08-15T04:36:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0031111",
+        "begin": "2017-09-22T03:00:00.000Z",
+        "broadcast": "R/2017-09-22T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "21735",
+        "begin": "2017-08-25T01:00:00.000Z",
+        "broadcast": "R/2017-08-25T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/60667/season/0/episode/5"
+      },
+      {
+        "site": "mal",
+        "id": "35982"
+      },
+      {
+        "site": "anidb",
+        "id": "13162"
+      },
+      {
+        "site": "aniList",
+        "id": "99732"
       }
     ]
   },
@@ -242,7 +506,289 @@
       {
         "site": "bilibili",
         "id": "127452",
-        "begin": "2017-08-03T16:00:00.000Z"
+        "begin": "2017-08-03T16:00:00.000Z",
+        "broadcast": "R/2018-08-22T07:43:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0031115",
+        "begin": "2023-01-19T15:00:00.000Z",
+        "broadcast": "R/2023-01-19T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "21782",
+        "begin": "2017-10-06T03:00:00.000Z",
+        "broadcast": "R/2017-10-06T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/297103"
+      },
+      {
+        "site": "mal",
+        "id": "35567"
+      },
+      {
+        "site": "anidb",
+        "id": "13167"
+      },
+      {
+        "site": "aniList",
+        "id": "99731"
+      }
+    ]
+  },
+  {
+    "title": "打ち上げ花火、下から見るか？横から見るか？",
+    "titleTranslate": {
+      "zh-Hans": [
+        "烟花",
+        "烟花、应该和谁看",
+        "升空的焰火，从下面看还是从侧面看？"
+      ],
+      "zh-Hant": [
+        "煙花",
+        "煙花，應該和誰看"
+      ],
+      "en": [
+        "Fireworks"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.uchiagehanabi.jp",
+    "begin": "2017-08-17T16:00:00.000Z",
+    "end": "2017-08-17T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "200704"
+      },
+      {
+        "site": "bilibili",
+        "id": "28227648",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0033796",
+        "begin": "2020-05-01T03:00:00.000Z",
+        "broadcast": "R/2020-05-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "1566"
+      },
+      {
+        "site": "prime",
+        "id": "B0FL481PQ3",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/431819"
+      },
+      {
+        "site": "mal",
+        "id": "34498"
+      },
+      {
+        "site": "anidb",
+        "id": "12605"
+      },
+      {
+        "site": "aniList",
+        "id": "97908"
+      }
+    ]
+  },
+  {
+    "title": "しろたん しろたんがいっぱい！",
+    "titleTranslate": {
+      "zh-Hans": [
+        "海豹小白"
+      ],
+      "zh-Hant": [
+        "海豹小白"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://www.youtube.com/playlist?list=PLX1erwN5lMb8GkAMFsQyZIDYzlBcRP36k",
+    "begin": "2017-08-11T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2018-06-22T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "242592"
+      },
+      {
+        "site": "gamer",
+        "id": "134251",
+        "begin": "2023-08-04T03:40:00.000Z",
+        "broadcast": "R/2023-08-04T03:40:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "134251",
+        "begin": "2023-08-04T03:40:00.000Z",
+        "broadcast": "R/2023-08-04T03:40:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "36107"
+      },
+      {
+        "site": "anidb",
+        "id": "13377"
+      },
+      {
+        "site": "aniList",
+        "id": "99966"
+      },
+      {
+        "site": "acgnx",
+        "id": "海豹小白"
+      },
+      {
+        "site": "dmhy",
+        "id": "海豹小白"
+      }
+    ]
+  },
+  {
+    "title": "きみの声をとどけたい",
+    "titleTranslate": {
+      "zh-Hans": [
+        "想要传达你的声音",
+        "想要传递你的声音"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://kimikoe.com/movie/",
+    "begin": "2017-08-24T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2017-08-24T17:34:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "189546"
+      },
+      {
+        "site": "unext",
+        "id": "SID0047549",
+        "begin": "2020-04-24T03:00:00.000Z",
+        "broadcast": "R/2020-04-24T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "1572"
+      },
+      {
+        "site": "danime",
+        "id": "22820",
+        "begin": "2019-07-12T01:00:00.000Z",
+        "broadcast": "R/2019-07-12T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/461078"
+      },
+      {
+        "site": "mal",
+        "id": "33218"
+      },
+      {
+        "site": "anidb",
+        "id": "12093"
+      },
+      {
+        "site": "aniList",
+        "id": "21683"
+      }
+    ]
+  },
+  {
+    "title": "枪娘！FIRE",
+    "titleTranslate": {
+      "zh-Hans": [
+        "枪娘！FIRE"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://qnfire.qq.com",
+    "begin": "2017-08-17T16:00:00.000Z",
+    "broadcast": "R/2017-08-17T16:00:00.000Z/P7D",
+    "end": "2017-11-02T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "195663"
+      },
+      {
+        "site": "unext",
+        "id": "SID0032021",
+        "begin": "2020-03-31T15:00:00.000Z",
+        "broadcast": "R/2020-03-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "21855",
+        "begin": "2017-11-17T01:00:00.000Z",
+        "broadcast": "R/2017-11-17T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/107299"
+      }
+    ]
+  },
+  {
+    "title": "映画くまのがっこう パティシエ・ジャッキーとおひさまのスイーツ",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.bn-pictures.co.jp/the-bears-school/",
+    "begin": "2017-08-24T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2017-08-24T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "484249"
+      },
+      {
+        "site": "danime",
+        "id": "22818",
+        "begin": "2021-12-24T01:00:00.000Z",
+        "broadcast": "R/2021-12-24T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/999972"
+      },
+      {
+        "site": "mal",
+        "id": "34755"
+      },
+      {
+        "site": "anidb",
+        "id": "12727"
+      },
+      {
+        "site": "aniList",
+        "id": "180851"
       }
     ]
   }

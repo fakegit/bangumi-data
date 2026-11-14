@@ -15,11 +15,6 @@
     "end": "2005-03-25T10:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "qicXPTbUbia8ksqhI",
-        "begin": ""
-      },
-      {
         "site": "iqiyi",
         "id": "a_19rrhb2ai5",
         "begin": "2015-06-30T07:36:59.000Z"
@@ -30,23 +25,38 @@
         "begin": ""
       },
       {
-        "site": "letv",
-        "id": "78930",
-        "begin": ""
-      },
-      {
-        "site": "sohu",
-        "id": "s2011/dhpjqm",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "37460"
       },
       {
-        "site": "bilibili",
-        "id": "6009",
-        "begin": "1979-04-01T16:00:01.000Z"
+        "site": "tmdb",
+        "id": "tv/57911"
+      },
+      {
+        "site": "mal",
+        "id": "2471"
+      },
+      {
+        "site": "anidb",
+        "id": "1078"
+      },
+      {
+        "site": "aniList",
+        "id": "2471"
+      },
+      {
+        "site": "abema",
+        "id": "87-1084",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "acgnx",
+        "id": "doraemon|啦a夢"
+      },
+      {
+        "site": "dmhy",
+        "id": "doraemon|啦a夢"
       }
     ]
   },
@@ -72,6 +82,40 @@
       {
         "site": "bangumi",
         "id": "50"
+      },
+      {
+        "site": "unext",
+        "id": "SID0012888",
+        "begin": "2010-03-31T15:00:00.000Z",
+        "broadcast": "R/2010-03-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "20230",
+        "begin": "2024-06-30T15:00:00.000Z",
+        "broadcast": "R/2024-06-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0DWSMLZ6F",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/21731"
+      },
+      {
+        "site": "mal",
+        "id": "80"
+      },
+      {
+        "site": "anidb",
+        "id": "715"
+      },
+      {
+        "site": "aniList",
+        "id": "80"
       }
     ]
   },
@@ -91,6 +135,34 @@
       {
         "site": "bangumi",
         "id": "213787"
+      },
+      {
+        "site": "unext",
+        "id": "SID0038661",
+        "begin": "2019-02-21T03:00:00.000Z",
+        "broadcast": "R/2019-02-21T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23389",
+        "begin": "2020-03-13T01:00:00.000Z",
+        "broadcast": "R/2020-03-13T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/118453/season/3"
+      },
+      {
+        "site": "mal",
+        "id": "16486"
+      },
+      {
+        "site": "anidb",
+        "id": "6181"
+      },
+      {
+        "site": "aniList",
+        "id": "16486"
       }
     ]
   },
@@ -110,6 +182,110 @@
       {
         "site": "bangumi",
         "id": "61260"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/6218"
+      },
+      {
+        "site": "mal",
+        "id": "3444"
+      },
+      {
+        "site": "aniList",
+        "id": "3444"
+      },
+      {
+        "site": "anidb",
+        "id": "2347"
+      }
+    ]
+  },
+  {
+    "title": "まえがみ太郎",
+    "titleTranslate": {
+      "zh-Hans": [
+        "神赐太郎"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1979-04-28T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1979-04-28T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "193546"
+      },
+      {
+        "site": "unext",
+        "id": "SID0055998",
+        "begin": "2021-03-29T03:00:00.000Z",
+        "broadcast": "R/2021-03-29T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "24681",
+        "begin": "2021-05-07T01:00:00.000Z",
+        "broadcast": "R/2021-05-07T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1029836"
+      },
+      {
+        "site": "mal",
+        "id": "3828"
+      },
+      {
+        "site": "anidb",
+        "id": "4259"
+      },
+      {
+        "site": "aniList",
+        "id": "3828"
+      }
+    ]
+  },
+  {
+    "title": "シートン動物記 りすのバナー",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1979-04-06T16:00:00.000Z",
+    "broadcast": "R/1979-04-06T16:00:00.000Z/P7D",
+    "end": "1979-09-28T15:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "188948"
+      },
+      {
+        "site": "danime",
+        "id": "24053",
+        "begin": "2020-08-14T01:00:00.000Z",
+        "broadcast": "R/2020-08-14T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/58606"
+      },
+      {
+        "site": "mal",
+        "id": "4515"
+      },
+      {
+        "site": "anidb",
+        "id": "2383"
+      },
+      {
+        "site": "aniList",
+        "id": "4515"
       }
     ]
   }

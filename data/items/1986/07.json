@@ -20,6 +20,34 @@
         "site": "iqiyi",
         "id": "a_19rrhb4kld",
         "begin": "2015-08-11T08:03:32.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002202",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "24689",
+        "begin": "2022-06-15T01:00:00.000Z",
+        "broadcast": "R/2022-06-15T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/803235"
+      },
+      {
+        "site": "mal",
+        "id": "8154"
+      },
+      {
+        "site": "aniList",
+        "id": "8154"
+      },
+      {
+        "site": "anidb",
+        "id": "2310"
       }
     ]
   },
@@ -41,14 +69,26 @@
         "id": "184439"
       },
       {
-        "site": "letv",
-        "id": "36845",
-        "begin": ""
-      },
-      {
         "site": "bilibili",
         "id": "5569",
-        "begin": "1985-12-31T16:00:01.000Z"
+        "begin": "1985-12-31T16:00:01.000Z",
+        "broadcast": "R/2016-09-26T02:13:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/28152"
+      },
+      {
+        "site": "mal",
+        "id": "3886"
+      },
+      {
+        "site": "anidb",
+        "id": "4391"
+      },
+      {
+        "site": "aniList",
+        "id": "3886"
       }
     ]
   },
@@ -69,6 +109,274 @@
       {
         "site": "bangumi",
         "id": "41732"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/32377/season/0/episode/6"
+      },
+      {
+        "site": "danime",
+        "id": "28545",
+        "begin": "2025-12-12T15:00:00.000Z",
+        "broadcast": "R/2025-12-12T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "2584"
+      },
+      {
+        "site": "anidb",
+        "id": "5126"
+      },
+      {
+        "site": "aniList",
+        "id": "2584"
+      },
+      {
+        "site": "unext",
+        "id": "SID0013154",
+        "begin": "2026-10-08T03:00:00.000Z",
+        "broadcast": "R/2026-10-08T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "カリフォルニア・クライシス 追撃の銃火",
+    "titleTranslate": {
+      "zh-Hans": [
+        "加州危机"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1986-07-20T15:00:00.000Z",
+    "end": "1986-07-20T15:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "38903"
+      },
+      {
+        "site": "bilibili",
+        "id": "5273",
+        "begin": "2016-07-21T04:10:16.000Z",
+        "broadcast": "R/2016-07-21T04:10:16.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/166684"
+      },
+      {
+        "site": "mal",
+        "id": "3127"
+      },
+      {
+        "site": "anidb",
+        "id": "4434"
+      },
+      {
+        "site": "aniList",
+        "id": "3127"
+      }
+    ]
+  },
+  {
+    "title": "マシンロボ クロノスの大逆襲",
+    "titleTranslate": {
+      "zh-Hans": [
+        "天威勇士 克罗诺斯的大逆袭",
+        "克罗诺斯的大逆袭",
+        "机器勇士"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1986-07-02T16:00:00.000Z",
+    "broadcast": "R/1986-07-02T16:00:00.000Z/P7D",
+    "end": "1987-05-27T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "37240"
+      },
+      {
+        "site": "unext",
+        "id": "SID0004940",
+        "begin": "2016-03-24T03:00:00.000Z",
+        "broadcast": "R/2016-03-24T03:00:00.000Z/P7D",
+        "comment": "ミュージッククリップ・戦場の記憶: SID0012708"
+      },
+      {
+        "site": "danime",
+        "id": "10424",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/14290"
+      },
+      {
+        "site": "mal",
+        "id": "3676"
+      },
+      {
+        "site": "anidb",
+        "id": "965"
+      },
+      {
+        "site": "aniList",
+        "id": "3676"
+      }
+    ]
+  },
+  {
+    "title": "キャプテン翼 世界大決戦!! Jr.ワールドカップ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "足球小将:世界大决战!!少年世界杯"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1986-07-11T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1986-07-11T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "312258"
+      },
+      {
+        "site": "mal",
+        "id": "2121"
+      },
+      {
+        "site": "anidb",
+        "id": "3561"
+      },
+      {
+        "site": "aniList",
+        "id": "2121"
+      }
+    ]
+  },
+  {
+    "title": "アモン・サーガ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "阿门英雄传奇"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1986-07-18T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1986-07-18T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "74553"
+      },
+      {
+        "site": "mal",
+        "id": "2249"
+      },
+      {
+        "site": "anidb",
+        "id": "1658"
+      },
+      {
+        "site": "aniList",
+        "id": "2249"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/88852"
+      }
+    ]
+  },
+  {
+    "title": "アイ・シティ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "爱之城"
+      ],
+      "en": [
+        "Ai City"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1986-07-25T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1986-07-25T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "55065"
+      },
+      {
+        "site": "mal",
+        "id": "5053"
+      },
+      {
+        "site": "anidb",
+        "id": "2902"
+      },
+      {
+        "site": "aniList",
+        "id": "5053"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/78260"
+      }
+    ]
+  },
+  {
+    "title": "ガルフォース ETERNAL STORY",
+    "titleTranslate": {
+      "zh-Hans": [
+        "银河女战士 ETERNAL STORY"
+      ],
+      "en": [
+        "Gall Force 1: Eternal Story"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1986-07-25T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1986-07-25T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "37512"
+      },
+      {
+        "site": "mal",
+        "id": "2060"
+      },
+      {
+        "site": "anidb",
+        "id": "760"
+      },
+      {
+        "site": "aniList",
+        "id": "2060"
       }
     ]
   }

@@ -20,9 +20,32 @@
         "id": "26034"
       },
       {
-        "site": "nicovideo",
-        "id": "zoids",
-        "begin": "2013-01-11T13:30:00.000Z"
+        "site": "unext",
+        "id": "SID0148141",
+        "begin": "2024-08-14T15:00:00.000Z",
+        "broadcast": "R/2024-08-14T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "27239",
+        "begin": "2024-08-14T15:00:00.000Z",
+        "broadcast": "R/2024-08-14T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/37419"
+      },
+      {
+        "site": "mal",
+        "id": "763"
+      },
+      {
+        "site": "anidb",
+        "id": "1382"
+      },
+      {
+        "site": "aniList",
+        "id": "763"
       }
     ]
   },
@@ -30,7 +53,8 @@
     "title": "Beast Machines",
     "titleTranslate": {
       "zh-Hans": [
-        "猛兽侠"
+        "猛兽侠",
+        "兽械争霸"
       ]
     },
     "type": "tv",
@@ -40,13 +64,110 @@
     "end": "2000-11-18T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "6j4Jhib9VxQNm5Ew",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "32215"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/932"
+      }
+    ]
+  },
+  {
+    "title": "太陽の船 ソルビアンカ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "太阳之船 SOL BIANCA"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1999-09-23T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2000-10-05T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "18428"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002697",
+        "begin": "2020-05-02T03:00:00.000Z",
+        "broadcast": "R/2020-05-02T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23248",
+        "begin": "2021-12-10T01:00:00.000Z",
+        "broadcast": "R/2021-12-10T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/43846"
+      },
+      {
+        "site": "mal",
+        "id": "1444"
+      },
+      {
+        "site": "anidb",
+        "id": "97"
+      },
+      {
+        "site": "aniList",
+        "id": "1444"
+      }
+    ]
+  },
+  {
+    "title": "超神姫ダンガイザー3",
+    "titleTranslate": {
+      "zh-Hans": [
+        "超神姬3"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1999-09-23T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2001-03-22T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "37483"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002719",
+        "begin": "2022-10-27T03:00:00.000Z",
+        "broadcast": "R/2022-10-27T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10831",
+        "begin": "2013-06-07T01:00:00.000Z",
+        "broadcast": "R/2013-06-07T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/53360"
+      },
+      {
+        "site": "mal",
+        "id": "1627"
+      },
+      {
+        "site": "anidb",
+        "id": "1503"
+      },
+      {
+        "site": "aniList",
+        "id": "1627"
       }
     ]
   }

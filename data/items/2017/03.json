@@ -4,6 +4,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "哆啦A梦 大雄的南极大冒险"
+      ],
+      "zh-Hant": [
+        "電影 哆啦A夢 大雄的南極冰天雪地大冒險"
       ]
     },
     "type": "movie",
@@ -15,6 +18,50 @@
       {
         "site": "bangumi",
         "id": "187132"
+      },
+      {
+        "site": "abema",
+        "id": "35-126",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0099890",
+        "begin": "2024-03-05T03:00:00.000Z",
+        "broadcast": "R/2024-03-05T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "1251"
+      },
+      {
+        "site": "gamer",
+        "id": "84408",
+        "begin": "2024-10-01T04:30:00.000Z",
+        "broadcast": "R/2024-10-01T04:30:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0FL2B4FZX",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/462677"
+      },
+      {
+        "site": "mal",
+        "id": "33672"
+      },
+      {
+        "site": "aniList",
+        "id": "99085"
+      },
+      {
+        "site": "anidb",
+        "id": "12275"
       }
     ]
   },
@@ -25,7 +72,8 @@
         "FUTURE CARD BUDDYFIGHT X"
       ],
       "zh-Hans": [
-        "未来卡搭档对战X"
+        "未来卡搭档对战X",
+        "未来卡 搭档对战 4期"
       ]
     },
     "type": "tv",
@@ -35,13 +83,46 @@
     "end": "2018-03-31T23:30:00.000Z",
     "sites": [
       {
-        "site": "bilibili",
-        "id": "6073",
-        "begin": "2017-04-17T07:20:00.000Z"
-      },
-      {
         "site": "bangumi",
         "id": "207698"
+      },
+      {
+        "site": "unext",
+        "id": "SID0029133",
+        "begin": "2017-04-04T03:00:00.000Z",
+        "broadcast": "R/2017-04-04T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "58df7e9279c3a0541f4b61ff"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GY5VKE9EY",
+        "begin": "2014-04-25T16:30:00.000Z",
+        "broadcast": "R/2014-04-25T16:30:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "21577",
+        "begin": "2017-04-11T03:00:00.000Z",
+        "broadcast": "R/2017-04-11T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/71919/season/4"
+      },
+      {
+        "site": "mal",
+        "id": "34836"
+      },
+      {
+        "site": "anidb",
+        "id": "12766"
+      },
+      {
+        "site": "aniList",
+        "id": "98229"
       }
     ]
   },
@@ -61,7 +142,8 @@
       {
         "site": "bilibili",
         "id": "6008",
-        "begin": "2017-03-25T02:00:00.000Z"
+        "begin": "2017-03-25T02:00:00.000Z",
+        "broadcast": "R/2017-03-25T02:00:03.000Z/P7D"
       },
       {
         "site": "bangumi",
@@ -71,6 +153,18 @@
         "site": "nicovideo",
         "id": "short-yume-100",
         "begin": "2017-04-12T09:00:00.000Z"
+      },
+      {
+        "site": "mal",
+        "id": "34961"
+      },
+      {
+        "site": "anidb",
+        "id": "12363"
+      },
+      {
+        "site": "aniList",
+        "id": "97605"
       }
     ]
   },
@@ -90,11 +184,32 @@
       {
         "site": "bilibili",
         "id": "6007",
-        "begin": "2017-03-24T03:00:00.000Z"
+        "begin": "2017-03-24T03:00:00.000Z",
+        "broadcast": "R/2017-03-24T03:00:00.000Z/P7D"
       },
       {
         "site": "bangumi",
         "id": "198380"
+      },
+      {
+        "site": "mikan",
+        "id": "1256"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/64809/season/1/episode/5"
+      },
+      {
+        "site": "mal",
+        "id": "34391"
+      },
+      {
+        "site": "aniList",
+        "id": "97853"
+      },
+      {
+        "site": "anidb",
+        "id": "12549"
       }
     ]
   },
@@ -112,16 +227,6 @@
     "end": "2017-10-24T16:02:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "EycRjicddzQtu7FQ",
-        "begin": ""
-      },
-      {
-        "site": "sohu",
-        "id": "s2017/dhpbxsn",
-        "begin": ""
-      },
-      {
         "site": "qq",
         "id": "l/ls84d0qcj6rcuq1",
         "begin": ""
@@ -138,12 +243,29 @@
       {
         "site": "bilibili",
         "id": "6070",
-        "begin": "2017-03-26T16:00:01.000Z"
+        "begin": "2017-03-26T16:00:01.000Z",
+        "broadcast": "R/2017-08-30T05:57:00.000Z/P7D"
       },
       {
         "site": "youku",
         "id": "efbfbd58efbfbd6f7311",
         "begin": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/71742"
+      },
+      {
+        "site": "mal",
+        "id": "35286"
+      },
+      {
+        "site": "anidb",
+        "id": "13090"
+      },
+      {
+        "site": "aniList",
+        "id": "98579"
       }
     ]
   },
@@ -165,9 +287,24 @@
         "id": "196559"
       },
       {
-        "site": "nicovideo",
-        "id": "pp-movie",
-        "begin": ""
+        "site": "mikan",
+        "id": "1438"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/564262"
+      },
+      {
+        "site": "mal",
+        "id": "34304"
+      },
+      {
+        "site": "anidb",
+        "id": "12510"
+      },
+      {
+        "site": "aniList",
+        "id": "103740"
       }
     ]
   },
@@ -192,6 +329,22 @@
         "site": "nicovideo",
         "id": "zunko",
         "begin": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/440675"
+      },
+      {
+        "site": "mal",
+        "id": "33390"
+      },
+      {
+        "site": "anidb",
+        "id": "12156"
+      },
+      {
+        "site": "aniList",
+        "id": "21846"
       }
     ]
   },
@@ -213,14 +366,18 @@
         "id": "196259"
       },
       {
-        "site": "pptv",
-        "id": "KAicpZ881peNGxCw",
-        "begin": ""
-      },
-      {
         "site": "bilibili",
         "id": "6075",
-        "begin": "2017-03-17T16:00:01.000Z"
+        "begin": "2017-03-17T16:00:01.000Z",
+        "broadcast": "R/2017-04-18T02:15:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "1232"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/428293"
       }
     ]
   },
@@ -245,6 +402,38 @@
         "site": "iqiyi",
         "id": "a_19rrhb4tzt",
         "begin": "2015-08-07T08:45:07.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0033690",
+        "begin": "2018-10-04T03:00:00.000Z",
+        "broadcast": "R/2018-10-04T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "1377"
+      },
+      {
+        "site": "danime",
+        "id": "22074",
+        "begin": "2018-04-27T01:00:00.000Z",
+        "broadcast": "R/2018-04-27T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/432128"
+      },
+      {
+        "site": "mal",
+        "id": "34302"
+      },
+      {
+        "site": "anidb",
+        "id": "12509"
+      },
+      {
+        "site": "aniList",
+        "id": "99642"
       }
     ]
   },
@@ -269,6 +458,38 @@
         "site": "nicovideo",
         "id": "hai-furi-ova",
         "begin": "2018-05-31T15:00:00.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0044133",
+        "begin": "2019-11-01T03:00:00.000Z",
+        "broadcast": "R/2019-11-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "1260"
+      },
+      {
+        "site": "danime",
+        "id": "21983",
+        "begin": "2018-01-19T01:00:00.000Z",
+        "broadcast": "R/2018-01-19T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/66105/season/0"
+      },
+      {
+        "site": "mal",
+        "id": "34125"
+      },
+      {
+        "site": "aniList",
+        "id": "97667"
+      },
+      {
+        "site": "anidb",
+        "id": "12428"
       }
     ]
   },
@@ -276,7 +497,15 @@
     "title": "劇場版総集編 オーバーロード 漆黒の英雄",
     "titleTranslate": {
       "zh-Hans": [
-        "剧场版总集篇 OVERLORD 漆黑的英雄"
+        "剧场版总集篇 OVERLORD 漆黑的英雄",
+        "OVERLORD 漆黑的英雄"
+      ],
+      "zh-Hant": [
+        "《OVERLORD 漆黑的英雄》劇場版總集篇 後編",
+        "OVERLORD 漆黑的英雄"
+      ],
+      "en": [
+        "Overlord: The Dark Hero"
       ]
     },
     "type": "movie",
@@ -298,7 +527,322 @@
       {
         "site": "bilibili",
         "id": "113152",
-        "begin": "2017-03-10T16:00:00.000Z"
+        "begin": "2017-03-10T16:00:00.000Z",
+        "broadcast": "R/2018-07-03T04:25:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtTlZBjf5O1KdHzvBkq6bWph",
+        "begin": "2022-10-17T16:00:00.000Z",
+        "broadcast": "R/2022-10-22T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0047062",
+        "begin": "2020-03-13T03:00:00.000Z",
+        "broadcast": "R/2020-03-13T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23561",
+        "begin": "2020-03-02T01:00:00.000Z",
+        "broadcast": "R/2020-03-02T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/477449"
+      },
+      {
+        "site": "mal",
+        "id": "34428"
+      },
+      {
+        "site": "aniList",
+        "id": "98874"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GMTE00096362",
+        "begin": "2017-03-11T00:00:00.000Z",
+        "broadcast": "R/2017-03-11T00:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 黒子のバスケ LAST GAME",
+    "titleTranslate": {
+      "zh-Hans": [
+        "黑子的篮球·终极一战"
+      ],
+      "zh-Hant": [
+        "電影版影子籃球員：LAST GAME",
+        "幻影籃球王 ─ Last Game",
+        "電影版 幻影籃球王 LAST GAME最後一役",
+        "黑子的籃球劇場版LAST GAME"
+      ],
+      "en": [
+        "Kuroko's Basketball: Last Game",
+        "Kuroko's Basketball The Movie LAST GAME"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://kurobas-lg.com/",
+    "begin": "2017-03-17T16:00:00.000Z",
+    "end": "2017-03-17T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "147147"
+      },
+      {
+        "site": "netflix",
+        "id": "80991755",
+        "begin": "2022-09-14T16:00:00.000Z",
+        "broadcast": "R/2022-09-14T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28481063",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0031376",
+        "begin": "2020-04-20T03:00:00.000Z",
+        "broadcast": "R/2020-04-20T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "1385"
+      },
+      {
+        "site": "danime",
+        "id": "22945",
+        "begin": "2022-04-01T15:00:00.000Z",
+        "broadcast": "R/2022-04-01T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/428707"
+      },
+      {
+        "site": "mal",
+        "id": "31658"
+      },
+      {
+        "site": "anidb",
+        "id": "11966"
+      },
+      {
+        "site": "aniList",
+        "id": "21377"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GMTE00192522",
+        "begin": "2018-12-18T22:00:00.000Z",
+        "broadcast": "R/2018-12-18T22:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "劇場版しまじろうのわお! しまじろうと にじのオアシス",
+    "titleTranslate": {
+      "zh-Hans": [
+        "巧虎与彩虹的绿洲",
+        "剧场版 可爱巧虎岛 巧虎与彩虹绿洲",
+        "巧虎的彩虹绿洲"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://kodomo.benesse.ne.jp/open/movie/2017-oasis/",
+    "begin": "2017-03-09T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2017-03-09T17:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "208314"
+      },
+      {
+        "site": "unext",
+        "id": "SID0030684",
+        "begin": "2020-08-14T03:00:00.000Z",
+        "broadcast": "R/2020-08-14T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/474134"
+      },
+      {
+        "site": "mal",
+        "id": "34315"
+      },
+      {
+        "site": "anidb",
+        "id": "12518"
+      },
+      {
+        "site": "aniList",
+        "id": "111227"
+      }
+    ]
+  },
+  {
+    "title": "ひるね姫～知らないワタシの物語～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "午睡公主～我不为人知的故事～",
+        "午睡姬～我不为人知的故事～"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://wwws.warnerbros.co.jp/hirunehime/",
+    "begin": "2017-03-17T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2017-03-17T17:51:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "179798"
+      },
+      {
+        "site": "mikan",
+        "id": "1383"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/428288"
+      },
+      {
+        "site": "mal",
+        "id": "33204"
+      },
+      {
+        "site": "anidb",
+        "id": "12089"
+      },
+      {
+        "site": "aniList",
+        "id": "21788"
+      },
+      {
+        "site": "prime",
+        "id": "B075H442BY",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "DAYS OAD",
+    "titleTranslate": {},
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2017-03-16T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2017-05-14T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "192589"
+      },
+      {
+        "site": "mikan",
+        "id": "1392"
+      },
+      {
+        "site": "mal",
+        "id": "34008"
+      },
+      {
+        "site": "anidb",
+        "id": "12381"
+      },
+      {
+        "site": "aniList",
+        "id": "97607"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/66979/season/0"
+      }
+    ]
+  },
+  {
+    "title": "RedAsh -GEARWORLD-",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://animetamago.jp/2017/title.php?id=2",
+    "begin": "2017-03-10T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2017-03-10T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "184316"
+      },
+      {
+        "site": "danime",
+        "id": "23925",
+        "begin": "2020-05-01T01:00:00.000Z",
+        "broadcast": "R/2020-05-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/440676"
+      },
+      {
+        "site": "mal",
+        "id": "33391"
+      },
+      {
+        "site": "anidb",
+        "id": "11473"
+      },
+      {
+        "site": "aniList",
+        "id": "21843"
+      }
+    ]
+  },
+  {
+    "title": "ゴーちゃん。~モコとちんじゅうの森の仲間たち~",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2017-03-04T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2017-03-04T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "208313"
+      },
+      {
+        "site": "mal",
+        "id": "34527"
+      },
+      {
+        "site": "anidb",
+        "id": "12638"
+      },
+      {
+        "site": "aniList",
+        "id": "116785"
       }
     ]
   }

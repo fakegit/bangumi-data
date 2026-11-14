@@ -20,6 +20,71 @@
         "site": "iqiyi",
         "id": "a_19rrhb54vl",
         "begin": "2015-08-04T01:02:58.000Z"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/146084"
+      },
+      {
+        "site": "mal",
+        "id": "6028"
+      },
+      {
+        "site": "anidb",
+        "id": "2282"
+      },
+      {
+        "site": "aniList",
+        "id": "6028"
+      }
+    ]
+  },
+  {
+    "title": "キン肉マン 大暴れ!正義超人",
+    "titleTranslate": {
+      "zh-Hans": [
+        "筋肉人 大暴动！正义超人"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1984-12-21T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1984-12-21T16:48:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "215101"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003123",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "20315",
+        "begin": "2020-02-01T01:00:00.000Z",
+        "broadcast": "R/2020-02-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/672370"
+      },
+      {
+        "site": "mal",
+        "id": "3274"
+      },
+      {
+        "site": "anidb",
+        "id": "2283"
+      },
+      {
+        "site": "aniList",
+        "id": "3274"
       }
     ]
   }

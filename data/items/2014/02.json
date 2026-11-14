@@ -4,10 +4,16 @@
     "titleTranslate": {
       "zh-Hans": [
         "Happiness Charge 光之美少女!",
-        "HappinessCharge光之美少女！"
+        "HappinessCharge光之美少女！",
+        "Happiness Charge 光之美少女！",
+        "幸福爆发！光之美少女",
+        "填充幸福 光之美少女！",
+        "茶几Q娃",
+        "快充Q娃"
       ],
       "en": [
-        "Happiness Charge Precure!"
+        "Happiness Charge Precure!",
+        "HAPPINESSCHARGE PRECURE!"
       ]
     },
     "type": "tv",
@@ -17,23 +23,53 @@
     "end": "2015-01-25T00:00:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "m4xo5k60JGLFQ6s",
-        "begin": ""
-      },
-      {
         "site": "iqiyi",
         "id": "a_19rrh9v2tp",
         "begin": "2016-12-05T09:36:28.000Z"
       },
       {
-        "site": "letv",
-        "id": "95301",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "88348"
+      },
+      {
+        "site": "unext",
+        "id": "SID0023848",
+        "begin": "2021-04-27T03:00:00.000Z",
+        "broadcast": "R/2021-04-27T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "charge+光"
+      },
+      {
+        "site": "mikan",
+        "id": "282"
+      },
+      {
+        "site": "danime",
+        "id": "24390",
+        "begin": "2020-12-11T01:00:00.000Z",
+        "broadcast": "R/2020-12-11T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/105468"
+      },
+      {
+        "site": "mal",
+        "id": "21407"
+      },
+      {
+        "site": "anidb",
+        "id": "10282"
+      },
+      {
+        "site": "aniList",
+        "id": "20577"
+      },
+      {
+        "site": "acgnx",
+        "id": "光之 charge"
       }
     ]
   },
@@ -47,11 +83,6 @@
     "end": "2016-05-17T12:15:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "usAppg505CKFA88",
-        "begin": ""
-      },
-      {
         "site": "qq",
         "id": "k/kb68t18k7mu5a2b",
         "begin": "2014-03-04T12:00:00.000Z"
@@ -62,16 +93,6 @@
         "begin": "2014-09-12T06:33:05.000Z"
       },
       {
-        "site": "letv",
-        "id": "96073",
-        "begin": ""
-      },
-      {
-        "site": "sohu",
-        "id": "s2014/zgjqxs",
-        "begin": ""
-      },
-      {
         "site": "mgtv",
         "id": "100144",
         "begin": ""
@@ -79,6 +100,18 @@
       {
         "site": "bangumi",
         "id": "98367"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/108965"
+      },
+      {
+        "site": "mal",
+        "id": "33339"
+      },
+      {
+        "site": "aniList",
+        "id": "97756"
       }
     ]
   },
@@ -96,23 +129,37 @@
     "end": "2014-02-08T17:25:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "vpt181vBMWicSULg",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "63078"
       },
       {
         "site": "bilibili",
         "id": "5476",
-        "begin": "2014-02-07T16:00:01.000Z"
+        "begin": "2014-02-07T16:00:01.000Z",
+        "broadcast": "R/2016-08-29T03:00:00.000Z/P7D"
       },
       {
         "site": "youku",
         "id": "7023987049d011e3a705",
         "begin": "2014-08-13T09:53:02.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0011773",
+        "begin": "2020-01-11T03:00:00.000Z",
+        "broadcast": "R/2020-01-11T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/239526"
+      },
+      {
+        "site": "mal",
+        "id": "20969"
+      },
+      {
+        "site": "aniList",
+        "id": "20500"
       }
     ]
   },
@@ -130,18 +177,20 @@
     "end": "2015-02-25T16:05:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "HAPta9M5qedKyDA",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "97825"
       },
       {
-        "site": "bilibili",
-        "id": "2864",
-        "begin": "2014-02-21T16:00:00.000Z"
+        "site": "tmdb",
+        "id": "tv/60833/season/0"
+      },
+      {
+        "site": "mal",
+        "id": "23341"
+      },
+      {
+        "site": "aniList",
+        "id": "20679"
       }
     ]
   },
@@ -162,23 +211,41 @@
     "end": "2014-03-06T16:10:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "Vs2nJY3zY6EEguo",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "95300"
       },
       {
         "site": "nicovideo",
         "id": "wondermomo",
-        "begin": ""
+        "begin": "2014-02-05T06:50:36.000Z",
+        "broadcast": "R/2014-02-05T06:50:36.000Z/P7D"
       },
       {
         "site": "youku",
         "id": "e3795faaa03b11e3a705",
         "begin": "2014-02-28T06:26:33.000Z"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GR9P3G7V6",
+        "begin": "2014-02-04T11:26:39.000Z",
+        "broadcast": "R/2014-02-04T11:26:39.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/61538"
+      },
+      {
+        "site": "mal",
+        "id": "22377"
+      },
+      {
+        "site": "anidb",
+        "id": "10419"
+      },
+      {
+        "site": "aniList",
+        "id": "20616"
       }
     ]
   },
@@ -202,7 +269,8 @@
       {
         "site": "nicovideo",
         "id": "natsume-yuki",
-        "begin": ""
+        "begin": "2015-10-22T06:00:00.000Z",
+        "broadcast": "R/2015-10-22T06:00:00.000Z/P7D"
       },
       {
         "site": "iqiyi",
@@ -222,7 +290,42 @@
       {
         "site": "bilibili",
         "id": "3446",
-        "begin": "2013-12-14T16:00:00.000Z"
+        "begin": "2013-12-14T16:00:00.000Z",
+        "broadcast": "R/2016-03-17T08:21:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0017593",
+        "begin": "2017-10-01T03:00:00.000Z",
+        "broadcast": "R/2017-10-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "11432",
+        "begin": "2017-01-04T01:00:00.000Z",
+        "broadcast": "R/2017-01-04T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/69500/season/0/episode/7"
+      },
+      {
+        "site": "mal",
+        "id": "20651"
+      },
+      {
+        "site": "anidb",
+        "id": "10447"
+      },
+      {
+        "site": "aniList",
+        "id": "20478"
+      },
+      {
+        "site": "prime",
+        "id": "B0GC8C31V7",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -246,7 +349,24 @@
       {
         "site": "nicovideo",
         "id": "xmaiden",
-        "begin": ""
+        "begin": "2014-02-18T05:25:33.000Z",
+        "broadcast": "R/2014-02-18T05:25:33.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/112903"
+      },
+      {
+        "site": "mal",
+        "id": "22757"
+      },
+      {
+        "site": "anidb",
+        "id": "10396"
+      },
+      {
+        "site": "aniList",
+        "id": "21884"
       }
     ]
   },
@@ -268,19 +388,38 @@
         "id": "84864"
       },
       {
-        "site": "pptv",
-        "id": "aicvVU7shkc8ysBg",
-        "begin": ""
-      },
-      {
         "site": "bilibili",
         "id": "3419",
-        "begin": "2014-02-12T16:00:01.000Z"
+        "begin": "2014-02-12T16:00:01.000Z",
+        "broadcast": "R/2016-03-11T08:39:00.000Z/P7D"
       },
       {
         "site": "youku",
         "id": "c6e961cc914111e3b8b7",
         "begin": "2014-02-14T01:35:21.000Z"
+      },
+      {
+        "site": "danime",
+        "id": "26218",
+        "begin": "2023-03-01T01:00:00.000Z",
+        "broadcast": "R/2023-03-01T01:00:00.000Z/P7D",
+        "comment": "神憑り、神祟り, 春の日の約束: 26219"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/64710/season/0"
+      },
+      {
+        "site": "mal",
+        "id": "20767"
+      },
+      {
+        "site": "anidb",
+        "id": "10179"
+      },
+      {
+        "site": "aniList",
+        "id": "20494"
       }
     ]
   },
@@ -289,6 +428,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "乔瓦尼之岛"
+      ],
+      "zh-Hant": [
+        "喬望尼之島"
       ]
     },
     "type": "movie",
@@ -305,7 +447,24 @@
       {
         "site": "bilibili",
         "id": "4236",
-        "begin": "2014-02-21T16:00:00.000Z"
+        "begin": "2014-02-21T16:00:00.000Z",
+        "broadcast": "R/2016-05-31T07:37:17.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/239367"
+      },
+      {
+        "site": "mal",
+        "id": "19115"
+      },
+      {
+        "site": "anidb",
+        "id": "9921"
+      },
+      {
+        "site": "aniList",
+        "id": "19115"
       }
     ]
   },
@@ -330,13 +489,51 @@
       {
         "site": "bilibili",
         "id": "96632",
-        "begin": "2014-02-21T16:00:00.000Z"
+        "begin": "2014-02-21T16:00:00.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0026548",
+        "begin": "2019-09-24T03:00:00.000Z",
+        "broadcast": "R/2019-09-24T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "21083",
+        "begin": "2016-08-26T01:00:00.000Z",
+        "broadcast": "R/2016-08-26T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/239366"
+      },
+      {
+        "site": "mal",
+        "id": "14817"
+      },
+      {
+        "site": "anidb",
+        "id": "9293"
+      },
+      {
+        "site": "aniList",
+        "id": "14817"
       }
     ]
   },
   {
-    "title": "TIGER &amp; BUNNY -The Rising-",
-    "titleTranslate": {},
+    "title": "TIGER & BUNNY -The Rising-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "TIGER & BUNNY：崛起",
+        "老虎和兔子：崛起"
+      ],
+      "zh-Hant": [
+        "TIGER & BUNNY 劇場版：The Rising",
+        "劇場版 TIGER & BUNNY：The Rising"
+      ]
+    },
     "type": "movie",
     "lang": "ja",
     "officialSite": "http://www.tigerandbunny.net/main.html",
@@ -347,6 +544,30 @@
       {
         "site": "bangumi",
         "id": "66202"
+      },
+      {
+        "site": "nicovideo",
+        "id": "tiger_and_bunny_rising",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "25317",
+        "begin": "2024-12-25T15:00:00.000Z",
+        "broadcast": "R/2024-12-25T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/258807"
+      },
+      {
+        "site": "mal",
+        "id": "12017"
+      },
+      {
+        "site": "aniList",
+        "id": "12017"
       }
     ]
   }

@@ -15,6 +15,28 @@
       {
         "site": "bangumi",
         "id": "81012"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/115442"
+      },
+      {
+        "site": "mal",
+        "id": "616"
+      },
+      {
+        "site": "anidb",
+        "id": "1714"
+      },
+      {
+        "site": "aniList",
+        "id": "616"
+      },
+      {
+        "site": "danime",
+        "id": "29152",
+        "begin": "2026-08-06T15:00:00.000Z",
+        "broadcast": "R/2026-08-06T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -44,6 +66,34 @@
         "site": "iqiyi",
         "id": "a_19rrhb4015",
         "begin": "2016-02-04T10:34:13.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0010774",
+        "begin": "2018-07-27T03:00:00.000Z",
+        "broadcast": "R/2018-07-27T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0D61QHLX6",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/39108"
+      },
+      {
+        "site": "mal",
+        "id": "906"
+      },
+      {
+        "site": "anidb",
+        "id": "397"
+      },
+      {
+        "site": "aniList",
+        "id": "906"
       }
     ]
   },
@@ -68,6 +118,40 @@
         "site": "iqiyi",
         "id": "a_19rrhb405h",
         "begin": "2016-02-04T10:33:39.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002663",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "11056",
+        "begin": "2020-02-01T01:00:00.000Z",
+        "broadcast": "R/2020-02-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B015AFFSOW",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/338383"
+      },
+      {
+        "site": "mal",
+        "id": "2499"
+      },
+      {
+        "site": "anidb",
+        "id": "698"
+      },
+      {
+        "site": "aniList",
+        "id": "2499"
       }
     ]
   },
@@ -76,6 +160,13 @@
     "titleTranslate": {
       "zh-Hans": [
         "侧耳倾听"
+      ],
+      "zh-Hant": [
+        "心之谷",
+        "夢幻街少女"
+      ],
+      "en": [
+        "Whisper of the Heart"
       ]
     },
     "type": "movie",
@@ -92,6 +183,28 @@
       {
         "site": "bangumi",
         "id": "500"
+      },
+      {
+        "site": "netflix",
+        "id": "70045021",
+        "begin": "2020-03-30T16:00:00.000Z",
+        "broadcast": "R/2020-03-30T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/37797"
+      },
+      {
+        "site": "mal",
+        "id": "585"
+      },
+      {
+        "site": "anidb",
+        "id": "336"
+      },
+      {
+        "site": "aniList",
+        "id": "585"
       }
     ]
   },
@@ -109,13 +222,24 @@
     "end": "1996-06-25T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "Ej0Ihu5UxAJl40s",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "8357"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/62913/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "1225"
+      },
+      {
+        "site": "anidb",
+        "id": "3"
+      },
+      {
+        "site": "aniList",
+        "id": "1225"
       }
     ]
   },
@@ -124,6 +248,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "水晶国传说 初次旅行的冒险者们"
+      ],
+      "zh-Hant": [
+        "水晶國傳說～初次旅行的冒險者們～"
       ]
     },
     "type": "movie",
@@ -146,6 +273,28 @@
         "site": "qq",
         "id": "m/mzc00200of4fddo",
         "begin": ""
+      },
+      {
+        "site": "danime",
+        "id": "10725",
+        "begin": "2012-12-28T01:00:00.000Z",
+        "broadcast": "R/2012-12-28T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/31034"
+      },
+      {
+        "site": "mal",
+        "id": "515"
+      },
+      {
+        "site": "anidb",
+        "id": "1478"
+      },
+      {
+        "site": "aniList",
+        "id": "515"
       }
     ]
   },
@@ -166,6 +315,106 @@
       {
         "site": "bangumi",
         "id": "289828"
+      },
+      {
+        "site": "unext",
+        "id": "SID0018528",
+        "begin": "2015-12-01T03:00:00.000Z",
+        "broadcast": "R/2015-12-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "27772",
+        "begin": "2025-04-29T15:00:00.000Z",
+        "broadcast": "R/2025-04-29T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/390951"
+      },
+      {
+        "site": "mal",
+        "id": "10058"
+      },
+      {
+        "site": "aniList",
+        "id": "10058"
+      },
+      {
+        "site": "anidb",
+        "id": "7560"
+      }
+    ]
+  },
+  {
+    "title": "それいけ!アンパンマン アンパンマンとハッピーおたんじょう日",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.tms-e.co.jp/alltitles/anpanman/060316.html",
+    "begin": "1995-07-28T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1995-07-28T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "419214"
+      },
+      {
+        "site": "unext",
+        "id": "SID0018529",
+        "begin": "2015-12-01T03:00:00.000Z",
+        "broadcast": "R/2015-12-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/437640"
+      },
+      {
+        "site": "mal",
+        "id": "21933"
+      },
+      {
+        "site": "aniList",
+        "id": "121825"
+      },
+      {
+        "site": "anidb",
+        "id": "7755"
+      }
+    ]
+  },
+  {
+    "title": "カッタ君物語",
+    "titleTranslate": {
+      "zh-Hans": [
+        "卡塔君物语"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1995-07-11T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1995-07-11T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "318281"
+      },
+      {
+        "site": "mal",
+        "id": "21101"
+      },
+      {
+        "site": "anidb",
+        "id": "7514"
+      },
+      {
+        "site": "aniList",
+        "id": "180868"
       }
     ]
   }

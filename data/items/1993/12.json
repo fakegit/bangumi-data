@@ -15,6 +15,34 @@
       {
         "site": "bangumi",
         "id": "5435"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003249",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "11052",
+        "begin": "2017-06-01T01:00:00.000Z",
+        "broadcast": "R/2017-06-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/37100"
+      },
+      {
+        "site": "mal",
+        "id": "531"
+      },
+      {
+        "site": "anidb",
+        "id": "2152"
+      },
+      {
+        "site": "aniList",
+        "id": "531"
       }
     ]
   },
@@ -34,6 +62,30 @@
       {
         "site": "bangumi",
         "id": "27358"
+      },
+      {
+        "site": "unext",
+        "id": "SID0078560",
+        "begin": "2023-03-01T03:00:00.000Z",
+        "broadcast": "R/2023-03-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/539172"
+      },
+      {
+        "site": "danime",
+        "id": "24937",
+        "begin": "2025-12-21T15:00:00.000Z",
+        "broadcast": "R/2025-12-21T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "2937"
+      },
+      {
+        "site": "aniList",
+        "id": "2937"
       }
     ]
   },
@@ -50,11 +102,6 @@
     "begin": "1993-12-22T16:00:00.000Z",
     "end": "1993-12-22T16:30:00.000Z",
     "sites": [
-      {
-        "site": "pptv",
-        "id": "7kUvrRV76ymMCnI",
-        "begin": ""
-      },
       {
         "site": "bangumi",
         "id": "41863"
@@ -78,6 +125,40 @@
       {
         "site": "bangumi",
         "id": "79656"
+      },
+      {
+        "site": "bilibili",
+        "id": "3993",
+        "begin": "2016-05-16T05:49:00.000Z",
+        "broadcast": "R/2016-05-16T05:49:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0012536",
+        "begin": "2018-04-06T03:00:00.000Z",
+        "broadcast": "R/2018-04-06T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "20143",
+        "begin": "2015-06-19T01:00:00.000Z",
+        "broadcast": "R/2015-06-19T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/154727"
+      },
+      {
+        "site": "mal",
+        "id": "3016"
+      },
+      {
+        "site": "anidb",
+        "id": "1308"
+      },
+      {
+        "site": "aniList",
+        "id": "3016"
       }
     ]
   },
@@ -86,6 +167,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "怪医黑杰克 OVA"
+      ],
+      "zh-Hant": [
+        "怪醫黑傑克 OVA"
       ]
     },
     "type": "ova",
@@ -103,6 +187,317 @@
         "site": "qq",
         "id": "r/rvgznkzbxzhrpcn",
         "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "2797",
+        "begin": "2017-09-29T07:18:00.000Z",
+        "broadcast": "R/2017-09-29T07:18:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "11467",
+        "begin": "2014-09-30T01:00:00.000Z",
+        "broadcast": "R/2014-09-30T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002415",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "39474",
+        "begin": "2015-12-13T16:00:00.000Z",
+        "broadcast": "R/2015-12-13T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "muse_tw",
+        "id": "PL12UaAf_xzfqs2CMZxi_h_xKnqibRY03c",
+        "begin": "2019-07-13T00:00:00.000Z",
+        "broadcast": "R/2019-07-13T00:00:00.000Z/P7D",
+        "comment": "國語: PL12UaAf_xzfoxJOHeiOtTm2p7X0XQw0-7"
+      },
+      {
+        "site": "prime",
+        "id": "B06XTY8Z93",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/30083"
+      },
+      {
+        "site": "mal",
+        "id": "1520"
+      },
+      {
+        "site": "anidb",
+        "id": "686"
+      },
+      {
+        "site": "aniList",
+        "id": "1521"
+      }
+    ]
+  },
+  {
+    "title": "超時空世紀オーガス02",
+    "titleTranslate": {
+      "zh-Hans": [
+        "超时空世纪02"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1993-12-04T16:00:00.000Z",
+    "end": "1995-01-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "37173"
+      },
+      {
+        "site": "bilibili",
+        "id": "4004",
+        "begin": "2016-05-17T07:06:00.000Z",
+        "broadcast": "R/2016-05-17T07:06:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/96740"
+      },
+      {
+        "site": "mal",
+        "id": "2090"
+      },
+      {
+        "site": "anidb",
+        "id": "1326"
+      },
+      {
+        "site": "aniList",
+        "id": "2090"
+      }
+    ]
+  },
+  {
+    "title": "紺碧の艦隊",
+    "titleTranslate": {
+      "zh-Hans": [
+        "绀碧舰队"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1993-12-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2003-10-21T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "121495"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002602",
+        "begin": "2019-11-29T03:00:00.000Z",
+        "broadcast": "R/2019-11-29T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "20982",
+        "begin": "2016-07-22T01:00:00.000Z",
+        "broadcast": "R/2016-07-22T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0CBB6VG1Q",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/116355"
+      },
+      {
+        "site": "mal",
+        "id": "6229"
+      },
+      {
+        "site": "anidb",
+        "id": "4286"
+      },
+      {
+        "site": "aniList",
+        "id": "6229"
+      }
+    ]
+  },
+  {
+    "title": "ぼくの地球を守って",
+    "titleTranslate": {
+      "zh-Hans": [
+        "地球守护灵",
+        "守护我们的地球"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1993-12-16T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1994-09-22T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "35761"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002326",
+        "begin": "2019-11-30T03:00:00.000Z",
+        "broadcast": "R/2019-11-30T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10224",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/65967"
+      },
+      {
+        "site": "mal",
+        "id": "526"
+      },
+      {
+        "site": "anidb",
+        "id": "327"
+      },
+      {
+        "site": "aniList",
+        "id": "526"
+      }
+    ]
+  },
+  {
+    "title": "Coo 遠い海から来たクー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "深海的童話"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1993-12-10T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1993-12-10T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "83329"
+      },
+      {
+        "site": "mal",
+        "id": "2055"
+      },
+      {
+        "site": "anidb",
+        "id": "2801"
+      },
+      {
+        "site": "aniList",
+        "id": "2055"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/174712"
+      }
+    ]
+  },
+  {
+    "title": "蒼い記憶 満蒙開拓と少年たち",
+    "titleTranslate": {
+      "zh-Hans": [
+        "藏青色的记忆 满蒙开拓和少年们"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1993-12-17T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1993-12-17T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "518859"
+      },
+      {
+        "site": "mal",
+        "id": "17117"
+      },
+      {
+        "site": "anidb",
+        "id": "4179"
+      },
+      {
+        "site": "aniList",
+        "id": "17117"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1448917"
+      }
+    ]
+  },
+  {
+    "title": "MOTHER 最後の少女イヴ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "MOTHER 最后的少女EVE"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1993-12-25T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1993-12-25T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "211167"
+      },
+      {
+        "site": "mal",
+        "id": "1154"
+      },
+      {
+        "site": "anidb",
+        "id": "2479"
+      },
+      {
+        "site": "aniList",
+        "id": "1154"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/42071"
       }
     ]
   }

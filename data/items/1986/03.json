@@ -13,11 +13,6 @@
     "end": "1987-01-31T16:00:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "sX9KyDCWBkSnJY0",
-        "begin": ""
-      },
-      {
         "site": "qq",
         "id": "3/345d7yjkinr4vl8",
         "begin": ""
@@ -25,6 +20,40 @@
       {
         "site": "bangumi",
         "id": "4213"
+      },
+      {
+        "site": "unext",
+        "id": "SID0012899",
+        "begin": "2008-10-31T15:00:00.000Z",
+        "broadcast": "R/2008-10-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0DJQ5W871",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "11334",
+        "begin": "2025-04-10T15:00:00.000Z",
+        "broadcast": "R/2025-04-10T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/5660"
+      },
+      {
+        "site": "mal",
+        "id": "86"
+      },
+      {
+        "site": "anidb",
+        "id": "719"
+      },
+      {
+        "site": "aniList",
+        "id": "86"
       }
     ]
   },
@@ -49,6 +78,34 @@
         "site": "iqiyi",
         "id": "a_19rrhb4kld",
         "begin": "2015-08-11T08:03:32.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002204",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "24688",
+        "begin": "2022-06-15T01:00:00.000Z",
+        "broadcast": "R/2022-06-15T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/622488"
+      },
+      {
+        "site": "mal",
+        "id": "8153"
+      },
+      {
+        "site": "anidb",
+        "id": "2284"
+      },
+      {
+        "site": "aniList",
+        "id": "8153"
       }
     ]
   },
@@ -66,18 +123,8 @@
     "end": "1986-03-15T17:30:00.000Z",
     "sites": [
       {
-        "site": "letv",
-        "id": "80863",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "442"
-      },
-      {
-        "site": "pptv",
-        "id": "7qoHhe1TwwFk4ko",
-        "begin": ""
       },
       {
         "site": "qq",
@@ -88,6 +135,34 @@
         "site": "bilibili",
         "id": "2554",
         "begin": "1986-03-14T16:00:00.000Z"
+      },
+      {
+        "site": "abema",
+        "id": "35-96",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0099850",
+        "begin": "2024-03-05T03:00:00.000Z",
+        "broadcast": "R/2024-03-05T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/88625"
+      },
+      {
+        "site": "mal",
+        "id": "2665"
+      },
+      {
+        "site": "aniList",
+        "id": "2665"
+      },
+      {
+        "site": "anidb",
+        "id": "4674"
       }
     ]
   },
@@ -105,13 +180,297 @@
     "end": "1988-03-02T12:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "n9CsKpL4aKYJhib8",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "2921"
+      },
+      {
+        "site": "unext",
+        "id": "SID0017131",
+        "begin": "2025-10-01T03:00:00.000Z",
+        "broadcast": "R/2025-10-01T03:00:00.000Z/P7D",
+        "comment": "#49-96: SID0017605"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/43018"
+      },
+      {
+        "site": "mal",
+        "id": "1453"
+      },
+      {
+        "site": "anidb",
+        "id": "288"
+      },
+      {
+        "site": "aniList",
+        "id": "1453"
+      }
+    ]
+  },
+  {
+    "title": "Mr.ペンペン",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1986-03-30T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1986-03-30T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "313669"
+      },
+      {
+        "site": "unext",
+        "id": "SID0004900",
+        "begin": "2016-02-18T15:00:00.000Z",
+        "broadcast": "R/2016-02-18T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23316",
+        "begin": "2020-03-06T01:00:00.000Z",
+        "broadcast": "R/2020-03-06T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1008431"
+      },
+      {
+        "site": "mal",
+        "id": "17603"
+      },
+      {
+        "site": "anidb",
+        "id": "7363"
+      },
+      {
+        "site": "aniList",
+        "id": "17603"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 世紀末救世主伝説 北斗の拳",
+    "titleTranslate": {
+      "zh-Hans": [
+        "北斗神拳 剧场版",
+        "北斗神拳 旧剧场版",
+        "世纪末救世主传说 北斗神拳 剧场版"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.anime-bb.com/tv_hokuto/index.html",
+    "begin": "1986-03-07T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1986-03-07T17:50:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "82714"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003355",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23229",
+        "begin": "2020-03-06T01:00:00.000Z",
+        "broadcast": "R/2020-03-06T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/19877"
+      },
+      {
+        "site": "mal",
+        "id": "1358"
+      },
+      {
+        "site": "anidb",
+        "id": "211"
+      },
+      {
+        "site": "aniList",
+        "id": "1358"
+      }
+    ]
+  },
+  {
+    "title": "キン肉マン ニューヨーク危機一髪!",
+    "titleTranslate": {
+      "zh-Hans": [
+        "筋肉人 纽约命悬一线！"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1986-03-14T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1986-03-14T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "215105"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003119",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "20319",
+        "begin": "2020-02-01T01:00:00.000Z",
+        "broadcast": "R/2020-02-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/672387"
+      },
+      {
+        "site": "mal",
+        "id": "3278"
+      },
+      {
+        "site": "anidb",
+        "id": "2308"
+      },
+      {
+        "site": "aniList",
+        "id": "3278"
+      }
+    ]
+  },
+  {
+    "title": "魔法のアイドルパステルユーミ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "魔法偶像神笔由美",
+        "爱花仙子",
+        "阿美阿美"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1986-03-06T16:00:00.000Z",
+    "broadcast": "R/1986-03-06T16:00:00.000Z/P7D",
+    "end": "1986-08-28T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "67781"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003324",
+        "begin": "2024-06-27T15:00:00.000Z",
+        "broadcast": "R/2024-06-27T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "27149",
+        "begin": "2024-06-27T15:00:00.000Z",
+        "broadcast": "R/2024-06-27T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/28460"
+      },
+      {
+        "site": "mal",
+        "id": "3660"
+      },
+      {
+        "site": "anidb",
+        "id": "2555"
+      },
+      {
+        "site": "aniList",
+        "id": "3660"
+      }
+    ]
+  },
+  {
+    "title": "アリオン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "亚里安"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1986-03-14T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1986-03-14T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "24683"
+      },
+      {
+        "site": "mal",
+        "id": "791"
+      },
+      {
+        "site": "anidb",
+        "id": "398"
+      },
+      {
+        "site": "aniList",
+        "id": "791"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/22679"
+      }
+    ]
+  },
+  {
+    "title": "プロゴルファー猿 スーパーGOLFワールドへの挑戦!!",
+    "titleTranslate": {
+      "zh-Hans": [
+        "球场小神将:到超级高尔夫世界的挑战!!"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1986-03-14T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1986-03-14T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "189444"
+      },
+      {
+        "site": "mal",
+        "id": "17317"
+      },
+      {
+        "site": "anidb",
+        "id": "7575"
+      },
+      {
+        "site": "aniList",
+        "id": "17317"
       }
     ]
   }

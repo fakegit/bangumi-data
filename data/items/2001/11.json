@@ -15,6 +15,28 @@
       {
         "site": "bangumi",
         "id": "112452"
+      },
+      {
+        "site": "danime",
+        "id": "10492",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/44659"
+      },
+      {
+        "site": "mal",
+        "id": "2277"
+      },
+      {
+        "site": "aniList",
+        "id": "2277"
+      },
+      {
+        "site": "anidb",
+        "id": "1393"
       }
     ]
   },
@@ -39,6 +61,22 @@
         "site": "bilibili",
         "id": "5278",
         "begin": "2001-11-20T16:00:01.000Z"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/45271"
+      },
+      {
+        "site": "mal",
+        "id": "361"
+      },
+      {
+        "site": "anidb",
+        "id": "120"
+      },
+      {
+        "site": "aniList",
+        "id": "361"
       }
     ]
   }

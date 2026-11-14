@@ -3,7 +3,11 @@
     "title": "デート・ア・バレット　デッド・オア・バレット",
     "titleTranslate": {
       "zh-Hans": [
+        "约会大作战 赤黑新章：虚或实",
         "约战狂三外传 虚或实篇"
+      ],
+      "zh-Hant": [
+        "約會大作戰 DATE A BULLET 赤黑新章：虛或實"
       ]
     },
     "type": "movie",
@@ -20,12 +24,508 @@
       {
         "site": "bilibili",
         "id": "28229874",
-        "begin": "2020-09-29T16:00:01.000Z"
+        "begin": "2020-09-29T16:00:01.000Z",
+        "broadcast": ""
       },
       {
         "site": "nicovideo",
         "id": "date-a-bullet-movie1",
         "begin": ""
+      },
+      {
+        "site": "gamer",
+        "id": "107857",
+        "begin": "2021-05-21T09:00:00.000Z",
+        "broadcast": "R/2021-05-21T09:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28234240",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0052638",
+        "begin": "2021-03-24T03:00:00.000Z",
+        "broadcast": "R/2021-03-24T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2394"
+      },
+      {
+        "site": "danime",
+        "id": "25192",
+        "begin": "2021-12-23T15:00:00.000Z",
+        "broadcast": "R/2021-12-23T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/685099"
+      },
+      {
+        "site": "mal",
+        "id": "40416"
+      },
+      {
+        "site": "aniList",
+        "id": "111852"
+      },
+      {
+        "site": "anidb",
+        "id": "15100"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 Fate/stay night [Heaven's Feel] III.spring song",
+    "titleTranslate": {
+      "zh-Hans": [
+        "命运之夜——天之杯 Ⅲ：春之歌"
+      ],
+      "zh-Hant": [
+        "Fate/stay night [Heaven's Feel]：III. 春櫻之歌",
+        "Fate/stay night [Heaven's Feel] Ⅲ.春櫻之歌"
+      ],
+      "en": [
+        "Fate/Stay Night: Heaven's Feel - III. Spring Song"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.fate-sn.com/",
+    "begin": "2020-08-14T16:00:00.000Z",
+    "end": "2020-08-14T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "175600"
+      },
+      {
+        "site": "gamer",
+        "id": "107012",
+        "begin": "2021-12-03T07:50:00.000Z",
+        "broadcast": "R/2021-12-03T07:50:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "20266397",
+        "begin": "2020-06-21T09:00:00.000Z",
+        "broadcast": "R/2020-06-21T09:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0059225",
+        "begin": "2021-06-30T15:00:00.000Z",
+        "broadcast": "R/2021-06-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "107012",
+        "begin": "2021-12-03T07:50:00.000Z",
+        "broadcast": "R/2021-12-03T07:50:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "60901bfd22aa3e0007a795d6"
+      },
+      {
+        "site": "mikan",
+        "id": "2397"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/390635"
+      },
+      {
+        "site": "mal",
+        "id": "33050"
+      },
+      {
+        "site": "aniList",
+        "id": "21719"
+      },
+      {
+        "site": "danime",
+        "id": "29384",
+        "begin": "2026-10-29T15:00:00.000Z",
+        "broadcast": "R/2026-10-29T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "映画 ギヴン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "电影 GIVEN"
+      ],
+      "zh-Hant": [
+        "GIVEN 被贈與的未來 劇場版"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://given-anime.com/",
+    "begin": "2022-08-21T16:00:00.000Z",
+    "end": "2022-08-21T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "290993"
+      },
+      {
+        "site": "gamer",
+        "id": "109956",
+        "begin": "2021-05-06T09:00:00.000Z",
+        "broadcast": "R/2021-05-06T09:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0073861",
+        "begin": "2022-10-04T03:00:00.000Z",
+        "broadcast": "R/2022-10-04T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2482"
+      },
+      {
+        "site": "danime",
+        "id": "26798",
+        "begin": "2023-12-31T15:00:00.000Z",
+        "broadcast": "R/2023-12-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0DN4SP31X",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/632632"
+      },
+      {
+        "site": "mal",
+        "id": "40421"
+      },
+      {
+        "site": "anidb",
+        "id": "15102"
+      },
+      {
+        "site": "aniList",
+        "id": "111734"
+      }
+    ]
+  },
+  {
+    "title": "少女☆歌劇 レヴュースタァライト ロンド・ロンド・ロンド",
+    "titleTranslate": {
+      "zh-Hans": [
+        "少女☆歌剧 Revue Starlight RONDO·RONDO·RONDO",
+        "少女☆歌剧 Revue Starlight 再生产总集篇"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://cinema.revuestarlight.com/",
+    "begin": "2020-08-06T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2020-08-06T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "294134"
+      },
+      {
+        "site": "unext",
+        "id": "SID0054938",
+        "begin": "2021-02-24T03:00:00.000Z",
+        "broadcast": "R/2021-02-24T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "24730",
+        "begin": "2021-05-14T01:00:00.000Z",
+        "broadcast": "R/2021-05-14T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/645439"
+      },
+      {
+        "site": "mal",
+        "id": "40665"
+      },
+      {
+        "site": "anidb",
+        "id": "15254"
+      },
+      {
+        "site": "aniList",
+        "id": "113023"
+      }
+    ]
+  },
+  {
+    "title": "僕のヒーローアカデミアOVA 生き残れ！決死のサバイバル訓練",
+    "titleTranslate": {
+      "zh-Hans": [
+        "我的英雄学院OVA 活下来！殊死的生存训练"
+      ],
+      "zh-Hant": [
+        "我的英雄學院OVA: 活下來! 殊死的生存訓練",
+        "我的英雄學院 OVA：活下來！殊死的生存訓練"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "https://heroaca.com/",
+    "begin": "2020-08-15T16:00:00.000Z",
+    "end": "2020-08-15T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "339266"
+      },
+      {
+        "site": "gamer",
+        "id": "113078",
+        "begin": "2020-08-18T06:00:00.000Z",
+        "broadcast": "R/2020-08-18T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "1WUo7sgngr1w",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0050432",
+        "begin": "2020-08-30T03:00:00.000Z",
+        "broadcast": "R/2020-08-30T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "113078",
+        "begin": "2020-08-18T06:00:00.000Z",
+        "broadcast": "R/2020-08-18T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "24154",
+        "begin": "2020-08-29T15:00:00.000Z",
+        "broadcast": "R/2020-08-29T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/65930/season/0/episode/6"
+      },
+      {
+        "site": "mal",
+        "id": "42603"
+      },
+      {
+        "site": "anidb",
+        "id": "15672"
+      },
+      {
+        "site": "aniList",
+        "id": "122349"
+      }
+    ]
+  },
+  {
+    "title": "映画ドラえもん のび太の新恐竜",
+    "titleTranslate": {
+      "zh-Hans": [
+        "哆啦A梦：大雄的新恐龙",
+        "电影哆啦A梦：大雄的新恐龙"
+      ],
+      "zh-Hant": [
+        "電影哆啦A夢: 大雄的新恐龍"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://doraeiga.com/2020/",
+    "begin": "2020-08-06T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2020-08-06T17:50:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "285759"
+      },
+      {
+        "site": "abema",
+        "id": "35-129",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0099893",
+        "begin": "2024-03-05T03:00:00.000Z",
+        "broadcast": "R/2024-03-05T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2403"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/682153"
+      },
+      {
+        "site": "mal",
+        "id": "40044"
+      },
+      {
+        "site": "anidb",
+        "id": "14984"
+      },
+      {
+        "site": "aniList",
+        "id": "113669"
+      }
+    ]
+  },
+  {
+    "title": "バトルスピリッツ 赫盟のガレット",
+    "titleTranslate": {
+      "zh-Hans": [
+        "战斗之魂 赫盟的加雷特"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://www.bn-pictures.co.jp/battlespirits/BS2020/",
+    "begin": "2020-08-27T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2021-04-22T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "299139"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/125429"
+      },
+      {
+        "site": "mal",
+        "id": "41137"
+      },
+      {
+        "site": "anidb",
+        "id": "15368"
+      },
+      {
+        "site": "aniList",
+        "id": "114943"
+      },
+      {
+        "site": "danime",
+        "id": "25311",
+        "begin": "2026-09-30T15:00:00.000Z",
+        "broadcast": "R/2026-09-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0068481",
+        "begin": "2026-10-06T03:00:00.000Z",
+        "broadcast": "R/2026-10-06T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "映画 ふしぎ駄菓子屋 銭天堂　つりたい焼き",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2020-08-13T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2020-08-13T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "unext",
+        "id": "SID0089835",
+        "begin": "2023-08-05T03:00:00.000Z",
+        "broadcast": "R/2023-08-05T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1192238"
+      },
+      {
+        "site": "mal",
+        "id": "42296"
+      },
+      {
+        "site": "anidb",
+        "id": "15424"
+      },
+      {
+        "site": "aniList",
+        "id": "156063"
+      }
+    ]
+  },
+  {
+    "title": "おしりたんてい テントウムシいせきの なぞ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "屁屁侦探 瓢虫遗迹之谜"
+      ],
+      "zh-Hant": [
+        "屁屁偵探：瓢蟲遺蹟之謎"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.oshiri-tantei.com/",
+    "begin": "2020-08-13T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2020-08-13T16:40:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "341389"
+      },
+      {
+        "site": "danime",
+        "id": "24998",
+        "begin": "2021-08-27T01:00:00.000Z",
+        "broadcast": "R/2021-08-27T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/829864"
+      },
+      {
+        "site": "mal",
+        "id": "40863"
+      },
+      {
+        "site": "anidb",
+        "id": "15310"
+      },
+      {
+        "site": "aniList",
+        "id": "116224"
       }
     ]
   }

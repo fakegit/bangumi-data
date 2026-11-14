@@ -20,6 +20,162 @@
       {
         "site": "bangumi",
         "id": "4025"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/113219"
+      },
+      {
+        "site": "mal",
+        "id": "3312"
+      },
+      {
+        "site": "anidb",
+        "id": "532"
+      },
+      {
+        "site": "aniList",
+        "id": "3312"
+      }
+    ]
+  },
+  {
+    "title": "またまたセイバーマリオネットJ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "机械女神J again"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1997-11-24T16:00:00.000Z",
+    "end": "1997-11-24T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "6297"
+      },
+      {
+        "site": "bilibili",
+        "id": "3265",
+        "begin": "2016-01-05T06:16:58.000Z",
+        "broadcast": "R/2016-01-05T06:16:58.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26878",
+        "begin": "2024-01-31T15:00:00.000Z",
+        "broadcast": "R/2024-01-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/305298"
+      },
+      {
+        "site": "mal",
+        "id": "1191"
+      },
+      {
+        "site": "anidb",
+        "id": "62"
+      },
+      {
+        "site": "aniList",
+        "id": "1191"
+      }
+    ]
+  },
+  {
+    "title": "フォトン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "妙笔小呆",
+        "光子"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1997-11-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1999-02-17T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "75515"
+      },
+      {
+        "site": "unext",
+        "id": "SID0090903",
+        "begin": "2023-07-31T15:00:00.000Z",
+        "broadcast": "R/2023-07-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26532",
+        "begin": "2023-07-31T15:00:00.000Z",
+        "broadcast": "R/2023-07-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/39383"
+      },
+      {
+        "site": "mal",
+        "id": "1944"
+      },
+      {
+        "site": "anidb",
+        "id": "139"
+      },
+      {
+        "site": "aniList",
+        "id": "1944"
+      }
+    ]
+  },
+  {
+    "title": "音響生命体ノイズマン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "音响生命体"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://studio4c.co.jp/works/pages/03.html",
+    "begin": "1997-11-21T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1997-11-21T16:15:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "5491"
+      },
+      {
+        "site": "danime",
+        "id": "23929",
+        "begin": "2020-05-01T01:00:00.000Z",
+        "broadcast": "R/2020-05-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/72188"
+      },
+      {
+        "site": "mal",
+        "id": "1978"
+      },
+      {
+        "site": "anidb",
+        "id": "1165"
+      },
+      {
+        "site": "aniList",
+        "id": "1978"
       }
     ]
   }

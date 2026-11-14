@@ -3,9 +3,13 @@
     "title": "キングダム",
     "titleTranslate": {
       "en": [
-        "KINGDOM"
+        "KINGDOM",
+        "Kingdom Chapter 1"
       ],
       "zh-Hans": [
+        "王者天下"
+      ],
+      "zh-Hant": [
         "王者天下"
       ]
     },
@@ -30,14 +34,64 @@
         "begin": "2015-12-24T15:00:00.000Z"
       },
       {
-        "site": "bilibili",
-        "id": "582",
-        "begin": "2012-06-03T16:00:00.000Z"
+        "site": "gamer",
+        "id": "53052",
+        "begin": "2020-06-04T03:30:00.000Z",
+        "broadcast": "R/2020-06-04T03:30:00.000Z/P7D"
       },
       {
-        "site": "acfun",
-        "id": "6002257",
-        "begin": "2020-04-30T03:00:00.000Z"
+        "site": "unext",
+        "id": "SID0014598",
+        "begin": "2012-06-15T06:00:00.000Z",
+        "broadcast": "R/2012-06-15T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "53052",
+        "begin": "2020-06-04T03:30:00.000Z",
+        "broadcast": "R/2020-06-04T03:30:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "王者天下"
+      },
+      {
+        "site": "danime",
+        "id": "20523",
+        "begin": "2016-01-15T01:00:00.000Z",
+        "broadcast": "R/2016-01-15T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B01JGTL0WC",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "disneyplus",
+        "id": "3caNQEt8Sljs",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/46437"
+      },
+      {
+        "site": "mal",
+        "id": "12031"
+      },
+      {
+        "site": "anidb",
+        "id": "8791"
+      },
+      {
+        "site": "aniList",
+        "id": "12031"
+      },
+      {
+        "site": "acgnx",
+        "id": "王者天下"
       }
     ]
   },
@@ -45,7 +99,17 @@
     "title": "ポケットモンスター ベストウイッシュ シーズン2",
     "titleTranslate": {
       "zh-Hans": [
-        "精灵宝可梦 超级愿望 第2季"
+        "精灵宝可梦 超级愿望 第2季",
+        "神奇宝贝超级愿望 第2季",
+        "神奇宝贝BW",
+        "口袋妖怪 Best Wishes",
+        "神奇宝贝 最好的祝福",
+        "宠物小精灵 最好的祝福",
+        "神奇宝贝 Best Wishes",
+        "宠物小精灵 Best Wishes"
+      ],
+      "zh-Hant": [
+        "寶可夢超級願望 第二季"
       ]
     },
     "type": "tv",
@@ -55,11 +119,6 @@
     "end": "2013-09-26T10:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "icFdBvyeNicTueHIQ",
-        "begin": ""
-      },
-      {
         "site": "qq",
         "id": "h/hibacbz0801byjb",
         "begin": ""
@@ -67,6 +126,22 @@
       {
         "site": "bangumi",
         "id": "40081"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/60572/season/15"
+      },
+      {
+        "site": "mal",
+        "id": "14093"
+      },
+      {
+        "site": "anidb",
+        "id": "9216"
+      },
+      {
+        "site": "aniList",
+        "id": "14093"
       }
     ]
   },
@@ -86,6 +161,10 @@
       {
         "site": "bangumi",
         "id": "47730"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1274258"
       }
     ]
   },
@@ -103,18 +182,30 @@
     "end": "2012-06-15T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "F0dBvyeNicTueHIQ",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "42253"
       },
       {
         "site": "bilibili",
         "id": "4524",
-        "begin": "2012-06-15T16:00:00.000Z"
+        "begin": "2012-06-15T16:00:00.000Z",
+        "broadcast": "R/2016-06-06T08:20:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/582751"
+      },
+      {
+        "site": "mal",
+        "id": "14479"
+      },
+      {
+        "site": "anidb",
+        "id": "9277"
+      },
+      {
+        "site": "aniList",
+        "id": "14479"
       }
     ]
   },
@@ -144,9 +235,16 @@
         "begin": "2017-03-03T06:00:00.000Z"
       },
       {
-        "site": "netflix",
-        "id": "70276596",
-        "begin": "2017-09-01T07:00:00.000Z"
+        "site": "tmdb",
+        "id": "movie/118412"
+      },
+      {
+        "site": "mal",
+        "id": "12113"
+      },
+      {
+        "site": "aniList",
+        "id": "12113"
       }
     ]
   },
@@ -173,19 +271,43 @@
         "begin": ""
       },
       {
-        "site": "letv",
-        "id": "85725",
-        "begin": ""
-      },
-      {
         "site": "bilibili",
         "id": "3805",
-        "begin": "2012-06-15T16:00:01.000Z"
+        "begin": "2012-06-15T16:00:01.000Z",
+        "broadcast": ""
       },
       {
         "site": "qq",
         "id": "m/mzc00200z3lzano",
         "begin": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0015921",
+        "begin": "2019-11-29T03:00:00.000Z",
+        "broadcast": "R/2019-11-29T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10789",
+        "begin": "2013-04-09T01:00:00.000Z",
+        "broadcast": "R/2013-04-09T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/168273"
+      },
+      {
+        "site": "mal",
+        "id": "11001"
+      },
+      {
+        "site": "anidb",
+        "id": "8885"
+      },
+      {
+        "site": "aniList",
+        "id": "11001"
       }
     ]
   },
@@ -207,9 +329,20 @@
         "id": "41612"
       },
       {
-        "site": "pptv",
-        "id": "pkAsqhJ46CaJB28",
-        "begin": ""
+        "site": "tmdb",
+        "id": "tv/62742/season/0"
+      },
+      {
+        "site": "mal",
+        "id": "13055"
+      },
+      {
+        "site": "anidb",
+        "id": "8969"
+      },
+      {
+        "site": "aniList",
+        "id": "13055"
       }
     ]
   },
@@ -230,6 +363,63 @@
       {
         "site": "bangumi",
         "id": "45841"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/222766"
+      },
+      {
+        "site": "mal",
+        "id": "15219"
+      },
+      {
+        "site": "aniList",
+        "id": "15219"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 BLOOD-C The Last Dark",
+    "titleTranslate": {
+      "zh-Hans": [
+        "BLOOD-C The Last Dark"
+      ],
+      "zh-Hant": [
+        "血戰-C：The Last Dark"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://blood-c-movie.jp/index.html",
+    "begin": "2012-06-01T16:00:00.000Z",
+    "end": "2012-06-01T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "23626"
+      },
+      {
+        "site": "unext",
+        "id": "SID0091388",
+        "begin": "2023-09-01T03:00:00.000Z",
+        "broadcast": "R/2023-09-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/171823"
+      },
+      {
+        "site": "mal",
+        "id": "10681"
+      },
+      {
+        "site": "anidb",
+        "id": "8375"
+      },
+      {
+        "site": "aniList",
+        "id": "10681"
       }
     ]
   }

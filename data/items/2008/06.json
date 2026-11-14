@@ -4,7 +4,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "超能力少女兰",
-        "心灵感应少女兰"
+        "心灵感应少女兰",
+        "超能少女兰",
+        "心灵感应少女 兰"
       ]
     },
     "type": "tv",
@@ -14,18 +16,30 @@
     "end": "2008-12-20T09:50:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "GCgTkflfzw1w7lY",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "20683"
       },
       {
         "site": "bilibili",
         "id": "4799",
-        "begin": "2008-06-20T16:00:01.000Z"
+        "begin": "2008-06-20T16:00:01.000Z",
+        "broadcast": "R/2016-06-14T04:23:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/35984"
+      },
+      {
+        "site": "mal",
+        "id": "3668"
+      },
+      {
+        "site": "anidb",
+        "id": "5655"
+      },
+      {
+        "site": "aniList",
+        "id": "3668"
       }
     ]
   },
@@ -33,7 +47,9 @@
     "title": "一騎当千 Great Guardians",
     "titleTranslate": {
       "zh-Hans": [
-        "一骑当千 Great Guardians"
+        "一骑当千 Great Guardians",
+        "一骑当千GG",
+        "一骑当千 第三部"
       ]
     },
     "type": "tv",
@@ -45,6 +61,34 @@
       {
         "site": "bangumi",
         "id": "4841"
+      },
+      {
+        "site": "unext",
+        "id": "SID0017668",
+        "begin": "2019-11-30T03:00:00.000Z",
+        "broadcast": "R/2019-11-30T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10691",
+        "begin": "2012-12-07T01:00:00.000Z",
+        "broadcast": "R/2012-12-07T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/37584/season/3"
+      },
+      {
+        "site": "mal",
+        "id": "4196"
+      },
+      {
+        "site": "anidb",
+        "id": "5749"
+      },
+      {
+        "site": "aniList",
+        "id": "4196"
       }
     ]
   },
@@ -65,13 +109,30 @@
     "end": "2008-06-12T03:05:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "ESkUkvpg0A5x71c",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "10559"
+      },
+      {
+        "site": "danime",
+        "id": "23732",
+        "begin": "2020-10-23T01:00:00.000Z",
+        "broadcast": "R/2020-10-23T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/44477"
+      },
+      {
+        "site": "mal",
+        "id": "3962"
+      },
+      {
+        "site": "anidb",
+        "id": "5986"
+      },
+      {
+        "site": "aniList",
+        "id": "3962"
       }
     ]
   },
@@ -91,6 +152,66 @@
       {
         "site": "bangumi",
         "id": "216384"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/37514"
+      },
+      {
+        "site": "mal",
+        "id": "40407"
+      },
+      {
+        "site": "anidb",
+        "id": "9838"
+      },
+      {
+        "site": "aniList",
+        "id": "116048"
+      }
+    ]
+  },
+  {
+    "title": "つみきのいえ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "回忆积木小屋",
+        "积木之家"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.robot.co.jp/tsumiki/",
+    "begin": "2008-06-09T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2008-06-09T16:12:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "11658"
+      },
+      {
+        "site": "unext",
+        "id": "SID0027089",
+        "begin": "2020-07-13T03:00:00.000Z",
+        "broadcast": "R/2020-07-13T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/20722"
+      },
+      {
+        "site": "mal",
+        "id": "5365"
+      },
+      {
+        "site": "anidb",
+        "id": "6395"
+      },
+      {
+        "site": "aniList",
+        "id": "5365"
       }
     ]
   }

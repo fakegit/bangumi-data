@@ -15,6 +15,34 @@
       {
         "site": "bangumi",
         "id": "9267"
+      },
+      {
+        "site": "unext",
+        "id": "SID0077968",
+        "begin": "2023-02-01T03:00:00.000Z",
+        "broadcast": "R/2023-02-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "11529",
+        "begin": "2014-11-07T01:00:00.000Z",
+        "broadcast": "R/2014-11-07T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/124358"
+      },
+      {
+        "site": "mal",
+        "id": "3345"
+      },
+      {
+        "site": "anidb",
+        "id": "4599"
+      },
+      {
+        "site": "aniList",
+        "id": "3345"
       }
     ]
   },
@@ -30,6 +58,34 @@
       {
         "site": "bangumi",
         "id": "161673"
+      },
+      {
+        "site": "unext",
+        "id": "SID0018483",
+        "begin": "2019-12-06T03:00:00.000Z",
+        "broadcast": "R/2019-12-06T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "25240",
+        "begin": "2021-12-31T01:00:00.000Z",
+        "broadcast": "R/2021-12-31T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/45142"
+      },
+      {
+        "site": "mal",
+        "id": "19585"
+      },
+      {
+        "site": "anidb",
+        "id": "7335"
+      },
+      {
+        "site": "aniList",
+        "id": "19585"
       }
     ]
   },
@@ -38,6 +94,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "幽游白书"
+      ],
+      "zh-Hant": [
+        "幽遊白書"
+      ],
+      "en": [
+        "Yu Yu Hakusho: Ghost Files"
       ]
     },
     "type": "tv",
@@ -46,11 +108,6 @@
     "begin": "1992-10-10T16:00:00.000Z",
     "end": "1995-01-07T16:30:00.000Z",
     "sites": [
-      {
-        "site": "pptv",
-        "id": "LAjzcdkicrib1QzjY",
-        "begin": ""
-      },
       {
         "site": "bangumi",
         "id": "8803"
@@ -63,7 +120,49 @@
       {
         "site": "bilibili",
         "id": "2338",
-        "begin": "1992-10-09T16:00:00.000Z"
+        "begin": "1992-10-09T16:00:00.000Z",
+        "broadcast": "R/2021-01-13T09:06:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81005375",
+        "begin": "2020-06-24T16:00:00.000Z",
+        "broadcast": "R/2020-06-24T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0017285",
+        "begin": "2016-12-16T03:00:00.000Z",
+        "broadcast": "R/2016-12-16T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "21253",
+        "begin": "2016-12-16T01:00:00.000Z",
+        "broadcast": "R/2016-12-16T01:00:00.000Z/P7D",
+        "comment": "霊界探偵編/暗黒武術会編 #1-63, 魔界の扉編/魔界トーナメント編 #64-112: 21487"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/30669"
+      },
+      {
+        "site": "mal",
+        "id": "392"
+      },
+      {
+        "site": "anidb",
+        "id": "312"
+      },
+      {
+        "site": "aniList",
+        "id": "392"
+      },
+      {
+        "site": "abema",
+        "id": "15-29",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -83,6 +182,34 @@
       {
         "site": "bangumi",
         "id": "19525"
+      },
+      {
+        "site": "unext",
+        "id": "SID0042226",
+        "begin": "2019-07-25T03:00:00.000Z",
+        "broadcast": "R/2019-07-25T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "22808",
+        "begin": "2019-06-28T01:00:00.000Z",
+        "broadcast": "R/2019-06-28T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/43230"
+      },
+      {
+        "site": "mal",
+        "id": "2037"
+      },
+      {
+        "site": "anidb",
+        "id": "842"
+      },
+      {
+        "site": "aniList",
+        "id": "2037"
       }
     ]
   },
@@ -105,13 +232,24 @@
         "begin": ""
       },
       {
-        "site": "pptv",
-        "id": "NBfycNgibruxPzTU",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "2916"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/44485"
+      },
+      {
+        "site": "mal",
+        "id": "1043"
+      },
+      {
+        "site": "anidb",
+        "id": "457"
+      },
+      {
+        "site": "aniList",
+        "id": "1043"
       }
     ]
   },
@@ -129,11 +267,6 @@
     "end": "1994-03-25T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "H1AsqhJ46CaJB28",
-        "begin": ""
-      },
-      {
         "site": "qq",
         "id": "b/bv4ksstk6j91sbj",
         "begin": ""
@@ -141,6 +274,224 @@
       {
         "site": "bangumi",
         "id": "3390"
+      },
+      {
+        "site": "danime",
+        "id": "25916",
+        "begin": "2023-12-31T15:00:00.000Z",
+        "broadcast": "R/2023-12-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/74957"
+      },
+      {
+        "site": "mal",
+        "id": "373"
+      },
+      {
+        "site": "anidb",
+        "id": "167"
+      },
+      {
+        "site": "aniList",
+        "id": "373"
+      }
+    ]
+  },
+  {
+    "title": "幻想叙譚エルシア",
+    "titleTranslate": {
+      "zh-Hans": [
+        "幻想叙谭艾尔西亚"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1992-10-22T16:00:00.000Z",
+    "end": "1994-04-21T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "37667"
+      },
+      {
+        "site": "bilibili",
+        "id": "5452",
+        "begin": "2016-08-18T02:05:00.000Z",
+        "broadcast": "R/2016-08-18T02:05:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/44009"
+      },
+      {
+        "site": "mal",
+        "id": "3461"
+      },
+      {
+        "site": "anidb",
+        "id": "2331"
+      },
+      {
+        "site": "aniList",
+        "id": "3461"
+      }
+    ]
+  },
+  {
+    "title": "南国少年パプワくん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "南国少年巴布华",
+        "南国少年奇小邪"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1992-10-09T16:00:00.000Z",
+    "broadcast": "R/1992-10-09T16:00:00.000Z/P7D",
+    "end": "1993-10-01T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "121287"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002271",
+        "begin": "2019-11-26T03:00:00.000Z",
+        "broadcast": "R/2019-11-26T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "11075",
+        "begin": "2017-06-01T01:00:00.000Z",
+        "broadcast": "R/2017-06-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/155242"
+      },
+      {
+        "site": "prime",
+        "id": "B0CBHG9QL5",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mal",
+        "id": "2503"
+      },
+      {
+        "site": "anidb",
+        "id": "1126"
+      },
+      {
+        "site": "aniList",
+        "id": "2503"
+      }
+    ]
+  },
+  {
+    "title": "風の中の少女 金髪のジェニー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "风中少女 金发珍妮",
+        "岁月飘零"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1992-10-14T16:00:00.000Z",
+    "broadcast": "R/1992-10-14T16:00:00.000Z/P7D",
+    "end": "1993-09-29T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "79369"
+      },
+      {
+        "site": "unext",
+        "id": "SID0056297",
+        "begin": "2021-03-30T03:00:00.000Z",
+        "broadcast": "R/2021-03-30T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23510",
+        "begin": "2020-04-24T01:00:00.000Z",
+        "broadcast": "R/2020-04-24T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/45146"
+      },
+      {
+        "site": "mal",
+        "id": "3110"
+      },
+      {
+        "site": "anidb",
+        "id": "3072"
+      },
+      {
+        "site": "aniList",
+        "id": "3110"
+      }
+    ]
+  },
+  {
+    "title": "スーパーヅガン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "超级麻将狂"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1992-10-07T16:00:00.000Z",
+    "broadcast": "R/1992-10-07T16:00:00.000Z/P7D",
+    "end": "1993-03-17T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "98426"
+      },
+      {
+        "site": "unext",
+        "id": "SID0044391",
+        "begin": "2019-12-08T03:00:00.000Z",
+        "broadcast": "R/2019-12-08T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10622",
+        "begin": "2012-09-21T01:00:00.000Z",
+        "broadcast": "R/2012-09-21T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/212914"
+      },
+      {
+        "site": "mal",
+        "id": "6981"
+      },
+      {
+        "site": "anidb",
+        "id": "3547"
+      },
+      {
+        "site": "aniList",
+        "id": "6981"
       }
     ]
   }

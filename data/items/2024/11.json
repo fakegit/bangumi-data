@@ -1,0 +1,767 @@
+[
+  {
+    "title": "SPECIAL EDITED VERSION 『ONE PIECE』 魚人島編",
+    "titleTranslate": {
+      "zh-Hans": [
+        "航海王：鱼人岛篇特别编辑版"
+      ],
+      "zh-Hant": [
+        "SPECIAL EDITED VERSION 海賊王 魚人島篇"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://one-piece.com/",
+    "begin": "2024-11-03T00:30:00.000Z",
+    "broadcast": "R/2024-11-03T00:30:00.000Z/P7D",
+    "end": "2025-03-30T01:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "518603"
+      },
+      {
+        "site": "viu",
+        "id": "2520927",
+        "begin": "2024-11-03T06:00:41.000Z",
+        "broadcast": "R/2024-11-03T06:00:41.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0158126",
+        "begin": "2024-11-07T03:00:00.000Z",
+        "broadcast": "R/2024-11-07T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "27403",
+        "begin": "2024-11-07T03:00:00.000Z",
+        "broadcast": "R/2024-11-07T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0DKRFXL3D",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mikan",
+        "id": "3516"
+      },
+      {
+        "site": "mal",
+        "id": "60108"
+      },
+      {
+        "site": "aniList",
+        "id": "183423"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/320463"
+      }
+    ]
+  },
+  {
+    "title": "マーダーミステリー・オブ・ザ・デッド",
+    "titleTranslate": {
+      "zh-Hans": [
+        "谋杀之谜：亡者的秘密"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://of-the-dead.com/",
+    "begin": "2024-11-13T16:00:00.000Z",
+    "broadcast": "R/2024-11-13T16:00:00.000Z/P7D",
+    "end": "2024-12-25T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "513948"
+      },
+      {
+        "site": "unext",
+        "id": "SID0158539",
+        "begin": "2024-11-08T16:30:00.000Z",
+        "broadcast": "R/2024-11-08T16:30:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "of-the-dead",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mikan",
+        "id": "3499"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "66fb601889c3a6ce864cbcbf"
+      },
+      {
+        "site": "danime",
+        "id": "27439",
+        "begin": "2024-11-08T16:30:00.000Z",
+        "broadcast": "R/2024-11-08T16:30:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0DBXZW5ZM",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/272055"
+      },
+      {
+        "site": "mal",
+        "id": "59892"
+      },
+      {
+        "site": "anidb",
+        "id": "18913"
+      },
+      {
+        "site": "aniList",
+        "id": "181776"
+      }
+    ]
+  },
+  {
+    "title": "お買いものパンダ！",
+    "titleTranslate": {
+      "zh-Hans": [
+        "乐天胖达"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.rakuten-ipcontent.com/Anime-Okaimonopanda/",
+    "begin": "2024-11-06T12:54:00.000Z",
+    "broadcast": "R/2024-11-06T12:54:00.000Z/P7D",
+    "end": "2025-03-26T13:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "492951"
+      },
+      {
+        "site": "unext",
+        "id": "SID0157068",
+        "begin": "2024-11-06T13:00:00.000Z",
+        "broadcast": "R/2024-11-06T13:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "27423",
+        "begin": "2024-11-06T13:00:00.000Z",
+        "broadcast": "R/2024-11-06T13:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/253504"
+      },
+      {
+        "site": "mal",
+        "id": "58827"
+      },
+      {
+        "site": "anidb",
+        "id": "18972"
+      },
+      {
+        "site": "aniList",
+        "id": "177603"
+      }
+    ]
+  },
+  {
+    "title": "Tokyo Override",
+    "titleTranslate": {
+      "zh-Hans": [
+        "东京暗递"
+      ],
+      "zh-Hant": [
+        "東京暗遞"
+      ],
+      "en": [
+        "Tokyo Override"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://global.yamaha-motor.com/jp/showroom/tokyooverride/",
+    "begin": "2024-11-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-11-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "497924"
+      },
+      {
+        "site": "netflix",
+        "id": "81153111",
+        "begin": "2024-11-21T00:00:00.000Z",
+        "broadcast": "R/2024-11-21T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/256324"
+      }
+    ]
+  },
+  {
+    "title": "アサティール２ 未来の昔ばなし",
+    "titleTranslate": {
+      "zh-Hans": [
+        "未来童话 第二季"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.tv-tokyo.co.jp/anime/asateer2/",
+    "begin": "2024-11-02T22:00:00.000Z",
+    "broadcast": "R/2024-11-02T22:00:00.000Z/P7D",
+    "end": "2025-02-01T22:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "487318"
+      },
+      {
+        "site": "bilibili",
+        "id": "27108892",
+        "begin": "2025-08-01T10:00:00.000Z",
+        "broadcast": "R/2025-08-01T10:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/98665/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "59499"
+      },
+      {
+        "site": "aniList",
+        "id": "185541"
+      },
+      {
+        "site": "anidb",
+        "id": "18964"
+      }
+    ]
+  },
+  {
+    "title": "まぁるい彼女と残念な彼氏(第2期)",
+    "titleTranslate": {
+      "zh-Hans": [
+        "棉花糖女孩遇上闷骚男孩"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://animationid.com/marukano/",
+    "begin": "2024-11-15T18:08:00.000Z",
+    "broadcast": "R/2024-11-15T18:08:00.000Z/P7D",
+    "end": "2024-12-20T17:38:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "505080"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/255223/season/1/episode/7"
+      },
+      {
+        "site": "mal",
+        "id": "60357"
+      },
+      {
+        "site": "aniList",
+        "id": "184998"
+      }
+    ]
+  },
+  {
+    "title": "そろ谷のけいばっち",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.asahi.co.jp/sp/sorotani/",
+    "begin": "2024-11-28T14:10:00.000Z",
+    "broadcast": "R/2024-11-28T14:10:00.000Z/P7D",
+    "end": "2024-12-19T14:10:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "526102"
+      },
+      {
+        "site": "mal",
+        "id": "61289"
+      },
+      {
+        "site": "aniList",
+        "id": "213458"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 風都探偵 仮面ライダースカルの肖像",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 风都侦探 假面骑士Skull的肖像",
+        "剧场版 风都侦探 假面骑士颅骨的肖像"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.kamen-rider-official.com/fuuto-movie/",
+    "begin": "2024-11-07T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-11-07T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "501859"
+      },
+      {
+        "site": "unext",
+        "id": "SID0164430",
+        "begin": "2024-12-17T09:00:00.000Z",
+        "broadcast": "R/2024-12-17T09:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3514"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1310672"
+      },
+      {
+        "site": "mal",
+        "id": "59186"
+      },
+      {
+        "site": "aniList",
+        "id": "178774"
+      },
+      {
+        "site": "anidb",
+        "id": "18724"
+      }
+    ]
+  },
+  {
+    "title": "シルバニアファミリー フレアのピース・オブ・シークレット",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.sylvanianfamilies.com/ja-jp/special/tv/",
+    "begin": "2024-11-20T16:00:00.000Z",
+    "broadcast": "R/2024-11-20T16:00:00.000Z/P7D",
+    "end": "2024-12-25T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "515201"
+      },
+      {
+        "site": "danime",
+        "id": "27443",
+        "begin": "2024-11-21T10:40:00.000Z",
+        "broadcast": "R/2024-11-21T10:40:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "60052"
+      },
+      {
+        "site": "anidb",
+        "id": "18882"
+      },
+      {
+        "site": "aniList",
+        "id": "182157"
+      }
+    ]
+  },
+  {
+    "title": "Arcane Season 2",
+    "titleTranslate": {
+      "zh-Hans": [
+        "英雄联盟：双城之战 第二季",
+        "英雄联盟：双城之战 最终季",
+        "奥术 第二季"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://www.arcane.com/",
+    "begin": "2024-11-08T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-11-22T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "358801"
+      },
+      {
+        "site": "bilibili",
+        "id": "20189753",
+        "begin": "2024-11-09T08:00:00.000Z",
+        "broadcast": "R/2024-11-09T08:00:00.000Z/P7D",
+        "comment": "中文配音: 23431028"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/94605/season/2"
+      }
+    ]
+  },
+  {
+    "title": "ヤマトよ永遠に REBEL3199 第二章 赤日の出撃",
+    "titleTranslate": {
+      "zh-Hans": [
+        "永远的大和号 REBEL3199 第二章 赤日的出击"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://starblazers-yamato.net/index.html",
+    "begin": "2024-11-21T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-11-21T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "473412"
+      },
+      {
+        "site": "nicovideo",
+        "id": "yamato-rebel3199",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0167296",
+        "begin": "2025-01-28T15:00:00.000Z",
+        "broadcast": "R/2025-01-28T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1321953"
+      },
+      {
+        "site": "mal",
+        "id": "50855"
+      },
+      {
+        "site": "anidb",
+        "id": "17141"
+      },
+      {
+        "site": "aniList",
+        "id": "144779"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 進撃の巨人 完結編 THE LAST ATTACK",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 进击的巨人 完结篇 THE LAST ATTACK"
+      ],
+      "zh-Hant": [
+        "劇場版「進擊的巨人」完結篇 THE LAST ATTACK"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://shingeki.tv/final/",
+    "begin": "2024-11-07T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-11-07T18:25:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "508708"
+      },
+      {
+        "site": "nicovideo",
+        "id": "shingeki-movie-last-attack",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "140913",
+        "begin": "2025-04-21T16:00:00.000Z",
+        "broadcast": "R/2025-04-21T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "140913",
+        "begin": "2025-04-21T16:00:00.000Z",
+        "broadcast": "R/2025-04-21T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0201307",
+        "begin": "2025-07-01T03:00:00.000Z",
+        "broadcast": "R/2025-07-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "28219",
+        "begin": "2025-09-09T03:00:00.000Z",
+        "broadcast": "R/2025-09-09T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1333100"
+      },
+      {
+        "site": "mal",
+        "id": "59571"
+      },
+      {
+        "site": "anidb",
+        "id": "18820"
+      }
+    ]
+  },
+  {
+    "title": "劇場総集編 幻日のヨハネ -SUNSHINE in the MIRROR-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场总集篇 幻日夜羽 -镜中晖光-"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.yohane.net/",
+    "begin": "2024-11-28T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-11-28T17:29:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "501937"
+      },
+      {
+        "site": "unext",
+        "id": "SID0181624",
+        "begin": "2025-04-03T15:00:00.000Z",
+        "broadcast": "R/2025-04-03T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "yohane-movie",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1313216"
+      },
+      {
+        "site": "danime",
+        "id": "28405",
+        "begin": "2025-11-20T15:00:00.000Z",
+        "broadcast": "R/2025-11-20T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "59190"
+      },
+      {
+        "site": "aniList",
+        "id": "178782"
+      },
+      {
+        "site": "anidb",
+        "id": "18726"
+      }
+    ]
+  },
+  {
+    "title": "PUI PUI モルカー ザ・ムービー MOLMAX",
+    "titleTranslate": {
+      "zh-Hans": [
+        "PUI PUI 天竺鼠车车 MOLMAX",
+        "PUI PUI 天竺鼠车车 电影版 MOLMAX"
+      ],
+      "zh-Hant": [
+        "PUI PUI 天竺鼠車車電影版 MOLMAX"
+      ],
+      "en": [
+        "Pui Pui Molcar the Movie: MOLMAX"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://molcar-movie.com/",
+    "begin": "2024-11-28T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-11-28T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "476683"
+      },
+      {
+        "site": "unext",
+        "id": "SID0193129",
+        "begin": "2025-06-01T03:00:00.000Z",
+        "broadcast": "R/2025-06-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "137511",
+        "begin": "2025-07-01T16:00:00.000Z",
+        "broadcast": "R/2025-07-01T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "82080270",
+        "begin": "2025-07-18T16:00:00.000Z",
+        "broadcast": "R/2025-07-18T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1235424"
+      },
+      {
+        "site": "danime",
+        "id": "28447",
+        "begin": "2025-11-28T15:00:00.000Z",
+        "broadcast": "R/2025-11-28T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "57910"
+      },
+      {
+        "site": "aniList",
+        "id": "173884"
+      }
+    ]
+  },
+  {
+    "title": "銀魂オンシアター2D 金魂篇",
+    "titleTranslate": {
+      "zh-Hans": [
+        "银魂ON THEATER 2D 金魂篇"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://anime-gintama.com/on_theater_2d/kintama/",
+    "begin": "2024-11-21T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-11-21T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "500060"
+      },
+      {
+        "site": "nicovideo",
+        "id": "gintama-ontheater2d-2",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "28341",
+        "begin": "2025-09-30T15:00:00.000Z",
+        "broadcast": "R/2025-09-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0238693",
+        "begin": "2025-10-07T15:00:00.000Z",
+        "broadcast": "R/2025-10-07T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1363564"
+      },
+      {
+        "site": "mal",
+        "id": "59688"
+      },
+      {
+        "site": "aniList",
+        "id": "178436"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 BanG Dream! It's MyGO!!!!! 後編 うたう、僕らになれるうた & FILM LIVE",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 BanG Dream! It's MyGO!!!!! 后篇 歌唱着，由我们所作的歌 & FILM LIVE"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://mygo-movie.bang-dream.com/",
+    "begin": "2024-11-07T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-11-07T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "473833"
+      },
+      {
+        "site": "unext",
+        "id": "SID0255960",
+        "begin": "2026-01-15T15:00:00.000Z",
+        "broadcast": "R/2026-01-15T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "mygo-movie-bang-dream",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "28631",
+        "begin": "2026-02-28T15:00:00.000Z",
+        "broadcast": "R/2026-02-28T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1233186"
+      }
+    ]
+  }
+]

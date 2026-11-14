@@ -15,6 +15,34 @@
       {
         "site": "bangumi",
         "id": "211287"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002134",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "20185",
+        "begin": "2015-07-17T01:00:00.000Z",
+        "broadcast": "R/2015-07-17T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/22835"
+      },
+      {
+        "site": "mal",
+        "id": "2554"
+      },
+      {
+        "site": "aniList",
+        "id": "2554"
+      },
+      {
+        "site": "anidb",
+        "id": "2297"
       }
     ]
   },
@@ -34,6 +62,122 @@
       {
         "site": "bangumi",
         "id": "142507"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003060",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "11526",
+        "begin": "2014-11-07T01:00:00.000Z",
+        "broadcast": "R/2014-11-07T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/44371"
+      },
+      {
+        "site": "mal",
+        "id": "3317"
+      },
+      {
+        "site": "anidb",
+        "id": "1833"
+      },
+      {
+        "site": "aniList",
+        "id": "3317"
+      }
+    ]
+  },
+  {
+    "title": "機甲界ガリアン OVA",
+    "titleTranslate": {
+      "zh-Hans": [
+        "机甲界卡利安 OVA"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1986-01-20T16:00:00.000Z",
+    "end": "1986-08-04T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "75876"
+      },
+      {
+        "site": "bilibili",
+        "id": "3982",
+        "begin": "2016-05-12T06:25:00.000Z",
+        "broadcast": "R/2016-05-12T06:25:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/334595"
+      },
+      {
+        "site": "mal",
+        "id": "10751"
+      },
+      {
+        "site": "aniList",
+        "id": "10751"
+      },
+      {
+        "site": "anidb",
+        "id": "5972"
+      }
+    ]
+  },
+  {
+    "title": "メイプルタウン物語",
+    "titleTranslate": {
+      "zh-Hans": [
+        "枫城物语",
+        "动物城",
+        "动物村",
+        "枫叶镇物语",
+        "动物小英雄"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1986-01-18T16:00:00.000Z",
+    "broadcast": "R/1986-01-18T16:00:00.000Z/P7D",
+    "end": "1987-01-10T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "134960"
+      },
+      {
+        "site": "unext",
+        "id": "SID0091513",
+        "begin": "2023-09-10T03:00:00.000Z",
+        "broadcast": "R/2023-09-10T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/13224"
+      },
+      {
+        "site": "mal",
+        "id": "2223"
+      },
+      {
+        "site": "anidb",
+        "id": "2078"
+      },
+      {
+        "site": "aniList",
+        "id": "2223"
       }
     ]
   }

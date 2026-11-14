@@ -3,7 +3,8 @@
     "title": "ミニはま",
     "titleTranslate": {
       "zh-Hans": [
-        "浜虎SD"
+        "浜虎SD",
+        "迷你浜虎"
       ]
     },
     "type": "tv",
@@ -13,47 +14,31 @@
     "end": "2016-01-04T12:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "MRz4dt5EtPJV0zs",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "127817"
       },
       {
         "site": "bilibili",
         "id": "2978",
-        "begin": "2015-11-01T16:00:00.000Z"
+        "begin": "2015-11-01T16:00:00.000Z",
+        "broadcast": "R/2015-11-10T20:39:00.000Z/P7D"
       },
       {
         "site": "youku",
         "id": "71e66704b8ce11e5a080",
         "begin": "2016-02-16T07:41:44.000Z"
-      }
-    ]
-  },
-  {
-    "title": "想いのかけら",
-    "titleTranslate": {
-      "zh-Hans": [
-        "思念的碎片"
-      ]
-    },
-    "type": "tv",
-    "lang": "ja",
-    "officialSite": "http://www.nhk.or.jp/daisuki-tohoku/kakera/",
-    "begin": "2015-11-27T16:00:00.000Z",
-    "end": "2015-11-27T16:30:00.000Z",
-    "sites": [
-      {
-        "site": "letv",
-        "id": "10021758",
-        "begin": ""
       },
       {
-        "site": "bangumi",
-        "id": "158315"
+        "site": "mal",
+        "id": "30291"
+      },
+      {
+        "site": "anidb",
+        "id": "11728"
+      },
+      {
+        "site": "aniList",
+        "id": "21446"
       }
     ]
   },
@@ -89,6 +74,34 @@
         "site": "youku",
         "id": "c25cae1ed50811e49e2a",
         "begin": "2015-11-21T09:27:18.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0021244",
+        "begin": "2021-05-01T03:00:00.000Z",
+        "broadcast": "R/2021-05-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "24731",
+        "begin": "2021-05-01T01:00:00.000Z",
+        "broadcast": "R/2021-05-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/357400"
+      },
+      {
+        "site": "mal",
+        "id": "25687"
+      },
+      {
+        "site": "aniList",
+        "id": "20802"
+      },
+      {
+        "site": "anidb",
+        "id": "10764"
       }
     ]
   },
@@ -110,13 +123,36 @@
     "end": "2015-11-13T18:00:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "UiczYVr4klNI1sxs",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "100448"
+      },
+      {
+        "site": "unext",
+        "id": "SID0029289",
+        "begin": "2024-10-31T15:00:00.000Z",
+        "broadcast": "R/2024-10-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "21609",
+        "begin": "2025-08-20T15:00:00.000Z",
+        "broadcast": "R/2025-08-20T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/357411"
+      },
+      {
+        "site": "mal",
+        "id": "28211"
+      },
+      {
+        "site": "anidb",
+        "id": "10932"
+      },
+      {
+        "site": "aniList",
+        "id": "20932"
       }
     ]
   },
@@ -134,13 +170,20 @@
     "end": "2015-11-14T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "PwnjYckvn91AviaY",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "145745"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/42410/season/0/episode/4"
+      },
+      {
+        "site": "mal",
+        "id": "31552"
+      },
+      {
+        "site": "aniList",
+        "id": "21331"
       }
     ]
   },
@@ -165,6 +208,38 @@
         "site": "nicovideo",
         "id": "strike-the-blood-ova",
         "begin": "2016-11-17T15:00:00.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0034628",
+        "begin": "2018-05-03T03:00:00.000Z",
+        "broadcast": "R/2018-05-03T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2003"
+      },
+      {
+        "site": "danime",
+        "id": "21249",
+        "begin": "2016-11-18T01:00:00.000Z",
+        "broadcast": "R/2016-11-18T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/61440/season/0"
+      },
+      {
+        "site": "mal",
+        "id": "30321"
+      },
+      {
+        "site": "anidb",
+        "id": "11136"
+      },
+      {
+        "site": "aniList",
+        "id": "21098"
       }
     ]
   },
@@ -186,14 +261,29 @@
         "id": "135805"
       },
       {
-        "site": "pptv",
-        "id": "lruVE3vhUYicycNg",
-        "begin": ""
-      },
-      {
         "site": "youku",
         "id": "61739bc0a9fc11e5b432",
         "begin": "2016-01-02T09:18:16.000Z"
+      },
+      {
+        "site": "mikan",
+        "id": "1154"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/357390"
+      },
+      {
+        "site": "mal",
+        "id": "30868"
+      },
+      {
+        "site": "aniList",
+        "id": "21212"
+      },
+      {
+        "site": "anidb",
+        "id": "11265"
       }
     ]
   },
@@ -218,10 +308,32 @@
         "id": "129976"
       },
       {
-        "site": "netflix",
-        "id": "80094557",
-        "begin": "2016-04-01T07:00:00.000Z",
-        "comment": "分割为 TV 放送"
+        "site": "unext",
+        "id": "SID0099129",
+        "begin": "2024-03-01T03:00:00.000Z",
+        "broadcast": "R/2024-03-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26896",
+        "begin": "2024-02-29T15:00:00.000Z",
+        "broadcast": "R/2024-02-29T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/387626"
+      },
+      {
+        "site": "mal",
+        "id": "31050"
+      },
+      {
+        "site": "anidb",
+        "id": "11169"
+      },
+      {
+        "site": "aniList",
+        "id": "21231"
       }
     ]
   },
@@ -242,14 +354,27 @@
         "site": "nicovideo",
         "id": "memetan-anime",
         "begin": "2016-04-29T01:00:00.000Z"
+      },
+      {
+        "site": "danime",
+        "id": "20988",
+        "begin": "2016-06-30T01:00:00.000Z",
+        "broadcast": "R/2016-06-30T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "58586"
       }
     ]
   },
   {
-    "title": "ガールズ&amp;パンツァー 劇場版",
+    "title": "ガールズ&パンツァー 劇場版",
     "titleTranslate": {
       "zh-Hans": [
         "少女与战车 剧场版"
+      ],
+      "zh-Hant": [
+        "少女與戰車 劇場版"
       ]
     },
     "type": "movie",
@@ -264,9 +389,43 @@
         "id": "72266"
       },
       {
-        "site": "bilibili",
-        "id": "4114",
-        "begin": "2016-05-26T16:00:00.000Z"
+        "site": "unext",
+        "id": "SID0025965",
+        "begin": "2022-01-25T15:00:00.000Z",
+        "broadcast": "R/2022-01-25T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "809"
+      },
+      {
+        "site": "gamer",
+        "id": "71789",
+        "begin": "2025-07-01T04:00:00.000Z",
+        "broadcast": "R/2025-07-01T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "22781",
+        "begin": "2025-07-31T15:00:00.000Z",
+        "broadcast": "R/2025-07-31T15:00:00.000Z/P7D",
+        "comment": "OVA: 29198"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/357405"
+      },
+      {
+        "site": "mal",
+        "id": "18617"
+      },
+      {
+        "site": "anidb",
+        "id": "10008"
+      },
+      {
+        "site": "aniList",
+        "id": "18617"
       }
     ]
   },
@@ -291,7 +450,20 @@
       {
         "site": "bilibili",
         "id": "5206",
-        "begin": "2015-11-19T16:00:00.000Z"
+        "begin": "2015-11-19T16:00:00.000Z",
+        "broadcast": "R/2016-07-14T02:29:37.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "30954"
+      },
+      {
+        "site": "aniList",
+        "id": "102801"
+      },
+      {
+        "site": "anidb",
+        "id": "11285"
       }
     ]
   },
@@ -316,7 +488,64 @@
       {
         "site": "bilibili",
         "id": "3420",
-        "begin": "2015-11-16T16:00:00.000Z"
+        "begin": "2015-11-16T16:00:00.000Z",
+        "broadcast": "R/2016-03-11T09:22:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26220",
+        "begin": "2023-03-01T01:00:00.000Z",
+        "broadcast": "R/2023-03-01T01:00:00.000Z/P7D",
+        "comment": "夜ト神連続殺人事件, 一緒に写真を: 26221"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/64710/season/0/episode/3"
+      },
+      {
+        "site": "mal",
+        "id": "30885"
+      },
+      {
+        "site": "anidb",
+        "id": "11860"
+      },
+      {
+        "site": "aniList",
+        "id": "119941"
+      }
+    ]
+  },
+  {
+    "title": "FW:ハマトラ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "FW:滨虎"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://hamatorapj.com/fw/",
+    "begin": "2015-11-13T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2015-11-13T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "127716"
+      },
+      {
+        "site": "mal",
+        "id": "30290"
+      },
+      {
+        "site": "anidb",
+        "id": "11727"
+      },
+      {
+        "site": "aniList",
+        "id": "107199"
       }
     ]
   }

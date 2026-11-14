@@ -13,18 +13,36 @@
     "end": "2006-02-12T10:55:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "1mVg3kasHFq9O6M",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "19519"
       },
       {
         "site": "bilibili",
         "id": "5081",
-        "begin": "2005-05-21T16:00:01.000Z"
+        "begin": "2005-05-21T16:00:01.000Z",
+        "broadcast": "R/2016-06-23T04:23:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0027663",
+        "begin": "2017-01-09T03:00:00.000Z",
+        "broadcast": "R/2017-01-09T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/34858"
+      },
+      {
+        "site": "mal",
+        "id": "754"
+      },
+      {
+        "site": "anidb",
+        "id": "2828"
+      },
+      {
+        "site": "aniList",
+        "id": "754"
       }
     ]
   },
@@ -48,7 +66,24 @@
       {
         "site": "bilibili",
         "id": "3260",
-        "begin": "2005-05-20T16:00:01.000Z"
+        "begin": "2005-05-20T16:00:01.000Z",
+        "broadcast": "R/2016-01-05T04:09:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/42914"
+      },
+      {
+        "site": "mal",
+        "id": "308"
+      },
+      {
+        "site": "anidb",
+        "id": "2837"
+      },
+      {
+        "site": "aniList",
+        "id": "308"
       }
     ]
   },
@@ -56,7 +91,8 @@
     "title": "新釈 眞田十勇士 The Animation",
     "titleTranslate": {
       "zh-Hans": [
-        "新释 真田十勇士"
+        "新释 真田十勇士",
+        "新釈 戦国英雄伝説 眞田十勇士 The Animation"
       ]
     },
     "type": "tv",
@@ -66,13 +102,24 @@
     "end": "2005-07-23T10:00:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "ESEcmgJo2BZ5918",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "102525"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/195323"
+      },
+      {
+        "site": "mal",
+        "id": "988"
+      },
+      {
+        "site": "anidb",
+        "id": "2881"
+      },
+      {
+        "site": "aniList",
+        "id": "988"
       }
     ]
   },
@@ -95,13 +142,24 @@
         "begin": ""
       },
       {
-        "site": "letv",
-        "id": "22161",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "7258"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/470639"
+      },
+      {
+        "site": "mal",
+        "id": "819"
+      },
+      {
+        "site": "anidb",
+        "id": "3318"
+      },
+      {
+        "site": "aniList",
+        "id": "819"
       }
     ]
   },
@@ -126,6 +184,34 @@
       {
         "site": "bangumi",
         "id": "5378"
+      },
+      {
+        "site": "unext",
+        "id": "SID0012903",
+        "begin": "2008-10-31T15:00:00.000Z",
+        "broadcast": "R/2008-10-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "27907",
+        "begin": "2025-04-10T15:00:00.000Z",
+        "broadcast": "R/2025-04-10T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/19256"
+      },
+      {
+        "site": "mal",
+        "id": "1967"
+      },
+      {
+        "site": "anidb",
+        "id": "2187"
+      },
+      {
+        "site": "aniList",
+        "id": "1967"
       }
     ]
   },
@@ -147,14 +233,26 @@
         "id": "16357"
       },
       {
-        "site": "letv",
-        "id": "10008174",
-        "begin": ""
-      },
-      {
         "site": "bilibili",
         "id": "5116",
-        "begin": "2005-05-13T16:00:01.000Z"
+        "begin": "2005-05-13T16:00:01.000Z",
+        "broadcast": "R/2016-07-06T08:03:48.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/201521"
+      },
+      {
+        "site": "mal",
+        "id": "3646"
+      },
+      {
+        "site": "aniList",
+        "id": "3646"
+      },
+      {
+        "site": "anidb",
+        "id": "2849"
       }
     ]
   },
@@ -172,23 +270,97 @@
     "end": "2007-10-26T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "VdibqKJD2ZqQHhe0",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "2135"
       },
       {
-        "site": "letv",
-        "id": "29095",
-        "begin": ""
-      },
-      {
         "site": "bilibili",
         "id": "1857",
-        "begin": "2005-05-27T16:00:00.000Z"
+        "begin": "2005-05-27T16:00:00.000Z",
+        "broadcast": "R/2013-04-13T21:04:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0014392",
+        "begin": "2020-11-26T15:00:00.000Z",
+        "broadcast": "R/2020-11-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10172",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B074R8W3XM",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/69055"
+      },
+      {
+        "site": "mal",
+        "id": "389"
+      },
+      {
+        "site": "aniList",
+        "id": "389"
+      },
+      {
+        "site": "anidb",
+        "id": "2179"
+      }
+    ]
+  },
+  {
+    "title": "円盤皇女ワるきゅーレ 星霊節の花嫁",
+    "titleTranslate": {
+      "zh-Hans": [
+        "圆盘皇女 星灵节的新娘"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2005-05-24T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2005-10-24T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "18613"
+      },
+      {
+        "site": "unext",
+        "id": "SID0017282",
+        "begin": "2020-11-19T15:00:00.000Z",
+        "broadcast": "R/2020-11-19T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10170",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/34149/season/3"
+      },
+      {
+        "site": "mal",
+        "id": "1514"
+      },
+      {
+        "site": "anidb",
+        "id": "2775"
+      },
+      {
+        "site": "aniList",
+        "id": "1514"
       }
     ]
   }

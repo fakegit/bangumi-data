@@ -15,6 +15,34 @@
       {
         "site": "bangumi",
         "id": "5437"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003250",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "11051",
+        "begin": "2017-06-01T01:00:00.000Z",
+        "broadcast": "R/2017-06-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/30575"
+      },
+      {
+        "site": "mal",
+        "id": "997"
+      },
+      {
+        "site": "anidb",
+        "id": "2151"
+      },
+      {
+        "site": "aniList",
+        "id": "997"
       }
     ]
   },
@@ -32,13 +60,75 @@
     "end": "1997-06-18T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "7VItqxN56SeKCHA",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "1002"
+      },
+      {
+        "site": "unext",
+        "id": "SID0164448",
+        "begin": "2024-12-19T15:00:00.000Z",
+        "broadcast": "R/2024-12-19T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "27605",
+        "begin": "2024-12-19T15:00:00.000Z",
+        "broadcast": "R/2024-12-19T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/46599"
+      },
+      {
+        "site": "mal",
+        "id": "1457"
+      },
+      {
+        "site": "anidb",
+        "id": "302"
+      },
+      {
+        "site": "aniList",
+        "id": "1457"
+      }
+    ]
+  },
+  {
+    "title": "鬼がら",
+    "titleTranslate": {
+      "zh-Hans": [
+        "食人魔"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.mushi-pro.co.jp/2010/08/%E9%AC%BC%E3%81%8C%E3%82%89-2/",
+    "begin": "1994-12-21T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1994-12-21T16:27:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "310062"
+      },
+      {
+        "site": "danime",
+        "id": "27978",
+        "begin": "2025-05-30T15:00:00.000Z",
+        "broadcast": "R/2025-05-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "28115"
+      },
+      {
+        "site": "anidb",
+        "id": "6362"
+      },
+      {
+        "site": "aniList",
+        "id": "206048"
       }
     ]
   }

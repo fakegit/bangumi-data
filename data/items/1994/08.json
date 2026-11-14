@@ -20,6 +20,40 @@
         "site": "iqiyi",
         "id": "a_19rrhb405h",
         "begin": "2016-02-04T10:33:39.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002661",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "11054",
+        "begin": "2020-02-01T01:00:00.000Z",
+        "broadcast": "R/2020-02-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B015AFFOLY",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/338380"
+      },
+      {
+        "site": "mal",
+        "id": "1861"
+      },
+      {
+        "site": "anidb",
+        "id": "696"
+      },
+      {
+        "site": "aniList",
+        "id": "1861"
       }
     ]
   },
@@ -27,7 +61,14 @@
     "title": "マクロスプラス",
     "titleTranslate": {
       "zh-Hans": [
-        "超时空要塞Plus"
+        "超时空要塞Plus",
+        "Macross Plus OVA"
+      ],
+      "zh-Hant": [
+        "超時空要塞Plus"
+      ],
+      "en": [
+        "Macross Plus"
       ]
     },
     "type": "ova",
@@ -37,13 +78,184 @@
     "end": "1995-06-25T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "gsq2NJwCcrATkfk",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "3168"
+      },
+      {
+        "site": "bilibili",
+        "id": "3561",
+        "begin": "2016-04-11T06:30:00.000Z",
+        "broadcast": "R/2016-04-11T06:30:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0016942",
+        "begin": "2019-12-02T03:00:00.000Z",
+        "broadcast": "R/2019-12-02T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "2lRVFfWlJ9Bh",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/21733"
+      },
+      {
+        "site": "mal",
+        "id": "474"
+      },
+      {
+        "site": "anidb",
+        "id": "67"
+      },
+      {
+        "site": "aniList",
+        "id": "474"
+      }
+    ]
+  },
+  {
+    "title": "ストリートファイターII MOVIE",
+    "titleTranslate": {
+      "zh-Hans": [
+        "街头霸王2"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1994-08-05T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1994-08-05T17:42:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "69321"
+      },
+      {
+        "site": "nicovideo",
+        "id": "street-fighter2-movie",
+        "begin": "2023-05-18T15:00:00.000Z",
+        "broadcast": "R/2023-05-18T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0015344",
+        "begin": "2015-11-05T03:00:00.000Z",
+        "broadcast": "R/2015-11-05T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "11405",
+        "begin": "2014-08-08T01:00:00.000Z",
+        "broadcast": "R/2014-08-08T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/12613"
+      },
+      {
+        "site": "mal",
+        "id": "1362"
+      },
+      {
+        "site": "aniList",
+        "id": "1362"
+      },
+      {
+        "site": "anidb",
+        "id": "313"
+      }
+    ]
+  },
+  {
+    "title": "学校のコワイうわさ 花子さんがきた!!",
+    "titleTranslate": {
+      "zh-Hans": [
+        "校园恐怖传说 - 花子来了",
+        "学校有鬼 - 花子来了"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.hanakosan.net/",
+    "begin": "1994-08-14T16:00:00.000Z",
+    "broadcast": "R/1994-08-14T16:00:00.000Z/P7D",
+    "end": "1995-12-28T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "34457"
+      },
+      {
+        "site": "danime",
+        "id": "10502",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0012867",
+        "begin": "2024-04-15T03:00:00.000Z",
+        "broadcast": "R/2024-04-15T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/239757"
+      },
+      {
+        "site": "mal",
+        "id": "6472"
+      },
+      {
+        "site": "anidb",
+        "id": "5456"
+      },
+      {
+        "site": "aniList",
+        "id": "6472"
+      }
+    ]
+  },
+  {
+    "title": "GS美神 極楽大作戦!!",
+    "titleTranslate": {
+      "zh-Hans": [
+        "GS美神极乐大作战 剧场版"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1994-08-19T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1994-08-19T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "76805"
+      },
+      {
+        "site": "mal",
+        "id": "3037"
+      },
+      {
+        "site": "anidb",
+        "id": "1506"
+      },
+      {
+        "site": "aniList",
+        "id": "3037"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/129213"
       }
     ]
   }

@@ -20,6 +20,34 @@
         "site": "bilibili",
         "id": "2346",
         "begin": "1991-07-13T16:00:00.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002417",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "11447",
+        "begin": "2014-09-30T01:00:00.000Z",
+        "broadcast": "R/2014-09-30T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/36588"
+      },
+      {
+        "site": "mal",
+        "id": "795"
+      },
+      {
+        "site": "anidb",
+        "id": "1137"
+      },
+      {
+        "site": "aniList",
+        "id": "795"
       }
     ]
   },
@@ -49,6 +77,34 @@
         "site": "iqiyi",
         "id": "a_19rrhb4015",
         "begin": "2016-02-04T10:34:13.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0010766",
+        "begin": "2018-07-27T03:00:00.000Z",
+        "broadcast": "R/2018-07-27T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B06XZWMR19",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/24752"
+      },
+      {
+        "site": "mal",
+        "id": "898"
+      },
+      {
+        "site": "anidb",
+        "id": "1045"
+      },
+      {
+        "site": "aniList",
+        "id": "898"
       }
     ]
   },
@@ -66,13 +122,388 @@
     "end": "1992-03-19T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "Ej0Ihu5UxAJl40s",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "8356"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/62913"
+      },
+      {
+        "site": "mal",
+        "id": "300"
+      },
+      {
+        "site": "anidb",
+        "id": "2"
+      },
+      {
+        "site": "aniList",
+        "id": "300"
+      }
+    ]
+  },
+  {
+    "title": "おもひでぽろぽろ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "岁月的童话"
+      ],
+      "zh-Hant": [
+        "兒時的點點滴滴",
+        "歲月的童話"
+      ],
+      "en": [
+        "Only Yesterday"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1991-07-19T16:00:00.000Z",
+    "end": "1991-07-19T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "512"
+      },
+      {
+        "site": "netflix",
+        "id": "80092922",
+        "begin": "2020-01-30T16:00:00.000Z",
+        "broadcast": "R/2020-01-30T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/15080"
+      },
+      {
+        "site": "mal",
+        "id": "1029"
+      },
+      {
+        "site": "anidb",
+        "id": "333"
+      },
+      {
+        "site": "aniList",
+        "id": "1029"
+      }
+    ]
+  },
+  {
+    "title": "ガンバとカワウソの冒険",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1991-07-19T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1991-07-19T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "139360"
+      },
+      {
+        "site": "unext",
+        "id": "SID0038236",
+        "begin": "2018-11-27T03:00:00.000Z",
+        "broadcast": "R/2018-11-27T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23331",
+        "begin": "2020-03-13T01:00:00.000Z",
+        "broadcast": "R/2020-03-13T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/498628"
+      },
+      {
+        "site": "mal",
+        "id": "20175"
+      },
+      {
+        "site": "anidb",
+        "id": "3947"
+      },
+      {
+        "site": "aniList",
+        "id": "20175"
+      }
+    ]
+  },
+  {
+    "title": "NG騎士ラムネ&amp;40 EX ビクビクトライアングル 愛の嵐大作戦",
+    "titleTranslate": {
+      "zh-Hans": [
+        "NG骑士柠檬汽水&40 EX"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1991-07-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1991-07-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "37250"
+      },
+      {
+        "site": "unext",
+        "id": "SID0010710",
+        "begin": "2016-03-24T03:00:00.000Z",
+        "broadcast": "R/2016-03-24T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10202",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/26110/season/0"
+      }
+    ]
+  },
+  {
+    "title": "DRAGON QUEST ダイの大冒険",
+    "titleTranslate": {
+      "zh-Hans": [
+        "勇者斗恶龙 达尔的大冒险 剧场版"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1991-07-19T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1991-07-19T16:31:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "317747"
+      },
+      {
+        "site": "unext",
+        "id": "SID0054518",
+        "begin": "2021-02-01T03:00:00.000Z",
+        "broadcast": "R/2021-02-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "dai-movie",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/582098"
+      },
+      {
+        "site": "mal",
+        "id": "7435"
+      },
+      {
+        "site": "aniList",
+        "id": "7435"
+      },
+      {
+        "site": "anidb",
+        "id": "2092"
+      }
+    ]
+  },
+  {
+    "title": "それいけ!アンパンマン ドキンちゃんのドキドキカレンダー",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.tms-e.co.jp/alltitles/anpanman/060305.html",
+    "begin": "1991-07-19T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1991-07-19T16:53:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "418857"
+      },
+      {
+        "site": "unext",
+        "id": "SID0018522",
+        "begin": "2015-08-01T03:00:00.000Z",
+        "broadcast": "R/2015-08-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/475086"
+      },
+      {
+        "site": "mal",
+        "id": "22037"
+      },
+      {
+        "site": "aniList",
+        "id": "141057"
+      },
+      {
+        "site": "anidb",
+        "id": "7737"
+      }
+    ]
+  },
+  {
+    "title": "それいけ!アンパンマン とべ! とべ! ちびごん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "面包超人：飞呀！飞呀！小小龙"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.tms-e.co.jp/alltitles/anpanman/060304.html",
+    "begin": "1991-07-19T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1991-07-19T16:40:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "418856"
+      },
+      {
+        "site": "unext",
+        "id": "SID0018521",
+        "begin": "2015-08-01T03:00:00.000Z",
+        "broadcast": "R/2015-08-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/437880"
+      },
+      {
+        "site": "mal",
+        "id": "10057"
+      },
+      {
+        "site": "aniList",
+        "id": "10057"
+      },
+      {
+        "site": "anidb",
+        "id": "7547"
+      }
+    ]
+  },
+  {
+    "title": "ハローキティの魔法の森のお姫さま",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Hello Kitty魔法森林公主",
+        "凯蒂猫之睡美人",
+        "凯蒂猫之魔法森林的公主"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1991-07-19T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1991-07-19T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "89696"
+      },
+      {
+        "site": "danime",
+        "id": "25562",
+        "begin": "2023-05-01T01:00:00.000Z",
+        "broadcast": "R/2023-05-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "18827"
+      },
+      {
+        "site": "aniList",
+        "id": "168873"
+      },
+      {
+        "site": "anidb",
+        "id": "7773"
+      }
+    ]
+  },
+  {
+    "title": "ZIGGY THE MOVIE それゆけ!R&R BAND",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1991-07-11T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1991-07-11T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "103895"
+      },
+      {
+        "site": "mal",
+        "id": "11093"
+      },
+      {
+        "site": "anidb",
+        "id": "6602"
+      },
+      {
+        "site": "aniList",
+        "id": "11093"
+      }
+    ]
+  },
+  {
+    "title": "まじかる☆タルるートくん 燃えろ!友情の魔法大戦",
+    "titleTranslate": {
+      "zh-Hans": [
+        "幻法小魔星 燃烧吧! 友情的魔法大战"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1991-07-19T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1991-07-19T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "416533"
+      },
+      {
+        "site": "mal",
+        "id": "22981"
+      },
+      {
+        "site": "anidb",
+        "id": "2086"
+      },
+      {
+        "site": "aniList",
+        "id": "105194"
       }
     ]
   }

@@ -1,0 +1,430 @@
+[
+  {
+    "title": "夜は猫といっしょ(第3期)",
+    "titleTranslate": {
+      "en": [
+        "Nights with a Cat"
+      ],
+      "zh-Hans": [
+        "关于养猫我一直是新手 第三季",
+        "夜夜猫歌 第三季",
+        "与猫共度的夜晚 第三季",
+        "今晚有貓伴身邊 第三季"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://yoruneko-pr.com/",
+    "begin": "2024-12-04T11:00:00.000Z",
+    "broadcast": "R/2024-12-04T11:00:00.000Z/P7D",
+    "end": "2025-09-03T11:03:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "481865"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/199928/season/1/episode/61"
+      },
+      {
+        "site": "mal",
+        "id": "58199"
+      },
+      {
+        "site": "anidb",
+        "id": "18504"
+      },
+      {
+        "site": "aniList",
+        "id": "148042"
+      },
+      {
+        "site": "acgnx",
+        "id": "養貓 新手"
+      },
+      {
+        "site": "dmhy",
+        "id": "養貓 新手"
+      }
+    ]
+  },
+  {
+    "title": "BEASTARS FINAL SEASON Part1",
+    "titleTranslate": {
+      "zh-Hans": [
+        "动物狂想曲 最终季 第一部分",
+        "BEASTARS 最终季 第一部分"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://bst-animation.com/",
+    "begin": "2024-12-04T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-12-04T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "341139"
+      },
+      {
+        "site": "netflix",
+        "id": "81054847",
+        "begin": "2024-12-04T16:00:00.000Z",
+        "broadcast": "R/2024-12-04T16:00:00.000Z/P0D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/90937/season/3"
+      },
+      {
+        "site": "mal",
+        "id": "49469"
+      },
+      {
+        "site": "anidb",
+        "id": "16443"
+      },
+      {
+        "site": "aniList",
+        "id": "136880"
+      },
+      {
+        "site": "acgnx",
+        "id": "BEASTARS"
+      },
+      {
+        "site": "dmhy",
+        "id": "BEASTARS"
+      }
+    ]
+  },
+  {
+    "title": "五等分の花嫁＊",
+    "titleTranslate": {
+      "zh-Hans": [
+        "五等分的新娘＊",
+        "五等分的新娘 新婚旅行篇"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.tbs.co.jp/anime/5hanayome/",
+    "begin": "2024-12-22T16:00:00.000Z",
+    "broadcast": "R/2024-12-22T16:00:00.000Z/P7D",
+    "end": "2024-12-22T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "492352"
+      },
+      {
+        "site": "abema",
+        "id": "189-78",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mikan",
+        "id": "3501"
+      },
+      {
+        "site": "nicovideo",
+        "id": "5hanayome4",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0166684",
+        "begin": "2025-01-23T18:00:00.000Z",
+        "broadcast": "R/2025-01-23T18:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "27645",
+        "begin": "2025-01-23T18:00:00.000Z",
+        "broadcast": "R/2025-01-23T18:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1287324"
+      },
+      {
+        "site": "mal",
+        "id": "58755"
+      },
+      {
+        "site": "anidb",
+        "id": "18603"
+      },
+      {
+        "site": "aniList",
+        "id": "177191"
+      }
+    ]
+  },
+  {
+    "title": "Duel Masters LOST ～月下の死神～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "决斗大师 LOST ～月下的死神～"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://www.shopro.co.jp/anime/duelmasters_lost/",
+    "begin": "2024-12-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-12-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "506773"
+      },
+      {
+        "site": "danime",
+        "id": "27377",
+        "begin": "2024-12-24T03:00:00.000Z",
+        "broadcast": "R/2024-12-24T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0165716",
+        "begin": "2024-12-26T03:00:00.000Z",
+        "broadcast": "R/2024-12-26T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "13-195",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/284880/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "59458"
+      },
+      {
+        "site": "anidb",
+        "id": "18797"
+      },
+      {
+        "site": "aniList",
+        "id": "187507"
+      },
+      {
+        "site": "acgnx",
+        "id": "決鬥大師"
+      },
+      {
+        "site": "dmhy",
+        "id": "決鬥大師"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 忍たま乱太郎 ドクタケ忍者隊最強の軍師",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 忍者乱太郎 毒竹忍者队最强的军师"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://sh-anime.shochiku.co.jp/nintama-movie/",
+    "begin": "2024-12-19T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-12-19T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "481866"
+      },
+      {
+        "site": "unext",
+        "id": "SID0184518",
+        "begin": "2025-04-09T15:00:00.000Z",
+        "broadcast": "R/2025-04-09T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1279788"
+      },
+      {
+        "site": "mal",
+        "id": "58201"
+      },
+      {
+        "site": "anidb",
+        "id": "18505"
+      },
+      {
+        "site": "aniList",
+        "id": "175138"
+      },
+      {
+        "site": "nicovideo",
+        "id": "nintama-movie",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "29174",
+        "begin": "2026-08-12T15:00:00.000Z",
+        "broadcast": "R/2026-08-12T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3651"
+      }
+    ]
+  },
+  {
+    "title": "30歳まで童貞だと魔法使いになれるらしい 特別編集版",
+    "titleTranslate": {
+      "zh-Hans": [
+        "到了30岁还是处男，似乎会变成魔法师 特别剪辑版"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://cherimaho-anime.com/",
+    "begin": "2024-12-12T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-12-12T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "487209"
+      },
+      {
+        "site": "unext",
+        "id": "SID0189350",
+        "begin": "2025-04-30T15:00:00.000Z",
+        "broadcast": "R/2025-04-30T15:00:00.000Z/P7D",
+        "comment": "もっとふりかえる！安達と黒沢のプレミアコメンタリー: SID0189351"
+      },
+      {
+        "site": "danime",
+        "id": "27949",
+        "begin": "2025-04-30T15:00:00.000Z",
+        "broadcast": "R/2025-04-30T15:00:00.000Z/P7D",
+        "comment": "もっとふりかえる！安達と黒沢のプレミアコメンタリー: 27950"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1363560"
+      },
+      {
+        "site": "mal",
+        "id": "58549"
+      },
+      {
+        "site": "aniList",
+        "id": "176470"
+      },
+      {
+        "site": "anidb",
+        "id": "18821"
+      }
+    ]
+  },
+  {
+    "title": "映画 イナズマイレブン総集編 伝説のキックオフ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "电影 闪电十一人总集篇 传说的开球"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.inazuma.jp/movie/",
+    "begin": "2024-12-26T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-12-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "510788"
+      },
+      {
+        "site": "danime",
+        "id": "28055",
+        "begin": "2025-06-30T15:00:00.000Z",
+        "broadcast": "R/2025-06-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1346722"
+      },
+      {
+        "site": "mal",
+        "id": "59709"
+      },
+      {
+        "site": "anidb",
+        "id": "18848"
+      },
+      {
+        "site": "aniList",
+        "id": "180804"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 イナズマイレブン 新たなる英雄たちの序章",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 闪电十一人 新英雄的序章"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.inazuma.jp/movie/",
+    "begin": "2024-12-26T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2024-12-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "510789"
+      },
+      {
+        "site": "danime",
+        "id": "28055",
+        "begin": "2025-06-30T15:00:00.000Z",
+        "broadcast": "R/2025-06-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1346726"
+      },
+      {
+        "site": "mal",
+        "id": "59710"
+      },
+      {
+        "site": "anidb",
+        "id": "18849"
+      },
+      {
+        "site": "aniList",
+        "id": "180806"
+      }
+    ]
+  }
+]

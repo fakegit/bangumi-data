@@ -1,0 +1,111 @@
+[
+  {
+    "title": "さらば宇宙戦艦ヤマト 愛の戦士たち",
+    "titleTranslate": {
+      "zh-Hans": [
+        "再见宇宙战舰大和号 爱的战士们",
+        "再见了宇宙战舰大和号 爱的战士们"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1978-08-04T16:00:00.000Z",
+    "end": "1978-08-04T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "74533"
+      },
+      {
+        "site": "bilibili",
+        "id": "2455",
+        "begin": "2014-12-18T10:26:00.000Z",
+        "broadcast": "R/2014-12-18T10:26:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0174166",
+        "begin": "2025-04-04T03:00:00.000Z",
+        "broadcast": "R/2025-04-04T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0CQF39QW6",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/65665"
+      },
+      {
+        "site": "danime",
+        "id": "28384",
+        "begin": "2025-12-01T15:00:00.000Z",
+        "broadcast": "R/2025-12-01T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "3067"
+      },
+      {
+        "site": "anidb",
+        "id": "2229"
+      },
+      {
+        "site": "aniList",
+        "id": "3067"
+      }
+    ]
+  },
+  {
+    "title": "100万年地球の旅 バンダーブック",
+    "titleTranslate": {
+      "zh-Hans": [
+        "100万年地球之旅 班达之书"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1978-08-26T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1978-08-26T17:32:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "112591"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003101",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10928",
+        "begin": "2013-08-02T01:00:00.000Z",
+        "broadcast": "R/2013-08-02T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/83212"
+      },
+      {
+        "site": "mal",
+        "id": "5133"
+      },
+      {
+        "site": "anidb",
+        "id": "2991"
+      },
+      {
+        "site": "aniList",
+        "id": "5133"
+      }
+    ]
+  }
+]

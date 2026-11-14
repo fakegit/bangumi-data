@@ -1,0 +1,476 @@
+[
+  {
+    "title": "万聖街",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://banseigai.com/",
+    "begin": "2022-11-11T15:00:00.000Z",
+    "broadcast": "R/2022-11-11T15:00:00.000Z/P7D",
+    "end": "2022-12-18T13:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "312314"
+      },
+      {
+        "site": "nicovideo",
+        "id": "banseigai",
+        "begin": "2022-11-11T15:30:00.000Z",
+        "broadcast": "R/2022-11-11T15:30:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "25803",
+        "begin": "2024-12-03T09:00:00.000Z",
+        "broadcast": "R/2024-12-03T09:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/106402"
+      },
+      {
+        "site": "mal",
+        "id": "42640"
+      },
+      {
+        "site": "anidb",
+        "id": "15939"
+      },
+      {
+        "site": "aniList",
+        "id": "114555"
+      }
+    ]
+  },
+  {
+    "title": "「艦これ」いつかあの海で",
+    "titleTranslate": {
+      "zh-Hans": [
+        "舰队Collection 总有一天，在那片海",
+        "舰队收藏 第二季",
+        "舰队Collection 第二季"
+      ],
+      "zh-Hant": [
+        "艦隊Collection 總有一天，在那片海",
+        "艦隊 Collection 總有一天，在那片海"
+      ],
+      "en": [
+        "KanColle: See You Again on Another Quiet Blue Sea"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://kancolle-itsuumi.com/",
+    "begin": "2022-11-03T15:30:00.000Z",
+    "broadcast": "R/2022-11-03T15:30:00.000Z/P7D",
+    "end": "2023-03-25T11:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "270739"
+      },
+      {
+        "site": "gamer",
+        "id": "76225",
+        "begin": "2023-09-22T04:00:00.000Z",
+        "broadcast": "R/2023-09-22T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kancolle-itsuumi",
+        "begin": "2022-11-03T15:30:00.000Z",
+        "broadcast": "R/2022-11-03T15:30:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0073137",
+        "begin": "2022-11-03T15:30:00.000Z",
+        "broadcast": "R/2022-11-03T15:30:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "76225",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "6365f0e36b7b6500076397d6"
+      },
+      {
+        "site": "mikan",
+        "id": "2874"
+      },
+      {
+        "site": "danime",
+        "id": "25861",
+        "begin": "2024-05-31T15:00:00.000Z",
+        "broadcast": "R/2024-05-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/203192"
+      },
+      {
+        "site": "mal",
+        "id": "30455"
+      },
+      {
+        "site": "anidb",
+        "id": "11161"
+      },
+      {
+        "site": "aniList",
+        "id": "21294"
+      },
+      {
+        "site": "acgnx",
+        "id": "艦隊|Kan Colle"
+      },
+      {
+        "site": "dmhy",
+        "id": "艦隊|Kan Colle"
+      }
+    ]
+  },
+  {
+    "title": "魔道祖師 完結編",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://mdzs.jp/anime/",
+    "begin": "2022-11-09T16:00:00.000Z",
+    "broadcast": "R/2022-11-09T16:00:00.000Z/P7D",
+    "end": "2023-01-25T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "289944"
+      },
+      {
+        "site": "nicovideo",
+        "id": "mdzs2",
+        "begin": "2023-01-11T03:00:00.000Z",
+        "broadcast": "R/2023-01-11T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26096",
+        "begin": "2023-01-11T03:00:00.000Z",
+        "broadcast": "R/2023-01-11T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/80732/season/3"
+      },
+      {
+        "site": "mal",
+        "id": "40434"
+      },
+      {
+        "site": "aniList",
+        "id": "121467"
+      },
+      {
+        "site": "anidb",
+        "id": "16618"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 転生したらスライムだった件 紅蓮の絆編",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 关于我转生变成史莱姆这档事 红莲之绊篇"
+      ],
+      "zh-Hant": [
+        "關於我轉生變成史萊姆這檔事劇場版 紅蓮之絆篇",
+        "劇場版 關於我轉生變成史萊姆這檔事 紅蓮之絆篇",
+        "劇場版關於我轉生變成史萊姆這檔事：紅蓮之絆篇",
+        "關於我轉生變成史萊姆這檔事：劇場版：紅蓮之絆篇"
+      ],
+      "en": [
+        "That Time I Got Reincarnated as a Slime the Movie: Scarlet Bond",
+        "Tensei Shitara Slime Datta Ken: Guren no Kizuna-hen"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://movie.ten-sura.com/",
+    "begin": "2022-11-24T16:00:00.000Z",
+    "end": "2022-11-24T17:48:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "350185"
+      },
+      {
+        "site": "gamer",
+        "id": "119767",
+        "begin": "2023-03-23T15:00:00.000Z",
+        "broadcast": "R/2023-03-23T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28481018",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "netflix",
+        "id": "81710853",
+        "begin": "2023-08-13T16:00:00.000Z",
+        "broadcast": "R/2023-08-13T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0080290",
+        "begin": "2023-03-23T15:00:00.000Z",
+        "broadcast": "R/2023-03-23T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "119767",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mikan",
+        "id": "2957"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ten-sura-movie",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "26917",
+        "begin": "2024-02-24T15:00:00.000Z",
+        "broadcast": "R/2024-02-24T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "muse_tw",
+        "id": "PL12UaAf_xzfpr5R-Q4Kshpozv9At50GFj",
+        "url": "https://www.youtube.com/watch?v=AbAG_iaZK60",
+        "begin": "2024-09-16T16:00:00.000Z",
+        "broadcast": "R/2024-09-16T16:00:00.000Z/P0D",
+        "comment": "國語: https://www.youtube.com/watch?v=ofliH1LdbaE"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UcjhXd9e2Y3a0Mlbn_NyaLeQ",
+        "url": "https://www.youtube.com/watch?v=pPPwpDHdEEA",
+        "begin": "2024-01-26T16:00:00.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/876792"
+      },
+      {
+        "site": "mal",
+        "id": "49877"
+      },
+      {
+        "site": "anidb",
+        "id": "16776"
+      },
+      {
+        "site": "aniList",
+        "id": "139498"
+      }
+    ]
+  },
+  {
+    "title": "トニカクカワイイ ～制服～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "总之就是非常可爱 ～制服～"
+      ],
+      "zh-Hant": [
+        "總之就是很可愛～制服～"
+      ],
+      "en": [
+        "Tonikaku Kawaii: Seifuku"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://tonikawa.com/",
+    "begin": "2022-11-21T16:00:00.000Z",
+    "end": "2022-11-21T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "376708"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28340355",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0075841",
+        "begin": "2022-11-22T03:00:00.000Z",
+        "broadcast": "R/2022-11-22T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2877"
+      },
+      {
+        "site": "danime",
+        "id": "25780",
+        "begin": "2022-11-22T03:00:00.000Z",
+        "broadcast": "R/2022-11-22T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/100049/season/0/episode/15"
+      },
+      {
+        "site": "mal",
+        "id": "51533"
+      },
+      {
+        "site": "anidb",
+        "id": "17300"
+      },
+      {
+        "site": "aniList",
+        "id": "141212"
+      }
+    ]
+  },
+  {
+    "title": "銀河英雄伝説 Die Neue These 策謀 第3章",
+    "titleTranslate": {
+      "zh-Hans": [
+        "银河英雄传说 Die Neue These 策谋 第3章"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://gineiden-anime.com",
+    "begin": "2022-11-24T16:00:00.000Z",
+    "end": "2022-11-24T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "381842"
+      },
+      {
+        "site": "bilibili",
+        "id": "28339717",
+        "begin": "2022-09-29T23:00:01.000Z",
+        "broadcast": "R/2022-09-29T23:00:01.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "gineiden-dnt-4",
+        "begin": "2023-05-25T15:00:00.000Z",
+        "broadcast": "R/2023-05-25T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0111140",
+        "begin": "2024-10-09T03:00:00.000Z",
+        "broadcast": "R/2024-10-09T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "27204",
+        "begin": "2024-10-13T03:00:00.000Z",
+        "broadcast": "R/2024-10-13T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0DJQY7DKY",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1030422"
+      }
+    ]
+  },
+  {
+    "title": "すずめの戸締まり",
+    "titleTranslate": {
+      "zh-Hans": [
+        "铃芽之旅",
+        "铃芽户缔",
+        "铃芽的门锁"
+      ],
+      "zh-Hant": [
+        "鈴芽之旅"
+      ],
+      "en": [
+        "Suzume"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://suzume-tojimari-movie.jp/",
+    "begin": "2022-11-10T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2022-11-10T18:01:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "362577"
+      },
+      {
+        "site": "unext",
+        "id": "SID0092130",
+        "begin": "2023-09-19T15:00:00.000Z",
+        "broadcast": "R/2023-09-19T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "28370944",
+        "begin": "2023-10-21T02:00:00.000Z",
+        "broadcast": "R/2023-10-21T02:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2876"
+      },
+      {
+        "site": "prime",
+        "id": "B0CGHXK5CN",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/916224"
+      },
+      {
+        "site": "mal",
+        "id": "50594"
+      },
+      {
+        "site": "anidb",
+        "id": "17041"
+      },
+      {
+        "site": "aniList",
+        "id": "142770"
+      }
+    ]
+  }
+]

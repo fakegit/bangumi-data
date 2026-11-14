@@ -13,18 +13,30 @@
     "end": "1994-02-16T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "as65N58FdbMWlPw",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "19539"
       },
       {
-        "site": "bilibili",
-        "id": "2330",
-        "begin": "1993-03-02T16:00:00.000Z"
+        "site": "tmdb",
+        "id": "tv/35966"
+      },
+      {
+        "site": "danime",
+        "id": "22893",
+        "begin": "2025-12-12T15:00:00.000Z",
+        "broadcast": "R/2025-12-12T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "5395"
+      },
+      {
+        "site": "anidb",
+        "id": "3961"
+      },
+      {
+        "site": "aniList",
+        "id": "5395"
       }
     ]
   },
@@ -57,6 +69,34 @@
         "site": "nicovideo",
         "id": "sailor_moon_r",
         "begin": "2015-07-18T10:00:00.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002815",
+        "begin": "2021-01-07T03:00:00.000Z",
+        "broadcast": "R/2021-01-07T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "24431",
+        "begin": "2022-02-28T15:00:00.000Z",
+        "broadcast": "R/2022-02-28T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/3570/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "740"
+      },
+      {
+        "site": "anidb",
+        "id": "2539"
+      },
+      {
+        "site": "aniList",
+        "id": "740"
       }
     ]
   },
@@ -81,6 +121,22 @@
         "site": "iqiyi",
         "id": "a_19rrhb54vl",
         "begin": "2015-08-04T01:02:58.000Z"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/146090"
+      },
+      {
+        "site": "mal",
+        "id": "7816"
+      },
+      {
+        "site": "anidb",
+        "id": "6623"
+      },
+      {
+        "site": "aniList",
+        "id": "7816"
       }
     ]
   },
@@ -110,6 +166,34 @@
         "site": "iqiyi",
         "id": "a_19rrhb4015",
         "begin": "2016-02-04T10:34:13.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0010769",
+        "begin": "2018-07-27T03:00:00.000Z",
+        "broadcast": "R/2018-07-27T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0F18RR1MN",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/34433"
+      },
+      {
+        "site": "mal",
+        "id": "901"
+      },
+      {
+        "site": "aniList",
+        "id": "901"
+      },
+      {
+        "site": "anidb",
+        "id": "905"
       }
     ]
   },
@@ -118,6 +202,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "哆啦A梦：大雄与白金迷宫"
+      ],
+      "zh-Hant": [
+        "電影 哆啦A夢 大雄與迷宮之旅"
       ]
     },
     "type": "movie",
@@ -127,18 +214,8 @@
     "end": "1993-03-06T17:40:00.000Z",
     "sites": [
       {
-        "site": "letv",
-        "id": "80947",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "452"
-      },
-      {
-        "site": "pptv",
-        "id": "7qoHhe1TwwFk4ko",
-        "begin": ""
       },
       {
         "site": "qq",
@@ -148,7 +225,261 @@
       {
         "site": "bilibili",
         "id": "2561",
-        "begin": "1993-03-05T16:00:00.000Z"
+        "begin": "1993-03-05T16:00:00.000Z",
+        "broadcast": "R/2015-03-06T07:43:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "35-103",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0099858",
+        "begin": "2024-03-05T03:00:00.000Z",
+        "broadcast": "R/2024-03-05T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "32673",
+        "begin": "2023-03-16T02:00:00.000Z",
+        "broadcast": "R/2023-03-16T02:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0FHB2MZBK",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/161822"
+      },
+      {
+        "site": "mal",
+        "id": "2659"
+      },
+      {
+        "site": "aniList",
+        "id": "2659"
+      },
+      {
+        "site": "anidb",
+        "id": "6587"
+      }
+    ]
+  },
+  {
+    "title": "三国志 第二部・長江燃ゆ!",
+    "titleTranslate": {
+      "zh-Hans": [
+        "三国志 第二部 长江的燃烧"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1993-03-19T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1993-03-19T18:35:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "46538"
+      },
+      {
+        "site": "unext",
+        "id": "SID0041829",
+        "begin": "2019-06-26T03:00:00.000Z",
+        "broadcast": "R/2019-06-26T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "22589",
+        "begin": "2019-02-15T01:00:00.000Z",
+        "broadcast": "R/2019-02-15T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/473200"
+      },
+      {
+        "site": "mal",
+        "id": "7697"
+      },
+      {
+        "site": "aniList",
+        "id": "7697"
+      },
+      {
+        "site": "anidb",
+        "id": "1232"
+      }
+    ]
+  },
+  {
+    "title": "けろけろけろっぴのミツバチ大騒動",
+    "titleTranslate": {},
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1993-03-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1993-03-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "315548"
+      },
+      {
+        "site": "unext",
+        "id": "SID0093081",
+        "begin": "2023-10-01T03:00:00.000Z",
+        "broadcast": "R/2023-10-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "22653"
+      },
+      {
+        "site": "anidb",
+        "id": "7834"
+      },
+      {
+        "site": "aniList",
+        "id": "138944"
+      }
+    ]
+  },
+  {
+    "title": "カッパの三平",
+    "titleTranslate": {
+      "zh-Hans": [
+        "河童三平"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1993-03-12T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1993-03-12T17:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "299906"
+      },
+      {
+        "site": "unext",
+        "id": "SID0034013",
+        "begin": "2018-04-01T03:00:00.000Z",
+        "broadcast": "R/2018-04-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "24195",
+        "begin": "2020-09-11T01:00:00.000Z",
+        "broadcast": "R/2020-09-11T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/522504"
+      },
+      {
+        "site": "mal",
+        "id": "9584"
+      },
+      {
+        "site": "anidb",
+        "id": "5756"
+      },
+      {
+        "site": "aniList",
+        "id": "9584"
+      }
+    ]
+  },
+  {
+    "title": "機動戦士SDガンダムまつり",
+    "titleTranslate": {
+      "zh-Hans": [
+        "机动战士SD高达祭"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1993-03-12T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1993-03-12T17:21:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "279060"
+      },
+      {
+        "site": "unext",
+        "id": "SID0077808",
+        "begin": "2023-01-26T15:00:00.000Z",
+        "broadcast": "R/2023-01-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/582488"
+      },
+      {
+        "site": "mal",
+        "id": "9098"
+      },
+      {
+        "site": "anidb",
+        "id": "3342"
+      },
+      {
+        "site": "aniList",
+        "id": "9098"
+      }
+    ]
+  },
+  {
+    "title": "ドラミちゃん ハロー恐竜キッズ!!",
+    "titleTranslate": {
+      "zh-Hans": [
+        "哆啦美与哈啰小恐龙"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1993-03-05T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1993-03-05T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "121743"
+      },
+      {
+        "site": "mal",
+        "id": "2639"
+      },
+      {
+        "site": "anidb",
+        "id": "7011"
+      },
+      {
+        "site": "aniList",
+        "id": "2639"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/326413"
       }
     ]
   }

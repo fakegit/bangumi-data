@@ -4,6 +4,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "听到涛声"
+      ],
+      "zh-Hant": [
+        "海潮之聲"
+      ],
+      "en": [
+        "Ocean Waves"
       ]
     },
     "type": "tv",
@@ -15,6 +21,114 @@
       {
         "site": "bangumi",
         "id": "513"
+      },
+      {
+        "site": "netflix",
+        "id": "80158668",
+        "begin": "2020-01-30T16:00:00.000Z",
+        "broadcast": "R/2020-01-30T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/21057"
+      },
+      {
+        "site": "mal",
+        "id": "743"
+      },
+      {
+        "site": "anidb",
+        "id": "335"
+      },
+      {
+        "site": "aniList",
+        "id": "743"
+      }
+    ]
+  },
+  {
+    "title": "MINKY MOMO IN 夢にかける橋",
+    "titleTranslate": {},
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1993-05-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1993-05-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "93047"
+      },
+      {
+        "site": "unext",
+        "id": "SID0010709",
+        "begin": "2016-03-24T03:00:00.000Z",
+        "broadcast": "R/2016-03-24T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10433",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/445129"
+      },
+      {
+        "site": "mal",
+        "id": "3462"
+      },
+      {
+        "site": "anidb",
+        "id": "4013"
+      },
+      {
+        "site": "aniList",
+        "id": "3462"
+      },
+      {
+        "site": "abema",
+        "id": "115-138",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "けろけろけろっぴのよわむし王子の大冒険",
+    "titleTranslate": {},
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1993-05-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1993-05-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "315559"
+      },
+      {
+        "site": "danime",
+        "id": "25497",
+        "begin": "2022-12-23T01:00:00.000Z",
+        "broadcast": "R/2022-12-23T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "22613"
+      },
+      {
+        "site": "anidb",
+        "id": "7792"
+      },
+      {
+        "site": "aniList",
+        "id": "187590"
       }
     ]
   }

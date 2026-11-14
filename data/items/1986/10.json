@@ -15,11 +15,6 @@
     "end": "1987-09-28T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "F1cxrxd97SuODHQ",
-        "begin": ""
-      },
-      {
         "site": "qq",
         "id": "8/894j2j6zagv8ey4",
         "begin": ""
@@ -29,9 +24,20 @@
         "id": "31698"
       },
       {
-        "site": "letv",
-        "id": "7558",
-        "begin": ""
+        "site": "tmdb",
+        "id": "tv/66081"
+      },
+      {
+        "site": "mal",
+        "id": "2826"
+      },
+      {
+        "site": "anidb",
+        "id": "3669"
+      },
+      {
+        "site": "aniList",
+        "id": "2826"
       }
     ]
   },
@@ -56,6 +62,282 @@
       {
         "site": "bangumi",
         "id": "4843"
+      },
+      {
+        "site": "unext",
+        "id": "SID0011320",
+        "begin": "2017-04-20T03:00:00.000Z",
+        "broadcast": "R/2017-04-20T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "11318",
+        "begin": "2020-02-20T01:00:00.000Z",
+        "broadcast": "R/2020-02-20T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "5-10hjwcazjicg",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/42444"
+      },
+      {
+        "site": "mal",
+        "id": "1254"
+      },
+      {
+        "site": "anidb",
+        "id": "826"
+      },
+      {
+        "site": "aniList",
+        "id": "1254"
+      }
+    ]
+  },
+  {
+    "title": "Bugってハニー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "冒险岛",
+        "BUG甜心"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1986-10-02T16:00:00.000Z",
+    "broadcast": "R/1986-10-02T16:00:00.000Z/P7D",
+    "end": "1987-09-24T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "196985"
+      },
+      {
+        "site": "unext",
+        "id": "SID0054158",
+        "begin": "2020-12-30T03:00:00.000Z",
+        "broadcast": "R/2020-12-30T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23371",
+        "begin": "2020-04-01T01:00:00.000Z",
+        "broadcast": "R/2020-04-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/207590"
+      },
+      {
+        "site": "mal",
+        "id": "10210"
+      },
+      {
+        "site": "anidb",
+        "id": "6600"
+      },
+      {
+        "site": "aniList",
+        "id": "10210"
+      }
+    ]
+  },
+  {
+    "title": "ドテラマン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "精灵小鬼头"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1986-10-13T16:00:00.000Z",
+    "broadcast": "R/1986-10-13T16:00:00.000Z/P7D",
+    "end": "1987-02-23T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "188949"
+      },
+      {
+        "site": "unext",
+        "id": "SID0017876",
+        "begin": "2022-04-14T03:00:00.000Z",
+        "broadcast": "R/2022-04-14T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "11361",
+        "begin": "2020-03-13T01:00:00.000Z",
+        "broadcast": "R/2020-03-13T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/45074"
+      },
+      {
+        "site": "mal",
+        "id": "20083"
+      },
+      {
+        "site": "anidb",
+        "id": "1780"
+      },
+      {
+        "site": "aniList",
+        "id": "20083"
+      }
+    ]
+  },
+  {
+    "title": "バリバリ伝説",
+    "titleTranslate": {
+      "zh-Hans": [
+        "赛车传奇"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1986-10-04T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1986-10-04T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "78049"
+      },
+      {
+        "site": "unext",
+        "id": "SID0158136",
+        "begin": "2024-10-10T15:00:00.000Z",
+        "broadcast": "R/2024-10-10T15:00:00.000Z/P7D",
+        "comment": "PART I 筑波篇, PART II 鈴鹿篇: SID0158137"
+      },
+      {
+        "site": "danime",
+        "id": "27383",
+        "begin": "2024-10-10T15:00:00.000Z",
+        "broadcast": "R/2024-10-10T15:00:00.000Z/P7D",
+        "comment": "PART I 筑波篇, PART II 鈴鹿篇: 27384"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/247353"
+      },
+      {
+        "site": "mal",
+        "id": "5002"
+      },
+      {
+        "site": "aniList",
+        "id": "5002"
+      },
+      {
+        "site": "anidb",
+        "id": "4779"
+      }
+    ]
+  },
+  {
+    "title": "がんばれ!キッカーズ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "加油！吉塔斯"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1986-10-14T16:00:00.000Z",
+    "broadcast": "R/1986-10-14T16:00:00.000Z/P7D",
+    "end": "1987-03-24T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "56995"
+      },
+      {
+        "site": "danime",
+        "id": "27263",
+        "begin": "2024-08-18T15:00:00.000Z",
+        "broadcast": "R/2024-08-18T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0156982",
+        "begin": "2024-09-06T03:00:00.000Z",
+        "broadcast": "R/2024-09-06T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/64049"
+      },
+      {
+        "site": "mal",
+        "id": "3053"
+      },
+      {
+        "site": "anidb",
+        "id": "1848"
+      },
+      {
+        "site": "aniList",
+        "id": "3053"
+      }
+    ]
+  },
+  {
+    "title": "ボスコアドベンチャー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "梦幻世界"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1986-10-05T16:00:00.000Z",
+    "broadcast": "R/1986-10-05T16:00:00.000Z/P7D",
+    "end": "1987-03-29T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "77247"
+      },
+      {
+        "site": "danime",
+        "id": "23526",
+        "begin": "2020-04-24T01:00:00.000Z",
+        "broadcast": "R/2020-04-24T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/151"
+      },
+      {
+        "site": "mal",
+        "id": "3460"
+      },
+      {
+        "site": "anidb",
+        "id": "2107"
+      },
+      {
+        "site": "aniList",
+        "id": "3460"
       }
     ]
   }

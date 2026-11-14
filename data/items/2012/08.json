@@ -14,13 +14,32 @@
     "end": "2013-01-04T14:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "vd6qKJD2ZqQHhe0",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "46079"
+      },
+      {
+        "site": "dmhy",
+        "id": "今+明"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/55589"
+      },
+      {
+        "site": "mal",
+        "id": "15005"
+      },
+      {
+        "site": "anidb",
+        "id": "9286"
+      },
+      {
+        "site": "aniList",
+        "id": "15005"
+      },
+      {
+        "site": "acgnx",
+        "id": "今 明"
       }
     ]
   },
@@ -45,6 +64,24 @@
       {
         "site": "bangumi",
         "id": "90390"
+      },
+      {
+        "site": "unext",
+        "id": "SID0018506",
+        "begin": "2013-05-01T06:00:00.000Z",
+        "broadcast": "R/2013-05-01T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/215180"
+      },
+      {
+        "site": "mal",
+        "id": "15323"
+      },
+      {
+        "site": "aniList",
+        "id": "15323"
       }
     ]
   },
@@ -62,18 +99,14 @@
     "end": "2012-08-25T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "tOTgXsYsnNo9uyM",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "47464"
       },
       {
         "site": "nicovideo",
         "id": "milky-holmes_alt",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "qq",
@@ -84,6 +117,16 @@
         "site": "bilibili",
         "id": "2921",
         "begin": "2012-08-24T16:00:00.000Z"
+      },
+      {
+        "site": "danime",
+        "id": "20012",
+        "begin": "2024-01-31T15:00:00.000Z",
+        "broadcast": "R/2024-01-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/51492/season/0/episode/2"
       }
     ]
   },
@@ -101,11 +144,6 @@
     "end": "2012-08-23T17:00:00.000Z",
     "sites": [
       {
-        "site": "letv",
-        "id": "81606",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "41428"
       },
@@ -113,6 +151,22 @@
         "site": "bilibili",
         "id": "3812",
         "begin": "2012-08-22T16:00:01.000Z"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/42972/season/0/episode/9"
+      },
+      {
+        "site": "mal",
+        "id": "13727"
+      },
+      {
+        "site": "aniList",
+        "id": "13727"
+      },
+      {
+        "site": "anidb",
+        "id": "9108"
       }
     ]
   },
@@ -121,6 +175,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "Code Geass 亡国的阿基德 第一章「翼龙降临」"
+      ],
+      "en": [
+        "Code Geass - Akito the Exiled EPISODE 1: The Wyvern Arrives"
       ]
     },
     "type": "movie",
@@ -130,16 +187,6 @@
     "end": "2012-08-04T17:00:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "otmjIYnvX50AfuY",
-        "begin": ""
-      },
-      {
-        "site": "letv",
-        "id": "82177",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "24593"
       },
@@ -147,6 +194,40 @@
         "site": "bilibili",
         "id": "1659",
         "begin": "2012-08-03T16:00:00.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0013602",
+        "begin": "2015-03-19T15:00:00.000Z",
+        "broadcast": "R/2015-03-19T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "21965",
+        "begin": "2024-01-31T15:00:00.000Z",
+        "broadcast": "R/2024-01-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/185526"
+      },
+      {
+        "site": "mal",
+        "id": "8888"
+      },
+      {
+        "site": "aniList",
+        "id": "8888"
+      },
+      {
+        "site": "anidb",
+        "id": "7508"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GRP585ZQR",
+        "begin": "2021-08-05T06:59:00.000Z",
+        "broadcast": "R/2021-08-05T06:59:00.000Z/P7D"
       }
     ]
   },
@@ -164,11 +245,6 @@
     "end": "2012-12-22T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "WISAicmbMPHrdW8M",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "42342"
       },
@@ -176,6 +252,22 @@
         "site": "iqiyi",
         "id": "a_19rrhb4oit",
         "begin": "2015-09-23T08:10:24.000Z"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/54574"
+      },
+      {
+        "site": "mal",
+        "id": "15359"
+      },
+      {
+        "site": "anidb",
+        "id": "9390"
+      },
+      {
+        "site": "aniList",
+        "id": "15359"
       }
     ]
   },
@@ -193,11 +285,6 @@
     "end": "2012-08-11T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "G0M9uyOJibTeaGIA",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "46234"
       },
@@ -205,6 +292,22 @@
         "site": "bilibili",
         "id": "3521",
         "begin": "2012-08-10T16:00:01.000Z"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/42506/season/0"
+      },
+      {
+        "site": "mal",
+        "id": "12879"
+      },
+      {
+        "site": "anidb",
+        "id": "8944"
+      },
+      {
+        "site": "aniList",
+        "id": "12879"
       }
     ]
   },
@@ -213,6 +316,10 @@
     "titleTranslate": {
       "zh-Hans": [
         "妖精的尾巴 剧场版 凤凰巫女"
+      ],
+      "zh-Hant": [
+        "魔導少年-劇場版【鳳凰巫女】",
+        "FAIRY TAIL 魔導少年 劇場版 鳳凰巫女"
       ]
     },
     "type": "movie",
@@ -224,11 +331,6 @@
       {
         "site": "bangumi",
         "id": "30361"
-      },
-      {
-        "site": "nicovideo",
-        "id": "fairytail_houou",
-        "begin": ""
       },
       {
         "site": "bilibili",
@@ -244,6 +346,53 @@
         "site": "youku",
         "id": "65014bf8fc8e11e1a19e",
         "begin": "2013-04-15T08:55:34.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0029354",
+        "begin": "2017-05-01T03:00:00.000Z",
+        "broadcast": "R/2017-05-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "fairytail_houou",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "21603",
+        "begin": "2022-06-01T01:00:00.000Z",
+        "broadcast": "R/2022-06-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "muse_tw",
+        "id": "PL12UaAf_xzfocRW08G88BXLigPBUkkVen",
+        "begin": "2019-08-22T23:00:07.000Z",
+        "broadcast": "R/2019-08-22T23:00:07.000Z/P7D",
+        "comment": "國語: PL12UaAf_xzfrTmLGtFt3KsF8EjxXR8P-T"
+      },
+      {
+        "site": "gamer",
+        "id": "52406",
+        "begin": "2025-08-01T04:00:00.000Z",
+        "broadcast": "R/2025-08-01T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/135531"
+      },
+      {
+        "site": "mal",
+        "id": "12049"
+      },
+      {
+        "site": "anidb",
+        "id": "8788"
+      },
+      {
+        "site": "aniList",
+        "id": "12049"
       }
     ]
   },
@@ -267,7 +416,19 @@
       {
         "site": "nicovideo",
         "id": "ikamusume-ova-01",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "11394",
+        "begin": "2014-08-01T01:00:00.000Z",
+        "broadcast": "R/2014-08-01T01:00:00.000Z/P7D",
+        "comment": "OAD 2: 11395"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/35447/season/0/episode/3"
       }
     ]
   },
@@ -289,14 +450,25 @@
         "id": "66452"
       },
       {
-        "site": "pptv",
-        "id": "P9G7OaEHd7UYlv4",
-        "begin": ""
-      },
-      {
         "site": "bilibili",
         "id": "4508",
         "begin": "2012-08-10T16:00:01.000Z"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/118404"
+      },
+      {
+        "site": "mal",
+        "id": "12965"
+      },
+      {
+        "site": "anidb",
+        "id": "8957"
+      },
+      {
+        "site": "aniList",
+        "id": "12965"
       }
     ]
   },
@@ -317,6 +489,150 @@
       {
         "site": "bangumi",
         "id": "184661"
+      }
+    ]
+  },
+  {
+    "title": "乙女はお姉さまに恋してる 2人のエルダー THE ANIMATION",
+    "titleTranslate": {
+      "zh-Hans": [
+        "少女爱上姐姐 2人的Elder THE ANIMATION"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.fwinc.co.jp/ova_otoboku2/",
+    "begin": "2012-08-28T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2012-10-23T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "10457"
+      },
+      {
+        "site": "unext",
+        "id": "SID0004295",
+        "begin": "2015-03-19T05:30:00.000Z",
+        "broadcast": "R/2015-03-19T05:30:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "27714",
+        "begin": "2025-03-06T15:00:00.000Z",
+        "broadcast": "R/2025-03-06T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/81426/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "9988"
+      },
+      {
+        "site": "anidb",
+        "id": "8898"
+      },
+      {
+        "site": "aniList",
+        "id": "9988"
+      }
+    ]
+  },
+  {
+    "title": "乃木坂春香の秘密 ふぃな〜れ♪",
+    "titleTranslate": {
+      "zh-Hans": [
+        "乃木坂春香的秘密 Finale♪"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2012-08-28T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2012-11-27T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "47276"
+      },
+      {
+        "site": "unext",
+        "id": "SID0044565",
+        "begin": "2020-05-14T03:00:00.000Z",
+        "broadcast": "R/2020-05-14T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10997",
+        "begin": "2013-10-04T01:00:00.000Z",
+        "broadcast": "R/2013-10-04T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "10928"
+      },
+      {
+        "site": "anidb",
+        "id": "9155"
+      },
+      {
+        "site": "aniList",
+        "id": "10928"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/36067/season/0"
+      }
+    ]
+  },
+  {
+    "title": "放課後ミッドナイターズ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "放学后的MIDNIGHTERS",
+        "放学后的MIDNIGHT",
+        "放课后的午夜行者",
+        "怪诞校园之夜（港）"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://afterschool-midnighters.com/",
+    "begin": "2012-08-24T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2012-08-24T17:35:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "47025"
+      },
+      {
+        "site": "unext",
+        "id": "SID0069613",
+        "begin": "2022-06-27T03:00:00.000Z",
+        "broadcast": "R/2022-06-27T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/118931"
+      },
+      {
+        "site": "mal",
+        "id": "13935"
+      },
+      {
+        "site": "anidb",
+        "id": "9164"
+      },
+      {
+        "site": "aniList",
+        "id": "13935"
       }
     ]
   }

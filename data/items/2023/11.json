@@ -1,0 +1,904 @@
+[
+  {
+    "title": "進撃の巨人 The Final Season 完結編 後編",
+    "titleTranslate": {
+      "zh-Hans": [
+        "进击的巨人 最终季 完结篇 后篇"
+      ],
+      "zh-Hant": [
+        "進擊的巨人 The Final Season完結篇 (後篇)",
+        "進擊的巨人 The Final Season 完結篇"
+      ],
+      "en": [
+        "Attack on Titan The Final Season Part 3 (2nd Half)"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://shingeki.tv/final/",
+    "begin": "2023-11-03T15:00:00.000Z",
+    "broadcast": "R/2023-11-03T15:00:00.000Z/P0D",
+    "end": "2023-11-03T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "415779"
+      },
+      {
+        "site": "netflix",
+        "id": "70299043",
+        "begin": "2023-11-04T16:00:00.000Z",
+        "broadcast": "R/2023-11-04T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "136226",
+        "begin": "2023-11-04T18:25:00.000Z",
+        "broadcast": "R/2023-11-04T18:25:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0095559",
+        "begin": "2023-11-05T03:00:00.000Z",
+        "broadcast": "R/2023-11-05T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "136226",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UchkFx6Rl70VbQeT10lIKoL7",
+        "begin": "2024-06-25T16:00:00.000Z",
+        "broadcast": "R/2024-06-25T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3215"
+      },
+      {
+        "site": "prime",
+        "id": "B0CL7F5T8Q",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "muse_tw",
+        "id": "PLFlphUH5ofro",
+        "url": "https://www.youtube.com/show/VLPLFlphUH5ofro?season=5&sbp=CgE1GgAqC05TNXBuNlkyTDFzQAFKDVBTUXBnSThHVjJ4VGs%253D",
+        "begin": "2025-11-05T14:00:07.000Z",
+        "broadcast": "R/2025-11-05T14:00:07.000Z/P7D",
+        "comment": "國語: https://www.youtube.com/show/VLPLEvdKEeruqeA?season=5&sbp=CgE1GgAqC1BRaWE1NnVlSnZrQAFKDVBTTlladkw4NG9vNEk%253D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/1429/season/0/episode/37"
+      },
+      {
+        "site": "aniList",
+        "id": "162314"
+      },
+      {
+        "site": "mal",
+        "id": "51535"
+      },
+      {
+        "site": "anidb",
+        "id": "17303"
+      },
+      {
+        "site": "acgnx",
+        "id": "進擊"
+      },
+      {
+        "site": "dmhy",
+        "id": "進擊"
+      }
+    ]
+  },
+  {
+    "title": "鬼武者",
+    "titleTranslate": {
+      "zh-Hans": [
+        "鬼武者"
+      ],
+      "zh-Hant": [
+        "鬼武者"
+      ],
+      "en": [
+        "Onimusha"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2023-11-01T16:00:00.000Z",
+    "broadcast": "R/2023-11-01T16:00:00.000Z/P0D",
+    "end": "2023-11-01T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "402745"
+      },
+      {
+        "site": "netflix",
+        "id": "81153116",
+        "begin": "2023-11-01T16:00:00.000Z",
+        "broadcast": "R/2023-11-01T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/210945"
+      },
+      {
+        "site": "mal",
+        "id": "53150"
+      },
+      {
+        "site": "anidb",
+        "id": "17642"
+      },
+      {
+        "site": "aniList",
+        "id": "155015"
+      }
+    ]
+  },
+  {
+    "title": "機甲英雄 機鬥勇者 第2季",
+    "titleTranslate": {
+      "zh-Hans": [
+        "机甲英雄 机斗勇者 第2季"
+      ],
+      "zh-Hant": [
+        "機甲英雄 機鬥勇者 第二季"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2023-11-09T16:00:00.000Z",
+    "broadcast": "R/2023-11-09T16:00:00.000Z/P7D",
+    "end": "2023-12-29T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "463539"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/225744/season/2"
+      }
+    ]
+  },
+  {
+    "title": "悪魔くん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "恶魔小子",
+        "恶魔君"
+      ],
+      "zh-Hant": [
+        "惡魔君"
+      ],
+      "en": [
+        "Akuma Kun"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://www.toei-anim.co.jp/akumakun/",
+    "begin": "2023-11-08T16:00:00.000Z",
+    "broadcast": "R/2023-11-08T16:00:00.000Z/P0D",
+    "end": "2023-11-08T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "360121"
+      },
+      {
+        "site": "netflix",
+        "id": "81400498",
+        "begin": "2023-11-08T16:00:00.000Z",
+        "broadcast": "R/2023-11-08T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/120241"
+      },
+      {
+        "site": "mal",
+        "id": "48425"
+      },
+      {
+        "site": "anidb",
+        "id": "16108"
+      },
+      {
+        "site": "aniList",
+        "id": "130706"
+      }
+    ]
+  },
+  {
+    "title": "ぼくのデーモン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "我的恶魔"
+      ],
+      "zh-Hant": [
+        "我的惡魔"
+      ],
+      "en": [
+        "My Daemon"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2023-11-22T16:00:00.000Z",
+    "end": "2023-11-22T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "402754"
+      },
+      {
+        "site": "netflix",
+        "id": "81261227",
+        "begin": "2023-11-22T16:00:00.000Z",
+        "broadcast": "R/2023-11-22T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/211051"
+      },
+      {
+        "site": "anidb",
+        "id": "18285"
+      }
+    ]
+  },
+  {
+    "title": "陰陽師",
+    "titleTranslate": {
+      "zh-Hant": [
+        "陰陽師"
+      ],
+      "zh-Hans": [
+        "阴阳师"
+      ],
+      "en": [
+        "Onmyoji"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2023-11-27T16:00:00.000Z",
+    "end": "2023-11-27T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "402742"
+      },
+      {
+        "site": "netflix",
+        "id": "81215624",
+        "begin": "2023-11-28T00:00:00.000Z",
+        "broadcast": "R/2023-11-28T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/210946"
+      },
+      {
+        "site": "mal",
+        "id": "53151"
+      },
+      {
+        "site": "anidb",
+        "id": "17641"
+      },
+      {
+        "site": "aniList",
+        "id": "154999"
+      }
+    ]
+  },
+  {
+    "title": "小刻的画图写话",
+    "titleTranslate": {
+      "zh-Hans": [
+        "小刻的画图写话"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2023-11-30T11:00:00.000Z",
+    "broadcast": "R/2023-11-30T11:00:00.000Z/P7D",
+    "end": "2024-01-04T11:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "453313"
+      },
+      {
+        "site": "bilibili",
+        "id": "21128688",
+        "begin": "2023-11-30T11:00:00.000Z",
+        "broadcast": "R/2023-11-30T11:00:00.000Z/P7D",
+        "comment": "中配: 21128787"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/238009"
+      },
+      {
+        "site": "mal",
+        "id": "55072"
+      },
+      {
+        "site": "anidb",
+        "id": "18339"
+      },
+      {
+        "site": "aniList",
+        "id": "169932"
+      }
+    ]
+  },
+  {
+    "title": "銀魂オンシアター2D バラガキ篇",
+    "titleTranslate": {
+      "zh-Hans": [
+        "银魂ON THEATER 2D 荆棘流氓篇"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://bn-pictures.co.jp/gintama/on_theater_2d/",
+    "begin": "2023-11-09T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-11-09T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "453179"
+      },
+      {
+        "site": "unext",
+        "id": "SID0099821",
+        "begin": "2024-03-26T15:00:00.000Z",
+        "broadcast": "R/2024-03-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "gintama-2d",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "27460",
+        "begin": "2024-10-31T15:00:00.000Z",
+        "broadcast": "R/2024-10-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1193662"
+      },
+      {
+        "site": "mal",
+        "id": "56544"
+      },
+      {
+        "site": "anidb",
+        "id": "18180"
+      },
+      {
+        "site": "aniList",
+        "id": "169000"
+      }
+    ]
+  },
+  {
+    "title": "攻殻機動隊 SAC_2045 最後の人間",
+    "titleTranslate": {
+      "zh-Hans": [
+        "攻壳机动队SAC_2045 最后的人类"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.ghostintheshell-sac2045.jp/",
+    "begin": "2023-11-22T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-11-22T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "425994"
+      },
+      {
+        "site": "unext",
+        "id": "SID0101557",
+        "begin": "2024-05-25T09:00:00.000Z",
+        "broadcast": "R/2024-05-25T09:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1104401"
+      },
+      {
+        "site": "mal",
+        "id": "54860"
+      },
+      {
+        "site": "anidb",
+        "id": "17940"
+      },
+      {
+        "site": "aniList",
+        "id": "163143"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 シルバニアファミリー フレアからのおくりもの",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 森林家族 來自芙蕾雅的礼物"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://sylvanianfamilies-movie.com/",
+    "begin": "2023-11-22T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-11-22T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "457070"
+      },
+      {
+        "site": "unext",
+        "id": "SID0102365",
+        "begin": "2024-05-25T15:00:00.000Z",
+        "broadcast": "R/2024-05-25T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "27699",
+        "begin": "2025-02-25T15:00:00.000Z",
+        "broadcast": "R/2025-02-25T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1160078"
+      },
+      {
+        "site": "mal",
+        "id": "54989"
+      },
+      {
+        "site": "anidb",
+        "id": "17987"
+      },
+      {
+        "site": "aniList",
+        "id": "187051"
+      }
+    ]
+  },
+  {
+    "title": "鬼太郎誕生 ゲゲゲの謎",
+    "titleTranslate": {
+      "zh-Hans": [
+        "鬼太郎诞生 咯咯咯之谜"
+      ],
+      "zh-Hant": [
+        "鬼太郎誕生：咯咯咯之謎"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.toei-anim.co.jp/kitaro-akumakun/",
+    "begin": "2023-11-16T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-11-16T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "360256"
+      },
+      {
+        "site": "unext",
+        "id": "SID0104022",
+        "begin": "2024-06-21T15:00:00.000Z",
+        "broadcast": "R/2024-06-21T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3424"
+      },
+      {
+        "site": "danime",
+        "id": "27141",
+        "begin": "2024-06-21T15:00:00.000Z",
+        "broadcast": "R/2024-06-21T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0CXMG5GMY",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "120812",
+        "begin": "2025-08-06T04:00:00.000Z",
+        "broadcast": "R/2025-08-06T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/904759"
+      },
+      {
+        "site": "mal",
+        "id": "48426"
+      },
+      {
+        "site": "anidb",
+        "id": "16107"
+      },
+      {
+        "site": "aniList",
+        "id": "130622"
+      }
+    ]
+  },
+  {
+    "title": "映画 すみっコぐらし ツギハギ工場のふしぎなコ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "电影 角落小伙伴 奇幻的玩具工厂",
+        "角落小伙伴 拼凑工厂的不可思议之子"
+      ],
+      "zh-Hant": [
+        "劇場版 角落小夥伴 奇幻的玩具工廠"
+      ],
+      "en": [
+        "Sumikkogurashi: The Patched-Up Factory in the Woods"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://sumikkogurashi-movie.com/",
+    "begin": "2023-11-02T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-11-02T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "422904"
+      },
+      {
+        "site": "unext",
+        "id": "SID0102983",
+        "begin": "2024-06-28T15:00:00.000Z",
+        "broadcast": "R/2024-06-28T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81906768",
+        "begin": "2024-07-30T16:00:00.000Z",
+        "broadcast": "R/2024-07-30T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1148588"
+      },
+      {
+        "site": "danime",
+        "id": "28486",
+        "begin": "2025-11-21T15:00:00.000Z",
+        "broadcast": "R/2025-11-21T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0FXTYXKG5",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mal",
+        "id": "53936"
+      },
+      {
+        "site": "anidb",
+        "id": "17793"
+      },
+      {
+        "site": "aniList",
+        "id": "169296"
+      }
+    ]
+  },
+  {
+    "title": "駒田蒸留所へようこそ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "欢迎来到驹田蒸馏所"
+      ],
+      "zh-Hant": [
+        "歡迎來到駒田蒸餾所"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://gaga.ne.jp/welcome-komada/",
+    "begin": "2023-11-09T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-11-09T17:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "432583"
+      },
+      {
+        "site": "unext",
+        "id": "SID0148674",
+        "begin": "2024-09-01T03:00:00.000Z",
+        "broadcast": "R/2024-09-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3276"
+      },
+      {
+        "site": "nicovideo",
+        "id": "welcome-komada",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "27704",
+        "begin": "2025-02-28T15:00:00.000Z",
+        "broadcast": "R/2025-02-28T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0CV3Z98HN",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "132030",
+        "begin": "2025-07-25T04:00:00.000Z",
+        "broadcast": "R/2025-07-25T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1119211"
+      },
+      {
+        "site": "mal",
+        "id": "55149"
+      },
+      {
+        "site": "anidb",
+        "id": "18012"
+      },
+      {
+        "site": "aniList",
+        "id": "164293"
+      }
+    ]
+  },
+  {
+    "title": "ラプソディ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Rhapsody"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://rhapsodyrecords.jp",
+    "begin": "2023-11-19T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-11-19T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "486268"
+      },
+      {
+        "site": "unext",
+        "id": "SID0095345",
+        "begin": "2023-11-19T15:00:00.000Z",
+        "broadcast": "R/2023-11-19T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26682",
+        "begin": "2023-11-19T15:00:00.000Z",
+        "broadcast": "R/2023-11-19T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/154283"
+      },
+      {
+        "site": "mal",
+        "id": "54727"
+      },
+      {
+        "site": "anidb",
+        "id": "17086"
+      },
+      {
+        "site": "aniList",
+        "id": "173956"
+      }
+    ]
+  },
+  {
+    "title": "あんさんぶるスターズ！！追憶セレクション『クロスロード』",
+    "titleTranslate": {
+      "zh-Hans": [
+        "偶像梦幻祭 追忆Selection『Crossroad』"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://ensemble-stars.jp/anime/crossroad/",
+    "begin": "2023-11-09T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-11-14T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "432044"
+      },
+      {
+        "site": "danime",
+        "id": "26684",
+        "begin": "2023-12-09T15:00:00.000Z",
+        "broadcast": "R/2023-12-09T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/229607"
+      },
+      {
+        "site": "mal",
+        "id": "55125"
+      },
+      {
+        "site": "anidb",
+        "id": "18002"
+      },
+      {
+        "site": "aniList",
+        "id": "164241"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 ポールプリンセス!!",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 钢管舞公主!!"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://poleprincess.jp/",
+    "begin": "2023-11-22T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-11-22T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "427360"
+      },
+      {
+        "site": "unext",
+        "id": "SID0172572",
+        "begin": "2025-03-08T03:00:00.000Z",
+        "broadcast": "R/2025-03-08T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "27703",
+        "begin": "2025-03-01T09:00:00.000Z",
+        "broadcast": "R/2025-03-01T09:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0CH3WCXFG",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "poleprincess-movie",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1108583"
+      },
+      {
+        "site": "mal",
+        "id": "54923"
+      },
+      {
+        "site": "anidb",
+        "id": "17971"
+      },
+      {
+        "site": "aniList",
+        "id": "163363"
+      }
+    ]
+  },
+  {
+    "title": "火の鳥 エデンの花",
+    "titleTranslate": {
+      "zh-Hans": [
+        "火之鸟 伊甸之花"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://happinet-phantom.com/hinotori-eden/",
+    "begin": "2023-11-02T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-11-02T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "445678"
+      },
+      {
+        "site": "mal",
+        "id": "55970"
+      },
+      {
+        "site": "anidb",
+        "id": "18113"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1151861"
+      }
+    ]
+  }
+]

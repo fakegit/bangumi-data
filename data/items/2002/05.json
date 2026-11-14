@@ -13,11 +13,6 @@
     "end": "2002-08-14T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "NHZS0DiaeDkyvLZU",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "10275"
       },
@@ -29,7 +24,30 @@
       {
         "site": "bilibili",
         "id": "2071",
-        "begin": "2002-05-14T16:00:00.000Z"
+        "begin": "2002-05-14T16:00:00.000Z",
+        "broadcast": "R/2013-03-10T01:01:29.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "21668",
+        "begin": "2021-12-24T01:00:00.000Z",
+        "broadcast": "R/2021-12-24T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/34820"
+      },
+      {
+        "site": "mal",
+        "id": "107"
+      },
+      {
+        "site": "aniList",
+        "id": "107"
+      },
+      {
+        "site": "anidb",
+        "id": "555"
       }
     ]
   },
@@ -54,6 +72,97 @@
         "site": "nicovideo",
         "id": "whistle",
         "begin": "2017-01-01T15:00:00.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "28227080",
+        "begin": "2020-01-09T03:06:00.000Z",
+        "broadcast": "R/2020-01-09T03:06:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0027359",
+        "begin": "2018-09-20T03:00:00.000Z",
+        "broadcast": "R/2018-09-20T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "21300",
+        "begin": "2016-12-17T01:00:00.000Z",
+        "broadcast": "R/2016-12-17T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/28397"
+      },
+      {
+        "site": "mal",
+        "id": "183"
+      },
+      {
+        "site": "anidb",
+        "id": "126"
+      },
+      {
+        "site": "aniList",
+        "id": "183"
+      }
+    ]
+  },
+  {
+    "title": "頭文字D Battle Stage",
+    "titleTranslate": {
+      "zh-Hans": [
+        "头文字D Battle Stage"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2002-05-14T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2007-05-29T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "139655"
+      },
+      {
+        "site": "unext",
+        "id": "SID0011814",
+        "begin": "2023-04-01T03:00:00.000Z",
+        "broadcast": "R/2023-04-01T03:00:00.000Z/P7D",
+        "comment": "2: SID0033135"
+      },
+      {
+        "site": "danime",
+        "id": "24230",
+        "begin": "2023-04-01T01:00:00.000Z",
+        "broadcast": "R/2023-04-01T01:00:00.000Z/P7D",
+        "comment": "2: 24233"
+      },
+      {
+        "site": "abema",
+        "id": "168-50",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1390599"
+      },
+      {
+        "site": "mal",
+        "id": "821"
+      },
+      {
+        "site": "anidb",
+        "id": "11"
+      },
+      {
+        "site": "aniList",
+        "id": "821"
       }
     ]
   }

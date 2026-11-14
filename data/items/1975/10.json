@@ -13,23 +13,41 @@
     "end": "1982-06-28T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "8TwIhu5UxAJl40s",
-        "begin": ""
-      },
-      {
         "site": "iqiyi",
         "id": "a_19rrjzu2kp",
         "begin": "2016-08-10T05:54:38.000Z"
       },
       {
-        "site": "letv",
-        "id": "82272",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "9540"
+      },
+      {
+        "site": "unext",
+        "id": "SID0013889",
+        "begin": "2022-07-25T03:00:00.000Z",
+        "broadcast": "R/2022-07-25T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/44815"
+      },
+      {
+        "site": "mal",
+        "id": "4935"
+      },
+      {
+        "site": "anidb",
+        "id": "1678"
+      },
+      {
+        "site": "aniList",
+        "id": "4935"
+      },
+      {
+        "site": "abema",
+        "id": "5-80",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -56,6 +74,22 @@
       {
         "site": "bangumi",
         "id": "37176"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/46252"
+      },
+      {
+        "site": "mal",
+        "id": "1985"
+      },
+      {
+        "site": "anidb",
+        "id": "962"
+      },
+      {
+        "site": "aniList",
+        "id": "1985"
       }
     ]
   },
@@ -75,6 +109,34 @@
       {
         "site": "bangumi",
         "id": "211288"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002391",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23508",
+        "begin": "2020-04-24T01:00:00.000Z",
+        "broadcast": "R/2020-04-24T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/21174"
+      },
+      {
+        "site": "mal",
+        "id": "2825"
+      },
+      {
+        "site": "anidb",
+        "id": "785"
+      },
+      {
+        "site": "aniList",
+        "id": "2825"
       }
     ]
   },
@@ -99,6 +161,28 @@
         "site": "bilibili",
         "id": "2475",
         "begin": "1975-10-04T16:00:00.000Z"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/9152"
+      },
+      {
+        "site": "danime",
+        "id": "26235",
+        "begin": "2025-12-19T15:00:00.000Z",
+        "broadcast": "R/2025-12-19T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "4198"
+      },
+      {
+        "site": "anidb",
+        "id": "1911"
+      },
+      {
+        "site": "aniList",
+        "id": "4198"
       }
     ]
   },
@@ -123,6 +207,34 @@
         "site": "nicovideo",
         "id": "ganso-bakabon",
         "begin": "2011-09-22T12:00:00.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0038630",
+        "begin": "2018-12-11T03:00:00.000Z",
+        "broadcast": "R/2018-12-11T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23357",
+        "begin": "2020-03-13T01:00:00.000Z",
+        "broadcast": "R/2020-03-13T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/132921"
+      },
+      {
+        "site": "mal",
+        "id": "11268"
+      },
+      {
+        "site": "anidb",
+        "id": "5494"
+      },
+      {
+        "site": "aniList",
+        "id": "11268"
       }
     ]
   },
@@ -142,6 +254,40 @@
       {
         "site": "bangumi",
         "id": "16805"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003368",
+        "begin": "2019-09-18T03:00:00.000Z",
+        "broadcast": "R/2019-09-18T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "21271",
+        "begin": "2016-12-09T01:00:00.000Z",
+        "broadcast": "R/2016-12-09T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/17706"
+      },
+      {
+        "site": "mal",
+        "id": "3915"
+      },
+      {
+        "site": "anidb",
+        "id": "2546"
+      },
+      {
+        "site": "aniList",
+        "id": "3915"
+      },
+      {
+        "site": "abema",
+        "id": "19-211",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }

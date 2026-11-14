@@ -4,7 +4,8 @@
     "titleTranslate": {
       "zh-Hans": [
         "荷包蛋的蛋黄什么时候戳破才好？",
-        "何时搅了荷包蛋的黄？"
+        "何时搅了荷包蛋的黄？",
+        "何时捣碎煎蛋黄？"
       ]
     },
     "type": "tv",
@@ -14,14 +15,10 @@
     "end": "2014-08-07T15:36:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "1HVf3UWrG1m8OqI",
-        "begin": ""
-      },
-      {
         "site": "bilibili",
         "id": "84",
-        "begin": "2014-08-04T16:00:00.000Z"
+        "begin": "2014-08-04T16:00:00.000Z",
+        "broadcast": "R/2014-08-13T01:20:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -29,13 +26,24 @@
         "begin": "2014-08-17T02:29:19.000Z"
       },
       {
-        "site": "letv",
-        "id": "10004046",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "103810"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/112927"
+      },
+      {
+        "site": "mal",
+        "id": "24275"
+      },
+      {
+        "site": "anidb",
+        "id": "10631"
+      },
+      {
+        "site": "aniList",
+        "id": "20749"
       }
     ]
   },
@@ -53,11 +61,6 @@
     "end": "2014-08-16T13:00:00.000Z",
     "sites": [
       {
-        "site": "sohu",
-        "id": "s2014/hwy",
-        "begin": "2014-08-22T01:00:00.000Z"
-      },
-      {
         "site": "bangumi",
         "id": "82322"
       },
@@ -70,6 +73,26 @@
         "site": "acfun",
         "id": "6003043",
         "begin": ""
+      },
+      {
+        "site": "mikan",
+        "id": "362"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/46195/season/0/episode/13"
+      },
+      {
+        "site": "mal",
+        "id": "21855"
+      },
+      {
+        "site": "anidb",
+        "id": "10046"
+      },
+      {
+        "site": "aniList",
+        "id": "20593"
       }
     ]
   },
@@ -94,6 +117,22 @@
       {
         "site": "bangumi",
         "id": "96788"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/73005"
+      },
+      {
+        "site": "mal",
+        "id": "22689"
+      },
+      {
+        "site": "anidb",
+        "id": "10456"
+      },
+      {
+        "site": "aniList",
+        "id": "20630"
       }
     ]
   },
@@ -101,7 +140,15 @@
     "title": "STAND BY ME ドラえもん",
     "titleTranslate": {
       "zh-Hans": [
-        "哆啦A梦：伴我同行"
+        "哆啦A梦：伴我同行",
+        "哆啦 A 梦：伴我同行"
+      ],
+      "en": [
+        "STAND BY ME Doraemon"
+      ],
+      "zh-Hant": [
+        "STAND BY ME 多啦 A 夢",
+        "STAND BY ME 哆啦 A 夢"
       ]
     },
     "type": "movie",
@@ -120,14 +167,43 @@
         "id": "95800"
       },
       {
-        "site": "pptv",
-        "id": "BiaELiafFXxwVo5k4",
-        "begin": ""
-      },
-      {
         "site": "qq",
         "id": "c/ciw1zkqfr3cjfv7",
         "begin": ""
+      },
+      {
+        "site": "netflix",
+        "id": "80158156",
+        "begin": "2023-09-29T16:00:00.000Z",
+        "broadcast": "R/2023-09-29T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0017985",
+        "begin": "2024-03-05T03:00:00.000Z",
+        "broadcast": "R/2024-03-05T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "28236943",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/265712"
+      },
+      {
+        "site": "mal",
+        "id": "21469"
+      },
+      {
+        "site": "anidb",
+        "id": "10253"
+      },
+      {
+        "site": "aniList",
+        "id": "20515"
       }
     ]
   },
@@ -145,23 +221,31 @@
     "end": "2014-08-29T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "SuzIRq4UhMIlows",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "100450"
       },
       {
         "site": "bilibili",
         "id": "3837",
-        "begin": "2014-08-28T16:00:01.000Z"
+        "begin": "2014-08-28T16:00:01.000Z",
+        "broadcast": "R/2016-04-25T03:54:00.000Z/P7D"
       },
       {
         "site": "youku",
         "id": "2b945114026111e48b3f",
         "begin": "2014-09-05T09:03:01.000Z"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/42499/season/0"
+      },
+      {
+        "site": "mal",
+        "id": "23447"
+      },
+      {
+        "site": "aniList",
+        "id": "20659"
       }
     ]
   },
@@ -170,6 +254,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "宇宙兄弟#0"
+      ],
+      "zh-Hant": [
+        "宇宙兄弟 #0"
       ]
     },
     "type": "movie",
@@ -183,13 +270,48 @@
         "id": "90502"
       },
       {
-        "site": "pptv",
-        "id": "fsmjIYnvX50AfuY",
-        "begin": ""
-      },
-      {
         "site": "qq",
         "id": "q/qcx1frbiv572go5",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "28233695",
+        "begin": "2021-02-18T04:25:00.000Z",
+        "broadcast": "R/2021-02-18T04:25:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0027831",
+        "begin": "2019-11-23T03:00:00.000Z",
+        "broadcast": "R/2019-11-23T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "22383",
+        "begin": "2024-01-04T15:00:00.000Z",
+        "broadcast": "R/2024-01-04T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/271540"
+      },
+      {
+        "site": "mal",
+        "id": "22583"
+      },
+      {
+        "site": "anidb",
+        "id": "10320"
+      },
+      {
+        "site": "aniList",
+        "id": "20559"
+      },
+      {
+        "site": "abema",
+        "id": "415-77",
         "begin": "",
         "broadcast": ""
       }
@@ -200,6 +322,13 @@
     "titleTranslate": {
       "zh-Hans": [
         "头文字D Legend1 -觉醒-"
+      ],
+      "zh-Hant": [
+        "新劇場版 頭文字D Legend1 -覺醒-",
+        "頭文字D Legend1 -覺醒-"
+      ],
+      "en": [
+        "Initial D the Movie (Legend 1)"
       ]
     },
     "type": "movie",
@@ -213,14 +342,50 @@
         "id": "78796"
       },
       {
-        "site": "pptv",
-        "id": "cOzIRq4UhMIlows",
-        "begin": ""
-      },
-      {
         "site": "bilibili",
         "id": "3838",
-        "begin": "2014-08-22T16:00:01.000Z"
+        "begin": "2014-08-22T16:00:01.000Z",
+        "broadcast": "R/2021-05-16T10:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28221627",
+        "begin": "2019-07-17T06:32:31.000Z",
+        "broadcast": "R/2019-07-17T06:32:31.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0012056",
+        "begin": "2023-04-01T03:00:00.000Z",
+        "broadcast": "R/2023-04-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "24235",
+        "begin": "2023-04-01T01:00:00.000Z",
+        "broadcast": "R/2023-04-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0FT77FHFH",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/271709"
+      },
+      {
+        "site": "mal",
+        "id": "19613"
+      },
+      {
+        "site": "aniList",
+        "id": "20842"
+      },
+      {
+        "site": "anidb",
+        "id": "9987"
       }
     ]
   },
@@ -242,14 +407,26 @@
         "id": "103812"
       },
       {
-        "site": "pptv",
-        "id": "xWpGxCySAkCjIYk",
-        "begin": ""
-      },
-      {
         "site": "bilibili",
         "id": "3782",
-        "begin": "2014-08-24T16:00:01.000Z"
+        "begin": "2014-08-24T16:00:01.000Z",
+        "broadcast": "R/2016-04-19T05:58:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/62602/season/0"
+      },
+      {
+        "site": "mal",
+        "id": "24151"
+      },
+      {
+        "site": "anidb",
+        "id": "10626"
+      },
+      {
+        "site": "aniList",
+        "id": "20900"
       }
     ]
   },
@@ -275,6 +452,62 @@
         "site": "iqiyi",
         "id": "a_19rrhb4d6x",
         "begin": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0018852",
+        "begin": "2015-07-01T06:00:00.000Z",
+        "broadcast": "R/2015-07-01T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/290271"
+      },
+      {
+        "site": "mal",
+        "id": "25161"
+      },
+      {
+        "site": "aniList",
+        "id": "20835"
+      }
+    ]
+  },
+  {
+    "title": "ノゾ×キミ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "望实与君雄",
+        "美男和小希"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2014-08-17T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2015-02-17T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "103824"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/94756"
+      },
+      {
+        "site": "mal",
+        "id": "24175"
+      },
+      {
+        "site": "anidb",
+        "id": "10672"
+      },
+      {
+        "site": "aniList",
+        "id": "20804"
       }
     ]
   }

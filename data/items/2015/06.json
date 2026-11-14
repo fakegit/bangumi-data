@@ -7,7 +7,7 @@
     "officialSite": "http://ac.qq.com/event/huyao/index.html",
     "begin": "2015-06-26T12:00:00.000Z",
     "broadcast": "R/2015-06-26T12:00:00.000Z/P7D",
-    "end": "",
+    "end": "2015-11-27T12:00:00.000Z",
     "sites": [
       {
         "site": "bilibili",
@@ -30,6 +30,22 @@
       {
         "site": "bangumi",
         "id": "137937"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/75787"
+      },
+      {
+        "site": "mal",
+        "id": "31499"
+      },
+      {
+        "site": "aniList",
+        "id": "102598"
+      },
+      {
+        "site": "anidb",
+        "id": "12119"
       }
     ]
   },
@@ -47,13 +63,36 @@
     "end": "2015-06-05T17:30:00.000Z",
     "sites": [
       {
-        "site": "letv",
-        "id": "10008488",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "130609"
+      },
+      {
+        "site": "unext",
+        "id": "SID0025890",
+        "begin": "2024-10-31T15:00:00.000Z",
+        "broadcast": "R/2024-10-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "21051",
+        "begin": "2022-09-01T01:00:00.000Z",
+        "broadcast": "R/2022-09-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/358632"
+      },
+      {
+        "site": "mal",
+        "id": "30585"
+      },
+      {
+        "site": "anidb",
+        "id": "11186"
+      },
+      {
+        "site": "aniList",
+        "id": "21140"
       }
     ]
   },
@@ -71,11 +110,6 @@
     "end": "2015-06-24T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "1ntV0zuhEUibyMJg",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "120930"
       },
@@ -83,6 +117,10 @@
         "site": "youku",
         "id": "3da01e7c1ecd11e5b2ad",
         "begin": "2015-12-31T14:15:48.000Z"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/42942/season/0/episode/5"
       }
     ]
   },
@@ -91,6 +129,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "飙速宅男 Re:ROAD"
+      ],
+      "zh-Hant": [
+        "飆速宅男 Re：ROAD"
       ]
     },
     "type": "movie",
@@ -104,9 +145,38 @@
         "id": "134232"
       },
       {
-        "site": "pptv",
-        "id": "ety4Np4EdLIVkics",
-        "begin": ""
+        "site": "gamer",
+        "id": "118347",
+        "begin": "2021-07-02T02:40:00.000Z",
+        "broadcast": "R/2021-07-02T02:40:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0018946",
+        "begin": "2019-04-06T03:00:00.000Z",
+        "broadcast": "R/2019-04-06T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "118347",
+        "begin": "2021-07-02T02:40:00.000Z",
+        "broadcast": "R/2021-07-02T02:40:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/387931"
+      },
+      {
+        "site": "mal",
+        "id": "30790"
+      },
+      {
+        "site": "anidb",
+        "id": "11252"
+      },
+      {
+        "site": "aniList",
+        "id": "21194"
       }
     ]
   },
@@ -115,6 +185,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "剧场版 进击的巨人 后篇～自由之翼～"
+      ],
+      "zh-Hant": [
+        "劇場版 進擊的巨人 後編 自由之翼"
       ]
     },
     "type": "movie",
@@ -130,7 +203,61 @@
       {
         "site": "nicovideo",
         "id": "shingeki_movie",
-        "begin": "2018-12-27T03:00:00.000Z"
+        "begin": "2018-12-27T03:00:00.000Z",
+        "broadcast": "R/2018-12-27T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "68752",
+        "begin": "2022-08-18T09:00:00.000Z",
+        "broadcast": "R/2022-08-18T09:00:00.000Z/P7D"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UchkFx6Rl70VbQeT10lIKoL7",
+        "begin": "2023-06-11T13:55:55.059Z",
+        "broadcast": "R/2023-06-11T13:55:55.059Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0022658",
+        "begin": "2018-09-01T03:00:00.000Z",
+        "broadcast": "R/2018-09-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "68752",
+        "begin": "2022-08-18T09:00:00.000Z",
+        "broadcast": "R/2022-08-18T09:00:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "5511812c1fe5c31a190a06e7"
+      },
+      {
+        "site": "danime",
+        "id": "21866",
+        "begin": "2021-06-09T01:00:00.000Z",
+        "broadcast": "R/2021-06-09T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "muse_tw",
+        "id": "PL12UaAf_xzfrMeRvKrk2OnxkpTArc_4HN",
+        "begin": "2021-01-19T12:00:09.000Z",
+        "broadcast": "R/2021-01-19T12:00:09.000Z/P7D",
+        "comment": "國語: PL12UaAf_xzfqPNx7M21380CnVsYqEyRcO"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/330081"
+      },
+      {
+        "site": "mal",
+        "id": "23777"
+      },
+      {
+        "site": "aniList",
+        "id": "20692"
       }
     ]
   },
@@ -155,7 +282,12 @@
       {
         "site": "nicovideo",
         "id": "longwaynorth",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/345775"
       }
     ]
   },
@@ -176,6 +308,34 @@
       {
         "site": "bangumi",
         "id": "112770"
+      },
+      {
+        "site": "unext",
+        "id": "SID0018760",
+        "begin": "2020-05-21T03:00:00.000Z",
+        "broadcast": "R/2020-05-21T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "22230",
+        "begin": "2021-09-16T15:00:00.000Z",
+        "broadcast": "R/2021-09-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/334376"
+      },
+      {
+        "site": "mal",
+        "id": "27411"
+      },
+      {
+        "site": "anidb",
+        "id": "10824"
+      },
+      {
+        "site": "aniList",
+        "id": "21057"
       }
     ]
   },
@@ -186,7 +346,8 @@
         "Love Live! 学园偶像 电影"
       ],
       "zh-Hant": [
-        "Love Live! 學園偶像電影"
+        "Love Live! 學園偶像電影",
+        "Love Live! 電影"
       ]
     },
     "type": "movie",
@@ -201,16 +362,99 @@
         "id": "107199"
       },
       {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7Ucg911FcLdA8NU1ttLzxtnHO",
+        "begin": "2021-01-31T16:00:00.000Z",
+        "broadcast": "R/2021-01-31T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "71163",
+        "begin": "2020-12-01T03:00:00.000Z",
+        "broadcast": "R/2020-12-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "28230704",
+        "begin": "2020-11-29T16:00:01.000Z",
+        "broadcast": "R/2020-11-29T16:00:01.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0039266",
+        "begin": "2019-01-04T03:00:00.000Z",
+        "broadcast": "R/2019-01-04T03:00:00.000Z/P7D"
+      },
+      {
         "site": "nicovideo",
         "id": "lovelive-school-idol-movie",
         "begin": "",
         "broadcast": ""
       },
       {
-        "site": "muse_hk",
-        "id": "PLuxqoToY7Ucg911FcLdA8NU1ttLzxtnHO",
-        "begin": "2021-01-31T16:00:00.000Z",
-        "broadcast": "R/2021-01-31T16:00:00.000Z/P7D"
+        "site": "danime",
+        "id": "24795",
+        "begin": "2021-06-30T15:00:00.000Z",
+        "broadcast": "R/2021-06-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "muse_tw",
+        "id": "PL12UaAf_xzfpbW9dg5kL4hlE3nhOEtJb_",
+        "begin": "2023-01-14T10:00:28.000Z",
+        "broadcast": "R/2023-01-14T10:00:28.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/333623"
+      },
+      {
+        "site": "mal",
+        "id": "24997"
+      },
+      {
+        "site": "anidb",
+        "id": "10720"
+      },
+      {
+        "site": "aniList",
+        "id": "20766"
+      }
+    ]
+  },
+  {
+    "title": "攻殻機動隊ARISE Pyrophoric Cult",
+    "titleTranslate": {
+      "zh-Hans": [
+        "攻壳机动队ARISE border:5 Pyrophoric Cult"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://kokaku-a.jp/tv/index.html",
+    "begin": "2015-06-06T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2015-06-06T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "384634"
+      },
+      {
+        "site": "unext",
+        "id": "SID0019050",
+        "begin": "2015-08-26T06:00:00.000Z",
+        "broadcast": "R/2015-08-26T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "25022",
+        "begin": "2021-09-16T15:00:00.000Z",
+        "broadcast": "R/2021-09-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1157408"
       }
     ]
   }

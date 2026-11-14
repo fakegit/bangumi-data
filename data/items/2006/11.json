@@ -15,6 +15,34 @@
       {
         "site": "bangumi",
         "id": "36485"
+      },
+      {
+        "site": "danime",
+        "id": "26915",
+        "begin": "2024-02-29T15:00:00.000Z",
+        "broadcast": "R/2024-02-29T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/117450"
+      },
+      {
+        "site": "mal",
+        "id": "1703"
+      },
+      {
+        "site": "anidb",
+        "id": "4308"
+      },
+      {
+        "site": "aniList",
+        "id": "1703"
+      },
+      {
+        "site": "unext",
+        "id": "SID0015900",
+        "begin": "2026-05-31T15:00:00.000Z",
+        "broadcast": "R/2026-05-31T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -34,6 +62,18 @@
       {
         "site": "bangumi",
         "id": "106291"
+      },
+      {
+        "site": "mal",
+        "id": "3372"
+      },
+      {
+        "site": "anidb",
+        "id": "4820"
+      },
+      {
+        "site": "aniList",
+        "id": "3372"
       }
     ]
   },
@@ -42,6 +82,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "奏光之Strain"
+      ],
+      "en": [
+        "STRAIN: Strategic Armored Infantry"
       ]
     },
     "type": "tv",
@@ -51,13 +94,42 @@
     "end": "2007-02-14T15:35:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "zficJR68VhcMmpAw",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "4887"
+      },
+      {
+        "site": "unext",
+        "id": "SID0015476",
+        "begin": "2019-05-11T03:00:00.000Z",
+        "broadcast": "R/2019-05-11T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "11626",
+        "begin": "2015-02-06T01:00:00.000Z",
+        "broadcast": "R/2015-02-06T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/31715"
+      },
+      {
+        "site": "mal",
+        "id": "1602"
+      },
+      {
+        "site": "anidb",
+        "id": "4556"
+      },
+      {
+        "site": "aniList",
+        "id": "1602"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GDKHZEP75",
+        "begin": "2022-12-07T07:59:00.000Z",
+        "broadcast": "R/2022-12-07T07:59:00.000Z/P7D"
       }
     ]
   },
@@ -67,6 +139,13 @@
       "zh-Hans": [
         "盗梦侦探",
         "红辣椒"
+      ],
+      "zh-Hant": [
+        "盜夢偵探",
+        "盜夢探偵"
+      ],
+      "en": [
+        "Paprika"
       ]
     },
     "type": "movie",
@@ -76,18 +155,48 @@
     "end": "2006-11-25T17:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "QCoGhOxSwgBj4Uk",
-        "begin": ""
-      },
-      {
-        "site": "letv",
-        "id": "10002033",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "841"
+      },
+      {
+        "site": "unext",
+        "id": "SID0013325",
+        "begin": "2018-02-12T03:00:00.000Z",
+        "broadcast": "R/2018-02-12T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "28340957",
+        "begin": "2024-02-09T02:00:00.000Z",
+        "broadcast": "R/2024-02-09T02:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "25368",
+        "begin": "2024-03-30T15:00:00.000Z",
+        "broadcast": "R/2024-03-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/4977"
+      },
+      {
+        "site": "netflix",
+        "id": "70065105",
+        "begin": "2025-12-31T00:00:00.000Z",
+        "broadcast": "R/2025-12-31T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "1943"
+      },
+      {
+        "site": "anidb",
+        "id": "4191"
+      },
+      {
+        "site": "aniList",
+        "id": "1943"
       }
     ]
   },
@@ -109,14 +218,37 @@
         "id": "4216"
       },
       {
-        "site": "pptv",
-        "id": "Mn1HxS2TA0GkIoo",
-        "begin": ""
-      },
-      {
         "site": "nicovideo",
         "id": "maria_watches_over_us3",
         "begin": "2019-10-23T15:00:00.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003158",
+        "begin": "2019-10-20T03:00:00.000Z",
+        "broadcast": "R/2019-10-20T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "20048",
+        "begin": "2015-03-27T01:00:00.000Z",
+        "broadcast": "R/2015-03-27T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/42468/season/3"
+      },
+      {
+        "site": "mal",
+        "id": "1729"
+      },
+      {
+        "site": "anidb",
+        "id": "4138"
+      },
+      {
+        "site": "aniList",
+        "id": "1729"
       }
     ]
   },
@@ -144,9 +276,26 @@
         "begin": ""
       },
       {
-        "site": "acfun",
-        "id": "6002266",
-        "begin": "2020-04-30T16:00:00.000Z"
+        "site": "bilibili",
+        "id": "3973",
+        "begin": "2016-05-09T06:36:00.000Z",
+        "broadcast": "R/2016-05-09T06:36:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/133065"
+      },
+      {
+        "site": "mal",
+        "id": "1609"
+      },
+      {
+        "site": "anidb",
+        "id": "4567"
+      },
+      {
+        "site": "aniList",
+        "id": "1609"
       }
     ]
   },
@@ -167,6 +316,219 @@
       {
         "site": "bangumi",
         "id": "320"
+      },
+      {
+        "site": "bilibili",
+        "id": "1705",
+        "begin": "2016-04-07T09:03:04.000Z",
+        "broadcast": "R/2016-04-07T09:03:04.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0012980",
+        "begin": "2020-05-21T03:00:00.000Z",
+        "broadcast": "R/2020-05-21T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "22231",
+        "begin": "2021-09-16T15:00:00.000Z",
+        "broadcast": "R/2021-09-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/18874"
+      },
+      {
+        "site": "prime",
+        "id": "B0G9W1FW1L",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mal",
+        "id": "1566"
+      },
+      {
+        "site": "aniList",
+        "id": "1566"
+      },
+      {
+        "site": "anidb",
+        "id": "4414"
+      }
+    ]
+  },
+  {
+    "title": "BALDR FORCE EXE RESOLUTION",
+    "titleTranslate": {
+      "zh-Hans": [
+        "BALDR FORCE EXE RESOLUTION",
+        "机甲战记"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.trinet-ent.com/baldrforce/",
+    "begin": "2006-11-09T16:00:00.000Z",
+    "end": "2007-04-03T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "3843"
+      },
+      {
+        "site": "bilibili",
+        "id": "4875",
+        "begin": "2016-08-10T02:53:24.000Z",
+        "broadcast": "R/2016-08-10T02:53:24.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/116737"
+      },
+      {
+        "site": "mal",
+        "id": "1682"
+      },
+      {
+        "site": "anidb",
+        "id": "3445"
+      },
+      {
+        "site": "aniList",
+        "id": "1682"
+      }
+    ]
+  },
+  {
+    "title": "ネギま!?夏",
+    "titleTranslate": {
+      "zh-Hans": [
+        "魔法老师涅吉!?夏",
+        "魔法先生涅吉!?夏",
+        "魔葱!?夏"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://king-cr.jp/special/negima_ova",
+    "begin": "2006-11-21T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2006-11-21T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "17121"
+      },
+      {
+        "site": "unext",
+        "id": "SID0016176",
+        "begin": "2017-07-06T03:00:00.000Z",
+        "broadcast": "R/2017-07-06T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "21576",
+        "begin": "2020-01-24T01:00:00.000Z",
+        "broadcast": "R/2020-01-24T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/16950/season/0/episode/2"
+      }
+    ]
+  },
+  {
+    "title": "FREEDOM",
+    "titleTranslate": {
+      "zh-Hans": [
+        "自由",
+        "自由计划"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://freedom-project.jp/",
+    "begin": "2006-11-23T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2008-05-22T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "4192"
+      },
+      {
+        "site": "unext",
+        "id": "SID0016677",
+        "begin": "2010-12-31T15:00:00.000Z",
+        "broadcast": "R/2010-12-31T15:00:00.000Z/P7D",
+        "comment": "SEVEN #07: SID0016678"
+      },
+      {
+        "site": "danime",
+        "id": "21014",
+        "begin": "2016-07-22T01:00:00.000Z",
+        "broadcast": "R/2016-07-22T01:00:00.000Z/P7D",
+        "comment": "SEVEN: 21015"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/60424"
+      },
+      {
+        "site": "mal",
+        "id": "1747"
+      },
+      {
+        "site": "anidb",
+        "id": "4708"
+      },
+      {
+        "site": "aniList",
+        "id": "1747"
+      }
+    ]
+  },
+  {
+    "title": "うっかりペネロペ 【第1シリーズ】",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.penelope.tv/",
+    "begin": "2006-11-19T16:00:00.000Z",
+    "broadcast": "R/2006-11-19T16:00:00.000Z/P7D",
+    "end": "2006-12-24T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "309234"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002160",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/105996"
+      },
+      {
+        "site": "mal",
+        "id": "8345"
+      },
+      {
+        "site": "anidb",
+        "id": "7027"
+      },
+      {
+        "site": "aniList",
+        "id": "8345"
       }
     ]
   }

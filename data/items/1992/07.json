@@ -22,14 +22,38 @@
         "begin": ""
       },
       {
-        "site": "pptv",
-        "id": "ibZ32dNxCsvBT0Tk",
-        "begin": ""
-      },
-      {
         "site": "bilibili",
         "id": "3934",
-        "begin": "1992-07-23T16:00:01.000Z"
+        "begin": "1992-07-23T16:00:01.000Z",
+        "broadcast": "R/2021-03-31T15:39:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0013509",
+        "begin": "2019-01-24T03:00:00.000Z",
+        "broadcast": "R/2019-01-24T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "21753",
+        "begin": "2017-09-08T01:00:00.000Z",
+        "broadcast": "R/2017-09-08T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/80857"
+      },
+      {
+        "site": "mal",
+        "id": "1420"
+      },
+      {
+        "site": "anidb",
+        "id": "987"
+      },
+      {
+        "site": "aniList",
+        "id": "1420"
       }
     ]
   },
@@ -59,6 +83,28 @@
         "site": "iqiyi",
         "id": "a_19rrhb4015",
         "begin": "2016-02-04T10:34:13.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0010768",
+        "begin": "2018-07-27T03:00:00.000Z",
+        "broadcast": "R/2018-07-27T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/39104"
+      },
+      {
+        "site": "mal",
+        "id": "900"
+      },
+      {
+        "site": "aniList",
+        "id": "900"
+      },
+      {
+        "site": "anidb",
+        "id": "548"
       }
     ]
   },
@@ -67,6 +113,13 @@
     "titleTranslate": {
       "zh-Hans": [
         "红猪"
+      ],
+      "zh-Hant": [
+        "紅豬",
+        "飛天紅豬俠"
+      ],
+      "en": [
+        "Porco Rosso"
       ]
     },
     "type": "movie",
@@ -83,6 +136,28 @@
       {
         "site": "bangumi",
         "id": "307"
+      },
+      {
+        "site": "netflix",
+        "id": "70019060",
+        "begin": "2020-01-30T16:00:00.000Z",
+        "broadcast": "R/2020-01-30T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/11621"
+      },
+      {
+        "site": "mal",
+        "id": "416"
+      },
+      {
+        "site": "anidb",
+        "id": "306"
+      },
+      {
+        "site": "aniList",
+        "id": "416"
       }
     ]
   },
@@ -100,13 +175,12 @@
     "end": "1992-07-18T17:00:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "7kUvrRV76ymMCnI",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "41867"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1183946"
       }
     ]
   },
@@ -128,9 +202,454 @@
         "id": "5425"
       },
       {
-        "site": "pptv",
-        "id": "u4B7ibWHHN3XYVr4",
-        "begin": ""
+        "site": "tmdb",
+        "id": "tv/209219"
+      },
+      {
+        "site": "mal",
+        "id": "1041"
+      },
+      {
+        "site": "anidb",
+        "id": "791"
+      },
+      {
+        "site": "aniList",
+        "id": "1041"
+      }
+    ]
+  },
+  {
+    "title": "サイレントメビウス2",
+    "titleTranslate": {
+      "zh-Hans": [
+        "魔法阵都市 剧场版2",
+        "魔法阵都市 剧场版 下篇",
+        "未来特警 剧场版2"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1992-07-17T16:00:00.000Z",
+    "end": "1992-07-17T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "41879"
+      },
+      {
+        "site": "bilibili",
+        "id": "3967",
+        "begin": "2016-05-06T02:49:00.000Z",
+        "broadcast": "R/2016-05-06T02:49:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10059",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0217695",
+        "begin": "2025-08-18T03:00:00.000Z",
+        "broadcast": "R/2025-08-18T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/77527"
+      },
+      {
+        "site": "mal",
+        "id": "2100"
+      },
+      {
+        "site": "anidb",
+        "id": "2638"
+      },
+      {
+        "site": "aniList",
+        "id": "2100"
+      }
+    ]
+  },
+  {
+    "title": "ろくでなしBLUES",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1992-07-10T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1992-07-10T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "442956"
+      },
+      {
+        "site": "unext",
+        "id": "SID0045128",
+        "begin": "2019-12-27T03:00:00.000Z",
+        "broadcast": "R/2019-12-27T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/461498"
+      },
+      {
+        "site": "mal",
+        "id": "9077"
+      },
+      {
+        "site": "aniList",
+        "id": "9077"
+      },
+      {
+        "site": "anidb",
+        "id": "6812"
+      },
+      {
+        "site": "danime",
+        "id": "24701",
+        "begin": "2026-04-09T15:00:00.000Z",
+        "broadcast": "R/2026-04-09T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "風の大陸",
+    "titleTranslate": {
+      "zh-Hans": [
+        "风之大陆"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1992-07-17T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1992-07-17T16:54:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "6256"
+      },
+      {
+        "site": "unext",
+        "id": "SID0042767",
+        "begin": "2019-11-30T03:00:00.000Z",
+        "broadcast": "R/2019-11-30T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10013",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/39690"
+      },
+      {
+        "site": "mal",
+        "id": "1777"
+      },
+      {
+        "site": "anidb",
+        "id": "1234"
+      },
+      {
+        "site": "aniList",
+        "id": "1777"
+      }
+    ]
+  },
+  {
+    "title": "ジャイアントロボ THE ANIMATION -地球が静止する日-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "大铁人 地球静止之日",
+        "机械巨神 地球静止之日",
+        "铁甲人 地球静止之日",
+        "机械巨人 地球静止之日"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1992-07-22T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1998-01-24T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "4442"
+      },
+      {
+        "site": "unext",
+        "id": "SID0015125",
+        "begin": "2020-11-15T15:00:00.000Z",
+        "broadcast": "R/2020-11-15T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10775",
+        "begin": "2013-04-05T01:00:00.000Z",
+        "broadcast": "R/2013-04-05T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/69212"
+      },
+      {
+        "site": "mal",
+        "id": "2321"
+      },
+      {
+        "site": "anidb",
+        "id": "964"
+      },
+      {
+        "site": "aniList",
+        "id": "2321"
+      }
+    ]
+  },
+  {
+    "title": "ジャンケンマン 怪獣大決戦",
+    "titleTranslate": {
+      "zh-Hans": [
+        "正气大侠 怪兽大决战"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1992-07-22T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1992-07-22T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "195915"
+      },
+      {
+        "site": "unext",
+        "id": "SID0004303",
+        "begin": "2016-03-24T03:00:00.000Z",
+        "broadcast": "R/2016-03-24T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "10247"
+      },
+      {
+        "site": "anidb",
+        "id": "7343"
+      },
+      {
+        "site": "aniList",
+        "id": "10247"
+      }
+    ]
+  },
+  {
+    "title": "DRAGON QUEST ダイの大冒険 ぶちやぶれ!! 新生6大将軍",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1992-07-10T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1992-07-10T16:39:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "317748"
+      },
+      {
+        "site": "unext",
+        "id": "SID0054520",
+        "begin": "2021-02-01T03:00:00.000Z",
+        "broadcast": "R/2021-02-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "dai-movie",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/530634"
+      },
+      {
+        "site": "mal",
+        "id": "7364"
+      },
+      {
+        "site": "aniList",
+        "id": "7364"
+      },
+      {
+        "site": "anidb",
+        "id": "2094"
+      }
+    ]
+  },
+  {
+    "title": "ハローキティのとまった大時計",
+    "titleTranslate": {
+      "zh-Hans": [
+        "大本钟停止之日的凯蒂猫"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1992-07-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1992-07-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "315430"
+      },
+      {
+        "site": "danime",
+        "id": "25487",
+        "begin": "2023-05-01T01:00:00.000Z",
+        "broadcast": "R/2023-05-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "22477"
+      },
+      {
+        "site": "anidb",
+        "id": "7829"
+      }
+    ]
+  },
+  {
+    "title": "ぞう列車がやってきた",
+    "titleTranslate": {
+      "zh-Hans": [
+        "象列车来了"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1992-07-03T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1992-07-03T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "220056"
+      },
+      {
+        "site": "mal",
+        "id": "11095"
+      },
+      {
+        "site": "anidb",
+        "id": "2715"
+      },
+      {
+        "site": "aniList",
+        "id": "11095"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/598107"
+      }
+    ]
+  },
+  {
+    "title": "せんぼんまつばら 川と生きる少年たち",
+    "titleTranslate": {
+      "zh-Hans": [
+        "千本松原 与河流生活的少年们"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1992-07-10T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1992-07-10T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "431619"
+      },
+      {
+        "site": "mal",
+        "id": "19167"
+      },
+      {
+        "site": "anidb",
+        "id": "6357"
+      },
+      {
+        "site": "aniList",
+        "id": "19167"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/598104"
+      }
+    ]
+  },
+  {
+    "title": "走れメロス",
+    "titleTranslate": {
+      "zh-Hans": [
+        "跑吧!美乐斯"
+      ],
+      "en": [
+        "Hashire Melos (Movie)"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1992-07-17T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1992-07-17T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "79176"
+      },
+      {
+        "site": "mal",
+        "id": "4876"
+      },
+      {
+        "site": "anidb",
+        "id": "2384"
+      },
+      {
+        "site": "aniList",
+        "id": "4876"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/123950"
       }
     ]
   }

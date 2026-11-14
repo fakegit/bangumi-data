@@ -4,6 +4,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "NG骑士柠檬汽水&40"
+      ],
+      "zh-Hant": [
+        "NG 騎士檸檬汽水 & 40"
       ]
     },
     "type": "tv",
@@ -13,13 +16,42 @@
     "end": "1990-12-21T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "ic0s2tByC8jCTEXk",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "10408"
+      },
+      {
+        "site": "unext",
+        "id": "SID0010712",
+        "begin": "2016-03-24T03:00:00.000Z",
+        "broadcast": "R/2016-03-24T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10135",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/26110"
+      },
+      {
+        "site": "mal",
+        "id": "2084"
+      },
+      {
+        "site": "anidb",
+        "id": "1364"
+      },
+      {
+        "site": "aniList",
+        "id": "2084"
+      },
+      {
+        "site": "gamer",
+        "id": "17484",
+        "begin": "2026-10-02T03:00:00.000Z",
+        "broadcast": "R/2026-10-02T03:00:00.000Z/P7D"
       }
     ]
   },
@@ -39,6 +71,22 @@
       {
         "site": "bangumi",
         "id": "87782"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/204053"
+      },
+      {
+        "site": "mal",
+        "id": "12391"
+      },
+      {
+        "site": "anidb",
+        "id": "1898"
+      },
+      {
+        "site": "aniList",
+        "id": "12391"
       }
     ]
   },
@@ -60,9 +108,20 @@
         "id": "8622"
       },
       {
-        "site": "letv",
-        "id": "10005863",
-        "begin": ""
+        "site": "tmdb",
+        "id": "tv/67575"
+      },
+      {
+        "site": "mal",
+        "id": "2150"
+      },
+      {
+        "site": "anidb",
+        "id": "1009"
+      },
+      {
+        "site": "aniList",
+        "id": "2150"
       }
     ]
   },
@@ -74,6 +133,9 @@
       ],
       "zh-Hans": [
         "蓝宝石之谜"
+      ],
+      "zh-Hant": [
+        "海底兩萬哩"
       ]
     },
     "type": "tv",
@@ -83,18 +145,268 @@
     "end": "1991-03-29T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "NXdRzzedDUuuLJQ",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "1981"
       },
       {
         "site": "bilibili",
         "id": "2358",
-        "begin": "1990-04-12T16:00:00.000Z"
+        "begin": "1990-04-12T16:00:00.000Z",
+        "broadcast": "R/2012-04-07T13:46:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003261",
+        "begin": "2018-12-18T03:00:00.000Z",
+        "broadcast": "R/2018-12-18T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "17772",
+        "begin": "2021-10-22T06:00:00.000Z",
+        "broadcast": "R/2021-10-22T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10115",
+        "begin": "2021-10-01T01:00:00.000Z",
+        "broadcast": "R/2021-10-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "17772",
+        "begin": "2021-10-22T06:00:00.000Z",
+        "broadcast": "R/2021-10-22T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/24710"
+      },
+      {
+        "site": "mal",
+        "id": "1251"
+      },
+      {
+        "site": "anidb",
+        "id": "40"
+      },
+      {
+        "site": "aniList",
+        "id": "1251"
+      }
+    ]
+  },
+  {
+    "title": "アイドル天使ようこそようこ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "偶像天使阳子",
+        "小俏妞"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1990-04-01T16:00:00.000Z",
+    "broadcast": "R/1990-04-01T16:00:00.000Z/P7D",
+    "end": "1991-02-03T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "11730"
+      },
+      {
+        "site": "unext",
+        "id": "SID0004951",
+        "begin": "2016-03-24T03:00:00.000Z",
+        "broadcast": "R/2016-03-24T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10421",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/130006"
+      },
+      {
+        "site": "mal",
+        "id": "4928"
+      },
+      {
+        "site": "anidb",
+        "id": "3058"
+      },
+      {
+        "site": "aniList",
+        "id": "4928"
+      }
+    ]
+  },
+  {
+    "title": "SDガンダム外伝",
+    "titleTranslate": {
+      "zh-Hans": [
+        "SD高达外传",
+        "机动战士SD高达外传",
+        "骑士高达"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1990-04-24T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1991-04-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "131171"
+      },
+      {
+        "site": "unext",
+        "id": "SID0077806",
+        "begin": "2023-01-26T15:00:00.000Z",
+        "broadcast": "R/2023-01-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/113074"
+      },
+      {
+        "site": "mal",
+        "id": "1939"
+      },
+      {
+        "site": "aniList",
+        "id": "1939"
+      },
+      {
+        "site": "anidb",
+        "id": "3343"
+      }
+    ]
+  },
+  {
+    "title": "ガタピシ",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1990-04-24T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1991-03-28T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "309551"
+      },
+      {
+        "site": "unext",
+        "id": "SID0012681",
+        "begin": "2021-01-07T03:00:00.000Z",
+        "broadcast": "R/2021-01-07T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "24502",
+        "begin": "2021-02-26T01:00:00.000Z",
+        "broadcast": "R/2021-02-26T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/241148"
+      },
+      {
+        "site": "mal",
+        "id": "20243"
+      },
+      {
+        "site": "anidb",
+        "id": "3346"
+      },
+      {
+        "site": "aniList",
+        "id": "20243"
+      }
+    ]
+  },
+  {
+    "title": "ヘヴィ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "重拳出击"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1990-04-13T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1990-04-13T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "100479"
+      },
+      {
+        "site": "mal",
+        "id": "10964"
+      },
+      {
+        "site": "anidb",
+        "id": "5230"
+      },
+      {
+        "site": "aniList",
+        "id": "10964"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/588106"
+      }
+    ]
+  },
+  {
+    "title": "走れ!白いオオカミ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "奔跑吧!白狼"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1990-04-27T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1990-04-27T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "100492"
+      },
+      {
+        "site": "mal",
+        "id": "5936"
+      },
+      {
+        "site": "anidb",
+        "id": "3189"
+      },
+      {
+        "site": "aniList",
+        "id": "5936"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/132376"
       }
     ]
   }

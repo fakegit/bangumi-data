@@ -20,6 +20,34 @@
         "site": "bilibili",
         "id": "3955",
         "begin": "2012-11-01T16:00:01.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0044210",
+        "begin": "2019-12-01T03:00:00.000Z",
+        "broadcast": "R/2019-12-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23090",
+        "begin": "2019-12-01T01:00:00.000Z",
+        "broadcast": "R/2019-12-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/251432"
+      },
+      {
+        "site": "mal",
+        "id": "15783"
+      },
+      {
+        "site": "anidb",
+        "id": "9458"
+      },
+      {
+        "site": "aniList",
+        "id": "15783"
       }
     ]
   },
@@ -37,11 +65,6 @@
     "end": "2012-11-10T17:50:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "vLyYFn7kVJL1c9s",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "41244"
       },
@@ -49,6 +72,28 @@
         "site": "bilibili",
         "id": "2804",
         "begin": "2012-11-09T16:00:00.000Z"
+      },
+      {
+        "site": "danime",
+        "id": "27540",
+        "begin": "2024-11-30T15:00:00.000Z",
+        "broadcast": "R/2024-11-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/135915"
+      },
+      {
+        "site": "mal",
+        "id": "14293"
+      },
+      {
+        "site": "anidb",
+        "id": "9208"
+      },
+      {
+        "site": "aniList",
+        "id": "14293"
       }
     ]
   },
@@ -66,11 +111,6 @@
     "end": "2013-05-09T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "cxXicfeVLuiclc2kI",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "46312"
       },
@@ -78,6 +118,48 @@
         "site": "bilibili",
         "id": "211",
         "begin": "2012-11-08T16:00:00.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0067450",
+        "begin": "2023-04-01T03:00:00.000Z",
+        "broadcast": "R/2023-04-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26265",
+        "begin": "2023-04-01T01:00:00.000Z",
+        "broadcast": "R/2023-04-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "168-49",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/40424/season/4"
+      },
+      {
+        "site": "mal",
+        "id": "15059"
+      },
+      {
+        "site": "anidb",
+        "id": "9344"
+      },
+      {
+        "site": "aniList",
+        "id": "15059"
+      },
+      {
+        "site": "acgnx",
+        "id": "头文|Initial"
+      },
+      {
+        "site": "dmhy",
+        "id": "头文|Initial"
       }
     ]
   },
@@ -95,23 +177,29 @@
     "end": "2012-11-28T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "eRP9eibNJufda2EA",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "55479"
-      },
-      {
-        "site": "letv",
-        "id": "86931",
-        "begin": ""
       },
       {
         "site": "bilibili",
         "id": "4312",
         "begin": "2012-11-27T16:00:01.000Z"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/683456"
+      },
+      {
+        "site": "mal",
+        "id": "15535"
+      },
+      {
+        "site": "anidb",
+        "id": "9392"
+      },
+      {
+        "site": "aniList",
+        "id": "15535"
       }
     ]
   },
@@ -129,11 +217,6 @@
     "end": "2012-10-13T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "ibSIenARq2hh7ibWE",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "42859"
       },
@@ -141,6 +224,22 @@
         "site": "bilibili",
         "id": "3268",
         "begin": "2012-09-30T16:00:01.000Z"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/107328"
+      },
+      {
+        "site": "mal",
+        "id": "13283"
+      },
+      {
+        "site": "anidb",
+        "id": "9050"
+      },
+      {
+        "site": "aniList",
+        "id": "13283"
       }
     ]
   },
@@ -186,6 +285,34 @@
         "site": "bilibili",
         "id": "10372",
         "begin": "2012-11-16T16:00:00.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0044609",
+        "begin": "2019-11-30T15:00:00.000Z",
+        "broadcast": "R/2019-11-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0DWSL3R7V",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/75629"
+      },
+      {
+        "site": "mal",
+        "id": "3785"
+      },
+      {
+        "site": "anidb",
+        "id": "7565"
+      },
+      {
+        "site": "aniList",
+        "id": "3785"
       }
     ]
   },
@@ -212,6 +339,18 @@
         "site": "bilibili",
         "id": "3851",
         "begin": "2012-11-29T16:00:00.000Z"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/45254/season/0"
+      },
+      {
+        "site": "mal",
+        "id": "18713"
+      },
+      {
+        "site": "aniList",
+        "id": "18713"
       }
     ]
   },
@@ -237,6 +376,143 @@
         "site": "bilibili",
         "id": "4277",
         "begin": "2012-11-13T16:00:00.000Z"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/211452"
+      },
+      {
+        "site": "mal",
+        "id": "16389"
+      },
+      {
+        "site": "aniList",
+        "id": "16389"
+      },
+      {
+        "site": "anidb",
+        "id": "9578"
+      }
+    ]
+  },
+  {
+    "title": "この男子、人魚ひろいました。",
+    "titleTranslate": {
+      "zh-Hans": [
+        "这名男子，捡到了人鱼。",
+        "这个男孩，捡到了人鱼。",
+        "这个男子，捡到了人鱼。"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.konodan.com/merman/",
+    "begin": "2012-11-08T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2012-11-08T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "49087"
+      },
+      {
+        "site": "unext",
+        "id": "SID0013575",
+        "begin": "2015-06-04T06:00:00.000Z",
+        "broadcast": "R/2015-06-04T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10913",
+        "begin": "2013-07-12T01:00:00.000Z",
+        "broadcast": "R/2013-07-12T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/454891"
+      },
+      {
+        "site": "mal",
+        "id": "15439"
+      },
+      {
+        "site": "anidb",
+        "id": "9403"
+      },
+      {
+        "site": "aniList",
+        "id": "15439"
+      }
+    ]
+  },
+  {
+    "title": "花の詩女 ゴティックメード",
+    "titleTranslate": {
+      "zh-Hans": [
+        "GOTHICMADE 花之诗女"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://gothicmade.com/",
+    "begin": "2012-10-31T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2012-10-31T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "22598"
+      },
+      {
+        "site": "mal",
+        "id": "7781"
+      },
+      {
+        "site": "anidb",
+        "id": "8618"
+      },
+      {
+        "site": "aniList",
+        "id": "7781"
+      }
+    ]
+  },
+  {
+    "title": "Mass Effect: Paragon Lost",
+    "titleTranslate": {
+      "zh-Hans": [
+        "质量效应:迷途楷模"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://masseffectparagonlost.com/",
+    "begin": "2012-11-18T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2012-11-18T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "68240"
+      },
+      {
+        "site": "mal",
+        "id": "13239"
+      },
+      {
+        "site": "anidb",
+        "id": "8674"
+      },
+      {
+        "site": "aniList",
+        "id": "13239"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/119685"
       }
     ]
   }

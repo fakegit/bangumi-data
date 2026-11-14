@@ -13,18 +13,42 @@
     "end": "1993-01-19T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "MRvmZMwyouBDwSk",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "2481"
       },
       {
-        "site": "letv",
-        "id": "29255",
-        "begin": ""
+        "site": "unext",
+        "id": "SID0003345",
+        "begin": "2019-08-27T03:00:00.000Z",
+        "broadcast": "R/2019-08-27T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "11144",
+        "begin": "2017-02-21T01:00:00.000Z",
+        "broadcast": "R/2017-02-21T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/9155"
+      },
+      {
+        "site": "prime",
+        "id": "B08H1QQ85J",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mal",
+        "id": "1459"
+      },
+      {
+        "site": "anidb",
+        "id": "1033"
+      },
+      {
+        "site": "aniList",
+        "id": "1459"
       }
     ]
   },
@@ -42,11 +66,6 @@
     "end": "1993-01-23T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "svfRT7cdjcsurBQ",
-        "begin": ""
-      },
-      {
         "site": "qq",
         "id": "x/xfbopppqn90fq4l",
         "begin": ""
@@ -58,27 +77,183 @@
       {
         "site": "bilibili",
         "id": "2340",
-        "begin": "1992-02-08T16:00:00.000Z"
+        "begin": "1992-02-08T16:00:00.000Z",
+        "broadcast": "R/2014-07-05T09:15:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/89506"
+      },
+      {
+        "site": "danime",
+        "id": "11545",
+        "begin": "2025-12-12T15:00:00.000Z",
+        "broadcast": "R/2025-12-12T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "2803"
+      },
+      {
+        "site": "anidb",
+        "id": "1710"
+      },
+      {
+        "site": "aniList",
+        "id": "2803"
       }
     ]
   },
   {
-    "title": "銀河英雄伝説 黄金の翼",
+    "title": "魔動王グランゾート 冒険編",
     "titleTranslate": {
       "zh-Hans": [
-        "银河英雄传说 黄金之翼"
+        "魔动王 冒险篇"
       ]
     },
-    "type": "movie",
+    "type": "ova",
     "lang": "ja",
     "officialSite": "",
-    "begin": "1992-02-12T16:00:00.000Z",
-    "end": "1992-02-12T16:00:00.000Z",
+    "begin": "1992-02-26T16:00:00.000Z",
+    "end": "1992-06-25T16:00:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
-        "id": "39532"
+        "id": "25422"
+      },
+      {
+        "site": "bilibili",
+        "id": "3815",
+        "begin": "2016-04-20T06:53:00.000Z",
+        "broadcast": "R/2016-04-20T06:53:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/34766/season/0/episode/3"
+      },
+      {
+        "site": "danime",
+        "id": "26945",
+        "begin": "2025-12-12T15:00:00.000Z",
+        "broadcast": "R/2025-12-12T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "7124"
+      },
+      {
+        "site": "anidb",
+        "id": "2354"
+      },
+      {
+        "site": "aniList",
+        "id": "7124"
+      }
+    ]
+  },
+  {
+    "title": "マグマ大使",
+    "titleTranslate": {
+      "zh-Hans": [
+        "熔岩大使"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1992-02-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1993-06-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "37297"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002383",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10923",
+        "begin": "2013-08-02T01:00:00.000Z",
+        "broadcast": "R/2013-08-02T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B07FHL8GMP",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/95242/season/0"
+      },
+      {
+        "site": "mal",
+        "id": "3235"
+      },
+      {
+        "site": "aniList",
+        "id": "3235"
+      },
+      {
+        "site": "anidb",
+        "id": "1463"
+      }
+    ]
+  },
+  {
+    "title": "花の魔法使いマリーベル",
+    "titleTranslate": {
+      "zh-Hans": [
+        "俏皮小花仙",
+        "花之魔法使玛丽铃"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1992-02-02T16:00:00.000Z",
+    "broadcast": "R/1992-02-02T16:00:00.000Z/P7D",
+    "end": "1993-01-17T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "35345"
+      },
+      {
+        "site": "unext",
+        "id": "SID0004941",
+        "begin": "2016-03-24T03:00:00.000Z",
+        "broadcast": "R/2016-03-24T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10418",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/16107"
+      },
+      {
+        "site": "mal",
+        "id": "2804"
+      },
+      {
+        "site": "anidb",
+        "id": "540"
+      },
+      {
+        "site": "aniList",
+        "id": "2804"
       }
     ]
   }

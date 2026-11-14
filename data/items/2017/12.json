@@ -19,12 +19,42 @@
       {
         "site": "nicovideo",
         "id": "donten-anime",
-        "begin": ""
+        "begin": "2017-12-15T15:00:00.000Z",
+        "broadcast": "R/2017-12-15T15:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
         "id": "8712",
-        "begin": "2017-12-01T16:00:00.000Z"
+        "begin": "2017-12-01T16:00:00.000Z",
+        "broadcast": "R/2017-12-02T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0031957",
+        "begin": "2019-09-01T03:00:00.000Z",
+        "broadcast": "R/2019-09-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "22963",
+        "begin": "2019-09-01T01:00:00.000Z",
+        "broadcast": "R/2019-09-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/469912"
+      },
+      {
+        "site": "mal",
+        "id": "35086"
+      },
+      {
+        "site": "aniList",
+        "id": "98452"
+      },
+      {
+        "site": "anidb",
+        "id": "12968"
       }
     ]
   },
@@ -49,6 +79,28 @@
         "site": "qq",
         "id": "k/kb42ukton38fpbn",
         "begin": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0033384",
+        "begin": "2022-04-01T03:00:00.000Z",
+        "broadcast": "R/2022-04-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/663117"
+      },
+      {
+        "site": "mal",
+        "id": "36444"
+      },
+      {
+        "site": "anidb",
+        "id": "13484"
+      },
+      {
+        "site": "aniList",
+        "id": "103809"
       }
     ]
   },
@@ -75,14 +127,37 @@
         "begin": "2018-07-04T00:00:11.000Z"
       },
       {
-        "site": "nicovideo",
-        "id": "inazma-delivery2",
-        "begin": ""
-      },
-      {
         "site": "youku",
         "id": "712415662cab4b149550",
         "begin": ""
+      },
+      {
+        "site": "crunchyroll",
+        "id": "G79H23WQ7",
+        "begin": "2021-11-23T14:00:00.000Z",
+        "broadcast": "R/2021-11-23T14:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "22497",
+        "begin": "2021-04-30T01:00:00.000Z",
+        "broadcast": "R/2021-04-30T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/194625/season/1/episode/11"
+      },
+      {
+        "site": "mal",
+        "id": "36894"
+      },
+      {
+        "site": "aniList",
+        "id": "102941"
+      },
+      {
+        "site": "anidb",
+        "id": "13631"
       }
     ]
   },
@@ -103,11 +178,37 @@
       {
         "site": "bangumi",
         "id": "230295"
+      },
+      {
+        "site": "mikan",
+        "id": "1537"
+      },
+      {
+        "site": "danime",
+        "id": "23075",
+        "begin": "2019-12-16T01:00:00.000Z",
+        "broadcast": "R/2019-12-16T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "36827"
+      },
+      {
+        "site": "aniList",
+        "id": "100570"
+      },
+      {
+        "site": "anidb",
+        "id": "13591"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/51492/season/0/episode/5"
       }
     ]
   },
   {
-    "title": "ガールズ&amp;パンツァー 最終章 第1話",
+    "title": "ガールズ&パンツァー 最終章 第1話",
     "titleTranslate": {
       "zh-Hans": [
         "少女与战车 最终章 第1话"
@@ -123,6 +224,38 @@
       {
         "site": "bangumi",
         "id": "191302"
+      },
+      {
+        "site": "unext",
+        "id": "SID0033206",
+        "begin": "2018-03-23T03:00:00.000Z",
+        "broadcast": "R/2018-03-23T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "1483"
+      },
+      {
+        "site": "danime",
+        "id": "22780",
+        "begin": "2025-07-31T15:00:00.000Z",
+        "broadcast": "R/2025-07-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/474659"
+      },
+      {
+        "site": "mal",
+        "id": "33970"
+      },
+      {
+        "site": "aniList",
+        "id": "99938"
+      },
+      {
+        "site": "anidb",
+        "id": "12361"
       }
     ]
   },
@@ -149,7 +282,410 @@
       {
         "site": "muse_hk",
         "id": "PLuxqoToY7UcisKxV6lK7plJ2rIATfqPOn",
-        "begin": ""
+        "begin": "2022-01-07T16:00:00.000Z",
+        "broadcast": "R/2022-01-07T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "100516",
+        "begin": "2021-11-07T15:54:00.000Z",
+        "broadcast": "R/2021-11-07T15:54:00.000Z/P7D",
+        "comment": "Wall Sina,Goodbye―Part Two―: 120438, Lost Girls Lost in the Cruel World: 120635"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "100516",
+        "begin": "2021-11-07T15:54:00.000Z",
+        "broadcast": "R/2021-11-07T15:54:00.000Z/P7D",
+        "comment": "Wall Sina,Goodbye―Part Two―: 120438, Lost Girls Lost in the Cruel World: 120635"
+      },
+      {
+        "site": "danime",
+        "id": "25148",
+        "begin": "2021-12-27T03:00:00.000Z",
+        "broadcast": "R/2021-12-27T03:00:00.000Z/P7D",
+        "comment": "Lost in the cruel world: 25150"
+      },
+      {
+        "site": "muse_tw",
+        "id": "PLFlphUH5ofro",
+        "url": "https://www.youtube.com/show/VLPLFlphUH5ofro?sbp=KgtOUzVwbjZZMkwxc0AB",
+        "begin": "",
+        "broadcast": "",
+        "comment": "國語: https://www.youtube.com/show/VLPLEvdKEeruqeA?sbp=KgtQUWlhNTZ1ZUp2a0AB"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/1429/season/0/episode/17"
+      },
+      {
+        "site": "mal",
+        "id": "36106"
+      },
+      {
+        "site": "aniList",
+        "id": "99634"
+      },
+      {
+        "site": "nicovideo",
+        "id": "shingeki_oad",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "anidb",
+        "id": "13374"
+      }
+    ]
+  },
+  {
+    "title": "映画 妖怪ウォッチ シャドウサイド 鬼王の復活",
+    "titleTranslate": {
+      "zh-Hans": [
+        "电影 妖怪手表 暗影面 鬼王的复活"
+      ],
+      "zh-Hant": [
+        "電影版妖怪手錶：光影之卷鬼王的復活"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.eiga-yokai.jp/",
+    "begin": "2017-12-15T16:00:00.000Z",
+    "end": "2017-12-15T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "217167"
+      },
+      {
+        "site": "unext",
+        "id": "SID0035788",
+        "begin": "2020-06-06T03:00:00.000Z",
+        "broadcast": "R/2020-06-06T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/545841"
+      },
+      {
+        "site": "mal",
+        "id": "34471"
+      },
+      {
+        "site": "anidb",
+        "id": "12577"
+      },
+      {
+        "site": "aniList",
+        "id": "114814"
+      }
+    ]
+  },
+  {
+    "title": "Fate/Grand Order -MOONLIGHT/LOSTROOM-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "命运-冠位指定 -月光／失落之室-"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2017-12-31T14:00:00.000Z",
+    "end": "2017-12-31T14:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "231887"
+      },
+      {
+        "site": "bilibili",
+        "id": "28234950",
+        "begin": "2021-09-30T10:00:00.000Z",
+        "broadcast": "R/2021-09-30T10:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "fgo-moonlight-lostroom",
+        "begin": "2022-02-18T03:00:00.000Z",
+        "broadcast": "R/2022-02-18T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0066391",
+        "begin": "2022-02-18T03:00:00.000Z",
+        "broadcast": "R/2022-02-18T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "1535"
+      },
+      {
+        "site": "danime",
+        "id": "25270",
+        "begin": "2022-02-18T03:00:00.000Z",
+        "broadcast": "R/2022-02-18T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/900497"
+      },
+      {
+        "site": "mal",
+        "id": "36915"
+      },
+      {
+        "site": "anidb",
+        "id": "13643"
+      },
+      {
+        "site": "aniList",
+        "id": "100728"
+      }
+    ]
+  },
+  {
+    "title": "Thunderbolt Fantasy 生死一劍",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Thunderbolt Fantasy 东离剑游纪 生死一剑"
+      ],
+      "zh-Hant": [
+        "Thunderbolt Fantasy 生死一劍"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.thunderboltfantasy.com",
+    "begin": "2017-12-01T16:00:00.000Z",
+    "end": "2017-12-01T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "211865"
+      },
+      {
+        "site": "bilibili",
+        "id": "71992",
+        "begin": "2018-02-09T10:30:00.000Z",
+        "broadcast": "R/2018-02-09T10:30:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0058276",
+        "begin": "2021-05-26T03:00:00.000Z",
+        "broadcast": "R/2021-05-26T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "24369",
+        "begin": "2021-04-01T01:00:00.000Z",
+        "broadcast": "R/2021-04-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "thunderboltfantasy-gaiden1",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/492126"
+      },
+      {
+        "site": "anidb",
+        "id": "13793"
+      },
+      {
+        "site": "aniList",
+        "id": "100484"
+      },
+      {
+        "site": "abema",
+        "id": "13-207",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "ネコぱらOVA",
+    "titleTranslate": {
+      "zh-Hans": [
+        "NEKOPARA OVA",
+        "猫娘乐园 OVA"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://nekoparaova.com/",
+    "begin": "2017-12-21T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2017-12-21T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "186394"
+      },
+      {
+        "site": "unext",
+        "id": "SID0033682",
+        "begin": "2018-03-02T03:00:00.000Z",
+        "broadcast": "R/2018-03-02T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "1484"
+      },
+      {
+        "site": "danime",
+        "id": "22017",
+        "begin": "2018-02-22T01:00:00.000Z",
+        "broadcast": "R/2018-02-22T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/532414"
+      },
+      {
+        "site": "mal",
+        "id": "34658"
+      },
+      {
+        "site": "anidb",
+        "id": "12622"
+      },
+      {
+        "site": "aniList",
+        "id": "99939"
+      }
+    ]
+  },
+  {
+    "title": "はじめてのギャル OAD",
+    "titleTranslate": {
+      "zh-Hans": [
+        "第一次的Gal OAD",
+        "第一次的辣妹 OAD"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2017-12-25T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2017-12-25T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "217689"
+      },
+      {
+        "site": "mikan",
+        "id": "1548"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/72296/season/0"
+      },
+      {
+        "site": "mal",
+        "id": "35237"
+      },
+      {
+        "site": "anidb",
+        "id": "13248"
+      },
+      {
+        "site": "aniList",
+        "id": "98878"
+      }
+    ]
+  },
+  {
+    "title": "いたずら魔女と眠らない街",
+    "titleTranslate": {
+      "zh-Hans": [
+        "恶作剧魔女与不夜城",
+        "恶作剧魔女与不眠之街"
+      ],
+      "en": [
+        "Sorcery in the Big City"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://itazuramajo.com/",
+    "begin": "2017-11-30T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2017-11-30T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "230912"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "G6Q4NJKGR",
+        "begin": "2017-12-01T10:00:00.000Z",
+        "broadcast": "R/2017-12-01T10:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/490321"
+      },
+      {
+        "site": "mal",
+        "id": "36861"
+      },
+      {
+        "site": "anidb",
+        "id": "13611"
+      },
+      {
+        "site": "aniList",
+        "id": "100656"
+      }
+    ]
+  },
+  {
+    "title": "COCOLORS",
+    "titleTranslate": {
+      "en": [
+        "Cocolors"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://gasolinemask.com/nishiki/cocolors",
+    "begin": "2017-12-01T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2017-12-01T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "194107"
+      },
+      {
+        "site": "mal",
+        "id": "34167"
+      },
+      {
+        "site": "anidb",
+        "id": "12457"
+      },
+      {
+        "site": "aniList",
+        "id": "104867"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/469211"
       }
     ]
   }

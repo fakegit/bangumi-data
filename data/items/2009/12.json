@@ -15,6 +15,22 @@
       {
         "site": "bangumi",
         "id": "9432"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/85910"
+      },
+      {
+        "site": "mal",
+        "id": "7723"
+      },
+      {
+        "site": "anidb",
+        "id": "7247"
+      },
+      {
+        "site": "aniList",
+        "id": "7723"
       }
     ]
   },
@@ -32,18 +48,26 @@
     "end": "2009-12-29T16:30:00.000Z",
     "sites": [
       {
-        "site": "letv",
-        "id": "6307",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "3806"
       },
       {
         "site": "bilibili",
         "id": "3292",
-        "begin": "2009-12-28T16:00:01.000Z"
+        "begin": "2009-12-28T16:00:01.000Z",
+        "broadcast": "R/2016-01-14T08:58:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "9213"
+      },
+      {
+        "site": "anidb",
+        "id": "6271"
+      },
+      {
+        "site": "aniList",
+        "id": "9213"
       }
     ]
   },
@@ -52,6 +76,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "海贼王 强者世界"
+      ],
+      "zh-Hant": [
+        "海賊王電影版：強者天下"
+      ],
+      "en": [
+        "One Piece Film: Strong World"
       ]
     },
     "type": "movie",
@@ -63,6 +93,46 @@
       {
         "site": "bangumi",
         "id": "2462"
+      },
+      {
+        "site": "unext",
+        "id": "SID0012959",
+        "begin": "2019-07-01T03:00:00.000Z",
+        "broadcast": "R/2019-07-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "80998781",
+        "begin": "2024-02-13T16:00:00.000Z",
+        "broadcast": "R/2024-02-13T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26997",
+        "begin": "2024-03-07T15:00:00.000Z",
+        "broadcast": "R/2024-03-07T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0DXS5JL7Z",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/41498"
+      },
+      {
+        "site": "mal",
+        "id": "4155"
+      },
+      {
+        "site": "anidb",
+        "id": "6537"
+      },
+      {
+        "site": "aniList",
+        "id": "4155"
       }
     ]
   },
@@ -80,13 +150,30 @@
     "end": "2009-12-23T17:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "EAicpZ881peNGxCw",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "72669"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002916",
+        "begin": "2019-09-23T03:00:00.000Z",
+        "broadcast": "R/2019-09-23T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/37425"
+      },
+      {
+        "site": "mal",
+        "id": "7314"
+      },
+      {
+        "site": "aniList",
+        "id": "7314"
+      },
+      {
+        "site": "anidb",
+        "id": "6795"
       }
     ]
   },
@@ -111,6 +198,204 @@
         "site": "nicovideo",
         "id": "ch313",
         "begin": "2010-01-26T07:32:57.000Z"
+      },
+      {
+        "site": "danime",
+        "id": "21867",
+        "begin": "2021-04-30T01:00:00.000Z",
+        "broadcast": "R/2021-04-30T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "8631"
+      },
+      {
+        "site": "anidb",
+        "id": "8368"
+      },
+      {
+        "site": "aniList",
+        "id": "8631"
+      }
+    ]
+  },
+  {
+    "title": "“文学少女”今日のおやつ 〜はつ恋〜",
+    "titleTranslate": {
+      "zh-Hans": [
+        "文学少女 今日的点心～初恋～",
+        "文学少女OAD"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2009-12-25T16:00:00.000Z",
+    "end": "2009-12-25T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "3780"
+      },
+      {
+        "site": "bilibili",
+        "id": "3769",
+        "begin": "2016-04-18T03:09:00.000Z",
+        "broadcast": "R/2016-04-18T03:09:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/747216"
+      },
+      {
+        "site": "mal",
+        "id": "7669"
+      },
+      {
+        "site": "anidb",
+        "id": "7294"
+      },
+      {
+        "site": "aniList",
+        "id": "7669"
+      }
+    ]
+  },
+  {
+    "title": "レイトン教授と永遠の歌姫",
+    "titleTranslate": {
+      "zh-Hans": [
+        "雷顿教授与永远的歌姬"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2009-12-18T16:00:00.000Z",
+    "end": "2009-12-18T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "2128"
+      },
+      {
+        "site": "bilibili",
+        "id": "5472",
+        "begin": "2016-08-25T02:06:00.000Z",
+        "broadcast": "R/2016-08-25T02:06:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/41066"
+      },
+      {
+        "site": "mal",
+        "id": "6172"
+      },
+      {
+        "site": "anidb",
+        "id": "6431"
+      },
+      {
+        "site": "aniList",
+        "id": "6172"
+      }
+    ]
+  },
+  {
+    "title": "宇宙戦艦ヤマト 復活篇",
+    "titleTranslate": {
+      "zh-Hans": [
+        "宇宙战舰大和号 复活编",
+        "宇宙战舰大和号 复活篇"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://yamato2009.jp/index.html",
+    "begin": "2009-12-11T16:00:00.000Z",
+    "end": "2009-12-11T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "3483"
+      },
+      {
+        "site": "bilibili",
+        "id": "4023",
+        "begin": "2016-05-20T03:15:00.000Z",
+        "broadcast": "R/2016-05-20T03:15:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0173480",
+        "begin": "2025-04-04T03:00:00.000Z",
+        "broadcast": "R/2025-04-04T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B085497YSY",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/47556"
+      },
+      {
+        "site": "danime",
+        "id": "28388",
+        "begin": "2025-12-01T15:00:00.000Z",
+        "broadcast": "R/2025-12-01T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "7144"
+      },
+      {
+        "site": "anidb",
+        "id": "6680"
+      },
+      {
+        "site": "aniList",
+        "id": "7144"
+      }
+    ]
+  },
+  {
+    "title": "人間失格 ディレクターズカット版",
+    "titleTranslate": {
+      "zh-Hans": [
+        "人间失格 剧场版"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.ntv.co.jp/bungaku/movie.html",
+    "begin": "2009-12-11T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2009-12-11T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "58054"
+      },
+      {
+        "site": "mal",
+        "id": "7651"
+      },
+      {
+        "site": "anidb",
+        "id": "7189"
+      },
+      {
+        "site": "aniList",
+        "id": "7651"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/74799"
       }
     ]
   }

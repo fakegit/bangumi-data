@@ -19,7 +19,8 @@
       {
         "site": "bilibili",
         "id": "97272",
-        "begin": "2018-06-01T16:00:01.000Z"
+        "begin": "2018-06-01T16:00:01.000Z",
+        "broadcast": ""
       },
       {
         "site": "qq",
@@ -36,6 +37,40 @@
         "id": "a_b9c5onku7d",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0035254",
+        "begin": "2018-06-05T03:00:00.000Z",
+        "broadcast": "R/2018-06-05T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GY5VKE9EY",
+        "begin": "2014-04-25T16:30:00.000Z",
+        "broadcast": "R/2014-04-25T16:30:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "22711",
+        "begin": "2019-04-19T03:00:00.000Z",
+        "broadcast": "R/2019-04-19T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/71919/season/6"
+      },
+      {
+        "site": "mal",
+        "id": "37739"
+      },
+      {
+        "site": "anidb",
+        "id": "14030"
+      },
+      {
+        "site": "aniList",
+        "id": "102005"
       }
     ]
   },
@@ -60,7 +95,40 @@
       {
         "site": "bilibili",
         "id": "952544",
-        "begin": "2018-10-26T16:00:00.000Z"
+        "begin": "2018-10-26T16:00:00.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0052802",
+        "begin": "2020-11-13T03:00:00.000Z",
+        "broadcast": "R/2020-11-13T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "1652"
+      },
+      {
+        "site": "danime",
+        "id": "22662",
+        "begin": "2019-03-08T01:00:00.000Z",
+        "broadcast": "R/2019-03-08T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/515295"
+      },
+      {
+        "site": "mal",
+        "id": "36214"
+      },
+      {
+        "site": "anidb",
+        "id": "13409"
+      },
+      {
+        "site": "aniList",
+        "id": "99916"
       }
     ]
   },
@@ -85,7 +153,182 @@
       {
         "site": "bilibili",
         "id": "92812",
-        "begin": "2018-06-08T16:00:00.000Z"
+        "begin": "2018-06-08T16:00:00.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0035251",
+        "begin": "2019-09-01T03:00:00.000Z",
+        "broadcast": "R/2019-09-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "22964",
+        "begin": "2019-09-01T01:00:00.000Z",
+        "broadcast": "R/2019-09-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/483459"
+      },
+      {
+        "site": "mal",
+        "id": "35424"
+      },
+      {
+        "site": "aniList",
+        "id": "99196"
+      }
+    ]
+  },
+  {
+    "title": "それいけ!アンパンマン かがやけ!クルンといのちの星",
+    "titleTranslate": {
+      "zh-Hans": [
+        "面包超人 闪耀吧！库伦与生命之星"
+      ],
+      "zh-Hant": [
+        "麵包超人電影版：閃耀吧！庫倫與生命之星",
+        "麵包超人大電影：閃耀吧！庫倫與生命之星"
+      ],
+      "en": [
+        "Anpanman: Shine! Kulun and the Stars of Life"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.anpanman.jp/anime/movie.html",
+    "begin": "2018-06-29T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2018-06-29T17:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "455737"
+      },
+      {
+        "site": "gamer",
+        "id": "93283",
+        "begin": "2023-10-02T01:40:00.000Z",
+        "broadcast": "R/2023-10-02T01:40:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0042354",
+        "begin": "2019-09-01T03:00:00.000Z",
+        "broadcast": "R/2019-09-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "27766",
+        "begin": "2025-04-29T15:00:00.000Z",
+        "broadcast": "R/2025-04-29T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81719828",
+        "begin": "2025-09-17T16:00:00.000Z",
+        "broadcast": "R/2025-09-17T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/591077"
+      },
+      {
+        "site": "mal",
+        "id": "37050"
+      },
+      {
+        "site": "anidb",
+        "id": "13714"
+      },
+      {
+        "site": "aniList",
+        "id": "174842"
+      }
+    ]
+  },
+  {
+    "title": "PEACE MAKER 鐵 ～想道～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "新撰组异闻录 铁 ～想道～"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.peacemakerk.jp/",
+    "begin": "2018-06-01T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2018-06-01T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "178648"
+      },
+      {
+        "site": "unext",
+        "id": "SID0044528",
+        "begin": "2019-11-26T03:00:00.000Z",
+        "broadcast": "R/2019-11-26T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "1752"
+      },
+      {
+        "site": "danime",
+        "id": "22999",
+        "begin": "2019-09-20T01:00:00.000Z",
+        "broadcast": "R/2019-09-20T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/483456"
+      },
+      {
+        "site": "anidb",
+        "id": "12081"
+      }
+    ]
+  },
+  {
+    "title": "ているず おぶ HR",
+    "titleTranslate": {
+      "zh-Hans": [
+        "班会传说"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://asobistore.jp/content/title/Talesof/HR/",
+    "begin": "2018-06-16T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2019-03-13T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "253922"
+      },
+      {
+        "site": "mikan",
+        "id": "1728"
+      },
+      {
+        "site": "mal",
+        "id": "38110"
+      },
+      {
+        "site": "aniList",
+        "id": "109189"
+      },
+      {
+        "site": "anidb",
+        "id": "14250"
       }
     ]
   }

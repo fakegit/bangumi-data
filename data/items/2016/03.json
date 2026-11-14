@@ -3,7 +3,8 @@
     "title": "彼女と彼女の猫 -Everything Flows-",
     "titleTranslate": {
       "zh-Hans": [
-        "她和她的猫 -Everything Flows-"
+        "她和她的猫 -Everything Flows-",
+        "她与她的猫"
       ]
     },
     "type": "tv",
@@ -15,7 +16,8 @@
       {
         "site": "bilibili",
         "id": "3375",
-        "begin": "2016-03-04T15:30:00.000Z"
+        "begin": "2016-03-04T15:30:00.000Z",
+        "broadcast": "R/2016-03-04T15:30:00.000Z/P7D"
       },
       {
         "site": "bangumi",
@@ -25,6 +27,38 @@
         "site": "nicovideo",
         "id": "kanoneko",
         "begin": "2016-03-04T15:00:00.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0029534",
+        "begin": "2017-05-18T03:00:00.000Z",
+        "broadcast": "R/2017-05-18T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "682"
+      },
+      {
+        "site": "danime",
+        "id": "21705",
+        "begin": "2017-08-16T01:00:00.000Z",
+        "broadcast": "R/2017-08-16T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/67534"
+      },
+      {
+        "site": "mal",
+        "id": "32491"
+      },
+      {
+        "site": "anidb",
+        "id": "11874"
+      },
+      {
+        "site": "aniList",
+        "id": "21577"
       }
     ]
   },
@@ -55,18 +89,36 @@
         "begin": "2016-03-26T10:00:00.000Z"
       },
       {
-        "site": "sohu",
-        "id": "s2016/dhpgwdz2",
-        "begin": "2016-03-26T10:00:00.000Z"
-      },
-      {
-        "site": "letv",
-        "id": "10014412",
-        "begin": "2016-03-26T10:00:00.000Z"
-      },
-      {
         "site": "bangumi",
         "id": "173691"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "G619JM99Y",
+        "begin": "2016-12-09T19:00:00.000Z",
+        "broadcast": "R/2016-12-09T19:00:00.000Z/P7D"
+      },
+      {
+        "site": "youtube",
+        "id": "PL8anBnIT2pG5JIFGfoaGvwc3maRI1ka_l",
+        "begin": "2016-03-26T12:00:00.000Z",
+        "broadcast": "R/2016-03-26T12:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/69084/season/1/episode/15"
+      },
+      {
+        "site": "mal",
+        "id": "34670"
+      },
+      {
+        "site": "aniList",
+        "id": "98069"
+      },
+      {
+        "site": "anidb",
+        "id": "12703"
       }
     ]
   },
@@ -82,12 +134,8 @@
       {
         "site": "bilibili",
         "id": "3506",
-        "begin": "2016-03-25T02:00:00.000Z"
-      },
-      {
-        "site": "pptv",
-        "id": "2WdRzzedDUuuLJQ",
-        "begin": "2016-03-25T02:00:00.000Z"
+        "begin": "2016-03-25T02:00:00.000Z",
+        "broadcast": "R/2016-03-28T06:50:00.000Z/P7D"
       },
       {
         "site": "qq",
@@ -97,16 +145,6 @@
       {
         "site": "iqiyi",
         "id": "a_19rrhadq6l",
-        "begin": "2016-03-25T02:00:00.000Z"
-      },
-      {
-        "site": "letv",
-        "id": "10018933",
-        "begin": "2016-03-25T02:00:00.000Z"
-      },
-      {
-        "site": "sohu",
-        "id": "s2016/yzdmx2",
         "begin": "2016-03-25T02:00:00.000Z"
       },
       {
@@ -122,6 +160,22 @@
         "site": "acfun",
         "id": "5020150",
         "begin": "2017-11-13T09:28:37.000Z"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/107473/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "33763"
+      },
+      {
+        "site": "anidb",
+        "id": "18674"
+      },
+      {
+        "site": "aniList",
+        "id": "103351"
       }
     ]
   },
@@ -130,6 +184,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "哆啦A梦 新·大雄的日本诞生"
+      ],
+      "zh-Hant": [
+        "電影 哆啦A夢 新．大雄的日本誕生"
       ]
     },
     "type": "movie",
@@ -144,13 +201,42 @@
         "begin": ""
       },
       {
-        "site": "letv",
-        "id": "10035148",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "139670"
+      },
+      {
+        "site": "abema",
+        "id": "35-125",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0099889",
+        "begin": "2024-03-05T03:00:00.000Z",
+        "broadcast": "R/2024-03-05T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "82254",
+        "begin": "2024-10-01T04:30:00.000Z",
+        "broadcast": "R/2024-10-01T04:30:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/384345"
+      },
+      {
+        "site": "mal",
+        "id": "31201"
+      },
+      {
+        "site": "anidb",
+        "id": "11353"
+      },
+      {
+        "site": "aniList",
+        "id": "87438"
       }
     ]
   },
@@ -185,6 +271,30 @@
         "site": "youku",
         "id": "f693fe00924811e59e2a",
         "begin": "2017-11-22T08:36:59.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0023528",
+        "begin": "2021-05-01T03:00:00.000Z",
+        "broadcast": "R/2021-05-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "24732",
+        "begin": "2021-05-01T01:00:00.000Z",
+        "broadcast": "R/2021-05-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/372752"
+      },
+      {
+        "site": "mal",
+        "id": "32108"
+      },
+      {
+        "site": "aniList",
+        "id": "21500"
       }
     ]
   },
@@ -211,9 +321,32 @@
         "id": "159824"
       },
       {
-        "site": "pptv",
-        "id": "0l85txibF9TOWFHw",
-        "begin": ""
+        "site": "unext",
+        "id": "SID0028346",
+        "begin": "2018-10-04T03:00:00.000Z",
+        "broadcast": "R/2018-10-04T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "22072",
+        "begin": "2018-04-27T01:00:00.000Z",
+        "broadcast": "R/2018-04-27T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/413164"
+      },
+      {
+        "site": "mal",
+        "id": "32160"
+      },
+      {
+        "site": "anidb",
+        "id": "11797"
+      },
+      {
+        "site": "aniList",
+        "id": "21504"
       }
     ]
   },
@@ -231,23 +364,33 @@
     "end": "2016-09-17T16:15:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "xHNd20OpGVe6OKA",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "176292"
-      },
-      {
-        "site": "bilibili",
-        "id": "5454",
-        "begin": "2016-03-30T16:00:01.000Z"
       },
       {
         "site": "youku",
         "id": "69d6f150fc6211e5b32f",
         "begin": "2016-05-25T08:48:11.000Z"
+      },
+      {
+        "site": "mikan",
+        "id": "744"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/66987"
+      },
+      {
+        "site": "mal",
+        "id": "33080"
+      },
+      {
+        "site": "aniList",
+        "id": "21728"
+      },
+      {
+        "site": "anidb",
+        "id": "12053"
       }
     ]
   },
@@ -265,13 +408,24 @@
     "end": "2016-03-19T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "WibfRT7cdjcsurBQ",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "136603"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/417922"
+      },
+      {
+        "site": "mal",
+        "id": "30922"
+      },
+      {
+        "site": "aniList",
+        "id": "21398"
+      },
+      {
+        "site": "anidb",
+        "id": "11281"
       }
     ]
   },
@@ -289,13 +443,30 @@
     "end": "2016-03-19T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "WibfRT7cdjcsurBQ",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "136601"
+      },
+      {
+        "site": "danime",
+        "id": "23926",
+        "begin": "2020-05-01T01:00:00.000Z",
+        "broadcast": "R/2020-05-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/433156"
+      },
+      {
+        "site": "mal",
+        "id": "30920"
+      },
+      {
+        "site": "anidb",
+        "id": "11278"
+      },
+      {
+        "site": "aniList",
+        "id": "21396"
       }
     ]
   },
@@ -313,13 +484,24 @@
     "end": "2016-03-19T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "WibfRT7cdjcsurBQ",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "136600"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/440668"
+      },
+      {
+        "site": "mal",
+        "id": "30923"
+      },
+      {
+        "site": "anidb",
+        "id": "11282"
+      },
+      {
+        "site": "aniList",
+        "id": "21395"
       }
     ]
   },
@@ -339,6 +521,22 @@
       {
         "site": "bangumi",
         "id": "136602"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/433510"
+      },
+      {
+        "site": "mal",
+        "id": "30921"
+      },
+      {
+        "site": "aniList",
+        "id": "21397"
+      },
+      {
+        "site": "anidb",
+        "id": "11279"
       }
     ]
   },
@@ -356,18 +554,40 @@
     "end": "2016-12-20T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "cribZF3iclVZP2dNw",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "149257"
       },
       {
         "site": "bilibili",
         "id": "5921",
-        "begin": "2016-03-17T16:00:01.000Z"
+        "begin": "2016-03-17T16:00:01.000Z",
+        "broadcast": "R/2017-02-07T02:22:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0054160",
+        "begin": "2020-12-28T03:00:00.000Z",
+        "broadcast": "R/2020-12-28T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "1231"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/65926/season/0"
+      },
+      {
+        "site": "mal",
+        "id": "31883"
+      },
+      {
+        "site": "anidb",
+        "id": "11720"
+      },
+      {
+        "site": "aniList",
+        "id": "21441"
       }
     ]
   },
@@ -389,9 +609,24 @@
         "id": "161449"
       },
       {
-        "site": "nicovideo",
-        "id": "pp-movie03",
-        "begin": ""
+        "site": "mikan",
+        "id": "1139"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/494612"
+      },
+      {
+        "site": "mal",
+        "id": "31919"
+      },
+      {
+        "site": "anidb",
+        "id": "11729"
+      },
+      {
+        "site": "aniList",
+        "id": "21454"
       }
     ]
   },
@@ -399,7 +634,8 @@
     "title": "ふらいんぐうぃっち ぷち",
     "titleTranslate": {
       "zh-Hans": [
-        "小飞翔魔女"
+        "小飞翔魔女",
+        "飞翔的魔女 小剧场"
       ]
     },
     "type": "web",
@@ -413,9 +649,26 @@
         "id": "174504"
       },
       {
-        "site": "pptv",
-        "id": "hLqWFHziaUpDzcdk",
-        "begin": ""
+        "site": "bilibili",
+        "id": "3990",
+        "begin": "2016-05-13T08:01:34.000Z",
+        "broadcast": "R/2016-05-13T08:01:34.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "747"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/65934/season/0"
+      },
+      {
+        "site": "mal",
+        "id": "32954"
+      },
+      {
+        "site": "aniList",
+        "id": "21721"
       }
     ]
   },
@@ -435,6 +688,18 @@
       {
         "site": "bangumi",
         "id": "176164"
+      },
+      {
+        "site": "mal",
+        "id": "33348"
+      },
+      {
+        "site": "anidb",
+        "id": "12010"
+      },
+      {
+        "site": "aniList",
+        "id": "126878"
       }
     ]
   },
@@ -459,7 +724,24 @@
       {
         "site": "bilibili",
         "id": "3780",
-        "begin": "2016-03-24T16:00:00.000Z"
+        "begin": "2016-03-24T16:00:00.000Z",
+        "broadcast": "R/2016-04-19T03:09:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/65661/season/0"
+      },
+      {
+        "site": "mal",
+        "id": "31867"
+      },
+      {
+        "site": "aniList",
+        "id": "21431"
+      },
+      {
+        "site": "anidb",
+        "id": "11726"
       }
     ]
   },
@@ -485,7 +767,115 @@
       {
         "site": "bilibili",
         "id": "5696",
-        "begin": "2016-02-29T16:00:00.000Z"
+        "begin": "2016-02-29T16:00:00.000Z",
+        "broadcast": "R/2016-11-07T03:14:29.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/78490"
+      },
+      {
+        "site": "mal",
+        "id": "31402"
+      },
+      {
+        "site": "anidb",
+        "id": "12331"
+      },
+      {
+        "site": "aniList",
+        "id": "97819"
+      }
+    ]
+  },
+  {
+    "title": "劇場版しまじろうのわお! しまじろうとえほんのくに",
+    "titleTranslate": {
+      "zh-Hans": [
+        "巧虎与绘本之国",
+        "巧虎绘本王国历险记"
+      ],
+      "zh-Hant": [
+        "巧虎繪本王國歷險記"
+      ],
+      "en": [
+        "Shimajiro to Ehon no Kuni"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://kodomo.benesse.ne.jp/open/movie/2016-ehonnokuni/",
+    "begin": "2016-03-10T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2016-03-10T17:01:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "162782"
+      },
+      {
+        "site": "unext",
+        "id": "SID0050235",
+        "begin": "2020-08-14T03:00:00.000Z",
+        "broadcast": "R/2020-08-14T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/664858"
+      },
+      {
+        "site": "mal",
+        "id": "32014"
+      },
+      {
+        "site": "anidb",
+        "id": "11757"
+      },
+      {
+        "site": "aniList",
+        "id": "131641"
+      },
+      {
+        "site": "netflix",
+        "id": "80171922",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "想いのかけら",
+    "titleTranslate": {
+      "zh-Hans": [
+        "思念的碎片"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.nhk.or.jp/daisuki-tohoku/kakera/",
+    "begin": "2016-03-23T16:00:00.000Z",
+    "end": "2016-03-23T16:30:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "174765"
+      },
+      {
+        "site": "mal",
+        "id": "32190"
+      },
+      {
+        "site": "aniList",
+        "id": "21736"
+      },
+      {
+        "site": "anidb",
+        "id": "11799"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/416979"
       }
     ]
   }

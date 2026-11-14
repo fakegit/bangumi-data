@@ -13,18 +13,179 @@
     "end": "2000-08-25T16:30:00.000Z",
     "sites": [
       {
-        "site": "letv",
-        "id": "19231",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "8299"
       },
       {
-        "site": "pptv",
-        "id": "hsia0MpoAcK4Rjicc",
-        "begin": ""
+        "site": "tmdb",
+        "id": "tv/26173"
+      },
+      {
+        "site": "mal",
+        "id": "51"
+      },
+      {
+        "site": "anidb",
+        "id": "29"
+      },
+      {
+        "site": "aniList",
+        "id": "51"
+      }
+    ]
+  },
+  {
+    "title": "知世のカードキャプターさくら活躍ビデオ日記!",
+    "titleTranslate": {
+      "zh-Hans": [
+        "魔卡少女樱 知世的影像活跃日记",
+        "库洛魔法使 知世的活跃日记",
+        "百变小樱 知世的活跃日记"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2000-05-24T16:00:00.000Z",
+    "end": "2000-05-24T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "21233"
+      },
+      {
+        "site": "bilibili",
+        "id": "3858",
+        "begin": "2016-04-27T03:24:00.000Z",
+        "broadcast": "R/2016-04-27T03:24:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/35790/season/0"
+      }
+    ]
+  },
+  {
+    "title": "銀河英雄伝説外伝 決闘者",
+    "titleTranslate": {
+      "zh-Hans": [
+        "银河英雄传说外传 决斗者"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2000-05-25T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2000-05-25T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "79685"
+      },
+      {
+        "site": "unext",
+        "id": "SID0012541",
+        "begin": "2018-04-06T03:00:00.000Z",
+        "broadcast": "R/2018-04-06T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "20238",
+        "begin": "2015-08-14T01:00:00.000Z",
+        "broadcast": "R/2015-08-14T01:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "AMON デビルマン黙示録",
+    "titleTranslate": {
+      "zh-Hans": [
+        "AMON 恶魔人默示录",
+        "惡魔人：魔鬼人默示錄",
+        "恶魔人默示录",
+        "恶魔人 艾蒙魔王默示录"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2000-05-23T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2000-05-23T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "22956"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002147",
+        "begin": "2019-11-22T03:00:00.000Z",
+        "broadcast": "R/2019-11-22T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10289",
+        "begin": "2020-03-06T01:00:00.000Z",
+        "broadcast": "R/2020-03-06T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/62182"
+      },
+      {
+        "site": "mal",
+        "id": "2356"
+      },
+      {
+        "site": "aniList",
+        "id": "2356"
+      },
+      {
+        "site": "anidb",
+        "id": "44"
+      }
+    ]
+  },
+  {
+    "title": "越後の昔ばなし あったてんがのぉ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "越后流传的故事"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2000-04-30T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2000-04-30T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "299156"
+      },
+      {
+        "site": "danime",
+        "id": "27977",
+        "begin": "2025-05-30T15:00:00.000Z",
+        "broadcast": "R/2025-05-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/911738"
+      },
+      {
+        "site": "mal",
+        "id": "28117"
+      },
+      {
+        "site": "anidb",
+        "id": "7946"
       }
     ]
   }

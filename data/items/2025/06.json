@@ -1,0 +1,466 @@
+[
+  {
+    "title": "タコピーの原罪",
+    "titleTranslate": {
+      "en": [
+        "Takopi's Original Sin"
+      ],
+      "zh-Hans": [
+        "章鱼哔的原罪",
+        "章鱼噼的原罪",
+        "章鱼P的原罪"
+      ],
+      "zh-Hant": [
+        "章魚嗶的原罪"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://www.tbs.co.jp/anime/takopi_project/",
+    "begin": "2025-06-27T15:00:00.000Z",
+    "broadcast": "R/2025-06-27T15:00:00.000Z/P7D",
+    "end": "2025-08-01T15:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "527620"
+      },
+      {
+        "site": "nicovideo",
+        "id": "takopi_project",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0196501",
+        "begin": "2025-06-27T15:00:00.000Z",
+        "broadcast": "R/2025-06-27T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "19-266",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "28000",
+        "begin": "2025-06-27T15:00:00.000Z",
+        "broadcast": "R/2025-06-27T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "82040459",
+        "begin": "2025-06-26T16:00:00.000Z",
+        "broadcast": "R/2025-06-26T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "5H7vwzNyhkdU",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer_hk",
+        "id": "142775",
+        "begin": "2025-06-27T15:00:00.000Z",
+        "broadcast": "R/2025-06-27T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtSLcx3UKk74V2JQg59t2bU8",
+        "begin": "2025-06-27T15:00:06.000Z",
+        "broadcast": "R/2025-06-27T15:00:06.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JiXIF_XC3Q8zWzNLgWesqLY",
+        "begin": "2025-06-27T15:00:06.000Z",
+        "broadcast": "R/2025-06-27T15:00:06.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3649"
+      },
+      {
+        "site": "gamer",
+        "id": "142775",
+        "begin": "2025-06-27T15:00:00.000Z",
+        "broadcast": "R/2025-06-27T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0DT45NZ1Z",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/284445"
+      },
+      {
+        "site": "mal",
+        "id": "60489"
+      },
+      {
+        "site": "anidb",
+        "id": "19038"
+      },
+      {
+        "site": "aniList",
+        "id": "185407"
+      },
+      {
+        "site": "acgnx",
+        "id": "章魚嗶"
+      },
+      {
+        "site": "dmhy",
+        "id": "章魚嗶"
+      }
+    ]
+  },
+  {
+    "title": "LUPIN THE IIIRD 銭形と2人のルパン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "鲁邦三世 钱形与两个鲁邦"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://www.lupin-3rd.net/zenigata-twolupins/",
+    "begin": "2025-06-19T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2025-06-19T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "555830"
+      },
+      {
+        "site": "unext",
+        "id": "SID0195537",
+        "begin": "2025-06-19T15:00:00.000Z",
+        "broadcast": "R/2025-06-19T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "27937",
+        "begin": "2025-06-19T15:00:00.000Z",
+        "broadcast": "R/2025-06-19T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0DHBCSJG8",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1474048"
+      },
+      {
+        "site": "mal",
+        "id": "61616"
+      },
+      {
+        "site": "anidb",
+        "id": "19338"
+      },
+      {
+        "site": "aniList",
+        "id": "191884"
+      }
+    ]
+  },
+  {
+    "title": "新星ギャルバース",
+    "titleTranslate": {
+      "zh-Hans": [
+        "新星Galverse"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://www.galverse.art/",
+    "begin": "2025-06-27T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2025-06-27T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "557430"
+      },
+      {
+        "site": "danime",
+        "id": "28108",
+        "begin": "2025-06-25T12:30:00.000Z",
+        "broadcast": "R/2025-06-25T12:30:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1500531"
+      },
+      {
+        "site": "mal",
+        "id": "61672"
+      },
+      {
+        "site": "anidb",
+        "id": "19389"
+      },
+      {
+        "site": "aniList",
+        "id": "192474"
+      }
+    ]
+  },
+  {
+    "title": "小林さんちのメイドラゴン さみしがりやの竜",
+    "titleTranslate": {
+      "zh-Hans": [
+        "小林家的龙女仆 怕寂寞的龙",
+        "小林家的龙丫头：怕寂寞的龙"
+      ],
+      "zh-Hant": [
+        "電影版小林家的龍女僕：害怕寂寞的龍"
+      ],
+      "en": [
+        "Miss Kobayashi's Dragon Maid: A Lonely Dragon Wants to be Loved"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://maidragon.jp/movie",
+    "begin": "2025-06-26T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2025-06-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "514353"
+      },
+      {
+        "site": "netflix",
+        "id": "81999068",
+        "begin": "2026-01-19T16:00:00.000Z",
+        "broadcast": "R/2026-01-19T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "59897"
+      },
+      {
+        "site": "anidb",
+        "id": "18873"
+      },
+      {
+        "site": "aniList",
+        "id": "181839"
+      },
+      {
+        "site": "mikan",
+        "id": "3808"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1359607"
+      }
+    ]
+  },
+  {
+    "title": "KING OF PRISM -Your Endless Call- み～んなきらめけ！プリズム☆ツアーズ",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://kinpri.com/",
+    "begin": "2025-06-26T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2025-06-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "525084"
+      },
+      {
+        "site": "mikan",
+        "id": "3812"
+      },
+      {
+        "site": "mal",
+        "id": "61120"
+      },
+      {
+        "site": "aniList",
+        "id": "184756"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1504916"
+      },
+      {
+        "site": "unext",
+        "id": "SID0320245",
+        "begin": "2026-10-01T03:00:00.000Z",
+        "broadcast": "R/2026-10-01T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "それいけ！アンパンマン チャポンのヒーロー！",
+    "titleTranslate": {
+      "zh-Hans": [
+        "面包超人 恰彭的英雄！"
+      ],
+      "zh-Hant": [
+        "麵包超人電影版：小水滴的英雄！"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://anpan-movie.com/2025/",
+    "begin": "2025-06-26T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2025-06-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "542125"
+      },
+      {
+        "site": "unext",
+        "id": "SID0243312",
+        "begin": "2025-11-18T15:00:00.000Z",
+        "broadcast": "R/2025-11-18T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "60962"
+      },
+      {
+        "site": "aniList",
+        "id": "186542"
+      },
+      {
+        "site": "anidb",
+        "id": "19257"
+      },
+      {
+        "site": "gamer",
+        "id": "146164",
+        "begin": "2026-07-02T16:00:00.000Z",
+        "broadcast": "R/2026-07-02T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1504914"
+      }
+    ]
+  },
+  {
+    "title": "ヴァージン・パンク Clockwork Girl",
+    "titleTranslate": {
+      "zh-Hans": [
+        "纯洁庞克 发条少女",
+        "处女朋克：发条女孩",
+        "维珍朋克： 发条女孩"
+      ],
+      "zh-Hant": [
+        "純潔龐克 發條少女"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://virgin-punk.com/",
+    "begin": "2025-06-26T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2025-06-26T16:35:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "513352"
+      },
+      {
+        "site": "mikan",
+        "id": "3885"
+      },
+      {
+        "site": "mal",
+        "id": "59848"
+      },
+      {
+        "site": "aniList",
+        "id": "181449"
+      },
+      {
+        "site": "anidb",
+        "id": "18866"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1360829"
+      },
+      {
+        "site": "unext",
+        "id": "SID0322436",
+        "begin": "2026-11-01T03:00:00.000Z",
+        "broadcast": "R/2026-11-01T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "LUPIN THE IIIRD THE MOVIE 不死身の血族",
+    "titleTranslate": {
+      "zh-Hans": [
+        "电影 鲁邦三世 不死身的血族"
+      ],
+      "zh-Hant": [
+        "魯邦三世 不死身的血族"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://lupinthe3rd.com/",
+    "begin": "2025-06-26T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2025-06-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "526159"
+      },
+      {
+        "site": "gamer",
+        "id": "142586",
+        "begin": "2026-05-31T16:00:00.000Z",
+        "broadcast": "R/2026-05-31T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "60408"
+      },
+      {
+        "site": "aniList",
+        "id": "185084"
+      },
+      {
+        "site": "anidb",
+        "id": "19020"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1395140"
+      }
+    ]
+  }
+]

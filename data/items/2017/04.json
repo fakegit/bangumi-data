@@ -4,6 +4,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "碧蓝幻想"
+      ],
+      "zh-Hant": [
+        "碧藍幻想"
       ]
     },
     "type": "tv",
@@ -13,23 +16,70 @@
     "end": "2017-06-24T15:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "fTEamXXn3hxicicWU",
-        "begin": "2017-04-01T16:30:00.000Z"
-      },
-      {
         "site": "bangumi",
         "id": "146732"
       },
       {
         "site": "nicovideo",
         "id": "anime_granbluefantasy",
-        "begin": "2017-04-04T03:00:00.000Z"
+        "begin": "2017-04-04T03:00:00.000Z",
+        "broadcast": "R/2017-04-04T03:00:00.000Z/P7D"
       },
       {
-        "site": "acfun",
-        "id": "6000602",
-        "begin": "2019-11-12T13:03:12.000Z"
+        "site": "gamer",
+        "id": "77679",
+        "begin": "2017-04-02T06:46:00.000Z",
+        "broadcast": "R/2017-04-02T06:46:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili_tw",
+        "id": "4313002",
+        "begin": "2018-11-26T10:10:47.000Z",
+        "broadcast": "R/2018-11-26T10:10:47.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0028844",
+        "begin": "2019-02-28T03:00:00.000Z",
+        "broadcast": "R/2019-02-28T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "藍幻"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "58dfb35d5e559a067cc361e4"
+      },
+      {
+        "site": "mikan",
+        "id": "1221"
+      },
+      {
+        "site": "danime",
+        "id": "21512",
+        "begin": "2018-05-02T01:00:00.000Z",
+        "broadcast": "R/2018-05-02T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/69820"
+      },
+      {
+        "site": "mal",
+        "id": "31629"
+      },
+      {
+        "site": "anidb",
+        "id": "11597"
+      },
+      {
+        "site": "aniList",
+        "id": "21361"
+      },
+      {
+        "site": "acgnx",
+        "id": "藍幻"
       }
     ]
   },
@@ -42,6 +92,9 @@
       "zh-Hans": [
         "路人女主的养成方法 ♭",
         "路人女主的养成方法 第2季"
+      ],
+      "zh-Hant": [
+        "不起眼女主角培育法 第二季"
       ]
     },
     "type": "tv",
@@ -50,11 +103,6 @@
     "begin": "2017-04-13T15:55:00.000Z",
     "end": "2017-06-22T16:25:00.000Z",
     "sites": [
-      {
-        "site": "pptv",
-        "id": "SP3XVb0jk9E0sho",
-        "begin": ""
-      },
       {
         "site": "iqiyi",
         "id": "a_19rrh9f1yl",
@@ -67,12 +115,64 @@
       {
         "site": "nicovideo",
         "id": "saenai2",
-        "begin": "2019-09-12T03:00:00.000Z"
+        "begin": "2019-09-12T03:00:00.000Z",
+        "broadcast": "R/2019-09-12T03:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
         "id": "28228738",
-        "begin": "2020-04-29T16:00:00.000Z"
+        "begin": "2020-04-29T16:00:00.000Z",
+        "broadcast": "R/2020-04-30T10:05:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0038409",
+        "begin": "2018-12-20T03:00:00.000Z",
+        "broadcast": "R/2018-12-20T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "眼女主|人女主"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "58df7cff79c3a0541f4b61e5"
+      },
+      {
+        "site": "mikan",
+        "id": "1262"
+      },
+      {
+        "site": "danime",
+        "id": "22362",
+        "begin": "2018-09-14T01:00:00.000Z",
+        "broadcast": "R/2018-09-14T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "19-143",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/69367/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "30727"
+      },
+      {
+        "site": "anidb",
+        "id": "11221"
+      },
+      {
+        "site": "aniList",
+        "id": "21180"
+      },
+      {
+        "site": "acgnx",
+        "id": "眼女主|人女主"
       }
     ]
   },
@@ -81,13 +181,17 @@
     "titleTranslate": {
       "zh-Hans": [
         "剑姬神圣谭",
-        "期待在地下城邂逅有错吗 外传 剑姬神圣谭"
+        "期待在地下城邂逅有错吗 外传 剑姬神圣谭",
+        "剑姬神圣谭: 在地下城结识女孩有错吗 外传"
       ],
       "en": [
-        "Sword Oratoria"
+        "Sword Oratoria",
+        "Sword Oratoria: Is It Wrong to Try to Pick Up Girls in a Dungeon? On the Side"
       ],
       "zh-Hant": [
-        "劍姬神聖譚(地下城外傳)"
+        "劍姬神聖譚(地下城外傳)",
+        "劍姬神聖譚",
+        "在地下城尋求邂逅是否搞錯了什麼外傳-劍姬神聖譚"
       ]
     },
     "type": "tv",
@@ -108,7 +212,8 @@
       {
         "site": "nicovideo",
         "id": "danmachi_gaiden",
-        "begin": "2017-04-18T03:00:00.000Z"
+        "begin": "2017-04-18T03:00:00.000Z",
+        "broadcast": "R/2017-04-18T03:00:00.000Z/P7D"
       },
       {
         "site": "qq",
@@ -118,13 +223,82 @@
       {
         "site": "bilibili",
         "id": "28228037",
-        "begin": "2017-04-13T16:00:00.000Z"
+        "begin": "2017-04-13T16:00:00.000Z",
+        "broadcast": "R/2020-02-28T07:40:00.000Z/P7D"
       },
       {
         "site": "muse_hk",
         "id": "PLuxqoToY7UcjjOJ9nWXXro1Y9rQv04c2C",
         "begin": "2020-04-10T16:00:00.000Z",
         "broadcast": "R/2020-04-10T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "82306",
+        "begin": "2017-04-14T17:21:00.000Z",
+        "broadcast": "R/2017-04-14T17:21:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0028848",
+        "begin": "2017-04-18T03:00:00.000Z",
+        "broadcast": "R/2017-04-18T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "82306",
+        "begin": "2017-04-14T17:21:00.000Z",
+        "broadcast": "R/2017-04-14T17:21:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "劍姬神聖"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "58df7e6979c3a0541f4b61f9"
+      },
+      {
+        "site": "mikan",
+        "id": "1263"
+      },
+      {
+        "site": "abema",
+        "id": "174-7",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "21485",
+        "begin": "2017-04-18T03:00:00.000Z",
+        "broadcast": "R/2017-04-18T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "muse_tw",
+        "id": "PL12UaAf_xzfoOn6N5UjTKca5ohihxhGMl",
+        "begin": "2024-12-19T13:00:06.000Z",
+        "broadcast": "R/2024-12-19T13:00:06.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/70590"
+      },
+      {
+        "site": "mal",
+        "id": "32887"
+      },
+      {
+        "site": "anidb",
+        "id": "11974"
+      },
+      {
+        "site": "aniList",
+        "id": "21676"
+      },
+      {
+        "site": "acgnx",
+        "id": "劍姬神聖"
       }
     ]
   },
@@ -160,7 +334,8 @@
       {
         "site": "nicovideo",
         "id": "sagrada-anime",
-        "begin": "2017-04-07T15:00:00.000Z"
+        "begin": "2017-04-07T15:00:00.000Z",
+        "broadcast": "R/2017-04-07T15:00:00.000Z/P7D"
       },
       {
         "site": "iqiyi",
@@ -175,18 +350,70 @@
       {
         "site": "bilibili",
         "id": "28226651",
-        "begin": "2017-04-04T16:00:00.000Z"
-      },
-      {
-        "site": "acfun",
-        "id": "6003894",
-        "begin": ""
+        "begin": "2017-04-04T16:00:00.000Z",
+        "broadcast": "R/2019-12-27T07:43:00.000Z/P7D"
       },
       {
         "site": "muse_hk",
         "id": "PLuxqoToY7Ucio698xvGdbbZtRLzqwyL8_",
         "begin": "2019-09-26T16:00:00.000Z",
         "broadcast": "R/2019-09-26T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "86183",
+        "begin": "2017-04-05T16:00:00.000Z",
+        "broadcast": "R/2017-04-05T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "咲良田"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "58df7bc279c3a0541f4b61d1"
+      },
+      {
+        "site": "mikan",
+        "id": "1264"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "86183",
+        "begin": "2017-04-05T16:00:00.000Z",
+        "broadcast": "R/2017-04-05T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "21515",
+        "begin": "2020-01-17T01:00:00.000Z",
+        "broadcast": "R/2020-01-17T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "muse_tw",
+        "id": "PL12UaAf_xzfpyxvOPrTzdu7m2q4Zp_LM_",
+        "begin": "2019-03-01T00:00:03.000Z",
+        "broadcast": "R/2019-03-01T00:00:03.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/71014"
+      },
+      {
+        "site": "mal",
+        "id": "34102"
+      },
+      {
+        "site": "anidb",
+        "id": "12422"
+      },
+      {
+        "site": "aniList",
+        "id": "97660"
+      },
+      {
+        "site": "acgnx",
+        "id": "咲良田"
       }
     ]
   },
@@ -197,7 +424,11 @@
         "attack on titan Season2"
       ],
       "zh-Hans": [
-        "进击的巨人 第二季"
+        "进击的巨人 第二季",
+        "自由之翼"
+      ],
+      "zh-Hant": [
+        "進擊的巨人 第二季"
       ]
     },
     "type": "tv",
@@ -212,9 +443,10 @@
         "begin": "2017-04-01T20:00:00.000Z"
       },
       {
-        "site": "bilibili",
+        "site": "bilibili_tw",
         "id": "5970",
-        "begin": "2017-04-01T19:30:00.000Z"
+        "begin": "2017-04-01T20:30:03.000Z",
+        "broadcast": "R/2017-04-01T20:30:03.000Z/P7D"
       },
       {
         "site": "bangumi",
@@ -223,7 +455,96 @@
       {
         "site": "nicovideo",
         "id": "shingeki_season2",
-        "begin": "2017-03-24T06:00:00.000Z"
+        "begin": "2017-03-24T06:00:00.000Z",
+        "broadcast": "R/2017-03-24T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "72755",
+        "begin": "2017-04-01T19:27:00.000Z",
+        "broadcast": "R/2017-04-01T19:27:00.000Z/P7D"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UchkFx6Rl70VbQeT10lIKoL7",
+        "begin": "2023-06-11T13:55:55.059Z",
+        "broadcast": "R/2023-06-11T13:55:55.059Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "5D0Qx5ecSvHm",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "30-5",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0029083",
+        "begin": "2017-04-09T03:00:00.000Z",
+        "broadcast": "R/2017-04-09T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "72755",
+        "begin": "2017-04-01T19:27:00.000Z",
+        "broadcast": "R/2017-04-01T19:27:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "進擊"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "58df7ea179c3a0541f4b6203"
+      },
+      {
+        "site": "mikan",
+        "id": "1259"
+      },
+      {
+        "site": "danime",
+        "id": "21484",
+        "begin": "2017-04-02T03:00:00.000Z",
+        "broadcast": "R/2017-04-02T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "muse_tw",
+        "id": "PLFlphUH5ofro",
+        "url": "https://www.youtube.com/show/VLPLFlphUH5ofro?sbp=KgtOUzVwbjZZMkwxc0AB",
+        "begin": "2023-03-12T14:00:09.000Z",
+        "broadcast": "R/2023-03-12T14:00:09.000Z/P7D",
+        "comment": "國語: https://www.youtube.com/show/VLPLEvdKEeruqeA?season=2&sbp=CgEyGgAqC1BRaWE1NnVlSnZrQAFKDVBTWlVxT1ZheXd5ZHc%253D"
+      },
+      {
+        "site": "prime",
+        "id": "B07454HDXL",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/1429/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "25777"
+      },
+      {
+        "site": "anidb",
+        "id": "10944"
+      },
+      {
+        "site": "aniList",
+        "id": "20958"
+      },
+      {
+        "site": "acgnx",
+        "id": "進擊"
       }
     ]
   },
@@ -232,6 +553,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "偶像大师 灰姑娘女孩剧场"
+      ],
+      "en": [
+        "THE IDOLM@STER CINDERELLA GIRLS Theater"
       ]
     },
     "type": "tv",
@@ -240,11 +564,6 @@
     "begin": "2017-04-04T12:55:00.000Z",
     "end": "2017-06-27T13:00:00.000Z",
     "sites": [
-      {
-        "site": "sohu",
-        "id": "s2017/dhpoxdsjcb",
-        "begin": "2017-04-04T13:55:00.000Z"
-      },
       {
         "site": "youku",
         "id": "70efbfbd5d23144811ef",
@@ -256,28 +575,69 @@
         "begin": "2017-04-04T13:55:00.000Z"
       },
       {
-        "site": "pptv",
-        "id": "MgbycNgibruxPzTU",
-        "begin": "2017-04-04T13:55:00.000Z"
-      },
-      {
         "site": "bilibili",
         "id": "5966",
-        "begin": "2017-04-04T13:55:00.000Z"
+        "begin": "2017-04-04T13:55:00.000Z",
+        "broadcast": ""
       },
       {
         "site": "bangumi",
         "id": "195328"
       },
       {
-        "site": "nicovideo",
-        "id": "cingeki-anime",
-        "begin": "2017-05-17T03:00:00.000Z"
-      },
-      {
         "site": "qq",
         "id": "2/2d6emafoseqv8n2",
         "begin": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0029162",
+        "begin": "2021-05-29T03:00:00.000Z",
+        "broadcast": "R/2021-05-29T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "孩劇"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "58df79e979c3a0541f4b61bd"
+      },
+      {
+        "site": "mikan",
+        "id": "1265"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GRMGQJ0ZR",
+        "begin": "2017-04-04T12:40:00.000Z",
+        "broadcast": "R/2017-04-04T12:40:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "21555",
+        "begin": "2017-04-26T03:00:00.000Z",
+        "broadcast": "R/2017-04-26T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/71012"
+      },
+      {
+        "site": "mal",
+        "id": "34257"
+      },
+      {
+        "site": "anidb",
+        "id": "12483"
+      },
+      {
+        "site": "aniList",
+        "id": "97765"
+      },
+      {
+        "site": "acgnx",
+        "id": "孩劇"
       }
     ]
   },
@@ -306,7 +666,34 @@
       {
         "site": "bilibili",
         "id": "6084",
-        "begin": "2017-04-15T01:30:00.000Z"
+        "begin": "2017-04-15T01:30:00.000Z",
+        "broadcast": "R/2017-04-15T01:30:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "58dfb59b5e559a067cc361ec"
+      },
+      {
+        "site": "danime",
+        "id": "23615",
+        "begin": "2020-03-13T01:00:00.000Z",
+        "broadcast": "R/2020-03-13T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/71070"
+      },
+      {
+        "site": "mal",
+        "id": "34741"
+      },
+      {
+        "site": "anidb",
+        "id": "12721"
+      },
+      {
+        "site": "aniList",
+        "id": "98077"
       }
     ]
   },
@@ -326,7 +713,8 @@
       {
         "site": "bilibili",
         "id": "6000",
-        "begin": "2017-04-07T04:00:00.000Z"
+        "begin": "2017-04-07T04:00:00.000Z",
+        "broadcast": "R/2017-04-07T04:00:00.000Z/P7D"
       },
       {
         "site": "bangumi",
@@ -335,7 +723,52 @@
       {
         "site": "nicovideo",
         "id": "cp",
-        "begin": "2017-04-12T03:00:00.000Z"
+        "begin": "2017-04-12T03:00:00.000Z",
+        "broadcast": "R/2017-04-12T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0028847",
+        "begin": "2019-07-25T03:00:00.000Z",
+        "broadcast": "R/2019-07-25T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "機關之星"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "58df7ccc79c3a0541f4b61dd"
+      },
+      {
+        "site": "mikan",
+        "id": "1267"
+      },
+      {
+        "site": "danime",
+        "id": "21513",
+        "begin": "2017-04-09T03:00:00.000Z",
+        "broadcast": "R/2017-04-09T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/70636"
+      },
+      {
+        "site": "mal",
+        "id": "32407"
+      },
+      {
+        "site": "anidb",
+        "id": "11857"
+      },
+      {
+        "site": "aniList",
+        "id": "21563"
+      },
+      {
+        "site": "acgnx",
+        "id": "機關之星"
       }
     ]
   },
@@ -346,7 +779,9 @@
         "Akashic records of bastard magic instructor"
       ],
       "zh-Hans": [
-        "不正经的魔术讲师与禁忌教典"
+        "不正经的魔术讲师与禁忌教典",
+        "不三不四的幻术讲师与隐讳教典",
+        "不正经的魔法讲师与禁忌教典"
       ],
       "zh-Hant": [
         "不正經的魔術講師與禁忌教典"
@@ -370,24 +805,90 @@
       {
         "site": "nicovideo",
         "id": "rokuaka",
-        "begin": "2017-04-08T15:30:00.000Z"
+        "begin": "2017-04-08T15:30:00.000Z",
+        "broadcast": "R/2017-04-08T15:30:00.000Z/P7D"
       },
       {
         "site": "bilibili",
         "id": "28230162",
-        "begin": "2020-09-29T10:00:01.000Z"
+        "begin": "2020-09-29T10:00:01.000Z",
+        "broadcast": "R/2020-09-29T10:00:00.000Z/P7D"
       },
       {
         "site": "ani_one_asia",
-        "id": "PLxSscENEp7JhgECCmAq4rlTGlPT-5AvuA",
+        "id": "PLAT8SJDAOdKU",
+        "url": "https://www.youtube.com/show/VLPLAT8SJDAOdKU?season=1&sbp=CgExGgBAAUoNUFNOdExjLWNVN3o4Yw%253D%253D",
         "begin": "2019-12-16T16:00:00.000Z",
         "broadcast": "R/2019-12-16T16:00:00.000Z/P7D"
       },
       {
         "site": "ani_one",
-        "id": "PLC18xlbCdwtTSgY082GehVYBm37ahyQiZ",
+        "id": "PLTM48xo0bDDI",
+        "url": "https://www.youtube.com/show/VLPLTM48xo0bDDI?season=1&sbp=CgExGgBAAUoNUFNTU21kV05ZLUxxbw%253D%253D",
         "begin": "2022-07-24T16:00:00.000Z",
         "broadcast": "R/2022-07-24T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0028966",
+        "begin": "2019-09-30T03:00:00.000Z",
+        "broadcast": "R/2019-09-30T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "82639",
+        "begin": "2024-06-03T01:40:00.000Z",
+        "broadcast": "R/2024-06-03T01:40:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "不正經"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "58df79c779c3a0541f4b61bb"
+      },
+      {
+        "site": "mikan",
+        "id": "1268"
+      },
+      {
+        "site": "gamer",
+        "id": "82639",
+        "begin": "2024-06-03T01:40:00.000Z",
+        "broadcast": "R/2024-06-03T01:40:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "21527",
+        "begin": "2017-04-05T03:00:00.000Z",
+        "broadcast": "R/2017-04-05T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/70637"
+      },
+      {
+        "site": "mal",
+        "id": "32951"
+      },
+      {
+        "site": "anidb",
+        "id": "11995"
+      },
+      {
+        "site": "aniList",
+        "id": "21700"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GYDQ8WZ16",
+        "begin": "2017-04-04T00:00:00.000Z",
+        "broadcast": "R/2017-04-04T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "acgnx",
+        "id": "不正經"
       }
     ]
   },
@@ -397,6 +898,12 @@
       "zh-Hans": [
         "机甲少女 FRAME ARMS GIRL",
         "FRAME ARMS GIRL"
+      ],
+      "en": [
+        "FRAME ARMS GIRL"
+      ],
+      "zh-Hant": [
+        "機甲少女Frame Arms Girl"
       ]
     },
     "type": "tv",
@@ -413,7 +920,8 @@
       {
         "site": "bilibili",
         "id": "5994",
-        "begin": "2017-04-03T17:30:00.000Z"
+        "begin": "2017-04-03T17:30:00.000Z",
+        "broadcast": "R/2017-04-03T17:30:00.000Z/P7D"
       },
       {
         "site": "bangumi",
@@ -422,12 +930,57 @@
       {
         "site": "nicovideo",
         "id": "fagirl",
-        "begin": "2017-04-07T13:00:00.000Z"
+        "begin": "2017-04-07T13:00:00.000Z",
+        "broadcast": "R/2017-04-07T13:00:00.000Z/P7D"
       },
       {
         "site": "qq",
         "id": "h/hver5bior6zuv9f",
         "begin": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0028924",
+        "begin": "2017-04-11T03:00:00.000Z",
+        "broadcast": "R/2017-04-11T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "Frame+Arms"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "58df790679c3a0541f4b61b3"
+      },
+      {
+        "site": "mikan",
+        "id": "1269"
+      },
+      {
+        "site": "danime",
+        "id": "21529",
+        "begin": "2017-04-08T03:00:00.000Z",
+        "broadcast": "R/2017-04-08T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/71001"
+      },
+      {
+        "site": "mal",
+        "id": "34427"
+      },
+      {
+        "site": "anidb",
+        "id": "12563"
+      },
+      {
+        "site": "aniList",
+        "id": "97874"
+      },
+      {
+        "site": "acgnx",
+        "id": "Frame Arms"
       }
     ]
   },
@@ -451,7 +1004,8 @@
       {
         "site": "bilibili",
         "id": "5995",
-        "begin": "2017-04-02T15:00:00.000Z"
+        "begin": "2017-04-02T15:00:00.000Z",
+        "broadcast": "R/2017-04-02T15:23:00.000Z/P7D"
       },
       {
         "site": "iqiyi",
@@ -463,11 +1017,6 @@
         "id": "197441"
       },
       {
-        "site": "nicovideo",
-        "id": "alicetozouroku",
-        "begin": "2017-05-31T03:00:00.000Z"
-      },
-      {
         "site": "qq",
         "id": "0/0js9smvlptpgtol",
         "begin": ""
@@ -477,6 +1026,56 @@
         "id": "PLuxqoToY7UciBdfbJ1yxz5l5VuJhZfBRe",
         "begin": "2020-09-12T16:00:00.000Z",
         "broadcast": "R/2020-09-12T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "85918",
+        "begin": "2017-04-02T15:00:00.000Z",
+        "broadcast": "R/2017-04-02T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "與藏六"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "58dfb6bc5e559a067cc361f2"
+      },
+      {
+        "site": "mikan",
+        "id": "1270"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "85918",
+        "begin": "2017-04-02T15:00:00.000Z",
+        "broadcast": "R/2017-04-02T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "muse_tw",
+        "id": "PL12UaAf_xzfpbdcRZmVNXE4a9MvU0feyE",
+        "begin": "2020-01-04T11:30:10.000Z",
+        "broadcast": "R/2020-01-04T11:30:10.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/70594"
+      },
+      {
+        "site": "mal",
+        "id": "34350"
+      },
+      {
+        "site": "anidb",
+        "id": "12526"
+      },
+      {
+        "site": "aniList",
+        "id": "97821"
+      },
+      {
+        "site": "acgnx",
+        "id": "與藏六"
       }
     ]
   },
@@ -485,6 +1084,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "恋爱暴君"
+      ],
+      "zh-Hant": [
+        "戀愛暴君"
       ]
     },
     "type": "tv",
@@ -498,9 +1100,48 @@
         "id": "159795"
       },
       {
-        "site": "nicovideo",
-        "id": "renaiboukun",
-        "begin": "2017-04-07T03:00:00.000Z"
+        "site": "unext",
+        "id": "SID0028850",
+        "begin": "2017-04-07T03:00:00.000Z",
+        "broadcast": "R/2017-04-07T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "愛暴"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "58df7cf279c3a0541f4b61e1"
+      },
+      {
+        "site": "mikan",
+        "id": "1271"
+      },
+      {
+        "site": "danime",
+        "id": "21526",
+        "begin": "2017-04-07T03:00:00.000Z",
+        "broadcast": "R/2017-04-07T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/70883"
+      },
+      {
+        "site": "mal",
+        "id": "32262"
+      },
+      {
+        "site": "anidb",
+        "id": "11822"
+      },
+      {
+        "site": "aniList",
+        "id": "21517"
+      },
+      {
+        "site": "acgnx",
+        "id": "愛暴"
       }
     ]
   },
@@ -511,6 +1152,9 @@
         "埃罗芒阿老师",
         "情色漫画老师",
         "我的妹妹是黄漫老师"
+      ],
+      "zh-Hant": [
+        "情色漫畫老師"
       ]
     },
     "type": "tv",
@@ -522,7 +1166,8 @@
       {
         "site": "bilibili",
         "id": "5997",
-        "begin": "2017-04-08T17:00:00.000Z"
+        "begin": "2017-04-08T17:00:00.000Z",
+        "broadcast": "R/2017-04-08T17:00:00.000Z/P7D"
       },
       {
         "site": "bangumi",
@@ -531,7 +1176,70 @@
       {
         "site": "nicovideo",
         "id": "eromanga-sensei",
-        "begin": "2017-04-12T15:00:00.000Z"
+        "begin": "2017-04-12T15:00:00.000Z",
+        "broadcast": "R/2017-04-12T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "82419",
+        "begin": "2023-06-02T03:00:00.000Z",
+        "broadcast": "R/2023-06-02T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0028964",
+        "begin": "2018-07-26T03:00:00.000Z",
+        "broadcast": "R/2018-07-26T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "情色漫|黄漫"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "58dfb5875e559a067cc361ea"
+      },
+      {
+        "site": "mikan",
+        "id": "1272"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "82419",
+        "begin": "2023-06-02T03:00:00.000Z",
+        "broadcast": "R/2023-06-02T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "21510",
+        "begin": "2017-04-12T03:00:00.000Z",
+        "broadcast": "R/2017-04-12T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/70878"
+      },
+      {
+        "site": "mal",
+        "id": "32901"
+      },
+      {
+        "site": "anidb",
+        "id": "11981"
+      },
+      {
+        "site": "aniList",
+        "id": "21685"
+      },
+      {
+        "site": "abema",
+        "id": "25-59",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "acgnx",
+        "id": "情色漫|黄漫"
       }
     ]
   },
@@ -563,13 +1271,52 @@
       {
         "site": "nicovideo",
         "id": "sukasuka_anime",
-        "begin": "2017-04-19T15:30:00.000Z"
+        "begin": "2017-04-19T15:30:00.000Z",
+        "broadcast": "R/2017-04-19T15:30:00.000Z/P7D"
       },
       {
-        "site": "muse_hk",
-        "id": "PLuxqoToY7UcgzArKinjJ5ohkHYKYE9v7G",
-        "begin": "2020-12-26T16:00:00.000Z",
-        "broadcast": "R/2020-12-26T16:00:00.000Z/P7D"
+        "site": "unext",
+        "id": "SID0028965",
+        "begin": "2019-10-04T03:00:00.000Z",
+        "broadcast": "R/2019-10-04T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "末日時"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "58df7a8679c3a0541f4b61c3"
+      },
+      {
+        "site": "mikan",
+        "id": "1273"
+      },
+      {
+        "site": "danime",
+        "id": "21516",
+        "begin": "2017-04-13T03:00:00.000Z",
+        "broadcast": "R/2017-04-13T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/70639"
+      },
+      {
+        "site": "mal",
+        "id": "33502"
+      },
+      {
+        "site": "anidb",
+        "id": "12238"
+      },
+      {
+        "site": "aniList",
+        "id": "21860"
+      },
+      {
+        "site": "acgnx",
+        "id": "末日時"
       }
     ]
   },
@@ -589,11 +1336,57 @@
       {
         "site": "bilibili",
         "id": "5989",
-        "begin": "2017-04-06T15:00:00.000Z"
+        "begin": "2017-04-06T15:00:00.000Z",
+        "broadcast": "R/2017-04-06T15:00:00.000Z/P7D",
+        "comment": "SP: 10732"
       },
       {
         "site": "bangumi",
         "id": "207573"
+      },
+      {
+        "site": "unext",
+        "id": "SID0029348",
+        "begin": "2017-05-23T03:00:00.000Z",
+        "broadcast": "R/2017-05-23T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "月色"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "58df7c8d79c3a0541f4b61db"
+      },
+      {
+        "site": "mikan",
+        "id": "1274"
+      },
+      {
+        "site": "danime",
+        "id": "21588",
+        "begin": "2017-04-25T03:00:00.000Z",
+        "broadcast": "R/2017-04-25T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/70880"
+      },
+      {
+        "site": "mal",
+        "id": "34822"
+      },
+      {
+        "site": "anidb",
+        "id": "12761"
+      },
+      {
+        "site": "aniList",
+        "id": "98202"
+      },
+      {
+        "site": "acgnx",
+        "id": "月色"
       }
     ]
   },
@@ -614,18 +1407,14 @@
     "end": "2017-06-18T15:00:00.000Z",
     "sites": [
       {
-        "site": "bilibili",
-        "id": "5988",
-        "begin": "2017-04-02T16:00:00.000Z"
-      },
-      {
         "site": "bangumi",
         "id": "192428"
       },
       {
         "site": "nicovideo",
         "id": "tsugumomo",
-        "begin": "2017-04-06T15:00:00.000Z"
+        "begin": "2017-04-06T15:00:00.000Z",
+        "broadcast": "R/2017-04-06T15:00:00.000Z/P7D"
       },
       {
         "site": "qq",
@@ -637,6 +1426,56 @@
         "id": "PLuxqoToY7Ucijtu2qDGXBPta-G2fPbx1P",
         "begin": "2019-09-19T16:00:00.000Z",
         "broadcast": "R/2019-09-19T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "怪守"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "58dfb7325e559a067cc361f4"
+      },
+      {
+        "site": "mikan",
+        "id": "1275"
+      },
+      {
+        "site": "unext",
+        "id": "SID0028922",
+        "begin": "2017-04-14T03:00:00.000Z",
+        "broadcast": "R/2017-04-14T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "21520",
+        "begin": "2017-04-03T03:00:00.000Z",
+        "broadcast": "R/2017-04-03T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B06Y1P8MX4",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/71000"
+      },
+      {
+        "site": "mal",
+        "id": "34019"
+      },
+      {
+        "site": "anidb",
+        "id": "12395"
+      },
+      {
+        "site": "aniList",
+        "id": "97625"
+      },
+      {
+        "site": "acgnx",
+        "id": "怪守"
       }
     ]
   },
@@ -646,6 +1485,9 @@
       "zh-Hans": [
         "从零开始的魔法书",
         "零之魔法书"
+      ],
+      "zh-Hant": [
+        "從零開始的魔法書"
       ]
     },
     "type": "tv",
@@ -654,11 +1496,6 @@
     "begin": "2017-04-10T14:30:00.000Z",
     "end": "2017-06-26T15:00:00.000Z",
     "sites": [
-      {
-        "site": "bilibili",
-        "id": "6001",
-        "begin": "2017-04-10T15:30:00.000Z"
-      },
       {
         "site": "mgtv",
         "id": "315437",
@@ -671,7 +1508,76 @@
       {
         "site": "nicovideo",
         "id": "zeronosyo",
-        "begin": "2017-04-17T15:00:00.000Z"
+        "begin": "2017-04-17T15:00:00.000Z",
+        "broadcast": "R/2017-04-17T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "85400",
+        "begin": "2023-12-15T04:00:00.000Z",
+        "broadcast": "R/2023-12-15T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0028969",
+        "begin": "2018-05-17T03:00:00.000Z",
+        "broadcast": "R/2018-05-17T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UcgGFbJqrFrYMKcKo2MzlJqX",
+        "begin": "2024-05-26T13:30:07.000Z",
+        "broadcast": "R/2024-05-26T13:30:07.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "從零開始的魔法書"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "58df795079c3a0541f4b61b5"
+      },
+      {
+        "site": "mikan",
+        "id": "1276"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "85400",
+        "begin": "2023-12-15T04:00:00.000Z",
+        "broadcast": "R/2023-12-15T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "21519",
+        "begin": "2017-04-17T03:00:00.000Z",
+        "broadcast": "R/2017-04-17T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "muse_tw",
+        "id": "PL12UaAf_xzfp5qKXgBUq_MlvczTjYP2Yk",
+        "begin": "2025-01-16T13:30:06.000Z",
+        "broadcast": "R/2025-01-16T13:30:06.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/70875"
+      },
+      {
+        "site": "mal",
+        "id": "34176"
+      },
+      {
+        "site": "anidb",
+        "id": "12450"
+      },
+      {
+        "site": "aniList",
+        "id": "97682"
+      },
+      {
+        "site": "acgnx",
+        "id": "從零 魔法書"
       }
     ]
   },
@@ -679,7 +1585,11 @@
     "title": "サクラクエスト",
     "titleTranslate": {
       "zh-Hans": [
-        "樱花任务"
+        "樱花任务",
+        "樱花探索"
+      ],
+      "zh-Hant": [
+        "櫻花任務"
       ]
     },
     "type": "tv",
@@ -691,16 +1601,74 @@
       {
         "site": "bilibili",
         "id": "5992",
-        "begin": "2017-04-05T16:30:00.000Z"
+        "begin": "2017-04-05T16:30:00.000Z",
+        "broadcast": "R/2017-04-05T16:30:00.000Z/P7D"
       },
       {
         "site": "bangumi",
         "id": "200547"
       },
       {
-        "site": "nicovideo",
-        "id": "sakura-quest",
-        "begin": "2017-04-07T14:30:00.000Z"
+        "site": "gamer",
+        "id": "86468",
+        "begin": "2021-07-13T08:00:00.000Z",
+        "broadcast": "R/2021-07-13T08:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0029034",
+        "begin": "2022-05-24T15:00:00.000Z",
+        "broadcast": "R/2022-05-24T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "86468",
+        "begin": "2021-07-13T08:00:00.000Z",
+        "broadcast": "R/2021-07-13T08:00:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "sakura+quest"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "58df7bfb79c3a0541f4b61d3"
+      },
+      {
+        "site": "mikan",
+        "id": "1277"
+      },
+      {
+        "site": "danime",
+        "id": "25334",
+        "begin": "2022-05-24T15:00:00.000Z",
+        "broadcast": "R/2022-05-24T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtSnbsQ-IYGyqrL_EV3AWxOF",
+        "begin": "2023-07-03T11:00:34.000Z",
+        "broadcast": "R/2023-07-03T11:00:34.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/71013"
+      },
+      {
+        "site": "mal",
+        "id": "34494"
+      },
+      {
+        "site": "anidb",
+        "id": "12602"
+      },
+      {
+        "site": "aniList",
+        "id": "97903"
+      },
+      {
+        "site": "acgnx",
+        "id": "SAKURA QUEST"
       }
     ]
   },
@@ -711,7 +1679,8 @@
         "信长的忍者 伊势·金崎篇",
         "信长的忍者 第二季",
         "忍者少女千鸟～伊势・金崎篇～",
-        "忍者少女千鸟 第2季"
+        "忍者少女千鸟 第2季",
+        "忍者少女千鸟 伊势·金崎篇"
       ]
     },
     "type": "tv",
@@ -726,11 +1695,6 @@
         "begin": "2017-04-07T17:35:00.000Z"
       },
       {
-        "site": "letv",
-        "id": "10035912",
-        "begin": "2017-04-07T17:35:00.000Z"
-      },
-      {
         "site": "youku",
         "id": "efbfbd7cefbfbd10112f",
         "begin": "2017-04-07T17:35:00.000Z"
@@ -738,7 +1702,8 @@
       {
         "site": "bilibili",
         "id": "5965",
-        "begin": "2017-04-07T17:35:00.000Z"
+        "begin": "2017-04-07T17:35:00.000Z",
+        "broadcast": "R/2017-04-07T17:35:00.000Z/P7D"
       },
       {
         "site": "bangumi",
@@ -747,7 +1712,52 @@
       {
         "site": "nicovideo",
         "id": "nobunaga-no-shinobi02",
-        "begin": "2017-04-09T03:00:00.000Z"
+        "begin": "2017-04-09T03:00:00.000Z",
+        "broadcast": "R/2017-04-09T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0028921",
+        "begin": "2017-04-07T16:35:00.000Z",
+        "broadcast": "R/2017-04-07T16:35:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "信長的忍者"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "58df7df479c3a0541f4b61f3"
+      },
+      {
+        "site": "mikan",
+        "id": "1278"
+      },
+      {
+        "site": "danime",
+        "id": "21578",
+        "begin": "2017-05-03T03:00:00.000Z",
+        "broadcast": "R/2017-05-03T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/68146/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "34978"
+      },
+      {
+        "site": "anidb",
+        "id": "12900"
+      },
+      {
+        "site": "aniList",
+        "id": "98420"
+      },
+      {
+        "site": "acgnx",
+        "id": "信長"
       }
     ]
   },
@@ -755,13 +1765,16 @@
     "title": "僕のヒーローアカデミア(第2期)",
     "titleTranslate": {
       "en": [
+        "My Hero Academia (Season 2)",
         "MY HERO ACADEMIA(2)"
       ],
       "zh-Hans": [
         "我的英雄学院 第二季"
       ],
       "zh-Hant": [
-        "我的英雄學院 第2季"
+        "我的英雄學院 (第二季)",
+        "我的英雄學院 第2季",
+        "我的英雄學院 第二季"
       ]
     },
     "type": "tv",
@@ -770,11 +1783,6 @@
     "begin": "2017-04-01T08:30:00.000Z",
     "end": "2017-09-30T09:00:00.000Z",
     "sites": [
-      {
-        "site": "bilibili",
-        "id": "91212",
-        "begin": "2017-04-01T09:30:00.000Z"
-      },
       {
         "site": "youku",
         "id": "efbfbd1004efbfbd3478",
@@ -800,15 +1808,92 @@
         "begin": ""
       },
       {
-        "site": "acfun",
-        "id": "6000688",
-        "begin": "2019-12-19T12:23:25.000Z"
+        "site": "netflix",
+        "id": "80135674",
+        "begin": "2021-03-28T16:00:00.000Z",
+        "broadcast": "R/2021-03-28T16:00:00.000Z/P7D"
       },
       {
-        "site": "viu",
-        "id": "358935",
-        "begin": "2021-05-06T16:00:00.000Z",
-        "broadcast": "R/2021-05-06T16:00:00.000Z/P7D"
+        "site": "gamer",
+        "id": "84025",
+        "begin": "2021-12-17T05:00:00.000Z",
+        "broadcast": "R/2021-12-17T05:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtQiiyewfuMGWyh0AjKCnezq",
+        "begin": "2023-09-16T16:00:00.000Z",
+        "broadcast": "R/2023-09-16T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "disneyplus",
+        "id": "1WUo7sgngr1w",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0029023",
+        "begin": "2017-04-02T03:00:00.000Z",
+        "broadcast": "R/2017-04-02T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "84025",
+        "begin": "2021-12-17T05:00:00.000Z",
+        "broadcast": "R/2021-12-17T05:00:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "英雄學院"
+      },
+      {
+        "site": "mikan",
+        "id": "1257"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "G6NQ5DWZ6",
+        "begin": "2017-03-24T15:00:00.000Z",
+        "broadcast": "R/2017-03-24T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "21680",
+        "begin": "2017-07-01T03:00:00.000Z",
+        "broadcast": "R/2017-07-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B08ZCN1DPH",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "19-15",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/65930/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "33486"
+      },
+      {
+        "site": "anidb",
+        "id": "12233"
+      },
+      {
+        "site": "aniList",
+        "id": "21856"
+      },
+      {
+        "site": "acgnx",
+        "id": "英雄學院"
       }
     ]
   },
@@ -816,7 +1901,11 @@
     "title": "境界のRINNE(第3シリーズ)",
     "titleTranslate": {
       "zh-Hans": [
-        "境界的轮回 第三季"
+        "境界的轮回 第三季",
+        "境界之轮回 第三季"
+      ],
+      "zh-Hant": [
+        "境界之Rinne 第三季"
       ]
     },
     "type": "tv",
@@ -837,7 +1926,46 @@
       {
         "site": "nicovideo",
         "id": "rinne03",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0029155",
+        "begin": "2020-06-01T03:00:00.000Z",
+        "broadcast": "R/2020-06-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "輪迴"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "58dfb4a25e559a067cc361e6"
+      },
+      {
+        "site": "mikan",
+        "id": "1279"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/62601/season/3"
+      },
+      {
+        "site": "mal",
+        "id": "34106"
+      },
+      {
+        "site": "anidb",
+        "id": "12426"
+      },
+      {
+        "site": "aniList",
+        "id": "97670"
+      },
+      {
+        "site": "acgnx",
+        "id": "界 輪"
       }
     ]
   },
@@ -846,7 +1974,11 @@
     "titleTranslate": {
       "zh-Hans": [
         "夏目友人帐 陆",
-        "夏目友人帐 第6季"
+        "夏目友人帐 第6季",
+        "夏目友人帐 六"
+      ],
+      "zh-Hant": [
+        "夏目友人帳 陸"
       ]
     },
     "type": "tv",
@@ -858,11 +1990,6 @@
       {
         "site": "mgtv",
         "id": "314036",
-        "begin": "2017-04-11T19:00:00.000Z"
-      },
-      {
-        "site": "sohu",
-        "id": "s2017/xmyrz6",
         "begin": "2017-04-11T19:00:00.000Z"
       },
       {
@@ -878,7 +2005,8 @@
       {
         "site": "bilibili",
         "id": "5977",
-        "begin": "2017-04-11T19:00:00.000Z"
+        "begin": "2017-04-11T19:00:00.000Z",
+        "broadcast": "R/2017-04-11T19:00:00.000Z/P7D"
       },
       {
         "site": "bangumi",
@@ -887,12 +2015,77 @@
       {
         "site": "nicovideo",
         "id": "natsume6",
-        "begin": "2017-04-12T03:00:00.000Z"
+        "begin": "2017-04-12T03:00:00.000Z",
+        "broadcast": "R/2017-04-12T03:00:00.000Z/P7D"
       },
       {
         "site": "qq",
         "id": "r/rzuinvatj34ekz7",
         "begin": ""
+      },
+      {
+        "site": "gamer",
+        "id": "86651",
+        "begin": "2017-04-11T19:00:00.000Z",
+        "broadcast": "R/2017-04-11T19:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0028842",
+        "begin": "2017-04-17T03:00:00.000Z",
+        "broadcast": "R/2017-04-17T03:00:00.000Z/P7D",
+        "comment": "特別編: SID0043387"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "86651",
+        "begin": "2017-04-11T19:00:00.000Z",
+        "broadcast": "R/2017-04-11T19:00:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "友人帳"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "58df7aba79c3a0541f4b61c5"
+      },
+      {
+        "site": "mikan",
+        "id": "1280"
+      },
+      {
+        "site": "danime",
+        "id": "21531",
+        "begin": "2017-10-01T01:00:00.000Z",
+        "broadcast": "R/2017-10-01T01:00:00.000Z/P7D",
+        "comment": "鈴鳴るの切り株: 23040, 夢幻のかけら: 23041"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/69500/season/6"
+      },
+      {
+        "site": "mal",
+        "id": "34591"
+      },
+      {
+        "site": "anidb",
+        "id": "12675"
+      },
+      {
+        "site": "aniList",
+        "id": "97983"
+      },
+      {
+        "site": "prime",
+        "id": "B0H37K66GF",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "acgnx",
+        "id": "友人帳"
       }
     ]
   },
@@ -901,7 +2094,11 @@
     "titleTranslate": {
       "zh-Hans": [
         "快盗天使双胞胎 BREAK",
-        "双天使 BREAK"
+        "双天使 BREAK",
+        "快盗天使BREAK"
+      ],
+      "zh-Hant": [
+        "快盜天使 Twin Angels BREAK"
       ]
     },
     "type": "tv",
@@ -913,17 +2110,8 @@
       {
         "site": "bilibili",
         "id": "5955",
-        "begin": "2017-04-15T03:00:00.000Z"
-      },
-      {
-        "site": "letv",
-        "id": "10036007",
-        "begin": ""
-      },
-      {
-        "site": "pptv",
-        "id": "LRXicfeVLuiclc2kI",
-        "begin": ""
+        "begin": "2017-04-15T03:00:00.000Z",
+        "broadcast": "R/2017-04-15T02:56:00.000Z/P7D"
       },
       {
         "site": "bangumi",
@@ -932,7 +2120,52 @@
       {
         "site": "nicovideo",
         "id": "twinangel-break",
-        "begin": "2017-04-17T15:30:00.000Z"
+        "begin": "2017-04-17T15:30:00.000Z",
+        "broadcast": "R/2017-04-17T15:30:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0028968",
+        "begin": "2020-12-21T03:00:00.000Z",
+        "broadcast": "R/2020-12-21T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "快盜+break"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "58df7d6479c3a0541f4b61ed"
+      },
+      {
+        "site": "mikan",
+        "id": "1281"
+      },
+      {
+        "site": "danime",
+        "id": "21537",
+        "begin": "2017-04-11T03:00:00.000Z",
+        "broadcast": "R/2017-04-11T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/71021"
+      },
+      {
+        "site": "mal",
+        "id": "33532"
+      },
+      {
+        "site": "anidb",
+        "id": "12253"
+      },
+      {
+        "site": "aniList",
+        "id": "21865"
+      },
+      {
+        "site": "acgnx",
+        "id": "快盜 break"
       }
     ]
   },
@@ -953,23 +2186,58 @@
     "end": "2017-06-29T03:25:00.000Z",
     "sites": [
       {
-        "site": "letv",
-        "id": "10036008",
-        "begin": ""
-      },
-      {
-        "site": "pptv",
-        "id": "UibfRT7cdjcsurBQ",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "161765"
       },
       {
         "site": "nicovideo",
         "id": "seikaisuru-kado",
-        "begin": "2017-04-13T03:00:00.000Z"
+        "begin": "2017-04-13T03:00:00.000Z",
+        "broadcast": "R/2017-04-13T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0029041",
+        "begin": "2019-11-28T03:00:00.000Z",
+        "broadcast": "R/2019-11-28T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "解卡|的卡多|的Kado"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "58df7dc779c3a0541f4b61f1"
+      },
+      {
+        "site": "mikan",
+        "id": "1282"
+      },
+      {
+        "site": "danime",
+        "id": "23004",
+        "begin": "2023-02-28T01:00:00.000Z",
+        "broadcast": "R/2023-02-28T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/71016"
+      },
+      {
+        "site": "mal",
+        "id": "32032"
+      },
+      {
+        "site": "anidb",
+        "id": "11762"
+      },
+      {
+        "site": "aniList",
+        "id": "21452"
+      },
+      {
+        "site": "acgnx",
+        "id": "卡多|Kado"
       }
     ]
   },
@@ -981,10 +2249,13 @@
       ],
       "zh-Hans": [
         "武装少女",
-        "武装少女 Machiavellism"
+        "武装少女 Machiavellism",
+        "武装少女 马基雅维利主义",
+        "武装少女权术剑姬独裁主义"
       ],
       "zh-Hant": [
-        "武裝少女Machiavellism"
+        "武裝少女Machiavellism",
+        "武裝少女 Machiavellism"
       ]
     },
     "type": "tv",
@@ -1005,13 +2276,82 @@
       {
         "site": "nicovideo",
         "id": "machiavellism",
-        "begin": "2017-04-16T16:00:00.000Z"
+        "begin": "2017-04-16T16:00:00.000Z",
+        "broadcast": "R/2017-04-16T16:00:00.000Z/P7D"
       },
       {
         "site": "muse_hk",
         "id": "PLuxqoToY7UcjJUudQE3g3K3yiyoaJot1q",
         "begin": "2020-12-13T16:00:00.000Z",
         "broadcast": "R/2020-12-13T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "83973",
+        "begin": "2017-04-05T16:30:00.000Z",
+        "broadcast": "R/2017-04-05T16:30:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "28229470",
+        "begin": "2020-07-15T03:43:00.000Z",
+        "broadcast": "R/2020-07-15T03:43:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0028963",
+        "begin": "2018-08-14T03:00:00.000Z",
+        "broadcast": "R/2018-08-14T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "武裝+Machi"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "58df7b7679c3a0541f4b61cf"
+      },
+      {
+        "site": "mikan",
+        "id": "1283"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "83973",
+        "begin": "2017-04-05T16:30:00.000Z",
+        "broadcast": "R/2017-04-05T16:30:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "21522",
+        "begin": "2017-04-09T03:00:00.000Z",
+        "broadcast": "R/2017-04-09T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "muse_tw",
+        "id": "PL12UaAf_xzfqsmJ3c8p08DdQseNecjSQm",
+        "begin": "2023-09-09T10:00:08.000Z",
+        "broadcast": "R/2023-09-09T10:00:08.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/70882"
+      },
+      {
+        "site": "mal",
+        "id": "33475"
+      },
+      {
+        "site": "anidb",
+        "id": "12230"
+      },
+      {
+        "site": "aniList",
+        "id": "21851"
+      },
+      {
+        "site": "acgnx",
+        "id": "武裝 Machi"
       }
     ]
   },
@@ -1023,6 +2363,9 @@
       ],
       "zh-Hans": [
         "有顶天家族2"
+      ],
+      "zh-Hant": [
+        "有頂天家族 2"
       ]
     },
     "type": "tv",
@@ -1043,7 +2386,52 @@
       {
         "site": "nicovideo",
         "id": "uchoten2-anime",
-        "begin": "2017-04-14T15:00:00.000Z"
+        "begin": "2017-04-14T15:00:00.000Z",
+        "broadcast": "R/2017-04-14T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0029150",
+        "begin": "2022-09-01T03:00:00.000Z",
+        "broadcast": "R/2022-09-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "天家"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "58dfb89a5e559a067cc361fa"
+      },
+      {
+        "site": "mikan",
+        "id": "1284"
+      },
+      {
+        "site": "danime",
+        "id": "21509",
+        "begin": "2017-04-11T03:00:00.000Z",
+        "broadcast": "R/2017-04-11T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/61338/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "34076"
+      },
+      {
+        "site": "anidb",
+        "id": "12417"
+      },
+      {
+        "site": "aniList",
+        "id": "97642"
+      },
+      {
+        "site": "acgnx",
+        "id": "天家"
       }
     ]
   },
@@ -1064,18 +2452,58 @@
     "end": "2018-03-30T09:25:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "VurGRKwSgsAjoQk",
-        "begin": ""
-      },
-      {
         "site": "bilibili",
         "id": "5958",
-        "begin": "2017-04-09T03:00:00.000Z"
+        "begin": "2017-04-09T03:00:00.000Z",
+        "broadcast": "R/2017-04-09T03:03:00.000Z/P7D"
       },
       {
         "site": "bangumi",
         "id": "208360"
+      },
+      {
+        "site": "unext",
+        "id": "SID0073294",
+        "begin": "2022-09-29T03:00:00.000Z",
+        "broadcast": "R/2022-09-29T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "58df7d0979c3a0541f4b61e7"
+      },
+      {
+        "site": "mikan",
+        "id": "1285"
+      },
+      {
+        "site": "danime",
+        "id": "24005",
+        "begin": "2020-09-11T01:00:00.000Z",
+        "broadcast": "R/2020-09-11T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/99957/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "34927"
+      },
+      {
+        "site": "anidb",
+        "id": "12825"
+      },
+      {
+        "site": "aniList",
+        "id": "98421"
+      },
+      {
+        "site": "acgnx",
+        "id": "Fairilu"
+      },
+      {
+        "site": "dmhy",
+        "id": "Fairilu"
       }
     ]
   },
@@ -1083,6 +2511,11 @@
     "title": "Re:CREATORS",
     "titleTranslate": {
       "zh-Hans": [
+        "Re:CREATORS",
+        "Re：创世主们",
+        "Re：创造主"
+      ],
+      "zh-Hant": [
         "Re:CREATORS"
       ]
     },
@@ -1095,7 +2528,8 @@
       {
         "site": "bilibili",
         "id": "5998",
-        "begin": "2017-04-08T16:00:00.000Z"
+        "begin": "2017-04-08T16:00:00.000Z",
+        "broadcast": "R/2017-04-08T16:00:02.000Z/P7D"
       },
       {
         "site": "iqiyi",
@@ -1110,6 +2544,44 @@
         "site": "youku",
         "id": "efbfbd42efbfbdefbfbd",
         "begin": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0031331",
+        "begin": "2019-11-29T03:00:00.000Z",
+        "broadcast": "R/2019-11-29T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "Re+Creators"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "58dfb5575e559a067cc361e8"
+      },
+      {
+        "site": "mikan",
+        "id": "1286"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/70592"
+      },
+      {
+        "site": "mal",
+        "id": "34561"
+      },
+      {
+        "site": "anidb",
+        "id": "12657"
+      },
+      {
+        "site": "aniList",
+        "id": "97980"
+      },
+      {
+        "site": "acgnx",
+        "id": "Re Creators"
       }
     ]
   },
@@ -1117,7 +2589,8 @@
     "title": "笑ゥせぇるすまんNEW",
     "titleTranslate": {
       "zh-Hans": [
-        "黑色推销员NEW"
+        "黑色推销员NEW",
+        "笑面推销员NEW"
       ]
     },
     "type": "tv",
@@ -1129,7 +2602,8 @@
       {
         "site": "bilibili",
         "id": "5951",
-        "begin": "2017-04-03T15:00:00.000Z"
+        "begin": "2017-04-03T15:00:00.000Z",
+        "broadcast": "R/2017-04-03T15:00:02.000Z/P7D"
       },
       {
         "site": "bangumi",
@@ -1138,7 +2612,52 @@
       {
         "site": "nicovideo",
         "id": "warau-new",
-        "begin": "2017-04-04T15:00:00.000Z"
+        "begin": "2017-04-04T15:00:00.000Z",
+        "broadcast": "R/2017-04-04T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "銷員NEW"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "58df788179c3a0541f4b61af"
+      },
+      {
+        "site": "mikan",
+        "id": "1287"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/71073"
+      },
+      {
+        "site": "mal",
+        "id": "34550"
+      },
+      {
+        "site": "anidb",
+        "id": "12655"
+      },
+      {
+        "site": "aniList",
+        "id": "98239"
+      },
+      {
+        "site": "danime",
+        "id": "21528",
+        "begin": "2026-03-20T15:00:00.000Z",
+        "broadcast": "R/2026-03-20T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0028919",
+        "begin": "2017-04-05T03:00:00.000Z",
+        "broadcast": "R/2017-04-05T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "acgnx",
+        "id": "銷員NEW"
       }
     ]
   },
@@ -1166,7 +2685,8 @@
       {
         "site": "bilibili",
         "id": "5973",
-        "begin": "2017-04-03T16:00:00.000Z"
+        "begin": "2017-04-03T16:00:00.000Z",
+        "broadcast": "R/2017-04-03T16:00:00.000Z/P7D"
       },
       {
         "site": "bangumi",
@@ -1175,7 +2695,8 @@
       {
         "site": "nicovideo",
         "id": "hstar-mu02",
-        "begin": "2017-04-03T15:30:00.000Z"
+        "begin": "2017-04-03T15:30:00.000Z",
+        "broadcast": "R/2017-04-03T15:30:00.000Z/P7D"
       },
       {
         "site": "iqiyi",
@@ -1183,10 +2704,48 @@
         "begin": "2017-06-30T16:02:45.000Z"
       },
       {
-        "site": "ani_one_asia",
-        "id": "PLxSscENEp7JgZGPNXrBwwtjdQDf1ZvdK8",
-        "begin": "2020-04-19T16:00:00.000Z",
-        "broadcast": "R/2020-04-19T16:00:00.000Z/P7D"
+        "site": "unext",
+        "id": "SID0028846",
+        "begin": "2017-04-04T03:00:00.000Z",
+        "broadcast": "R/2017-04-04T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "星歌劇"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "58df78db79c3a0541f4b61b1"
+      },
+      {
+        "site": "mikan",
+        "id": "1288"
+      },
+      {
+        "site": "danime",
+        "id": "21517",
+        "begin": "2020-10-16T01:00:00.000Z",
+        "broadcast": "R/2020-10-16T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/71003/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "33362"
+      },
+      {
+        "site": "anidb",
+        "id": "12141"
+      },
+      {
+        "site": "aniList",
+        "id": "97820"
+      },
+      {
+        "site": "acgnx",
+        "id": "星歌劇"
       }
     ]
   },
@@ -1194,10 +2753,12 @@
     "title": "ID-0",
     "titleTranslate": {
       "zh-Hans": [
-        "ID-0"
+        "ID-0",
+        "迷你动画剧场ID-0问答"
       ],
       "en": [
-        "ID-0"
+        "ID-0",
+        "ID-0 ALL MEMORIES EXIST WITH \"I-Machines\""
       ]
     },
     "type": "tv",
@@ -1212,18 +2773,46 @@
         "begin": "2017-04-09T16:00:00.000Z"
       },
       {
-        "site": "bilibili",
-        "id": "5999",
-        "begin": "2017-04-09T16:00:00.000Z"
-      },
-      {
         "site": "bangumi",
         "id": "189446"
       },
       {
         "site": "netflix",
         "id": "80174918",
-        "begin": "2017-10-06T07:00:00.000Z"
+        "begin": "2017-10-06T07:00:00.000Z",
+        "broadcast": "R/2017-10-05T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "ID+0"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "58dfb9495e559a067cc361fc"
+      },
+      {
+        "site": "mikan",
+        "id": "1289"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/71007"
+      },
+      {
+        "site": "mal",
+        "id": "33797"
+      },
+      {
+        "site": "anidb",
+        "id": "12318"
+      },
+      {
+        "site": "aniList",
+        "id": "21894"
+      },
+      {
+        "site": "acgnx",
+        "id": "id 0 四月|4月 兔子|dmhy|漫花"
       }
     ]
   },
@@ -1249,11 +2838,56 @@
       {
         "site": "bilibili",
         "id": "5981",
-        "begin": "2017-04-11T15:30:00.000Z"
+        "begin": "2017-04-11T15:30:00.000Z",
+        "broadcast": "R/2017-04-11T15:30:00.000Z/P7D"
       },
       {
         "site": "bangumi",
         "id": "179795"
+      },
+      {
+        "site": "unext",
+        "id": "SID0028743",
+        "begin": "2018-07-21T03:00:00.000Z",
+        "broadcast": "R/2018-07-21T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "面+NOISE"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "58df7a6079c3a0541f4b61c1"
+      },
+      {
+        "site": "mikan",
+        "id": "1290"
+      },
+      {
+        "site": "danime",
+        "id": "21508",
+        "begin": "2017-04-15T03:00:00.000Z",
+        "broadcast": "R/2017-04-15T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/71004"
+      },
+      {
+        "site": "mal",
+        "id": "33203"
+      },
+      {
+        "site": "anidb",
+        "id": "12088"
+      },
+      {
+        "site": "aniList",
+        "id": "21773"
+      },
+      {
+        "site": "acgnx",
+        "id": "面 NOISE"
       }
     ]
   },
@@ -1261,7 +2895,8 @@
     "title": "カブキブ！",
     "titleTranslate": {
       "zh-Hans": [
-        "青春歌舞伎"
+        "青春歌舞伎",
+        "歌舞伎部！"
       ]
     },
     "type": "tv",
@@ -1273,7 +2908,8 @@
       {
         "site": "bilibili",
         "id": "5991",
-        "begin": "2017-04-06T18:28:00.000Z"
+        "begin": "2017-04-06T18:28:00.000Z",
+        "broadcast": "R/2017-04-06T18:29:00.000Z/P7D"
       },
       {
         "site": "bangumi",
@@ -1282,7 +2918,52 @@
       {
         "site": "nicovideo",
         "id": "kabukibu",
-        "begin": "2017-04-21T14:00:00.000Z"
+        "begin": "2017-04-21T14:00:00.000Z",
+        "broadcast": "R/2017-04-21T14:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0028970",
+        "begin": "2019-09-14T03:00:00.000Z",
+        "broadcast": "R/2019-09-14T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "青春歌"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "58df7cdb79c3a0541f4b61df"
+      },
+      {
+        "site": "mikan",
+        "id": "1291"
+      },
+      {
+        "site": "danime",
+        "id": "21511",
+        "begin": "2017-04-14T03:00:00.000Z",
+        "broadcast": "R/2017-04-14T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/71009"
+      },
+      {
+        "site": "mal",
+        "id": "33840"
+      },
+      {
+        "site": "anidb",
+        "id": "12329"
+      },
+      {
+        "site": "aniList",
+        "id": "87500"
+      },
+      {
+        "site": "acgnx",
+        "id": "青春歌"
       }
     ]
   },
@@ -1293,7 +2974,8 @@
         "DUEL MASTERS"
       ],
       "zh-Hans": [
-        "决斗大师 新系列"
+        "决斗大师 新系列",
+        "决斗大师"
       ]
     },
     "type": "tv",
@@ -1309,7 +2991,36 @@
       {
         "site": "nicovideo",
         "id": "duelmasters_2017",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0062173",
+        "begin": "2024-04-01T03:00:00.000Z",
+        "broadcast": "R/2024-04-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26932",
+        "begin": "2024-03-31T15:00:00.000Z",
+        "broadcast": "R/2024-03-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/46392/season/13"
+      },
+      {
+        "site": "mal",
+        "id": "34905"
+      },
+      {
+        "site": "anidb",
+        "id": "12818"
+      },
+      {
+        "site": "aniList",
+        "id": "98378"
       }
     ]
   },
@@ -1317,11 +3028,19 @@
     "title": "ベイブレードバースト ゴッド",
     "titleTranslate": {
       "en": [
-        "BEYBLADE BURST GOD"
+        "BEYBLADE BURST GOD",
+        "Beyblade Burst Evolution"
       ],
       "zh-Hans": [
         "霸旋陀螺 爆刃战神",
-        "战斗陀螺 爆烈 神"
+        "战斗陀螺 爆烈 神",
+        "霸旋陀螺 爆刃对决 神",
+        "爆旋陀螺 擊爆戰魂 神",
+        "戰鬥陀螺 爆烈世代 神"
+      ],
+      "zh-Hant": [
+        "戰鬥陀螺：爆烈世代：神",
+        "爆旋陀螺：擊爆戰魂·進化"
       ]
     },
     "type": "tv",
@@ -1336,13 +3055,34 @@
         "begin": "2017-04-03T16:30:00.000Z"
       },
       {
-        "site": "pptv",
-        "id": "LxP9eibNJufda2EA",
-        "begin": "2017-04-03T16:30:00.000Z"
-      },
-      {
         "site": "bangumi",
         "id": "208756"
+      },
+      {
+        "site": "netflix",
+        "id": "81018295",
+        "begin": "2022-11-30T00:00:00.000Z",
+        "broadcast": "R/2022-11-30T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "58df782379c3a0541f4b61ab"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/67667/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "34901"
+      },
+      {
+        "site": "anidb",
+        "id": "12809"
+      },
+      {
+        "site": "aniList",
+        "id": "98289"
       }
     ]
   },
@@ -1362,6 +3102,28 @@
       {
         "site": "bangumi",
         "id": "212272"
+      },
+      {
+        "site": "danime",
+        "id": "23854",
+        "begin": "2020-04-27T01:00:00.000Z",
+        "broadcast": "R/2020-04-27T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/210064"
+      },
+      {
+        "site": "mal",
+        "id": "35295"
+      },
+      {
+        "site": "anidb",
+        "id": "13048"
+      },
+      {
+        "site": "aniList",
+        "id": "98765"
       }
     ]
   },
@@ -1374,7 +3136,8 @@
       "zh-Hans": [
         "偶像时间 美妙天堂",
         "Idol Time 美妙天堂",
-        "美妙天堂 偶像时间"
+        "美妙天堂 偶像时间",
+        "偶像时间美妙天堂"
       ]
     },
     "type": "tv",
@@ -1383,11 +3146,6 @@
     "begin": "2017-04-04T08:55:00.000Z",
     "end": "2018-03-27T09:25:00.000Z",
     "sites": [
-      {
-        "site": "letv",
-        "id": "10035810",
-        "begin": "2017-04-04T09:55:00.000Z"
-      },
       {
         "site": "iqiyi",
         "id": "a_19rrh9f5s1",
@@ -1401,7 +3159,8 @@
       {
         "site": "bilibili",
         "id": "5963",
-        "begin": "2017-04-04T09:55:00.000Z"
+        "begin": "2017-04-04T09:55:00.000Z",
+        "broadcast": "R/2017-04-04T09:55:00.000Z/P7D"
       },
       {
         "site": "bangumi",
@@ -1410,7 +3169,44 @@
       {
         "site": "nicovideo",
         "id": "ipp",
-        "begin": "2017-04-14T12:30:00.000Z"
+        "begin": "2017-04-14T12:30:00.000Z",
+        "broadcast": "R/2017-04-14T12:30:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0030184",
+        "begin": "2019-07-04T03:00:00.000Z",
+        "broadcast": "R/2019-07-04T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "58df797b79c3a0541f4b61b7"
+      },
+      {
+        "site": "mikan",
+        "id": "1294"
+      },
+      {
+        "site": "danime",
+        "id": "21784",
+        "begin": "2017-10-20T01:00:00.000Z",
+        "broadcast": "R/2017-10-20T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/206047"
+      },
+      {
+        "site": "mal",
+        "id": "34787"
+      },
+      {
+        "site": "anidb",
+        "id": "12737"
+      },
+      {
+        "site": "aniList",
+        "id": "98107"
       }
     ]
   },
@@ -1434,19 +3230,9 @@
         "begin": "2017-04-02T19:35:00.000Z"
       },
       {
-        "site": "letv",
-        "id": "10035761",
-        "begin": "2017-04-02T19:35:00.000Z"
-      },
-      {
         "site": "youku",
         "id": "6e07112411efbfbd11ef",
         "begin": "2017-04-02T19:35:00.000Z"
-      },
-      {
-        "site": "bilibili",
-        "id": "6011",
-        "begin": "2017-04-02T19:05:00.000Z"
       },
       {
         "site": "bangumi",
@@ -1455,7 +3241,52 @@
       {
         "site": "nicovideo",
         "id": "yamizukan",
-        "begin": "2017-04-03T03:00:00.000Z"
+        "begin": "2017-04-03T03:00:00.000Z",
+        "broadcast": "R/2017-04-03T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0029132",
+        "begin": "2017-04-03T03:00:00.000Z",
+        "broadcast": "R/2017-04-03T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "暗圖"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "58dfb7f95e559a067cc361f8"
+      },
+      {
+        "site": "mikan",
+        "id": "1295"
+      },
+      {
+        "site": "danime",
+        "id": "21612",
+        "begin": "2017-07-07T01:00:00.000Z",
+        "broadcast": "R/2017-07-07T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/71015"
+      },
+      {
+        "site": "mal",
+        "id": "35069"
+      },
+      {
+        "site": "anidb",
+        "id": "12947"
+      },
+      {
+        "site": "aniList",
+        "id": "98442"
+      },
+      {
+        "site": "acgnx",
+        "id": "暗圖"
       }
     ]
   },
@@ -1473,18 +3304,52 @@
     "end": "2017-06-18T16:05:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "t4xo5k60JGLFQ6s",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "207567"
       },
       {
-        "site": "nicovideo",
-        "id": "soryo-w-anime",
-        "begin": "2017-12-22T09:00:00.000Z"
+        "site": "dmhy",
+        "id": "僧侶"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "58dfb7ed5e559a067cc361f6"
+      },
+      {
+        "site": "mikan",
+        "id": "1296"
+      },
+      {
+        "site": "unext",
+        "id": "SID0041171",
+        "begin": "2024-11-12T03:00:00.000Z",
+        "broadcast": "R/2024-11-12T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "21775",
+        "begin": "2017-09-15T01:00:00.000Z",
+        "broadcast": "R/2017-09-15T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/70998"
+      },
+      {
+        "site": "mal",
+        "id": "34823"
+      },
+      {
+        "site": "anidb",
+        "id": "12760"
+      },
+      {
+        "site": "aniList",
+        "id": "98203"
+      },
+      {
+        "site": "acgnx",
+        "id": "僧侶"
       }
     ]
   },
@@ -1495,6 +3360,9 @@
         "少年阿贝 GO!GO!小芝麻 第二季",
         "少年阿瑞 GO!GO!小海豹 第二季",
         "少年阿贝 GO!GO!小芝麻 第2季"
+      ],
+      "zh-Hant": [
+        "少年阿貝GO！GO！小芝麻 第二季"
       ]
     },
     "type": "tv",
@@ -1516,7 +3384,8 @@
       {
         "site": "bilibili",
         "id": "6010",
-        "begin": "2017-04-04T12:00:00.000Z"
+        "begin": "2017-04-04T12:00:00.000Z",
+        "broadcast": "R/2017-04-04T12:00:03.000Z/P7D"
       },
       {
         "site": "bangumi",
@@ -1526,6 +3395,50 @@
         "site": "qq",
         "id": "m/mzc002006bqvrhw",
         "begin": ""
+      },
+      {
+        "site": "gamer",
+        "id": "88264",
+        "begin": "2017-04-18T12:00:00.000Z",
+        "broadcast": "R/2017-04-18T12:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0029251",
+        "begin": "2019-11-29T03:00:00.000Z",
+        "broadcast": "R/2019-11-29T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "58df799c79c3a0541f4b61b9"
+      },
+      {
+        "site": "danime",
+        "id": "21574",
+        "begin": "2017-04-22T03:00:00.000Z",
+        "broadcast": "R/2017-04-22T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/66999/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "34979"
+      },
+      {
+        "site": "aniList",
+        "id": "98383"
+      },
+      {
+        "site": "anidb",
+        "id": "12904"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GYNQXG12Y",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -1534,6 +3447,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "王室教师海涅"
+      ],
+      "zh-Hant": [
+        "王室教師海涅"
+      ],
+      "en": [
+        "The Royal Tutor"
       ]
     },
     "type": "tv",
@@ -1548,11 +3467,6 @@
         "begin": "2017-04-04T18:05:00.000Z"
       },
       {
-        "site": "letv",
-        "id": "10035811",
-        "begin": "2017-04-04T18:05:00.000Z"
-      },
-      {
         "site": "youku",
         "id": "efbfbdefbfbd3befbfbd",
         "begin": "2017-04-04T18:05:00.000Z"
@@ -1560,16 +3474,68 @@
       {
         "site": "bilibili",
         "id": "5990",
-        "begin": "2017-04-04T18:05:00.000Z"
+        "begin": "2017-04-04T18:05:00.000Z",
+        "broadcast": "R/2017-04-04T18:05:00.000Z/P7D"
       },
       {
         "site": "bangumi",
         "id": "195434"
       },
       {
+        "site": "unext",
+        "id": "SID0028851",
+        "begin": "2017-04-06T03:00:00.000Z",
+        "broadcast": "R/2017-04-06T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "海涅"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "58df7a5379c3a0541f4b61bf"
+      },
+      {
+        "site": "mikan",
+        "id": "1297"
+      },
+      {
         "site": "nicovideo",
         "id": "heine-royal",
-        "begin": "2017-04-05T15:00:00.000Z"
+        "begin": "2019-02-15T15:00:00.000Z",
+        "broadcast": "R/2019-02-15T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GY8V540GY",
+        "begin": "2017-04-04T17:05:00.000Z",
+        "broadcast": "R/2017-04-04T17:05:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "21532",
+        "begin": "2017-04-07T03:00:00.000Z",
+        "broadcast": "R/2017-04-07T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/71008"
+      },
+      {
+        "site": "mal",
+        "id": "34262"
+      },
+      {
+        "site": "anidb",
+        "id": "12485"
+      },
+      {
+        "site": "aniList",
+        "id": "97932"
+      },
+      {
+        "site": "acgnx",
+        "id": "海涅"
       }
     ]
   },
@@ -1578,7 +3544,21 @@
     "titleTranslate": {
       "zh-Hans": [
         "火影忍者 博人传之火影次世代",
-        "博人传 火影忍者新时代"
+        "博人传 火影忍者新时代",
+        "博人传-火影次世代-",
+        "BORUTO-火影新世代-NARUTO NEXT GENERATIONS-",
+        "BORUTO -火影新世代-",
+        "火影忍者：博人传之次世代继承者",
+        "BORUTO ─慕留人─ ─NARUTO NEXT GENERATIONS─",
+        "博人传-火影忍者新生代-",
+        "博人传之火影忍者次世代"
+      ],
+      "zh-Hant": [
+        "慕留人 - 火影新世代 -",
+        "慕留人：火影新世代"
+      ],
+      "en": [
+        "Boruto: Naruto Next Generations"
       ]
     },
     "type": "tv",
@@ -1586,7 +3566,7 @@
     "officialSite": "http://www.tv-tokyo.co.jp/anime/boruto/",
     "begin": "2017-04-05T08:55:00.000Z",
     "broadcast": "R/2018-10-07T08:30:00.000Z/P7D",
-    "end": "",
+    "end": "2023-03-26T09:00:00.000Z",
     "sites": [
       {
         "site": "iqiyi",
@@ -1601,12 +3581,6 @@
         "broadcast": "R/2018-10-07T09:30:00.000Z/P7D"
       },
       {
-        "site": "bilibili",
-        "id": "5978",
-        "begin": "2017-04-05T09:30:00.000Z",
-        "broadcast": "R/2018-10-07T09:30:00.000Z/P7D"
-      },
-      {
         "site": "bangumi",
         "id": "202661"
       },
@@ -1615,6 +3589,75 @@
         "id": "boruto",
         "begin": "2017-04-05T09:30:00.000Z",
         "broadcast": "R/2018-10-07T09:30:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "86598",
+        "begin": "2020-02-27T06:00:00.000Z",
+        "broadcast": "R/2020-02-27T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "81080523",
+        "begin": "2023-06-29T16:00:00.000Z",
+        "broadcast": "R/2023-06-29T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0029042",
+        "begin": "2017-04-10T03:00:00.000Z",
+        "broadcast": "R/2017-04-10T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "86598",
+        "begin": "2020-02-27T06:00:00.000Z",
+        "broadcast": "R/2020-02-27T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "58df7afd79c3a0541f4b61c7"
+      },
+      {
+        "site": "mikan",
+        "id": "1298"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GR75Q020Y",
+        "begin": "2017-04-05T08:55:00.000Z",
+        "broadcast": "R/2017-04-05T08:55:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "25576",
+        "begin": "2022-04-30T15:00:00.000Z",
+        "broadcast": "R/2022-04-30T15:00:00.000Z/P7D",
+        "comment": "#1-201, #202-243: 25577, #244-?: 25570"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/70881"
+      },
+      {
+        "site": "mal",
+        "id": "34566"
+      },
+      {
+        "site": "anidb",
+        "id": "12661"
+      },
+      {
+        "site": "aniList",
+        "id": "97938"
+      },
+      {
+        "site": "acgnx",
+        "id": "博人|Boruto"
+      },
+      {
+        "site": "dmhy",
+        "id": "博人|Boruto"
       }
     ]
   },
@@ -1634,7 +3677,8 @@
       {
         "site": "bilibili",
         "id": "5956",
-        "begin": "2017-04-05T13:45:00.000Z"
+        "begin": "2017-04-05T13:45:00.000Z",
+        "broadcast": "R/2017-04-05T13:45:02.000Z/P7D"
       },
       {
         "site": "bangumi",
@@ -1643,7 +3687,46 @@
       {
         "site": "nicovideo",
         "id": "akunogundan",
-        "begin": "2017-04-07T15:00:00.000Z"
+        "begin": "2017-04-07T15:00:00.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "dmhy",
+        "id": "惡之軍"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "58df7b0e79c3a0541f4b61cb"
+      },
+      {
+        "site": "mikan",
+        "id": "1299"
+      },
+      {
+        "site": "danime",
+        "id": "21538",
+        "begin": "2017-04-27T03:00:00.000Z",
+        "broadcast": "R/2017-04-27T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/71215"
+      },
+      {
+        "site": "mal",
+        "id": "34888"
+      },
+      {
+        "site": "anidb",
+        "id": "12804"
+      },
+      {
+        "site": "aniList",
+        "id": "98252"
+      },
+      {
+        "site": "acgnx",
+        "id": "惡之軍"
       }
     ]
   },
@@ -1651,7 +3734,8 @@
     "title": "ラブ米 -WE LOVE RICE-",
     "titleTranslate": {
       "zh-Hans": [
-        "爱米-WE LOVE RICE-"
+        "爱米-WE LOVE RICE-",
+        "爱米 -WE LOVE RICE-"
       ]
     },
     "type": "tv",
@@ -1677,7 +3761,52 @@
       {
         "site": "nicovideo",
         "id": "love-kome-anime",
-        "begin": "2017-04-07T15:00:00.000Z"
+        "begin": "2017-04-07T15:00:00.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "28229855",
+        "begin": "2020-09-08T03:23:00.000Z",
+        "broadcast": "R/2020-09-08T03:23:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "愛米"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "58df7b4d79c3a0541f4b61cd"
+      },
+      {
+        "site": "mikan",
+        "id": "1300"
+      },
+      {
+        "site": "danime",
+        "id": "21524",
+        "begin": "2017-04-27T03:00:00.000Z",
+        "broadcast": "R/2017-04-27T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/71011"
+      },
+      {
+        "site": "mal",
+        "id": "34402"
+      },
+      {
+        "site": "anidb",
+        "id": "12553"
+      },
+      {
+        "site": "aniList",
+        "id": "97862"
+      },
+      {
+        "site": "acgnx",
+        "id": "愛米"
       }
     ]
   },
@@ -1686,6 +3815,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "剑风传奇 次篇"
+      ],
+      "zh-Hant": [
+        "烙印勇士 第2季"
       ]
     },
     "type": "tv",
@@ -1695,18 +3827,46 @@
     "end": "2017-06-23T14:00:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "VOzIRq4UhMIlows",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "192906"
       },
       {
         "site": "nicovideo",
         "id": "berserk-anime",
-        "begin": "2016-07-24T03:00:00.000Z"
+        "begin": "2016-07-24T03:00:00.000Z",
+        "broadcast": "R/2016-07-24T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "烙印|剑風|berserk"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "58df7daf79c3a0541f4b61ef"
+      },
+      {
+        "site": "mikan",
+        "id": "1301"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/66053/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "34055"
+      },
+      {
+        "site": "anidb",
+        "id": "12414"
+      },
+      {
+        "site": "aniList",
+        "id": "97643"
+      },
+      {
+        "site": "acgnx",
+        "id": "烙印|劍風|berserk"
       }
     ]
   },
@@ -1714,7 +3874,8 @@
     "title": "神撃のバハムート VIRGIN SOUL",
     "titleTranslate": {
       "zh-Hans": [
-        "巴哈姆特之怒 VIRGIN SOUL"
+        "巴哈姆特之怒 VIRGIN SOUL",
+        "神击的巴哈姆特 VIRGIN SOUL"
       ]
     },
     "type": "tv",
@@ -1724,14 +3885,10 @@
     "end": "2017-09-29T17:25:00.000Z",
     "sites": [
       {
-        "site": "letv",
-        "id": "10036009",
-        "begin": ""
-      },
-      {
         "site": "bilibili",
         "id": "5968",
-        "begin": "2017-04-08T02:15:00.000Z"
+        "begin": "2017-04-08T02:15:00.000Z",
+        "broadcast": "R/2017-04-08T02:11:00.000Z/P7D"
       },
       {
         "site": "bangumi",
@@ -1740,12 +3897,57 @@
       {
         "site": "nicovideo",
         "id": "bahamut-vs",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "youku",
         "id": "4dbc9c25e2bf11e6acec",
         "begin": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0046125",
+        "begin": "2022-10-01T03:00:00.000Z",
+        "broadcast": "R/2022-10-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "巴哈姆特+Virgin"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "58df7dfe79c3a0541f4b61f5"
+      },
+      {
+        "site": "mikan",
+        "id": "1302"
+      },
+      {
+        "site": "danime",
+        "id": "23212",
+        "begin": "2021-10-01T01:00:00.000Z",
+        "broadcast": "R/2021-10-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/61445/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "30736"
+      },
+      {
+        "site": "anidb",
+        "id": "11223"
+      },
+      {
+        "site": "aniList",
+        "id": "21184"
+      },
+      {
+        "site": "acgnx",
+        "id": "巴哈姆特 Virgin"
       }
     ]
   },
@@ -1755,7 +3957,8 @@
       "zh-Hans": [
         "喧哗番长 乙女-Girl Beats Boys-",
         "喧哗番长 乙女 Girl Beats Boys",
-        "最强番长是少女"
+        "最强番长是少女",
+        "喧嘩番長 乙女 —Girl Beats Boys—"
       ]
     },
     "type": "tv",
@@ -1776,7 +3979,52 @@
       {
         "site": "nicovideo",
         "id": "kbo-anime",
-        "begin": "2017-04-12T15:00:00.000Z"
+        "begin": "2017-04-12T15:00:00.000Z",
+        "broadcast": "R/2019-03-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0028918",
+        "begin": "2019-03-14T03:00:00.000Z",
+        "broadcast": "R/2019-03-14T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "喧嘩"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "58df7c2379c3a0541f4b61d7"
+      },
+      {
+        "site": "mikan",
+        "id": "1303"
+      },
+      {
+        "site": "danime",
+        "id": "21514",
+        "begin": "2017-04-27T03:00:00.000Z",
+        "broadcast": "R/2017-04-27T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/71010"
+      },
+      {
+        "site": "mal",
+        "id": "34501"
+      },
+      {
+        "site": "anidb",
+        "id": "12608"
+      },
+      {
+        "site": "aniList",
+        "id": "97909"
+      },
+      {
+        "site": "acgnx",
+        "id": "喧嘩"
       }
     ]
   },
@@ -1796,7 +4044,8 @@
       {
         "site": "bilibili",
         "id": "5959",
-        "begin": "2017-04-12T13:40:00.000Z"
+        "begin": "2017-04-12T13:40:00.000Z",
+        "broadcast": "R/2017-04-12T13:40:00.000Z/P7D"
       },
       {
         "site": "bangumi",
@@ -1805,7 +4054,52 @@
       {
         "site": "nicovideo",
         "id": "Room_Mate",
-        "begin": "2017-04-13T03:00:00.000Z"
+        "begin": "2017-04-13T03:00:00.000Z",
+        "broadcast": "R/2017-04-13T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0028843",
+        "begin": "2017-04-13T03:00:00.000Z",
+        "broadcast": "R/2017-04-13T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "Room+Mate"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "58df7c4279c3a0541f4b61d9"
+      },
+      {
+        "site": "mikan",
+        "id": "1304"
+      },
+      {
+        "site": "danime",
+        "id": "21525",
+        "begin": "2017-04-27T03:00:00.000Z",
+        "broadcast": "R/2017-04-27T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/71066"
+      },
+      {
+        "site": "mal",
+        "id": "34393"
+      },
+      {
+        "site": "anidb",
+        "id": "12551"
+      },
+      {
+        "site": "aniList",
+        "id": "98238"
+      },
+      {
+        "site": "acgnx",
+        "id": "Room Mate"
       }
     ]
   },
@@ -1830,7 +4124,53 @@
       {
         "site": "nicovideo",
         "id": "7-sins",
-        "begin": "2017-04-15T03:00:00.000Z"
+        "begin": "2017-04-15T03:00:00.000Z",
+        "broadcast": "R/2017-04-15T03:00:00.000Z/P7D",
+        "comment": "懺悔録: 7-sins-zange"
+      },
+      {
+        "site": "unext",
+        "id": "SID0028845",
+        "begin": "2017-04-15T03:00:00.000Z",
+        "broadcast": "R/2017-04-15T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "七+罪"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "58df7e3779c3a0541f4b61f7"
+      },
+      {
+        "site": "mikan",
+        "id": "1305"
+      },
+      {
+        "site": "danime",
+        "id": "21534",
+        "begin": "2017-04-15T03:00:00.000Z",
+        "broadcast": "R/2017-04-15T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/71018"
+      },
+      {
+        "site": "mal",
+        "id": "33834"
+      },
+      {
+        "site": "anidb",
+        "id": "12324"
+      },
+      {
+        "site": "aniList",
+        "id": "20705"
+      },
+      {
+        "site": "acgnx",
+        "id": "sin 七 宗罪|大罪"
       }
     ]
   },
@@ -1851,18 +4191,64 @@
     "end": "2017-07-08T14:30:00.000Z",
     "sites": [
       {
-        "site": "bilibili",
-        "id": "5979",
-        "begin": "2017-04-15T16:30:00.000Z"
-      },
-      {
         "site": "bangumi",
         "id": "184059"
       },
       {
         "site": "nicovideo",
         "id": "atom-tb",
-        "begin": "2017-04-17T06:00:00.000Z"
+        "begin": "2017-04-17T06:00:00.000Z",
+        "broadcast": "R/2017-04-17T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0029048",
+        "begin": "2018-07-09T03:00:00.000Z",
+        "broadcast": "R/2018-07-09T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "阿童木+起源"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "58dfb63a5e559a067cc361ee"
+      },
+      {
+        "site": "mikan",
+        "id": "1306"
+      },
+      {
+        "site": "danime",
+        "id": "22239",
+        "begin": "2021-07-01T01:00:00.000Z",
+        "broadcast": "R/2021-07-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B06ZYN843R",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/70886"
+      },
+      {
+        "site": "mal",
+        "id": "33371"
+      },
+      {
+        "site": "anidb",
+        "id": "12148"
+      },
+      {
+        "site": "aniList",
+        "id": "21830"
+      },
+      {
+        "site": "acgnx",
+        "id": "阿童木 起源"
       }
     ]
   },
@@ -1887,6 +4273,50 @@
         "site": "youku",
         "id": "2cefbfbdefbfbd7c1456",
         "begin": "2017-04-18T01:20:37.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0029045",
+        "begin": "2017-04-06T03:00:00.000Z",
+        "broadcast": "R/2017-04-06T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "58df7b0279c3a0541f4b61c9"
+      },
+      {
+        "site": "mikan",
+        "id": "1307"
+      },
+      {
+        "site": "danime",
+        "id": "21536",
+        "begin": "2017-04-13T03:00:00.000Z",
+        "broadcast": "R/2017-04-13T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/119251/season/1/episode/33"
+      },
+      {
+        "site": "mal",
+        "id": "35302"
+      },
+      {
+        "site": "anidb",
+        "id": "13054"
+      },
+      {
+        "site": "aniList",
+        "id": "98586"
+      },
+      {
+        "site": "acgnx",
+        "id": "貓貓"
+      },
+      {
+        "site": "dmhy",
+        "id": "貓貓"
       }
     ]
   },
@@ -1909,12 +4339,8 @@
       {
         "site": "bilibili",
         "id": "6060",
-        "begin": "2017-03-31T02:00:00.000Z"
-      },
-      {
-        "site": "letv",
-        "id": "10035880",
-        "begin": "2017-03-31T02:00:00.000Z"
+        "begin": "2017-03-31T02:00:00.000Z",
+        "broadcast": "R/2017-03-24T04:00:00.000Z/P7D"
       },
       {
         "site": "mgtv",
@@ -1932,23 +4358,44 @@
         "begin": "2017-03-31T02:00:00.000Z"
       },
       {
-        "site": "sohu",
-        "id": "s2017/dhpyzsmr",
-        "begin": "2017-03-31T02:00:00.000Z"
-      },
-      {
-        "site": "pptv",
-        "id": "TfXfXcUrm9k8uiaI",
-        "begin": "2017-03-31T02:00:00.000Z"
-      },
-      {
         "site": "bangumi",
         "id": "173850"
       },
       {
-        "site": "nicovideo",
-        "id": "ginno-guardian",
-        "begin": ""
+        "site": "bangumi_moe",
+        "id": "58df7e9879c3a0541f4b6201"
+      },
+      {
+        "site": "mikan",
+        "id": "1308"
+      },
+      {
+        "site": "danime",
+        "id": "21535",
+        "begin": "2017-04-10T03:00:00.000Z",
+        "broadcast": "R/2017-04-10T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B07JQSDS4Y",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/71005"
+      },
+      {
+        "site": "mal",
+        "id": "32936"
+      },
+      {
+        "site": "anidb",
+        "id": "11840"
+      },
+      {
+        "site": "aniList",
+        "id": "21662"
       }
     ]
   },
@@ -1975,12 +4422,8 @@
       {
         "site": "bilibili",
         "id": "5856",
-        "begin": "2017-03-31T02:00:00.000Z"
-      },
-      {
-        "site": "letv",
-        "id": "10035403",
-        "begin": "2017-03-31T02:00:00.000Z"
+        "begin": "2017-03-31T02:00:00.000Z",
+        "broadcast": "R/2017-03-31T02:00:00.000Z/P7D"
       },
       {
         "site": "mgtv",
@@ -1998,14 +4441,20 @@
         "begin": "2017-03-31T02:00:00.000Z"
       },
       {
-        "site": "sohu",
-        "id": "s2017/yzsmrzwb",
-        "begin": "2017-03-31T02:00:00.000Z"
+        "site": "tmdb",
+        "id": "tv/71005"
       },
       {
-        "site": "pptv",
-        "id": "q5B8ibmLIOHbZV78",
-        "begin": "2017-03-31T02:00:00.000Z"
+        "site": "mal",
+        "id": "32936"
+      },
+      {
+        "site": "anidb",
+        "id": "11840"
+      },
+      {
+        "site": "aniList",
+        "id": "21662"
       }
     ]
   },
@@ -2029,12 +4478,40 @@
       {
         "site": "nicovideo",
         "id": "peso-game-line-me-anime",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
       },
       {
-        "site": "bilibili",
-        "id": "6068",
-        "begin": "2017-04-02T16:00:01.000Z"
+        "site": "dmhy",
+        "id": "小比索"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "58df787479c3a0541f4b61ad"
+      },
+      {
+        "site": "mikan",
+        "id": "1311"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/78973"
+      },
+      {
+        "site": "mal",
+        "id": "34928"
+      },
+      {
+        "site": "anidb",
+        "id": "12831"
+      },
+      {
+        "site": "aniList",
+        "id": "98752"
+      },
+      {
+        "site": "acgnx",
+        "id": "小比索"
       }
     ]
   },
@@ -2042,7 +4519,9 @@
     "title": "ひなこのーと",
     "titleTranslate": {
       "zh-Hans": [
-        "雏子的笔记"
+        "雏子的笔记",
+        "雏子日记",
+        "雏子的本子"
       ],
       "zh-Hant": [
         "雛子的筆記"
@@ -2057,7 +4536,8 @@
       {
         "site": "bilibili",
         "id": "5993",
-        "begin": "2017-04-07T13:30:00.000Z"
+        "begin": "2017-04-07T13:30:00.000Z",
+        "broadcast": "R/2017-04-07T13:30:00.000Z/P7D"
       },
       {
         "site": "bangumi",
@@ -2066,13 +4546,58 @@
       {
         "site": "nicovideo",
         "id": "hinakonote",
-        "begin": "2017-04-14T16:00:00.000Z"
+        "begin": "2017-04-14T16:00:00.000Z",
+        "broadcast": "R/2017-04-14T16:00:00.000Z/P7D"
       },
       {
         "site": "ani_one_asia",
         "id": "PLxSscENEp7JgxwFThB5rk1sXCgsiWhHr6",
         "begin": "2020-05-04T16:00:00.000Z",
         "broadcast": "R/2020-05-04T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0028967",
+        "begin": "2019-09-28T03:00:00.000Z",
+        "broadcast": "R/2019-09-28T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "雛子"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "58df7d2279c3a0541f4b61e9"
+      },
+      {
+        "site": "mikan",
+        "id": "1233"
+      },
+      {
+        "site": "danime",
+        "id": "21521",
+        "begin": "2017-04-14T03:00:00.000Z",
+        "broadcast": "R/2017-04-14T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/71006"
+      },
+      {
+        "site": "mal",
+        "id": "33948"
+      },
+      {
+        "site": "anidb",
+        "id": "12349"
+      },
+      {
+        "site": "aniList",
+        "id": "87517"
+      },
+      {
+        "site": "acgnx",
+        "id": "雛子"
       }
     ]
   },
@@ -2104,9 +4629,20 @@
         "begin": "2018-01-07T00:55:04.000Z"
       },
       {
-        "site": "bilibili",
-        "id": "19632",
-        "begin": "2018-01-06T16:00:00.000Z"
+        "site": "tmdb",
+        "id": "tv/44934/season/6"
+      },
+      {
+        "site": "mal",
+        "id": "35303"
+      },
+      {
+        "site": "anidb",
+        "id": "13050"
+      },
+      {
+        "site": "aniList",
+        "id": "98751"
       }
     ]
   },
@@ -2116,6 +4652,9 @@
       "zh-Hans": [
         "偶像活动Stars 第二年",
         "偶活学园（偶像活动）Stars! 第2季"
+      ],
+      "zh-Hant": [
+        "Aikatsu! 偶像學園！STARS 第2季"
       ]
     },
     "type": "tv",
@@ -2137,6 +4676,26 @@
         "site": "qq",
         "id": "m/mzc00200qt2t4gv",
         "begin": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0029161",
+        "begin": "2019-03-11T03:00:00.000Z",
+        "broadcast": "R/2019-03-11T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "1332"
+      },
+      {
+        "site": "danime",
+        "id": "22650",
+        "begin": "2019-03-22T01:00:00.000Z",
+        "broadcast": "R/2019-03-22T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/65929/season/2"
       }
     ]
   },
@@ -2156,6 +4715,29 @@
       {
         "site": "bangumi",
         "id": "210465"
+      },
+      {
+        "site": "danime",
+        "id": "21218",
+        "begin": "2016-10-22T03:00:00.000Z",
+        "broadcast": "R/2016-10-22T03:00:00.000Z/P7D",
+        "comment": "#103-139: 21827"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/97243/season/1/episode/77"
+      },
+      {
+        "site": "mal",
+        "id": "31044"
+      },
+      {
+        "site": "anidb",
+        "id": "11293"
+      },
+      {
+        "site": "aniList",
+        "id": "21237"
       }
     ]
   },
@@ -2180,16 +4762,44 @@
       {
         "site": "bilibili",
         "id": "6015",
-        "begin": "2017-03-28T02:00:00.000Z"
+        "begin": "2017-03-28T02:00:00.000Z",
+        "broadcast": "R/2017-03-28T02:00:00.000Z/P7D"
       },
       {
         "site": "bangumi",
         "id": "210811"
       },
       {
-        "site": "nicovideo",
-        "id": "anitsuke",
-        "begin": "2017-04-09T15:00:00.000Z"
+        "site": "bangumi_moe",
+        "id": "58df7d2c79c3a0541f4b61eb"
+      },
+      {
+        "site": "danime",
+        "id": "21541",
+        "begin": "2025-10-03T15:00:00.000Z",
+        "broadcast": "R/2025-10-03T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0029147",
+        "begin": "2025-10-15T03:00:00.000Z",
+        "broadcast": "R/2025-10-15T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/70972"
+      },
+      {
+        "site": "mal",
+        "id": "35015"
+      },
+      {
+        "site": "anidb",
+        "id": "12921"
+      },
+      {
+        "site": "aniList",
+        "id": "98425"
       }
     ]
   },
@@ -2209,6 +4819,20 @@
       {
         "site": "bangumi",
         "id": "212813"
+      },
+      {
+        "site": "unext",
+        "id": "SID0104837",
+        "begin": "2024-06-30T15:00:00.000Z",
+        "broadcast": "R/2024-06-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/128386"
+      },
+      {
+        "site": "anidb",
+        "id": "14760"
       }
     ]
   },
@@ -2217,6 +4841,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "忍者乱太郎 第25季"
+      ],
+      "zh-Hant": [
+        "忍者亂太郎 第 25 季"
       ]
     },
     "type": "tv",
@@ -2226,11 +4853,6 @@
     "end": "2017-11-03T08:35:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "VibvFQ6sRgb8iaoAg",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "193065"
       },
@@ -2238,6 +4860,34 @@
         "site": "youku",
         "id": "75ed8cfa4bfc463483b4",
         "begin": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/34860"
+      },
+      {
+        "site": "danime",
+        "id": "28715",
+        "begin": "2026-04-09T15:00:00.000Z",
+        "broadcast": "R/2026-04-09T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0285226",
+        "begin": "2026-04-10T03:00:00.000Z",
+        "broadcast": "R/2026-04-10T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "1199"
+      },
+      {
+        "site": "anidb",
+        "id": "3626"
+      },
+      {
+        "site": "aniList",
+        "id": "1199"
       }
     ]
   },
@@ -2261,12 +4911,46 @@
       {
         "site": "nicovideo",
         "id": "snack-world",
-        "begin": "2017-04-20T03:00:00.000Z"
+        "begin": "2017-04-20T03:00:00.000Z",
+        "broadcast": "R/2017-04-20T03:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
         "id": "6004",
-        "begin": "2017-04-12T16:00:01.000Z"
+        "begin": "2017-04-12T16:00:01.000Z",
+        "broadcast": "R/2017-05-29T08:00:05.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0029356",
+        "begin": "2020-06-06T03:00:00.000Z",
+        "broadcast": "R/2020-06-06T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "58df7cf979c3a0541f4b61e3"
+      },
+      {
+        "site": "danime",
+        "id": "21518",
+        "begin": "2017-04-20T03:00:00.000Z",
+        "broadcast": "R/2017-04-20T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/88298"
+      },
+      {
+        "site": "mal",
+        "id": "32596"
+      },
+      {
+        "site": "anidb",
+        "id": "11180"
+      },
+      {
+        "site": "aniList",
+        "id": "98297"
       }
     ]
   },
@@ -2286,17 +4970,8 @@
       {
         "site": "bilibili",
         "id": "6069",
-        "begin": "2017-04-14T03:00:00.000Z"
-      },
-      {
-        "site": "letv",
-        "id": "10036060",
-        "begin": ""
-      },
-      {
-        "site": "pptv",
-        "id": "hrqWFHziaUpDzcdk",
-        "begin": ""
+        "begin": "2017-04-14T03:00:00.000Z",
+        "broadcast": "R/2017-04-14T02:53:00.000Z/P7D"
       },
       {
         "site": "bangumi",
@@ -2305,7 +4980,34 @@
       {
         "site": "nicovideo",
         "id": "trinary",
-        "begin": "2017-04-26T15:00:00.000Z"
+        "begin": "2017-04-26T15:00:00.000Z",
+        "broadcast": "R/2017-04-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "1312"
+      },
+      {
+        "site": "danime",
+        "id": "24521",
+        "begin": "2021-03-05T01:00:00.000Z",
+        "broadcast": "R/2021-03-05T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/74934"
+      },
+      {
+        "site": "mal",
+        "id": "34006"
+      },
+      {
+        "site": "anidb",
+        "id": "12382"
+      },
+      {
+        "site": "aniList",
+        "id": "98595"
       }
     ]
   },
@@ -2323,13 +5025,36 @@
     "end": "2017-12-16T22:00:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "nqKODHTaSojradE",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "206011"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "58df7e7079c3a0541f4b61fb"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/71068"
+      },
+      {
+        "site": "mal",
+        "id": "34052"
+      },
+      {
+        "site": "anidb",
+        "id": "12410"
+      },
+      {
+        "site": "aniList",
+        "id": "97638"
+      },
+      {
+        "site": "acgnx",
+        "id": "帕斯卡"
+      },
+      {
+        "site": "dmhy",
+        "id": "帕斯卡"
       }
     ]
   },
@@ -2347,13 +5072,36 @@
     "end": "2017-12-16T22:00:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "lqqGBGzSQoDjYck",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "207242"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "58df7e7579c3a0541f4b61fd"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/71069"
+      },
+      {
+        "site": "mal",
+        "id": "34799"
+      },
+      {
+        "site": "anidb",
+        "id": "12745"
+      },
+      {
+        "site": "aniList",
+        "id": "98228"
+      },
+      {
+        "site": "acgnx",
+        "id": "噗利噗利"
+      },
+      {
+        "site": "dmhy",
+        "id": "噗利噗利"
       }
     ]
   },
@@ -2378,17 +5126,13 @@
       {
         "site": "bilibili",
         "id": "6059",
-        "begin": ""
+        "begin": "2017-03-27T03:24:00.000Z",
+        "broadcast": "R/2017-03-27T03:24:00.000Z/P7D"
       },
       {
         "site": "iqiyi",
         "id": "a_19rrhdz2gt",
         "begin": "2017-08-14T10:31:53.000Z"
-      },
-      {
-        "site": "pptv",
-        "id": "xnVf3UWrG1m8OqI",
-        "begin": ""
       },
       {
         "site": "qq",
@@ -2399,6 +5143,38 @@
         "site": "youku",
         "id": "45efbfbd1fefbfbd5bef",
         "begin": ""
+      },
+      {
+        "site": "mikan",
+        "id": "1388"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "G619JM99Y",
+        "begin": "2016-12-09T19:00:00.000Z",
+        "broadcast": "R/2016-12-09T19:00:00.000Z/P7D"
+      },
+      {
+        "site": "youtube",
+        "id": "PL8anBnIT2pG7mG-uDwMVId3XBb0r3Ag01",
+        "begin": "2017-04-01T15:00:00.000Z",
+        "broadcast": "R/2017-04-01T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/69084/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "34670"
+      },
+      {
+        "site": "anidb",
+        "id": "12703"
+      },
+      {
+        "site": "aniList",
+        "id": "98069"
       }
     ]
   },
@@ -2414,11 +5190,27 @@
     "officialSite": "http://www.panpaka.com",
     "begin": "2017-04-06T16:46:00.000Z",
     "broadcast": "R/2017-04-06T16:46:00.000Z/P7D",
-    "end": "",
+    "end": "2017-09-21T16:46:00.000Z",
     "sites": [
       {
         "site": "bangumi",
         "id": "238403"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "58df7c1379c3a0541f4b61d5"
+      },
+      {
+        "site": "mal",
+        "id": "35112"
+      },
+      {
+        "site": "anidb",
+        "id": "12981"
+      },
+      {
+        "site": "aniList",
+        "id": "98465"
       }
     ]
   },
@@ -2440,9 +5232,12 @@
         "id": "207167"
       },
       {
-        "site": "pptv",
-        "id": "KAicpZ881peNGxCw",
-        "begin": ""
+        "site": "mikan",
+        "id": "1314"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/450150"
       }
     ]
   },
@@ -2472,6 +5267,22 @@
         "site": "youku",
         "id": "efbfbd17efbfbd6f3aef",
         "begin": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/90911"
+      },
+      {
+        "site": "mal",
+        "id": "38413"
+      },
+      {
+        "site": "anidb",
+        "id": "14560"
+      },
+      {
+        "site": "aniList",
+        "id": "99884"
       }
     ]
   },
@@ -2480,6 +5291,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "名侦探柯南 殷红的恋歌"
+      ],
+      "zh-Hant": [
+        "名偵探柯南：唐紅的戀歌"
+      ],
+      "en": [
+        "Detective Conan the Movie: The Crimson Love Letter"
       ]
     },
     "type": "movie",
@@ -2500,7 +5317,40 @@
       {
         "site": "bilibili",
         "id": "28228963",
-        "begin": "2020-05-21T16:00:00.000Z"
+        "begin": "2020-05-21T16:00:00.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "mikan",
+        "id": "1440"
+      },
+      {
+        "site": "netflix",
+        "id": "81757605",
+        "begin": "2025-04-02T16:00:00.000Z",
+        "broadcast": "R/2025-04-02T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B07QRX7HW3",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/438058"
+      },
+      {
+        "site": "mal",
+        "id": "34430"
+      },
+      {
+        "site": "anidb",
+        "id": "12564"
+      },
+      {
+        "site": "aniList",
+        "id": "98222"
       }
     ]
   },
@@ -2509,6 +5359,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "剧场版 Free!-Timeless Medley- 绊"
+      ],
+      "zh-Hant": [
+        "劇場版 FREE! 男子游泳部 Timeless Medley- 絆"
       ]
     },
     "type": "movie",
@@ -2524,7 +5377,42 @@
       {
         "site": "nicovideo",
         "id": "free-tm-movie",
-        "begin": "2018-07-01T06:00:00.000Z"
+        "begin": "2018-07-01T06:00:00.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0035594",
+        "begin": "2018-07-05T03:00:00.000Z",
+        "broadcast": "R/2018-07-05T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "22227",
+        "begin": "2018-06-23T01:00:00.000Z",
+        "broadcast": "R/2018-06-23T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "88092",
+        "begin": "2025-09-12T04:00:00.000Z",
+        "broadcast": "R/2025-09-12T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/450149"
+      },
+      {
+        "site": "mal",
+        "id": "33845"
+      },
+      {
+        "site": "aniList",
+        "id": "98495"
+      },
+      {
+        "site": "anidb",
+        "id": "12332"
       }
     ]
   },
@@ -2533,6 +5421,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "春宵苦短，少女前进吧！"
+      ],
+      "zh-Hant": [
+        "夜短夢長，少女前進吧！"
+      ],
+      "en": [
+        "The Night Is Short, Walk On Girl"
       ]
     },
     "type": "movie",
@@ -2549,7 +5443,40 @@
       {
         "site": "bilibili",
         "id": "7752",
-        "begin": "2017-04-06T16:00:00.000Z"
+        "begin": "2017-04-06T16:00:00.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "mikan",
+        "id": "1442"
+      },
+      {
+        "site": "unext",
+        "id": "SID0034759",
+        "begin": "2024-10-31T15:00:00.000Z",
+        "broadcast": "R/2024-10-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "19-119",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/430214"
+      },
+      {
+        "site": "mal",
+        "id": "34537"
+      },
+      {
+        "site": "anidb",
+        "id": "12647"
+      },
+      {
+        "site": "aniList",
+        "id": "97917"
       }
     ]
   },
@@ -2574,7 +5501,40 @@
       {
         "site": "bilibili",
         "id": "6077",
-        "begin": "2017-04-02T16:00:00.000Z"
+        "begin": "2017-04-02T16:00:00.000Z",
+        "broadcast": "R/2017-04-22T01:44:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "1315"
+      },
+      {
+        "site": "unext",
+        "id": "SID0163503",
+        "begin": "2024-12-26T15:00:00.000Z",
+        "broadcast": "R/2024-12-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "27523",
+        "begin": "2024-12-26T15:00:00.000Z",
+        "broadcast": "R/2024-12-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/38464/season/0/episode/12"
+      },
+      {
+        "site": "mal",
+        "id": "34465"
+      },
+      {
+        "site": "anidb",
+        "id": "12574"
+      },
+      {
+        "site": "aniList",
+        "id": "97891"
       }
     ]
   },
@@ -2599,7 +5559,36 @@
       {
         "site": "bilibili",
         "id": "6035",
-        "begin": "2017-04-01T16:00:00.000Z"
+        "begin": "2017-04-01T16:00:00.000Z",
+        "broadcast": "R/2017-04-02T10:45:02.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0029568",
+        "begin": "2017-05-15T03:00:00.000Z",
+        "broadcast": "R/2017-05-15T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "21892",
+        "begin": "2017-11-10T01:00:00.000Z",
+        "broadcast": "R/2017-11-10T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/77239/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "35332"
+      },
+      {
+        "site": "aniList",
+        "id": "98553"
+      },
+      {
+        "site": "anidb",
+        "id": "13071"
       }
     ]
   },
@@ -2620,6 +5609,247 @@
       {
         "site": "bangumi",
         "id": "162032"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/384217"
+      }
+    ]
+  },
+  {
+    "title": "クレヨンしんちゃん 襲来!! 宇宙人シリリ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "蜡笔小新 袭来!! 宇宙人西利利"
+      ],
+      "zh-Hant": [
+        "蠟筆小新電影 宇宙人 Pi 力來襲！！",
+        "蠟筆小新：宇宙人Pi力來襲！"
+      ],
+      "en": [
+        "Crayon Shin-chan the Movie: Invasion!! Alien Shiriri"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.shinchan-movie.com/",
+    "begin": "2017-04-14T16:00:00.000Z",
+    "end": "2017-04-14T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "195185"
+      },
+      {
+        "site": "gamer",
+        "id": "85608",
+        "begin": "2018-02-12T09:00:00.000Z",
+        "broadcast": "R/2018-02-12T09:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "35-83",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0099815",
+        "begin": "2024-03-06T03:00:00.000Z",
+        "broadcast": "R/2024-03-06T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/453575"
+      },
+      {
+        "site": "mal",
+        "id": "34244"
+      },
+      {
+        "site": "anidb",
+        "id": "12478"
+      },
+      {
+        "site": "aniList",
+        "id": "100290"
+      },
+      {
+        "site": "danime",
+        "id": "28960",
+        "begin": "2026-06-30T15:00:00.000Z",
+        "broadcast": "R/2026-06-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "80242862",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "prime",
+        "id": "B0H625ZVBL",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "僕のヒーローアカデミア OAD",
+    "titleTranslate": {
+      "zh-Hans": [
+        "我的英雄学院 OAD"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.jumpfesta.com/anime/",
+    "begin": "2017-04-02T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2017-06-01T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "190704"
+      },
+      {
+        "site": "unext",
+        "id": "SID0050430",
+        "begin": "2020-08-30T03:00:00.000Z",
+        "broadcast": "R/2020-08-30T03:00:00.000Z/P7D",
+        "comment": "Training of the Dead: SID0050431"
+      },
+      {
+        "site": "danime",
+        "id": "24153",
+        "begin": "2020-08-29T15:00:00.000Z",
+        "broadcast": "R/2020-08-29T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/65930/season/0"
+      },
+      {
+        "site": "anidb",
+        "id": "12344"
+      }
+    ]
+  },
+  {
+    "title": "ソウタイセカイ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "相对世界"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://www.soutaisekai.jp/",
+    "begin": "2017-04-27T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2017-05-04T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "212017"
+      },
+      {
+        "site": "mikan",
+        "id": "1322"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/87306"
+      },
+      {
+        "site": "mal",
+        "id": "35255"
+      },
+      {
+        "site": "anidb",
+        "id": "13040"
+      },
+      {
+        "site": "aniList",
+        "id": "98573"
+      }
+    ]
+  },
+  {
+    "title": "ポンコツクエスト〜魔王と派遣の魔物たち〜 シーズン4",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "http://www.vap.co.jp/ponque/",
+    "begin": "2017-04-18T16:00:00.000Z",
+    "broadcast": "R/2017-04-18T16:00:00.000Z/P7D",
+    "end": "2018-03-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "241476"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ponque",
+        "begin": "2016-01-13T11:00:00.000Z"
+      },
+      {
+        "site": "abema",
+        "id": "143-1",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0025822",
+        "begin": "2019-07-09T03:00:00.000Z",
+        "broadcast": "R/2019-07-09T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "22186",
+        "begin": "2018-06-15T01:00:00.000Z",
+        "broadcast": "R/2018-06-15T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/126340/season/4"
+      },
+      {
+        "site": "aniList",
+        "id": "177227"
+      },
+      {
+        "site": "anidb",
+        "id": "12965"
+      }
+    ]
+  },
+  {
+    "title": "夢ふくらむあこがれの街",
+    "titleTranslate": {},
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://www.sylvanianfamilies.com/ja-jp/special/tv/1st/",
+    "begin": "2017-04-05T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2017-04-05T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "407238"
+      },
+      {
+        "site": "danime",
+        "id": "25753",
+        "begin": "2022-09-14T01:00:00.000Z",
+        "broadcast": "R/2022-09-14T01:00:00.000Z/P7D"
       }
     ]
   }

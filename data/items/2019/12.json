@@ -1,7 +1,18 @@
 [
   {
     "title": "妖怪ウォッチJam 妖怪学園Y ～Nとの遭遇～",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "妖怪学园Y ～第N类接触～",
+        "妖怪学园Y ～与n的遭遇～"
+      ],
+      "zh-Hant": [
+        "妖怪學園Y"
+      ],
+      "en": [
+        "Y School Heroes"
+      ]
+    },
     "type": "tv",
     "lang": "ja",
     "officialSite": "https://www.tv-tokyo.co.jp/anime/youkai-watch2020/",
@@ -17,6 +28,28 @@
         "site": "nicovideo",
         "id": "youkai-watch2020",
         "begin": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0045119",
+        "begin": "2020-01-03T03:00:00.000Z",
+        "broadcast": "R/2020-01-03T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/96912"
+      },
+      {
+        "site": "mal",
+        "id": "40714"
+      },
+      {
+        "site": "aniList",
+        "id": "113472"
+      },
+      {
+        "site": "anidb",
+        "id": "15268"
       }
     ]
   },
@@ -33,6 +66,22 @@
       {
         "site": "bangumi",
         "id": "291233"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/94004"
+      },
+      {
+        "site": "mal",
+        "id": "40438"
+      },
+      {
+        "site": "anidb",
+        "id": "15108"
+      },
+      {
+        "site": "aniList",
+        "id": "111964"
       }
     ]
   },
@@ -47,12 +96,28 @@
     "lang": "ja",
     "officialSite": "https://www.youtube.com/channel/UC5FHhPKV7tJtKmyTC5U7LFg",
     "begin": "2019-12-25T16:00:00.000Z",
-    "end": "",
+    "end": "2019-12-25T16:00:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "288937"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/115935"
+      },
+      {
+        "site": "mal",
+        "id": "40768"
+      },
+      {
+        "site": "anidb",
+        "id": "15282"
+      },
+      {
+        "site": "aniList",
+        "id": "113863"
       }
     ]
   },
@@ -61,6 +126,13 @@
     "titleTranslate": {
       "zh-Hans": [
         "齐木楠雄的灾难 Ψ始动篇"
+      ],
+      "zh-Hant": [
+        "齊木楠雄的災難：重啟",
+        "齊木楠雄的災難：再始動"
+      ],
+      "en": [
+        "The Disastrous Life of Saiki K.: Reawakened"
       ]
     },
     "type": "web",
@@ -77,7 +149,8 @@
       {
         "site": "bilibili",
         "id": "28223748",
-        "begin": "2019-12-30T16:00:00.000Z"
+        "begin": "2019-12-30T16:00:00.000Z",
+        "broadcast": "R/2019-12-31T08:00:00.000Z/P7D"
       },
       {
         "site": "iqiyi",
@@ -88,6 +161,40 @@
         "site": "youku",
         "id": "aaca7616f8894efba8f5",
         "begin": "2019-12-31T07:59:36.000Z"
+      },
+      {
+        "site": "netflix",
+        "id": "81054849",
+        "begin": "2019-12-30T00:00:00.000Z",
+        "broadcast": "R/2019-12-30T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2155"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/97009"
+      },
+      {
+        "site": "mal",
+        "id": "40542"
+      },
+      {
+        "site": "anidb",
+        "id": "14797"
+      },
+      {
+        "site": "aniList",
+        "id": "112625"
+      },
+      {
+        "site": "acgnx",
+        "id": "齊木"
+      },
+      {
+        "site": "dmhy",
+        "id": "齊木"
       }
     ]
   },
@@ -108,6 +215,18 @@
       {
         "site": "bangumi",
         "id": "296114"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/128934"
+      },
+      {
+        "site": "mal",
+        "id": "48606"
+      },
+      {
+        "site": "anidb",
+        "id": "15303"
       }
     ]
   },
@@ -116,6 +235,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "妖怪学园Y 猫也能成为HERO 吗"
+      ],
+      "zh-Hant": [
+        "妖怪學園Y"
       ]
     },
     "type": "movie",
@@ -133,6 +255,28 @@
         "site": "nicovideo",
         "id": "eiga-yokai",
         "begin": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0050418",
+        "begin": "2020-08-03T03:00:00.000Z",
+        "broadcast": "R/2020-08-03T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/657355"
+      },
+      {
+        "site": "mal",
+        "id": "39529"
+      },
+      {
+        "site": "anidb",
+        "id": "14754"
+      },
+      {
+        "site": "aniList",
+        "id": "113273"
       }
     ]
   },
@@ -141,6 +285,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "鲁邦三世 THE FIRST"
+      ],
+      "zh-Hant": [
+        "魯邦三世 THE FIRST"
       ]
     },
     "type": "movie",
@@ -158,6 +305,39 @@
         "site": "nicovideo",
         "id": "lupin-3rd-movie",
         "begin": ""
+      },
+      {
+        "site": "mikan",
+        "id": "2183"
+      },
+      {
+        "site": "danime",
+        "id": "26352",
+        "begin": "2023-04-28T01:00:00.000Z",
+        "broadcast": "R/2023-04-28T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UcjhXd9e2Y3a0Mlbn_NyaLeQ",
+        "url": "https://www.youtube.com/watch?v=XRK8dGG0bfg",
+        "begin": "2023-01-05T16:00:00.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/614587"
+      },
+      {
+        "site": "mal",
+        "id": "40082"
+      },
+      {
+        "site": "anidb",
+        "id": "15003"
+      },
+      {
+        "site": "aniList",
+        "id": "110413"
       }
     ]
   },
@@ -166,6 +346,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "我们的七日战争"
+      ],
+      "en": [
+        "Seven Days War"
       ]
     },
     "type": "movie",
@@ -184,6 +367,230 @@
         "id": "7dayswar",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0052637",
+        "begin": "2020-11-01T15:00:00.000Z",
+        "broadcast": "R/2020-11-01T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2171"
+      },
+      {
+        "site": "danime",
+        "id": "24770",
+        "begin": "2021-06-11T01:00:00.000Z",
+        "broadcast": "R/2021-06-11T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/608085"
+      },
+      {
+        "site": "mal",
+        "id": "37828"
+      },
+      {
+        "site": "anidb",
+        "id": "14071"
+      },
+      {
+        "site": "aniList",
+        "id": "101610"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "G9VHN9DGZ",
+        "begin": "2021-12-02T09:00:00.000Z",
+        "broadcast": "R/2021-12-02T09:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "僕のヒーローアカデミア THE MOVIE ヒーローズ：ライジング",
+    "titleTranslate": {
+      "zh-Hans": [
+        "我的英雄学院：英雄崛起"
+      ],
+      "zh-Hant": [
+        "我的英雄學院：英雄新世紀：劇場版",
+        "我的英雄學院劇場版：英雄新世紀",
+        "我的英雄學院：英雄新世紀"
+      ],
+      "en": [
+        "My Hero Academia: Heroes Rising"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://heroaca-movie.com/",
+    "begin": "2019-12-19T16:00:00.000Z",
+    "end": "2019-12-19T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "278429"
+      },
+      {
+        "site": "netflix",
+        "id": "81398907",
+        "begin": "2021-05-13T16:00:00.000Z",
+        "broadcast": "R/2021-05-13T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0049268",
+        "begin": "2020-07-08T03:00:00.000Z",
+        "broadcast": "R/2020-07-08T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "104690",
+        "begin": "2024-04-19T04:00:00.000Z",
+        "broadcast": "R/2024-04-19T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "104690",
+        "begin": "2024-04-19T04:00:00.000Z",
+        "broadcast": "R/2024-04-19T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2263"
+      },
+      {
+        "site": "prime",
+        "id": "B08B8Q2BNX",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "26566",
+        "begin": "2025-07-31T15:00:00.000Z",
+        "broadcast": "R/2025-07-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/592350"
+      },
+      {
+        "site": "mal",
+        "id": "39565"
+      },
+      {
+        "site": "anidb",
+        "id": "14776"
+      },
+      {
+        "site": "aniList",
+        "id": "108553"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GMTE00094107",
+        "begin": "2019-12-20T00:00:00.000Z",
+        "broadcast": "R/2019-12-20T00:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 新幹線変形ロボ シンカリオン 未来からきた神速のALFA-X",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 新干线变形机器人 来自未来的神速ALFA-X",
+        "剧场版新干线战士：来自未来的神速ALFA-X"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.shinkalion.com/news/2612/",
+    "begin": "2019-12-26T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2019-12-26T17:19:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "286670"
+      },
+      {
+        "site": "unext",
+        "id": "SID0048708",
+        "begin": "2022-01-27T03:00:00.000Z",
+        "broadcast": "R/2022-01-27T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2184"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/635687"
+      },
+      {
+        "site": "mal",
+        "id": "39967"
+      },
+      {
+        "site": "anidb",
+        "id": "14961"
+      },
+      {
+        "site": "aniList",
+        "id": "110131"
+      },
+      {
+        "site": "danime",
+        "id": "29129",
+        "begin": "2026-07-10T15:00:00.000Z",
+        "broadcast": "R/2026-07-10T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "この世界の（さらにいくつもの）片隅に",
+    "titleTranslate": {
+      "zh-Hans": [
+        "在这世界(更多一些)的角落",
+        "在这世界的(还有更多的)角落"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2019-12-19T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2019-12-19T18:48:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "255191"
+      },
+      {
+        "site": "unext",
+        "id": "SID0029241",
+        "begin": "2021-08-01T03:00:00.000Z",
+        "broadcast": "R/2021-08-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0GVTTYG7D",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "anidb",
+        "id": "14233"
+      },
+      {
+        "site": "aniList",
+        "id": "112135"
       }
     ]
   }

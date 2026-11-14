@@ -22,10 +22,54 @@
         "id": "346242"
       },
       {
-        "site": "muse_hk",
-        "id": "PLuxqoToY7Uch1pVm3ukGPX1wy-efZqS8t",
-        "begin": "2021-09-19T22:15:00.000Z",
-        "broadcast": "R/2021-09-19T22:15:00.000Z/P7D"
+        "site": "nicovideo",
+        "id": "doukichan-anime",
+        "begin": "2022-05-31T15:00:00.000Z",
+        "broadcast": "R/2022-05-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0067618",
+        "begin": "2022-04-11T03:00:00.000Z",
+        "broadcast": "R/2022-04-11T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "同期醬"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "615db8782525b00007628381"
+      },
+      {
+        "site": "mikan",
+        "id": "2546"
+      },
+      {
+        "site": "danime",
+        "id": "25432",
+        "begin": "2022-04-10T15:00:00.000Z",
+        "broadcast": "R/2022-04-10T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/131168"
+      },
+      {
+        "site": "mal",
+        "id": "49605"
+      },
+      {
+        "site": "anidb",
+        "id": "16536"
+      },
+      {
+        "site": "aniList",
+        "id": "137877"
+      },
+      {
+        "site": "acgnx",
+        "id": "同期"
       }
     ]
   },
@@ -39,7 +83,8 @@
         "星期一的丰满 第二季"
       ],
       "zh-Hant": [
-        "星期一的豐滿2"
+        "星期一的豐滿2",
+        "星期一的豐滿 第二季"
       ]
     },
     "type": "web",
@@ -55,10 +100,50 @@
         "id": "349616"
       },
       {
-        "site": "muse_hk",
-        "id": "PLuxqoToY7Uci1bE-BkrnAKmuzvPulQGqp",
-        "begin": "2021-09-19T22:20:00.000Z",
-        "broadcast": "R/2021-09-19T22:20:00.000Z/P7D"
+        "site": "nicovideo",
+        "id": "tawawa-anime",
+        "begin": "2022-05-31T15:00:00.000Z",
+        "broadcast": "R/2022-05-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0067617",
+        "begin": "2022-04-11T03:00:00.000Z",
+        "broadcast": "R/2022-04-11T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "tawawa 2季|二季|2期|二期|S02|S2|2nd"
+      },
+      {
+        "site": "mikan",
+        "id": "2545"
+      },
+      {
+        "site": "danime",
+        "id": "25433",
+        "begin": "2022-04-10T15:00:00.000Z",
+        "broadcast": "R/2022-04-10T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/68455/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "49854"
+      },
+      {
+        "site": "anidb",
+        "id": "16734"
+      },
+      {
+        "site": "aniList",
+        "id": "139449"
+      },
+      {
+        "site": "acgnx",
+        "id": "星期一"
       }
     ]
   },
@@ -84,9 +169,32 @@
         "id": "349032"
       },
       {
-        "site": "viu",
-        "id": "415241",
-        "begin": ""
+        "site": "tmdb",
+        "id": "movie/895003"
+      },
+      {
+        "site": "anidb",
+        "id": "17069"
+      },
+      {
+        "site": "gamer",
+        "id": "151923",
+        "begin": "2026-06-05T04:00:00.000Z",
+        "broadcast": "R/2026-06-05T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "151923",
+        "begin": "2026-06-05T04:00:00.000Z",
+        "broadcast": "R/2026-06-05T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "49926"
+      },
+      {
+        "site": "aniList",
+        "id": "129874"
       }
     ]
   },
@@ -112,9 +220,32 @@
         "id": "349033"
       },
       {
-        "site": "viu",
-        "id": "415448",
-        "begin": ""
+        "site": "tmdb",
+        "id": "movie/895006"
+      },
+      {
+        "site": "anidb",
+        "id": "17070"
+      },
+      {
+        "site": "gamer",
+        "id": "151926",
+        "begin": "2026-06-05T04:00:00.000Z",
+        "broadcast": "R/2026-06-05T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "151926",
+        "begin": "2026-06-05T04:00:00.000Z",
+        "broadcast": "R/2026-06-05T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "49926"
+      },
+      {
+        "site": "aniList",
+        "id": "129874"
       }
     ]
   },
@@ -142,7 +273,448 @@
       {
         "site": "muse_hk",
         "id": "PLuxqoToY7UciceC14F8-9VyfN1xuSJt_d",
-        "begin": ""
+        "begin": "2021-12-29T16:00:00.000Z",
+        "broadcast": "R/2021-12-29T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0066035",
+        "begin": "2022-03-30T03:00:00.000Z",
+        "broadcast": "R/2022-03-30T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/94904/season/0/episode/66"
+      },
+      {
+        "site": "mal",
+        "id": "49457"
+      },
+      {
+        "site": "aniList",
+        "id": "136829"
+      },
+      {
+        "site": "anidb",
+        "id": "16445"
+      }
+    ]
+  },
+  {
+    "title": "範馬刃牙",
+    "titleTranslate": {
+      "zh-Hans": [
+        "范马刃牙"
+      ],
+      "zh-Hant": [
+        "範馬刃牙"
+      ],
+      "en": [
+        "Baki Hanma"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://baki-anime.jp/",
+    "begin": "2021-09-30T16:00:00.000Z",
+    "end": "2021-09-30T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "317852"
+      },
+      {
+        "site": "netflix",
+        "id": "81236338",
+        "begin": "2021-09-29T16:00:00.000Z",
+        "broadcast": "R/2021-09-29T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0088178",
+        "begin": "2023-07-01T03:00:00.000Z",
+        "broadcast": "R/2023-07-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2605"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/129600"
+      },
+      {
+        "site": "mal",
+        "id": "42940"
+      },
+      {
+        "site": "aniList",
+        "id": "124195"
+      },
+      {
+        "site": "anidb",
+        "id": "15737"
+      },
+      {
+        "site": "acgnx",
+        "id": "刃牙"
+      },
+      {
+        "site": "dmhy",
+        "id": "刃牙"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 Free!-the Final Stroke- 前編",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 Free!-the Final Stroke- 前篇",
+        "男子游泳部：最后一击！前篇"
+      ],
+      "zh-Hant": [
+        "劇場版 Free! 男子游泳部 -the Final Stroke- 前篇"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://fs.iwatobi-sc.com/",
+    "begin": "2021-09-16T16:00:00.000Z",
+    "end": "2021-09-16T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "271652"
+      },
+      {
+        "site": "gamer",
+        "id": "113123",
+        "begin": "2023-11-10T04:00:00.000Z",
+        "broadcast": "R/2023-11-10T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "28366421",
+        "begin": "2023-09-02T02:00:00.000Z",
+        "broadcast": "R/2023-09-02T02:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0068542",
+        "begin": "2022-04-19T15:00:00.000Z",
+        "broadcast": "R/2022-04-19T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2716"
+      },
+      {
+        "site": "danime",
+        "id": "26100",
+        "begin": "2023-01-09T01:00:00.000Z",
+        "broadcast": "R/2023-01-09T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/738091"
+      },
+      {
+        "site": "anidb",
+        "id": "14415"
+      }
+    ]
+  },
+  {
+    "title": "アリス・ギア・アイギス ～ドキッ！アクトレスだらけのマーメイドグランプリ～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "机战少女 Alice ～心跳！满是女演员的美人鱼大奖赛♥～"
+      ],
+      "zh-Hant": [
+        "機戰少女 Alice OVA"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "https://colopl.co.jp/alicegearaegis/lp/ova",
+    "begin": "2021-09-14T16:00:00.000Z",
+    "end": "2021-09-14T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "343710"
+      },
+      {
+        "site": "gamer",
+        "id": "133485",
+        "begin": "2023-06-23T08:35:00.000Z",
+        "broadcast": "R/2023-06-23T08:35:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0084903",
+        "begin": "2023-04-05T12:00:00.000Z",
+        "broadcast": "R/2023-04-05T12:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3048"
+      },
+      {
+        "site": "danime",
+        "id": "26251",
+        "begin": "2023-03-29T12:00:00.000Z",
+        "broadcast": "R/2023-03-29T12:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "133485",
+        "begin": "2023-06-23T08:35:00.000Z",
+        "broadcast": "R/2023-06-23T08:35:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/755094"
+      },
+      {
+        "site": "mal",
+        "id": "43506"
+      },
+      {
+        "site": "anidb",
+        "id": "15794"
+      },
+      {
+        "site": "aniList",
+        "id": "126186"
+      }
+    ]
+  },
+  {
+    "title": "リョーマ！The Prince of Tennis 新生劇場版テニスの王子様",
+    "titleTranslate": {
+      "zh-Hans": [
+        "龙马！新生网球王子",
+        "新网球王子 剧场版"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://gaga.ne.jp/RYOMA_MOVIE",
+    "begin": "2021-09-02T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2021-09-02T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "195333"
+      },
+      {
+        "site": "unext",
+        "id": "SID0064799",
+        "begin": "2023-07-05T15:00:00.000Z",
+        "broadcast": "R/2023-07-05T15:00:00.000Z/P7D",
+        "comment": "Glory, Decide: SID0064798"
+      },
+      {
+        "site": "bilibili",
+        "id": "28412314",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "26379",
+        "begin": "2023-07-05T15:00:00.000Z",
+        "broadcast": "R/2023-07-05T15:00:00.000Z/P7D",
+        "comment": "Decide, Glory: 26380"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/650270"
+      },
+      {
+        "site": "mal",
+        "id": "38882"
+      },
+      {
+        "site": "anidb",
+        "id": "14551"
+      },
+      {
+        "site": "aniList",
+        "id": "113254"
+      }
+    ]
+  },
+  {
+    "title": "プリンセス・プリンシパル Crown Handler 第2章",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Princess Principal Crown Handler 第2章",
+        "公主代理人 Crown Handler 第2章",
+        "公主委托人 Crown Handler 第2章",
+        "公主准则 Crown Handler 第2章"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.pripri-anime.jp",
+    "begin": "2021-09-22T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2021-09-22T16:55:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "244929"
+      },
+      {
+        "site": "unext",
+        "id": "SID0064927",
+        "begin": "2021-12-12T15:00:00.000Z",
+        "broadcast": "R/2021-12-12T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2613"
+      },
+      {
+        "site": "danime",
+        "id": "25934",
+        "begin": "2022-12-22T15:00:00.000Z",
+        "broadcast": "R/2022-12-22T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/843267"
+      },
+      {
+        "site": "mal",
+        "id": "41140"
+      },
+      {
+        "site": "aniList",
+        "id": "129759"
+      }
+    ]
+  },
+  {
+    "title": "Star Wars: Visions",
+    "titleTranslate": {
+      "zh-Hans": [
+        "星球大战：幻境",
+        "星球大战：幻象",
+        "星球大战：异象"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2021-09-21T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2021-09-21T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "340837"
+      },
+      {
+        "site": "disneyplus",
+        "id": "5AiiTRJ7OaKg",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "23153333",
+        "begin": "2024-10-23T12:00:00.000Z",
+        "broadcast": "R/2024-10-23T12:00:00.000Z/P7D",
+        "comment": "中文配音: 23153287"
+      },
+      {
+        "site": "mikan",
+        "id": "2547"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/114478"
+      },
+      {
+        "site": "mal",
+        "id": "49357"
+      },
+      {
+        "site": "anidb",
+        "id": "16420"
+      },
+      {
+        "site": "aniList",
+        "id": "138060"
+      }
+    ]
+  },
+  {
+    "title": "魔法使いの嫁 西の少年と青嵐の騎士",
+    "titleTranslate": {
+      "zh-Hans": [
+        "魔法使的新娘 西之少年与青岚的骑士"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "https://magus-bride.jp/wildhunt/",
+    "begin": "2021-09-09T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2022-09-08T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "330394"
+      },
+      {
+        "site": "unext",
+        "id": "SID0148120",
+        "begin": "2024-10-01T03:00:00.000Z",
+        "broadcast": "R/2024-10-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2607"
+      },
+      {
+        "site": "danime",
+        "id": "27454",
+        "begin": "2024-10-29T15:00:00.000Z",
+        "broadcast": "R/2024-10-29T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/120471"
+      },
+      {
+        "site": "mal",
+        "id": "48438"
+      },
+      {
+        "site": "anidb",
+        "id": "16113"
+      },
+      {
+        "site": "aniList",
+        "id": "130713"
+      },
+      {
+        "site": "abema",
+        "id": "560-4",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   }

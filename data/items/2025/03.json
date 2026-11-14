@@ -1,0 +1,692 @@
+[
+  {
+    "title": "はーい！ミャクミャクです",
+    "titleTranslate": {
+      "zh-Hans": [
+        "嗨！我是脉脉"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.nhk.jp/p/ts/M39QRW64X4/",
+    "begin": "2025-03-03T14:45:00.000Z",
+    "broadcast": "R/2025-03-03T14:45:00.000Z/P7D",
+    "end": "2025-03-06T14:49:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "536694"
+      },
+      {
+        "site": "unext",
+        "id": "SID0228345",
+        "begin": "2025-08-31T15:00:00.000Z",
+        "broadcast": "R/2025-08-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "28184",
+        "begin": "2025-08-30T15:00:00.000Z",
+        "broadcast": "R/2025-08-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/285388"
+      },
+      {
+        "site": "mal",
+        "id": "61197"
+      },
+      {
+        "site": "anidb",
+        "id": "19678"
+      },
+      {
+        "site": "aniList",
+        "id": "189733"
+      }
+    ]
+  },
+  {
+    "title": "鬼人幻燈抄",
+    "titleTranslate": {
+      "zh-Hans": [
+        "鬼人幻灯抄"
+      ],
+      "zh-Hant": [
+        "鬼人幻燈抄"
+      ],
+      "en": [
+        "Sword of the Demon Hunter",
+        "Sword of the Demon Hunter: Kijin Gentosho"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://kijin-anime.com/",
+    "begin": "2025-03-31T12:30:00.000Z",
+    "broadcast": "R/2025-03-31T12:30:00.000Z/P7D",
+    "end": "2025-09-29T15:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "404753"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kijin-anime",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0104177",
+        "begin": "2025-04-03T15:00:00.000Z",
+        "broadcast": "R/2025-04-03T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "136611",
+        "begin": "2025-03-31T12:30:00.000Z",
+        "broadcast": "R/2025-03-31T12:30:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "27890",
+        "begin": "2025-04-03T15:00:00.000Z",
+        "broadcast": "R/2025-04-03T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0F25LC1TQ",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mikan",
+        "id": "3580"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "67ed5cbd8b961748467f45e9"
+      },
+      {
+        "site": "gamer",
+        "id": "136611",
+        "begin": "2025-03-31T12:30:00.000Z",
+        "broadcast": "R/2025-03-31T12:30:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtSSfb_kh2hw_ves_-VcmDU7",
+        "begin": "2025-03-31T12:30:00.000Z",
+        "broadcast": "R/2025-03-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7Jhve97gk77TX6seY4UaVkQn",
+        "begin": "2025-03-31T12:30:00.000Z",
+        "broadcast": "R/2025-03-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "鬼人"
+      },
+      {
+        "site": "netflix",
+        "id": "82040391",
+        "begin": "2025-08-18T16:00:00.000Z",
+        "broadcast": "R/2025-08-18T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/133154"
+      },
+      {
+        "site": "mal",
+        "id": "49778"
+      },
+      {
+        "site": "anidb",
+        "id": "16614"
+      },
+      {
+        "site": "aniList",
+        "id": "143598"
+      },
+      {
+        "site": "acgnx",
+        "id": "鬼人幻燈抄"
+      }
+    ]
+  },
+  {
+    "title": "ツインズひなひま",
+    "titleTranslate": {
+      "zh-Hans": [
+        "双胞胎阳奈妃莉",
+        "双子姐妹"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://anime-hinahima.com/",
+    "begin": "2025-03-28T14:30:00.000Z",
+    "broadcast": "R/2025-03-28T14:30:00.000Z/P0D",
+    "end": "2025-03-28T15:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "528439"
+      },
+      {
+        "site": "unext",
+        "id": "SID0178347",
+        "begin": "2025-03-30T03:00:00.000Z",
+        "broadcast": "R/2025-03-30T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "27734",
+        "begin": "2025-03-30T03:00:00.000Z",
+        "broadcast": "R/2025-03-30T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0DPPJK478",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1458643"
+      },
+      {
+        "site": "mal",
+        "id": "60521"
+      },
+      {
+        "site": "anidb",
+        "id": "19051"
+      },
+      {
+        "site": "acgnx",
+        "id": "雙胞胎 陽奈妃莉"
+      },
+      {
+        "site": "dmhy",
+        "id": "雙胞胎 陽奈妃莉"
+      }
+    ]
+  },
+  {
+    "title": "OVA SK∞ エスケーエイト EXTRA PART",
+    "titleTranslate": {
+      "zh-Hans": [
+        "OVA 无限滑板 EXTRA PART"
+      ],
+      "zh-Hant": [
+        "SK8 the infinity EXTRA PART"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "https://sk8-project.com/ova/",
+    "begin": "2025-03-18T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2025-03-18T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "396229"
+      },
+      {
+        "site": "gamer",
+        "id": "137495",
+        "begin": "2025-04-18T16:00:00.000Z",
+        "broadcast": "R/2025-04-18T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "137495",
+        "begin": "2025-04-18T16:00:00.000Z",
+        "broadcast": "R/2025-04-18T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1385332"
+      },
+      {
+        "site": "mal",
+        "id": "49363"
+      },
+      {
+        "site": "anidb",
+        "id": "16422"
+      },
+      {
+        "site": "aniList",
+        "id": "136381"
+      }
+    ]
+  },
+  {
+    "title": "忍たま乱太郎 第33シリーズ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "忍者乱太郎 第33季"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.nhk.jp/p/nintama/",
+    "begin": "2025-03-30T16:00:00.000Z",
+    "broadcast": "R/2025-03-30T16:00:00.000Z/P7D",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "541423"
+      },
+      {
+        "site": "unext",
+        "id": "SID0197203",
+        "begin": "2025-06-27T03:00:00.000Z",
+        "broadcast": "R/2025-06-27T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "27997",
+        "begin": "2025-06-05T15:00:00.000Z",
+        "broadcast": "R/2025-06-05T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/34860"
+      },
+      {
+        "site": "mal",
+        "id": "1199"
+      },
+      {
+        "site": "anidb",
+        "id": "3626"
+      },
+      {
+        "site": "aniList",
+        "id": "1199"
+      }
+    ]
+  },
+  {
+    "title": "怪獣8号 保科の休日",
+    "titleTranslate": {
+      "zh-Hans": [
+        "怪兽8号 保科的假期"
+      ],
+      "zh-Hant": [
+        "怪獸8號 保科特休日",
+        "怪獸8號 保科放大假"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://kaiju-no8.net/",
+    "begin": "2025-03-27T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2025-03-27T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "507122"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "140244",
+        "begin": "2025-07-05T15:00:00.000Z",
+        "broadcast": "R/2025-07-05T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtRBg1e_l8hZxxGPIT9V-jcL",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JjBFTyOmpLiobwouSY2fCJM",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "26648621",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "28123",
+        "begin": "2025-07-05T14:30:00.000Z",
+        "broadcast": "R/2025-07-05T14:30:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0F62XC8CF",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1326106"
+      },
+      {
+        "site": "mal",
+        "id": "59490"
+      },
+      {
+        "site": "aniList",
+        "id": "179999"
+      }
+    ]
+  },
+  {
+    "title": "映画ドラえもん のび太の絵世界物語",
+    "titleTranslate": {
+      "zh-Hans": [
+        "哆啦A梦：大雄的绘画奇遇记",
+        "哆啦A梦：大雄的绘世界物语"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://doraeiga.com/2025/",
+    "begin": "2025-03-06T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2025-03-06T17:45:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "515422"
+      },
+      {
+        "site": "mikan",
+        "id": "3653"
+      },
+      {
+        "site": "unext",
+        "id": "SID0219875",
+        "begin": "2025-09-28T03:00:00.000Z",
+        "broadcast": "R/2025-09-28T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1372489"
+      },
+      {
+        "site": "mal",
+        "id": "59980"
+      },
+      {
+        "site": "anidb",
+        "id": "18883"
+      },
+      {
+        "site": "aniList",
+        "id": "182333"
+      },
+      {
+        "site": "abema",
+        "id": "35-134",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "劇場版 モノノ怪 火鼠",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 物怪 火鼠",
+        "剧场版 物怪 第二章",
+        "剧场版 物怪 第二章 火鼠"
+      ],
+      "zh-Hant": [
+        "劇場版物怪：第 2 章：火鼠"
+      ],
+      "en": [
+        "Mononoke The Movie: Chapter II - The Ashes of Rage"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.mononoke-movie.com/",
+    "begin": "2025-03-13T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2025-03-13T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "505488"
+      },
+      {
+        "site": "netflix",
+        "id": "81580575",
+        "begin": "2025-08-13T16:00:00.000Z",
+        "broadcast": "R/2025-08-13T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1322218"
+      },
+      {
+        "site": "mikan",
+        "id": "3726"
+      },
+      {
+        "site": "mal",
+        "id": "59408"
+      },
+      {
+        "site": "aniList",
+        "id": "179852"
+      }
+    ]
+  },
+  {
+    "title": "映画おしりたんてい スター・アンド・ムーン",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://oshiri-movie.com/",
+    "begin": "2025-03-19T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2025-03-19T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "529199"
+      },
+      {
+        "site": "unext",
+        "id": "SID0237876",
+        "begin": "2025-10-17T03:00:00.000Z",
+        "broadcast": "R/2025-10-17T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1406240"
+      },
+      {
+        "site": "danime",
+        "id": "28500",
+        "begin": "2025-12-19T03:00:00.000Z",
+        "broadcast": "R/2025-12-19T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "60613"
+      },
+      {
+        "site": "anidb",
+        "id": "19059"
+      },
+      {
+        "site": "aniList",
+        "id": "185643"
+      }
+    ]
+  },
+  {
+    "title": "怪獣8号 第1期総集編",
+    "titleTranslate": {
+      "zh-Hans": [
+        "怪兽8号 第一季总集篇",
+        "怪兽八号：侦察任务",
+        "怪獸8號 Mission Recon"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://kaiju-no8.net/",
+    "begin": "2025-03-27T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2025-03-27T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "507115"
+      },
+      {
+        "site": "unext",
+        "id": "SID0200950",
+        "begin": "2025-07-01T03:00:00.000Z",
+        "broadcast": "R/2025-07-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "59489"
+      },
+      {
+        "site": "anidb",
+        "id": "19471"
+      },
+      {
+        "site": "aniList",
+        "id": "179998"
+      },
+      {
+        "site": "danime",
+        "id": "28787",
+        "begin": "2026-03-27T15:00:00.000Z",
+        "broadcast": "R/2026-03-27T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1326106"
+      }
+    ]
+  },
+  {
+    "title": "cocoon ～ある夏の少女たちより～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "cocoon ～来自夏日的少女～"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.nhk.jp/g/blog/7glgyq4tp/",
+    "begin": "2025-03-29T16:00:00.000Z",
+    "broadcast": "R/2025-03-29T16:00:00.000Z/P7D",
+    "end": "2025-03-29T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "443168"
+      },
+      {
+        "site": "unext",
+        "id": "SID0243986",
+        "begin": "2025-12-05T03:00:00.000Z",
+        "broadcast": "R/2025-12-05T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "28483",
+        "begin": "2025-12-04T15:00:00.000Z",
+        "broadcast": "R/2025-12-04T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "55779"
+      },
+      {
+        "site": "aniList",
+        "id": "166527"
+      },
+      {
+        "site": "anidb",
+        "id": "18084"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1452267"
+      }
+    ]
+  },
+  {
+    "title": "ニンジャバットマン対ヤクザリーグ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "忍者蝙蝠侠对极道联盟"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://wwws.warnerbros.co.jp/batman-ninja/",
+    "begin": "2025-03-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2025-03-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "497110"
+      },
+      {
+        "site": "mal",
+        "id": "58964"
+      },
+      {
+        "site": "anidb",
+        "id": "18664"
+      },
+      {
+        "site": "aniList",
+        "id": "177778"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1297763"
+      },
+      {
+        "site": "danime",
+        "id": "27701",
+        "begin": "2025-03-20T15:00:00.000Z",
+        "broadcast": "R/2025-03-20T15:00:00.000Z/P7D"
+      }
+    ]
+  }
+]

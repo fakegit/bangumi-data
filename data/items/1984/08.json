@@ -1,0 +1,121 @@
+[
+  {
+    "title": "大自然の魔獣 バギ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "大自然的魔兽巴奇"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1984-08-18T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1984-08-18T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "296860"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003296",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "24083",
+        "begin": "2020-08-28T01:00:00.000Z",
+        "broadcast": "R/2020-08-28T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/34577"
+      },
+      {
+        "site": "mal",
+        "id": "2312"
+      },
+      {
+        "site": "anidb",
+        "id": "1856"
+      },
+      {
+        "site": "aniList",
+        "id": "2312"
+      }
+    ]
+  },
+  {
+    "title": "地球物語 テレパス2500",
+    "titleTranslate": {
+      "zh-Hans": [
+        "地球物语"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1984-08-03T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1984-08-03T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "82821"
+      },
+      {
+        "site": "mal",
+        "id": "8563"
+      },
+      {
+        "site": "anidb",
+        "id": "6687"
+      },
+      {
+        "site": "aniList",
+        "id": "8563"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/500540"
+      }
+    ]
+  },
+  {
+    "title": "黒い雨に打たれて",
+    "titleTranslate": {
+      "zh-Hans": [
+        "遭逢黑雨的拍打"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1984-08-11T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1984-08-11T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "101546"
+      },
+      {
+        "site": "mal",
+        "id": "19135"
+      },
+      {
+        "site": "anidb",
+        "id": "4132"
+      },
+      {
+        "site": "aniList",
+        "id": "19135"
+      }
+    ]
+  }
+]

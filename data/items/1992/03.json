@@ -28,6 +28,34 @@
         "site": "nicovideo",
         "id": "sailormoon",
         "begin": "2014-07-11T15:00:00.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002301",
+        "begin": "2019-11-07T03:00:00.000Z",
+        "broadcast": "R/2019-11-07T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "11413",
+        "begin": "2020-04-01T01:00:00.000Z",
+        "broadcast": "R/2020-04-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/3570"
+      },
+      {
+        "site": "mal",
+        "id": "530"
+      },
+      {
+        "site": "anidb",
+        "id": "235"
+      },
+      {
+        "site": "aniList",
+        "id": "530"
       }
     ]
   },
@@ -57,6 +85,34 @@
         "site": "iqiyi",
         "id": "a_19rrhb4015",
         "begin": "2016-02-04T10:34:13.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0010767",
+        "begin": "2018-07-27T03:00:00.000Z",
+        "broadcast": "R/2018-07-27T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0DR7LRQN6",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/39103"
+      },
+      {
+        "site": "mal",
+        "id": "899"
+      },
+      {
+        "site": "aniList",
+        "id": "899"
+      },
+      {
+        "site": "anidb",
+        "id": "1046"
       }
     ]
   },
@@ -65,6 +121,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "哆啦A梦：大雄与云之王国"
+      ],
+      "zh-Hant": [
+        "電影 哆啦A夢 大雄與雲之王國"
       ]
     },
     "type": "movie",
@@ -74,18 +133,8 @@
     "end": "1992-03-07T17:40:00.000Z",
     "sites": [
       {
-        "site": "letv",
-        "id": "80878",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "451"
-      },
-      {
-        "site": "pptv",
-        "id": "7qoHhe1TwwFk4ko",
-        "begin": ""
       },
       {
         "site": "qq",
@@ -95,7 +144,48 @@
       {
         "site": "bilibili",
         "id": "2560",
-        "begin": "1992-03-06T16:00:00.000Z"
+        "begin": "1992-03-06T16:00:00.000Z",
+        "broadcast": "R/2015-02-27T07:39:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "35-102",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0099857",
+        "begin": "2024-03-05T03:00:00.000Z",
+        "broadcast": "R/2024-03-05T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "32674",
+        "begin": "2023-03-16T02:00:00.000Z",
+        "broadcast": "R/2023-03-16T02:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0FM34PX6C",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/134162"
+      },
+      {
+        "site": "mal",
+        "id": "2661"
+      },
+      {
+        "site": "anidb",
+        "id": "6588"
+      },
+      {
+        "site": "aniList",
+        "id": "2661"
       }
     ]
   },
@@ -113,18 +203,251 @@
     "end": "1992-08-28T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "8zYSkPhezgxv7VU",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "1583"
       },
       {
-        "site": "bilibili",
-        "id": "7932",
-        "begin": "1992-03-26T16:00:01.000Z"
+        "site": "tmdb",
+        "id": "tv/22432"
+      },
+      {
+        "site": "mal",
+        "id": "201"
+      },
+      {
+        "site": "anidb",
+        "id": "63"
+      },
+      {
+        "site": "aniList",
+        "id": "201"
+      }
+    ]
+  },
+  {
+    "title": "シークエンス",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Sequence"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1992-03-17T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1992-03-17T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "92434"
+      },
+      {
+        "site": "unext",
+        "id": "SID0012706",
+        "begin": "2016-03-24T03:00:00.000Z",
+        "broadcast": "R/2016-03-24T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10462",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/619472"
+      },
+      {
+        "site": "mal",
+        "id": "2096"
+      },
+      {
+        "site": "anidb",
+        "id": "5015"
+      },
+      {
+        "site": "aniList",
+        "id": "2096"
+      }
+    ]
+  },
+  {
+    "title": "DRAGON QUEST ダイの大冒険 起ちあがれ!! アバンの使徒",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1992-03-06T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1992-03-06T16:41:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "317749"
+      },
+      {
+        "site": "unext",
+        "id": "SID0054519",
+        "begin": "2021-02-01T03:00:00.000Z",
+        "broadcast": "R/2021-02-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "dai-movie",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/582094"
+      },
+      {
+        "site": "mal",
+        "id": "7436"
+      },
+      {
+        "site": "aniList",
+        "id": "7436"
+      },
+      {
+        "site": "anidb",
+        "id": "2093"
+      }
+    ]
+  },
+  {
+    "title": "バビル2世",
+    "titleTranslate": {
+      "zh-Hans": [
+        "巴比伦二世 OVA"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1992-03-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1992-03-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "37268"
+      },
+      {
+        "site": "unext",
+        "id": "SID0016385",
+        "begin": "2020-12-16T03:00:00.000Z",
+        "broadcast": "R/2020-12-16T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "27299",
+        "begin": "2024-09-24T15:00:00.000Z",
+        "broadcast": "R/2024-09-24T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B078N8W5HN",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/111239"
+      },
+      {
+        "site": "mal",
+        "id": "1665"
+      },
+      {
+        "site": "anidb",
+        "id": "1461"
+      },
+      {
+        "site": "aniList",
+        "id": "1665"
+      }
+    ]
+  },
+  {
+    "title": "それいけ!アンパンマン アンパンマンとゆかいな仲間たち",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.tms-e.co.jp/alltitles/anpanman/060307.html",
+    "begin": "1992-03-13T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1992-03-13T16:31:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "419192"
+      },
+      {
+        "site": "unext",
+        "id": "SID0018524",
+        "begin": "2015-07-01T06:00:00.000Z",
+        "broadcast": "R/2015-07-01T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/451478"
+      },
+      {
+        "site": "mal",
+        "id": "21937"
+      },
+      {
+        "site": "aniList",
+        "id": "121832"
+      },
+      {
+        "site": "anidb",
+        "id": "7754"
+      }
+    ]
+  },
+  {
+    "title": "それいけ!アンパンマン つみき城のひみつ",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.tms-e.co.jp/alltitles/anpanman/060306.html",
+    "begin": "1992-03-13T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1992-03-13T17:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "419191"
+      },
+      {
+        "site": "unext",
+        "id": "SID0018523",
+        "begin": "2015-07-01T06:00:00.000Z",
+        "broadcast": "R/2015-07-01T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/475069"
+      },
+      {
+        "site": "mal",
+        "id": "10059"
+      },
+      {
+        "site": "aniList",
+        "id": "10059"
+      },
+      {
+        "site": "anidb",
+        "id": "7548"
       }
     ]
   }

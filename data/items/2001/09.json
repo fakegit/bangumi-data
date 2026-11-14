@@ -16,6 +16,28 @@
       {
         "site": "bangumi",
         "id": "14231"
+      },
+      {
+        "site": "danime",
+        "id": "25066",
+        "begin": "2025-07-31T15:00:00.000Z",
+        "broadcast": "R/2025-07-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/45154"
+      },
+      {
+        "site": "mal",
+        "id": "1064"
+      },
+      {
+        "site": "anidb",
+        "id": "953"
+      },
+      {
+        "site": "aniList",
+        "id": "1064"
       }
     ]
   },
@@ -38,10 +60,110 @@
         "id": "860"
       },
       {
+        "site": "bilibili",
+        "id": "3008",
+        "begin": "2015-11-15T06:01:52.000Z",
+        "broadcast": "R/2015-11-15T06:01:52.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0012857",
+        "begin": "2019-02-28T03:00:00.000Z",
+        "broadcast": "R/2019-02-28T03:00:00.000Z/P7D"
+      },
+      {
         "site": "nicovideo",
         "id": "cowboy-bebop-tengokunotobira",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "25371",
+        "begin": "2024-12-25T15:00:00.000Z",
+        "broadcast": "R/2024-12-25T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/11299"
+      },
+      {
+        "site": "mal",
+        "id": "5"
+      },
+      {
+        "site": "anidb",
+        "id": "219"
+      },
+      {
+        "site": "aniList",
+        "id": "5"
+      }
+    ]
+  },
+  {
+    "title": "ハローキティのねむれる森の美女",
+    "titleTranslate": {
+      "zh-Hans": [
+        "凯蒂猫：森林睡美人"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2001-09-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2001-09-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "316096"
+      },
+      {
+        "site": "danime",
+        "id": "25525",
+        "begin": "2023-01-20T01:00:00.000Z",
+        "broadcast": "R/2023-01-20T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "17955"
+      },
+      {
+        "site": "anidb",
+        "id": "7843"
+      }
+    ]
+  },
+  {
+    "title": "おさるのもんきちの金の斧 銀の斧",
+    "titleTranslate": {},
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2001-09-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2001-09-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "316640"
+      },
+      {
+        "site": "danime",
+        "id": "25526",
+        "begin": "2023-01-20T01:00:00.000Z",
+        "broadcast": "R/2023-01-20T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "22567"
+      },
+      {
+        "site": "anidb",
+        "id": "7821"
       }
     ]
   }

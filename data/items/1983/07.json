@@ -28,11 +28,6 @@
         "begin": ""
       },
       {
-        "site": "sohu",
-        "id": "s2018/dhpmfxts",
-        "begin": ""
-      },
-      {
         "site": "iqiyi",
         "id": "a_19rrgyoz11",
         "begin": "2018-04-01T01:00:25.000Z"
@@ -41,6 +36,34 @@
         "site": "bilibili",
         "id": "5600",
         "begin": "1983-06-30T16:00:01.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002880",
+        "begin": "2023-07-29T03:00:00.000Z",
+        "broadcast": "R/2023-07-29T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "11062",
+        "begin": "2023-07-31T15:00:00.000Z",
+        "broadcast": "R/2023-07-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/35529"
+      },
+      {
+        "site": "mal",
+        "id": "2044"
+      },
+      {
+        "site": "anidb",
+        "id": "521"
+      },
+      {
+        "site": "aniList",
+        "id": "2044"
       }
     ]
   },
@@ -60,6 +83,22 @@
       {
         "site": "bangumi",
         "id": "47673"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/458537"
+      },
+      {
+        "site": "mal",
+        "id": "9972"
+      },
+      {
+        "site": "anidb",
+        "id": "2355"
+      },
+      {
+        "site": "aniList",
+        "id": "9972"
       }
     ]
   },
@@ -89,6 +128,276 @@
         "site": "bilibili",
         "id": "2876",
         "begin": "1983-07-10T16:00:00.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0038637",
+        "begin": "2018-12-29T03:00:00.000Z",
+        "broadcast": "R/2018-12-29T03:00:00.000Z/P7D",
+        "comment": "二期 #37-73: SID0038638"
+      },
+      {
+        "site": "danime",
+        "id": "10305",
+        "begin": "2018-12-01T01:00:00.000Z",
+        "broadcast": "R/2018-12-01T01:00:00.000Z/P7D",
+        "comment": "#37-73: 21606"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/34114"
+      },
+      {
+        "site": "mal",
+        "id": "2043"
+      },
+      {
+        "site": "anidb",
+        "id": "1025"
+      },
+      {
+        "site": "aniList",
+        "id": "2043"
+      }
+    ]
+  },
+  {
+    "title": "パタリロ! スターダスト計画",
+    "titleTranslate": {
+      "zh-Hans": [
+        "巴塔利洛 星尘计划",
+        "帕塔利洛！星尘计划"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1983-07-09T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1983-07-09T16:48:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "449224"
+      },
+      {
+        "site": "unext",
+        "id": "SID0043693",
+        "begin": "2019-12-05T03:00:00.000Z",
+        "broadcast": "R/2019-12-05T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "21364",
+        "begin": "2020-01-20T01:00:00.000Z",
+        "broadcast": "R/2020-01-20T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/391590"
+      },
+      {
+        "site": "mal",
+        "id": "12663"
+      },
+      {
+        "site": "anidb",
+        "id": "2278"
+      },
+      {
+        "site": "aniList",
+        "id": "12663"
+      }
+    ]
+  },
+  {
+    "title": "はだしのゲン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "赤足小子",
+        "赤脚阿元"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.madhouse.co.jp/works/1986-1983/works_movie_hadashi.html",
+    "begin": "1983-07-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1983-07-20T17:25:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "54297"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002788",
+        "begin": "2019-08-29T03:00:00.000Z",
+        "broadcast": "R/2019-08-29T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "21880",
+        "begin": "2017-12-22T01:00:00.000Z",
+        "broadcast": "R/2017-12-22T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/14087"
+      },
+      {
+        "site": "mal",
+        "id": "1824"
+      },
+      {
+        "site": "anidb",
+        "id": "627"
+      },
+      {
+        "site": "aniList",
+        "id": "1824"
+      }
+    ]
+  },
+  {
+    "title": "超時空世紀オーガス",
+    "titleTranslate": {
+      "zh-Hans": [
+        "超时空世纪",
+        "超时空世纪ORGUSS",
+        "时空争霸战",
+        "时空战警"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1983-07-02T16:00:00.000Z",
+    "broadcast": "R/1983-07-02T16:00:00.000Z/P7D",
+    "end": "1984-04-07T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "37167"
+      },
+      {
+        "site": "unext",
+        "id": "SID0103613",
+        "begin": "2024-06-01T03:00:00.000Z",
+        "broadcast": "R/2024-06-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "27125",
+        "begin": "2024-06-01T03:00:00.000Z",
+        "broadcast": "R/2024-06-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/43209"
+      },
+      {
+        "site": "mal",
+        "id": "2089"
+      },
+      {
+        "site": "anidb",
+        "id": "1039"
+      },
+      {
+        "site": "aniList",
+        "id": "2089"
+      }
+    ]
+  },
+  {
+    "title": "ザブングル グラフィティ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "萨芬格尔·涂鸦"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1983-07-08T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1983-07-08T17:24:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "192783"
+      },
+      {
+        "site": "danime",
+        "id": "26857",
+        "begin": "2024-12-25T15:00:00.000Z",
+        "broadcast": "R/2024-12-25T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/626832"
+      },
+      {
+        "site": "mal",
+        "id": "5303"
+      },
+      {
+        "site": "anidb",
+        "id": "2358"
+      },
+      {
+        "site": "aniList",
+        "id": "5303"
+      }
+    ]
+  },
+  {
+    "title": "ユニコ 魔法の島へ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "小小独角兽之魔法岛",
+        "神奇独角马 去往魔法岛",
+        "小白角 魔法岛"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1983-07-15T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1983-07-15T17:28:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "79790"
+      },
+      {
+        "site": "danime",
+        "id": "24088",
+        "begin": "2020-08-28T01:00:00.000Z",
+        "broadcast": "R/2020-08-28T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/38565"
+      },
+      {
+        "site": "mal",
+        "id": "2429"
+      },
+      {
+        "site": "anidb",
+        "id": "1361"
+      },
+      {
+        "site": "aniList",
+        "id": "2429"
       }
     ]
   }

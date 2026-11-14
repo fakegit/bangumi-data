@@ -3,7 +3,9 @@
     "title": "爆転シュートベイブレード",
     "titleTranslate": {
       "zh-Hans": [
-        "爆旋陀螺"
+        "爆旋陀螺",
+        "战斗陀螺",
+        "战斗陀螺 第一季"
       ]
     },
     "type": "tv",
@@ -13,18 +15,36 @@
     "end": "2001-12-24T09:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "22ZS0DiaeDkyvLZU",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "9348"
       },
       {
         "site": "bilibili",
-        "id": "5336",
-        "begin": "2001-01-07T16:00:01.000Z"
+        "id": "2088",
+        "begin": "2014-05-26T18:07:00.000Z",
+        "broadcast": "R/2014-05-26T18:07:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003063",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/54728"
+      },
+      {
+        "site": "mal",
+        "id": "288"
+      },
+      {
+        "site": "anidb",
+        "id": "595"
+      },
+      {
+        "site": "aniList",
+        "id": "288"
       }
     ]
   },
@@ -46,9 +66,32 @@
         "id": "26017"
       },
       {
-        "site": "letv",
-        "id": "81931",
-        "begin": ""
+        "site": "danime",
+        "id": "28373",
+        "begin": "2025-10-30T15:00:00.000Z",
+        "broadcast": "R/2025-10-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0240447",
+        "begin": "2025-10-30T15:00:00.000Z",
+        "broadcast": "R/2025-10-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/29540"
+      },
+      {
+        "site": "mal",
+        "id": "764"
+      },
+      {
+        "site": "anidb",
+        "id": "1774"
+      },
+      {
+        "site": "aniList",
+        "id": "764"
       }
     ]
   },
@@ -66,18 +109,36 @@
     "end": "2001-03-26T09:56:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "CTkEgupQwP5h30c",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "3055"
       },
       {
         "site": "bilibili",
         "id": "3312",
-        "begin": "2001-01-07T16:00:01.000Z"
+        "begin": "2001-01-07T16:00:01.000Z",
+        "broadcast": "R/2016-01-26T03:24:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "21018",
+        "begin": "2016-07-29T01:00:00.000Z",
+        "broadcast": "R/2016-07-29T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/30501"
+      },
+      {
+        "site": "mal",
+        "id": "445"
+      },
+      {
+        "site": "anidb",
+        "id": "389"
+      },
+      {
+        "site": "aniList",
+        "id": "445"
       }
     ]
   },
@@ -86,6 +147,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "头文字D Third Stage"
+      ],
+      "zh-Hant": [
+        "頭文字 D 3rd stage -INITIAL D THE MOVIE-"
       ]
     },
     "type": "movie",
@@ -94,11 +158,6 @@
     "begin": "2001-01-13T16:00:00.000Z",
     "end": "2001-01-13T16:30:00.000Z",
     "sites": [
-      {
-        "site": "pptv",
-        "id": "f9SvLZX7a6kMiavI",
-        "begin": ""
-      },
       {
         "site": "qq",
         "id": "u/uk42ddvuyqxiq9q",
@@ -111,7 +170,62 @@
       {
         "site": "bilibili",
         "id": "209",
-        "begin": "2001-01-12T16:00:00.000Z"
+        "begin": "2001-01-12T16:00:00.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0002973",
+        "begin": "2023-04-01T03:00:00.000Z",
+        "broadcast": "R/2023-04-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "24228",
+        "begin": "2023-03-25T01:00:00.000Z",
+        "broadcast": "R/2023-03-25T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0FSQ3XTS8",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "168-49",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/80741"
+      },
+      {
+        "site": "mal",
+        "id": "187"
+      },
+      {
+        "site": "anidb",
+        "id": "625"
+      },
+      {
+        "site": "aniList",
+        "id": "187"
+      },
+      {
+        "site": "acgnx",
+        "id": "头文|Initial"
+      },
+      {
+        "site": "dmhy",
+        "id": "头文|Initial"
+      },
+      {
+        "site": "gamer",
+        "id": "67076",
+        "begin": "2026-10-22T16:00:00.000Z",
+        "broadcast": "R/2026-10-22T16:00:00.000Z/P7D"
       }
     ]
   },
@@ -142,6 +256,30 @@
         "site": "qq",
         "id": "u/uz35883n8h3up9z",
         "begin": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/56425"
+      },
+      {
+        "site": "mal",
+        "id": "287"
+      },
+      {
+        "site": "aniList",
+        "id": "287"
+      },
+      {
+        "site": "anidb",
+        "id": "453"
+      },
+      {
+        "site": "acgnx",
+        "id": "刃牙"
+      },
+      {
+        "site": "dmhy",
+        "id": "刃牙"
       }
     ]
   },
@@ -159,13 +297,24 @@
     "end": "2001-03-27T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "ia7eSEHjeTozvbdU",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "19418"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/42698"
+      },
+      {
+        "site": "mal",
+        "id": "812"
+      },
+      {
+        "site": "anidb",
+        "id": "107"
+      },
+      {
+        "site": "aniList",
+        "id": "812"
       }
     ]
   }

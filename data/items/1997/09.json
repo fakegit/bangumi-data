@@ -15,6 +15,34 @@
       {
         "site": "bangumi",
         "id": "9266"
+      },
+      {
+        "site": "unext",
+        "id": "SID0070921",
+        "begin": "2022-07-29T03:00:00.000Z",
+        "broadcast": "R/2022-07-29T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "25719",
+        "begin": "2022-08-01T01:00:00.000Z",
+        "broadcast": "R/2022-08-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/34099"
+      },
+      {
+        "site": "mal",
+        "id": "4651"
+      },
+      {
+        "site": "anidb",
+        "id": "2104"
+      },
+      {
+        "site": "aniList",
+        "id": "4651"
       }
     ]
   },
@@ -34,6 +62,137 @@
       {
         "site": "bangumi",
         "id": "22967"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/37532"
+      },
+      {
+        "site": "mal",
+        "id": "1806"
+      },
+      {
+        "site": "aniList",
+        "id": "1806"
+      },
+      {
+        "site": "anidb",
+        "id": "684"
+      }
+    ]
+  },
+  {
+    "title": "新・湘南爆走族 荒くれナイト",
+    "titleTranslate": {},
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1997-09-11T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1998-09-10T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "161775"
+      },
+      {
+        "site": "unext",
+        "id": "SID0011289",
+        "begin": "2019-11-19T03:00:00.000Z",
+        "broadcast": "R/2019-11-19T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "11408",
+        "begin": "2014-08-08T01:00:00.000Z",
+        "broadcast": "R/2014-08-08T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/155366"
+      },
+      {
+        "site": "mal",
+        "id": "16510"
+      },
+      {
+        "site": "aniList",
+        "id": "16510"
+      },
+      {
+        "site": "anidb",
+        "id": "5348"
+      }
+    ]
+  },
+  {
+    "title": "栄光へのシュプール 猪谷千春物語",
+    "titleTranslate": {
+      "zh-Hans": [
+        "光荣的轨迹 猪谷千春物语"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1997-09-12T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1997-09-12T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "220074"
+      },
+      {
+        "site": "mal",
+        "id": "19943"
+      },
+      {
+        "site": "anidb",
+        "id": "6359"
+      },
+      {
+        "site": "aniList",
+        "id": "19943"
+      }
+    ]
+  },
+  {
+    "title": "幕末のスパシーボ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "幕末的感谢"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1997-09-19T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1997-09-19T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "109474"
+      },
+      {
+        "site": "mal",
+        "id": "8092"
+      },
+      {
+        "site": "anidb",
+        "id": "7377"
+      },
+      {
+        "site": "aniList",
+        "id": "8092"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/491356"
       }
     ]
   }

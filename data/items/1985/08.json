@@ -15,6 +15,83 @@
       {
         "site": "bangumi",
         "id": "41731"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/32377/season/0"
+      },
+      {
+        "site": "danime",
+        "id": "28544",
+        "begin": "2025-12-12T15:00:00.000Z",
+        "broadcast": "R/2025-12-12T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "2583"
+      },
+      {
+        "site": "anidb",
+        "id": "5125"
+      },
+      {
+        "site": "aniList",
+        "id": "2583"
+      },
+      {
+        "site": "unext",
+        "id": "SID0015472",
+        "begin": "2026-10-08T03:00:00.000Z",
+        "broadcast": "R/2026-10-08T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "オーディーン 光子帆船スターライト",
+    "titleTranslate": {
+      "zh-Hans": [
+        "光子帆船星光号：奥丁"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1985-08-09T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1985-08-09T18:19:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "109271"
+      },
+      {
+        "site": "danime",
+        "id": "10377",
+        "begin": "2022-03-08T01:00:00.000Z",
+        "broadcast": "R/2022-03-08T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0014174",
+        "begin": "2025-02-05T03:00:00.000Z",
+        "broadcast": "R/2025-02-05T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/76731"
+      },
+      {
+        "site": "mal",
+        "id": "1287"
+      },
+      {
+        "site": "aniList",
+        "id": "1287"
+      },
+      {
+        "site": "anidb",
+        "id": "1414"
       }
     ]
   }

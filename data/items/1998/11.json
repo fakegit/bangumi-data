@@ -15,6 +15,22 @@
       {
         "site": "bangumi",
         "id": "86438"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/34694"
+      },
+      {
+        "site": "mal",
+        "id": "4591"
+      },
+      {
+        "site": "anidb",
+        "id": "3954"
+      },
+      {
+        "site": "aniList",
+        "id": "4591"
       }
     ]
   },
@@ -32,18 +48,156 @@
     "end": "1998-12-24T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "YtaxL5f9basOjPQ",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "45771"
       },
       {
+        "site": "tmdb",
+        "id": "tv/22824"
+      },
+      {
+        "site": "mal",
+        "id": "718"
+      },
+      {
+        "site": "anidb",
+        "id": "142"
+      },
+      {
+        "site": "aniList",
+        "id": "718"
+      }
+    ]
+  },
+  {
+    "title": "火聖旅団 ダナサイト999.9",
+    "titleTranslate": {
+      "zh-Hans": [
+        "火圣旅团999.9"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1998-11-01T16:00:00.000Z",
+    "end": "1998-11-01T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "98514"
+      },
+      {
         "site": "bilibili",
-        "id": "2241",
-        "begin": "1998-11-29T16:00:00.000Z"
+        "id": "5697",
+        "begin": "2016-11-07T03:25:00.000Z",
+        "broadcast": "R/2016-11-07T03:25:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/132515"
+      },
+      {
+        "site": "mal",
+        "id": "2019"
+      },
+      {
+        "site": "anidb",
+        "id": "3286"
+      },
+      {
+        "site": "aniList",
+        "id": "2019"
+      }
+    ]
+  },
+  {
+    "title": "スターライトスクランブル 恋愛候補生",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Starlight Scramble 恋爱候补生",
+        "战地少女",
+        "Starlight Scramble 恋愛候補生"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1998-11-26T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1998-11-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "86528"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003223",
+        "begin": "2022-10-31T03:00:00.000Z",
+        "broadcast": "R/2022-10-31T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "11070",
+        "begin": "2017-11-24T01:00:00.000Z",
+        "broadcast": "R/2017-11-24T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "9500"
+      },
+      {
+        "site": "anidb",
+        "id": "4822"
+      },
+      {
+        "site": "aniList",
+        "id": "9500"
+      }
+    ]
+  },
+  {
+    "title": "超速スピナー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "超速yoyo",
+        "超速摇摇"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1998-11-29T16:00:00.000Z",
+    "broadcast": "R/1998-11-29T16:00:00.000Z/P7D",
+    "end": "1999-09-09T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "85210"
+      },
+      {
+        "site": "unext",
+        "id": "SID0159201",
+        "begin": "2024-11-03T15:00:00.000Z",
+        "broadcast": "R/2024-11-03T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/138711"
+      },
+      {
+        "site": "mal",
+        "id": "2703"
+      },
+      {
+        "site": "anidb",
+        "id": "2108"
+      },
+      {
+        "site": "aniList",
+        "id": "2703"
       }
     ]
   }

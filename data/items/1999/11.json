@@ -3,7 +3,13 @@
     "title": "デ・ジ・キャラット",
     "titleTranslate": {
       "zh-Hans": [
-        "Di Gi Charat"
+        "Di Gi Charat",
+        "叮当小魔女",
+        "铃铛猫娘",
+        "超级铃铛猫"
+      ],
+      "zh-Hant": [
+        "滴骰孖妹"
       ]
     },
     "type": "tv",
@@ -19,7 +25,133 @@
       {
         "site": "bilibili",
         "id": "2085",
-        "begin": "1999-11-30T16:00:00.000Z"
+        "begin": "1999-11-30T16:00:00.000Z",
+        "broadcast": "R/2018-09-06T09:34:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/42694"
+      },
+      {
+        "site": "mal",
+        "id": "293"
+      },
+      {
+        "site": "anidb",
+        "id": "553"
+      },
+      {
+        "site": "aniList",
+        "id": "293"
+      },
+      {
+        "site": "acgnx",
+        "id": "Di Gi Charat"
+      },
+      {
+        "site": "dmhy",
+        "id": "Di Gi Charat"
+      }
+    ]
+  },
+  {
+    "title": "うさぎちゃんでCue!!",
+    "titleTranslate": {
+      "zh-Hans": [
+        "天生兔女郎"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1999-11-08T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2000-04-25T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "48768"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002477",
+        "begin": "2022-10-29T03:00:00.000Z",
+        "broadcast": "R/2022-10-29T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "11169",
+        "begin": "2017-11-24T01:00:00.000Z",
+        "broadcast": "R/2017-11-24T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/43947"
+      },
+      {
+        "site": "mal",
+        "id": "991"
+      },
+      {
+        "site": "anidb",
+        "id": "121"
+      },
+      {
+        "site": "aniList",
+        "id": "991"
+      }
+    ]
+  },
+  {
+    "title": "人狼 JIN-ROH",
+    "titleTranslate": {
+      "zh-Hans": [
+        "人狼"
+      ],
+      "zh-Hant": [
+        "人狼"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1999-11-16T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1999-11-16T17:42:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "844"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/823"
+      },
+      {
+        "site": "mal",
+        "id": "570"
+      },
+      {
+        "site": "aniList",
+        "id": "570"
+      },
+      {
+        "site": "anidb",
+        "id": "83"
+      },
+      {
+        "site": "unext",
+        "id": "SID0015262",
+        "begin": "2026-08-01T03:00:00.000Z",
+        "broadcast": "R/2026-08-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "29162",
+        "begin": "2026-07-31T15:00:00.000Z",
+        "broadcast": "R/2026-07-31T15:00:00.000Z/P7D"
       }
     ]
   }

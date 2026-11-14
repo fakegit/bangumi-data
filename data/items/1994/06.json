@@ -1,0 +1,144 @@
+[
+  {
+    "title": "I・Я・I・A ZЁIЯAM THE ANIMATION",
+    "titleTranslate": {
+      "zh-Hans": [
+        "伊利亚：杰拉姆",
+        "IRIA"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1994-06-22T16:00:00.000Z",
+    "end": "1994-11-20T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "39780"
+      },
+      {
+        "site": "bilibili",
+        "id": "141192",
+        "begin": "2018-10-09T07:40:00.000Z",
+        "broadcast": "R/2018-10-09T07:40:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/43341"
+      },
+      {
+        "site": "mal",
+        "id": "432"
+      },
+      {
+        "site": "anidb",
+        "id": "197"
+      },
+      {
+        "site": "aniList",
+        "id": "432"
+      }
+    ]
+  },
+  {
+    "title": "MINKY MOMO IN 旅だちの駅",
+    "titleTranslate": {},
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1994-06-21T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1994-06-21T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "93049"
+      },
+      {
+        "site": "unext",
+        "id": "SID0004929",
+        "begin": "2016-03-24T03:00:00.000Z",
+        "broadcast": "R/2016-03-24T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10432",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/35871/season/0/episode/3"
+      },
+      {
+        "site": "mal",
+        "id": "6492"
+      },
+      {
+        "site": "anidb",
+        "id": "4014"
+      },
+      {
+        "site": "aniList",
+        "id": "6492"
+      },
+      {
+        "site": "abema",
+        "id": "115-139",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "マーズ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "mars"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1994-06-09T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1994-06-09T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "37407"
+      },
+      {
+        "site": "danime",
+        "id": "10273",
+        "begin": "2013-06-07T01:00:00.000Z",
+        "broadcast": "R/2013-06-07T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002869",
+        "begin": "2022-10-27T03:00:00.000Z",
+        "broadcast": "R/2022-10-27T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/692349"
+      },
+      {
+        "site": "mal",
+        "id": "10648"
+      },
+      {
+        "site": "anidb",
+        "id": "5696"
+      },
+      {
+        "site": "aniList",
+        "id": "10648"
+      }
+    ]
+  }
+]

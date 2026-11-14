@@ -3,7 +3,8 @@
     "title": "パピヨンローゼ New Season",
     "titleTranslate": {
       "zh-Hans": [
-        "内衣战士玫瑰蝴蝶 New Season"
+        "内衣战士玫瑰蝴蝶 New Season",
+        "内衣战士蝴蝶玫瑰"
       ]
     },
     "type": "tv",
@@ -15,6 +16,22 @@
       {
         "site": "bangumi",
         "id": "7852"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/44294"
+      },
+      {
+        "site": "mal",
+        "id": "3112"
+      },
+      {
+        "site": "anidb",
+        "id": "3996"
+      },
+      {
+        "site": "aniList",
+        "id": "3112"
       }
     ]
   },
@@ -22,7 +39,9 @@
     "title": "REC",
     "titleTranslate": {
       "zh-Hans": [
-        "甜蜜声优"
+        "甜蜜声优",
+        "爱上配音演员",
+        "Rec爱上配音员"
       ]
     },
     "type": "tv",
@@ -32,18 +51,30 @@
     "end": "2006-04-06T17:40:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "UOjTUbkfj80wrhY",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "2082"
       },
       {
         "site": "bilibili",
         "id": "1397",
-        "begin": "2006-02-01T16:00:00.000Z"
+        "begin": "2006-02-01T16:00:00.000Z",
+        "broadcast": "R/2012-11-08T14:42:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/34195"
+      },
+      {
+        "site": "mal",
+        "id": "710"
+      },
+      {
+        "site": "anidb",
+        "id": "3656"
+      },
+      {
+        "site": "aniList",
+        "id": "710"
       }
     ]
   },
@@ -54,6 +85,9 @@
         "Ergo Proxy"
       ],
       "zh-Hans": [
+        "死亡代理人"
+      ],
+      "zh-Hant": [
         "死亡代理人"
       ]
     },
@@ -66,6 +100,34 @@
       {
         "site": "bangumi",
         "id": "837"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002165",
+        "begin": "2018-04-13T03:00:00.000Z",
+        "broadcast": "R/2018-04-13T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23788",
+        "begin": "2020-04-17T01:00:00.000Z",
+        "broadcast": "R/2020-04-17T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/1097"
+      },
+      {
+        "site": "mal",
+        "id": "790"
+      },
+      {
+        "site": "anidb",
+        "id": "3302"
+      },
+      {
+        "site": "aniList",
+        "id": "790"
       }
     ]
   },
@@ -90,6 +152,30 @@
       {
         "site": "bangumi",
         "id": "15957"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/36324"
+      },
+      {
+        "site": "mal",
+        "id": "1534"
+      },
+      {
+        "site": "aniList",
+        "id": "1534"
+      },
+      {
+        "site": "anidb",
+        "id": "4117"
+      },
+      {
+        "site": "acgnx",
+        "id": "光之"
+      },
+      {
+        "site": "dmhy",
+        "id": "光之"
       }
     ]
   },
@@ -107,18 +193,30 @@
     "end": "2006-03-30T03:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "8D8KiaPBWxgRn5U0",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "3152"
       },
       {
         "site": "bilibili",
         "id": "1394",
-        "begin": "2006-02-01T16:00:00.000Z"
+        "begin": "2006-02-01T16:00:00.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/25091"
+      },
+      {
+        "site": "mal",
+        "id": "750"
+      },
+      {
+        "site": "anidb",
+        "id": "2836"
+      },
+      {
+        "site": "aniList",
+        "id": "750"
       }
     ]
   },
@@ -127,6 +225,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "皇家国教骑士团 OVA"
+      ],
+      "zh-Hant": [
+        "厄夜怪客 OVA"
+      ],
+      "en": [
+        "Hellsing Ultimate"
       ]
     },
     "type": "ova",
@@ -136,13 +240,100 @@
     "end": "2012-12-26T16:30:00.000Z",
     "sites": [
       {
-        "site": "letv",
-        "id": "46008",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "493"
+      },
+      {
+        "site": "netflix",
+        "id": "80988066",
+        "begin": "2019-07-30T16:00:00.000Z",
+        "broadcast": "R/2019-07-30T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0041955",
+        "begin": "2019-07-12T03:00:00.000Z",
+        "broadcast": "R/2019-07-12T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "22811",
+        "begin": "2022-07-01T01:00:00.000Z",
+        "broadcast": "R/2022-07-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/61752"
+      },
+      {
+        "site": "mal",
+        "id": "777"
+      },
+      {
+        "site": "anidb",
+        "id": "3296"
+      },
+      {
+        "site": "aniList",
+        "id": "777"
+      }
+    ]
+  },
+  {
+    "title": "サムシング グレート 地図にない町",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2006-02-03T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2006-02-03T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "332513"
+      },
+      {
+        "site": "mal",
+        "id": "23979"
+      },
+      {
+        "site": "anidb",
+        "id": "5026"
+      }
+    ]
+  },
+  {
+    "title": "死者の書",
+    "titleTranslate": {
+      "zh-Hans": [
+        "死者之书"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2006-02-10T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2006-02-10T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "315584"
+      },
+      {
+        "site": "mal",
+        "id": "7510"
+      },
+      {
+        "site": "anidb",
+        "id": "6193"
+      },
+      {
+        "site": "aniList",
+        "id": "7510"
       }
     ]
   }

@@ -22,14 +22,38 @@
         "begin": ""
       },
       {
-        "site": "pptv",
-        "id": "ibZ32dNxCsvBT0Tk",
-        "begin": ""
-      },
-      {
         "site": "bilibili",
         "id": "3937",
-        "begin": "1994-07-28T16:00:01.000Z"
+        "begin": "1994-07-28T16:00:01.000Z",
+        "broadcast": "R/2021-03-31T12:08:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002345",
+        "begin": "2019-02-07T03:00:00.000Z",
+        "broadcast": "R/2019-02-07T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "21755",
+        "begin": "2017-09-08T01:00:00.000Z",
+        "broadcast": "R/2017-09-08T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/51943"
+      },
+      {
+        "site": "mal",
+        "id": "1417"
+      },
+      {
+        "site": "anidb",
+        "id": "815"
+      },
+      {
+        "site": "aniList",
+        "id": "1417"
       }
     ]
   },
@@ -54,6 +78,22 @@
         "site": "iqiyi",
         "id": "a_19rrhb54vl",
         "begin": "2015-08-04T01:02:58.000Z"
+      },
+      {
+        "site": "mal",
+        "id": "7158"
+      },
+      {
+        "site": "aniList",
+        "id": "7158"
+      },
+      {
+        "site": "anidb",
+        "id": "6627"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/146094"
       }
     ]
   },
@@ -83,6 +123,34 @@
         "site": "iqiyi",
         "id": "a_19rrhb4015",
         "begin": "2016-02-04T10:34:13.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0010772",
+        "begin": "2018-07-27T03:00:00.000Z",
+        "broadcast": "R/2018-07-27T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0DVS8LDSF",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/39106"
+      },
+      {
+        "site": "mal",
+        "id": "904"
+      },
+      {
+        "site": "aniList",
+        "id": "904"
+      },
+      {
+        "site": "anidb",
+        "id": "906"
       }
     ]
   },
@@ -100,13 +168,327 @@
     "end": "1995-02-24T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "tINibicGTKOnjbWcE",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "80861"
+      },
+      {
+        "site": "unext",
+        "id": "SID0016993",
+        "begin": "2022-10-27T03:00:00.000Z",
+        "broadcast": "R/2022-10-27T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10270",
+        "begin": "2013-06-07T01:00:00.000Z",
+        "broadcast": "R/2013-06-07T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/113380"
+      },
+      {
+        "site": "mal",
+        "id": "1620"
+      },
+      {
+        "site": "anidb",
+        "id": "2056"
+      },
+      {
+        "site": "aniList",
+        "id": "1620"
+      }
+    ]
+  },
+  {
+    "title": "平成狸合戦ぽんぽこ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "百变狸猫"
+      ],
+      "zh-Hant": [
+        "平成狸合戰",
+        "百變狸貓"
+      ],
+      "en": [
+        "Pom Poko"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1994-07-15T16:00:00.000Z",
+    "end": "1994-07-15T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "407"
+      },
+      {
+        "site": "netflix",
+        "id": "70035036",
+        "begin": "2020-03-30T16:00:00.000Z",
+        "broadcast": "R/2020-03-30T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/15283"
+      },
+      {
+        "site": "mal",
+        "id": "1030"
+      },
+      {
+        "site": "aniList",
+        "id": "1030"
+      },
+      {
+        "site": "anidb",
+        "id": "334"
+      }
+    ]
+  },
+  {
+    "title": "メタルファイター♥MIKU",
+    "titleTranslate": {
+      "zh-Hans": [
+        "重装甲少女组"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1994-07-07T16:00:00.000Z",
+    "end": "1994-09-29T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "25497"
+      },
+      {
+        "site": "bilibili",
+        "id": "5616",
+        "begin": "2016-10-23T02:30:00.000Z",
+        "broadcast": "R/2016-10-23T02:30:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/19197"
+      },
+      {
+        "site": "mal",
+        "id": "1175"
+      },
+      {
+        "site": "aniList",
+        "id": "1175"
+      },
+      {
+        "site": "anidb",
+        "id": "917"
+      }
+    ]
+  },
+  {
+    "title": "宇宙の騎士テッカマンブレードII",
+    "titleTranslate": {
+      "zh-Hans": [
+        "宇宙骑士BLADE II",
+        "宇宙骑士利刃II",
+        "宇宙骑士 II"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1994-07-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1995-04-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "37254"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003372",
+        "begin": "2019-08-27T03:00:00.000Z",
+        "broadcast": "R/2019-08-27T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "11145",
+        "begin": "2020-03-13T01:00:00.000Z",
+        "broadcast": "R/2020-03-13T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/20565"
+      },
+      {
+        "site": "mal",
+        "id": "1460"
+      },
+      {
+        "site": "aniList",
+        "id": "1460"
+      },
+      {
+        "site": "anidb",
+        "id": "216"
+      }
+    ]
+  },
+  {
+    "title": "それいけ!アンパンマン みんな集まれ! アンパンマンワールド",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.tms-e.co.jp/alltitles/anpanman/060310.html",
+    "begin": "1994-07-15T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1994-07-15T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "89704"
+      },
+      {
+        "site": "unext",
+        "id": "SID0018527",
+        "begin": "2015-06-01T06:00:00.000Z",
+        "broadcast": "R/2015-06-01T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/475760"
+      },
+      {
+        "site": "mal",
+        "id": "21961"
+      },
+      {
+        "site": "aniList",
+        "id": "143548"
+      },
+      {
+        "site": "anidb",
+        "id": "7741"
+      }
+    ]
+  },
+  {
+    "title": "それいけ!アンパンマン リリカル☆マジカルまほうの学校",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.tms-e.co.jp/alltitles/anpanman/060309.html",
+    "begin": "1994-07-15T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1994-07-15T17:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "419213"
+      },
+      {
+        "site": "unext",
+        "id": "SID0018526",
+        "begin": "2015-06-01T06:00:00.000Z",
+        "broadcast": "R/2015-06-01T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/475763"
+      },
+      {
+        "site": "mal",
+        "id": "22035"
+      },
+      {
+        "site": "aniList",
+        "id": "121838"
+      },
+      {
+        "site": "anidb",
+        "id": "7559"
+      }
+    ]
+  },
+  {
+    "title": "餓狼伝説 THE MOTION PICTURE",
+    "titleTranslate": {
+      "zh-Hans": [
+        "饿狼传说 剧场版"
+      ],
+      "en": [
+        "Garou Densetsu: The Motion Picture"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1994-07-15T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1994-07-15T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "38426"
+      },
+      {
+        "site": "mal",
+        "id": "504"
+      },
+      {
+        "site": "anidb",
+        "id": "873"
+      },
+      {
+        "site": "aniList",
+        "id": "504"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/28697"
+      }
+    ]
+  },
+  {
+    "title": "ライヤンツーリーのうた",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1994-07-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1994-07-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "476893"
+      },
+      {
+        "site": "mal",
+        "id": "9959"
+      },
+      {
+        "site": "anidb",
+        "id": "4186"
+      },
+      {
+        "site": "aniList",
+        "id": "9959"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/447389"
       }
     ]
   }

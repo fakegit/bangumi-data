@@ -15,6 +15,65 @@
       {
         "site": "bangumi",
         "id": "211091"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/314225"
+      },
+      {
+        "site": "aniList",
+        "id": "8149"
+      },
+      {
+        "site": "anidb",
+        "id": "7472"
+      },
+      {
+        "site": "mal",
+        "id": "5688"
+      }
+    ]
+  },
+  {
+    "title": "太陽の王子 ホルスの大冒険",
+    "titleTranslate": {
+      "zh-Hans": [
+        "太阳王子霍尔斯的大冒险"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1968-07-20T15:00:00.000Z",
+    "broadcast": "",
+    "end": "1968-07-20T16:22:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "11190"
+      },
+      {
+        "site": "unext",
+        "id": "SID0045411",
+        "begin": "2020-01-11T03:00:00.000Z",
+        "broadcast": "R/2020-01-11T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/52686"
+      },
+      {
+        "site": "mal",
+        "id": "1044"
+      },
+      {
+        "site": "anidb",
+        "id": "2209"
+      },
+      {
+        "site": "aniList",
+        "id": "1044"
       }
     ]
   }

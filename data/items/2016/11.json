@@ -4,6 +4,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "精灵宝可梦 太阳&月亮"
+      ],
+      "zh-Hant": [
+        "寶可夢 太陽＆月亮"
       ]
     },
     "type": "tv",
@@ -13,22 +16,12 @@
     "end": "2019-11-03T09:30:00.000Z",
     "sites": [
       {
-        "site": "letv",
-        "id": "10032274",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "192680"
       },
       {
         "site": "mgtv",
         "id": "321993",
-        "begin": ""
-      },
-      {
-        "site": "sohu",
-        "id": "s2018/jlbkmtyyl",
         "begin": ""
       },
       {
@@ -47,9 +40,48 @@
         "begin": "2017-03-21T02:17:39.000Z"
       },
       {
-        "site": "bilibili",
-        "id": "5707",
-        "begin": "2016-11-16T16:00:00.000Z"
+        "site": "netflix",
+        "id": "80186475",
+        "begin": "2022-11-06T16:00:00.000Z",
+        "broadcast": "R/2022-11-06T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "884"
+      },
+      {
+        "site": "unext",
+        "id": "SID0028806",
+        "begin": "2024-12-19T15:00:00.000Z",
+        "broadcast": "R/2024-12-19T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/60572/season/20"
+      },
+      {
+        "site": "mal",
+        "id": "34034"
+      },
+      {
+        "site": "anidb",
+        "id": "12407"
+      },
+      {
+        "site": "aniList",
+        "id": "97634"
+      },
+      {
+        "site": "danime",
+        "id": "28706",
+        "begin": "2026-07-02T15:00:00.000Z",
+        "broadcast": "R/2026-07-02T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "2-28",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -68,23 +100,36 @@
     "end": "2017-04-27T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "dculI4vxYZ8CgOg",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "196075"
       },
       {
         "site": "nicovideo",
         "id": "kamigaminoki",
-        "begin": "2017-01-13T09:00:00.000Z"
+        "begin": "2017-01-13T09:00:00.000Z",
+        "broadcast": "R/2017-01-13T09:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
         "id": "5909",
-        "begin": "2016-11-23T16:00:01.000Z"
+        "begin": "2016-11-23T16:00:01.000Z",
+        "broadcast": "R/2017-02-03T01:47:37.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/211691"
+      },
+      {
+        "site": "mal",
+        "id": "34292"
+      },
+      {
+        "site": "anidb",
+        "id": "12505"
+      },
+      {
+        "site": "aniList",
+        "id": "117876"
       }
     ]
   },
@@ -102,13 +147,16 @@
     "end": "2016-12-21T16:01:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "4FZCwCiaOicjyfHYU",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "211227"
+      },
+      {
+        "site": "mal",
+        "id": "55326"
+      },
+      {
+        "site": "aniList",
+        "id": "170629"
       }
     ]
   },
@@ -126,17 +174,44 @@
     "end": "2016-11-25T16:00:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "NgzoZs40pOJFwys",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "170762"
       },
       {
-        "site": "nicovideo",
-        "id": "ansatsu2-kagaijugyo",
+        "site": "unext",
+        "id": "SID0058298",
+        "begin": "2023-07-01T03:00:00.000Z",
+        "broadcast": "R/2023-07-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "1215"
+      },
+      {
+        "site": "danime",
+        "id": "24660",
+        "begin": "2022-06-01T01:00:00.000Z",
+        "broadcast": "R/2022-06-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/62110/season/0/episode/2"
+      },
+      {
+        "site": "mal",
+        "id": "32863"
+      },
+      {
+        "site": "aniList",
+        "id": "21678"
+      },
+      {
+        "site": "anidb",
+        "id": "15475"
+      },
+      {
+        "site": "prime",
+        "id": "B0GNYFBWFK",
         "begin": "",
         "broadcast": ""
       }
@@ -160,14 +235,42 @@
         "id": "175532"
       },
       {
-        "site": "pptv",
-        "id": "t4Fr6VG3J2XIRq4",
-        "begin": ""
-      },
-      {
         "site": "bilibili",
         "id": "8692",
-        "begin": "2016-11-11T16:00:01.000Z"
+        "begin": "2016-11-11T16:00:01.000Z",
+        "broadcast": "R/2017-11-30T03:14:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0047067",
+        "begin": "2020-04-01T03:00:00.000Z",
+        "broadcast": "R/2020-04-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "1203"
+      },
+      {
+        "site": "danime",
+        "id": "23651",
+        "begin": "2020-04-01T01:00:00.000Z",
+        "broadcast": "R/2020-04-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/445475"
+      },
+      {
+        "site": "mal",
+        "id": "33034"
+      },
+      {
+        "site": "anidb",
+        "id": "12037"
+      },
+      {
+        "site": "aniList",
+        "id": "21753"
       }
     ]
   },
@@ -195,7 +298,36 @@
         "site": "netflix",
         "id": "80057749",
         "begin": "2017-02-10T08:00:00.000Z",
+        "broadcast": "R/2017-02-09T16:00:00.000Z/P7D",
         "comment": "原始版本为剧场版但是 Netflix 目前将其做成 14 集 TV 分割形式放送"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/419095"
+      },
+      {
+        "site": "unext",
+        "id": "SID0260752",
+        "begin": "2026-01-23T15:00:00.000Z",
+        "broadcast": "R/2026-01-23T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "28613",
+        "begin": "2026-01-23T15:00:00.000Z",
+        "broadcast": "R/2026-01-23T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "anidb",
+        "id": "12277"
+      },
+      {
+        "site": "mal",
+        "id": "33685"
+      },
+      {
+        "site": "aniList",
+        "id": "87481"
       }
     ]
   },
@@ -206,7 +338,8 @@
         "在这世界的角落"
       ],
       "en": [
-        "In This Corner of the World"
+        "In This Corner of the World",
+        "In This Corner (and Other Corners) of the World"
       ]
     },
     "type": "movie",
@@ -220,9 +353,36 @@
         "id": "54550"
       },
       {
-        "site": "netflix",
-        "id": "80192244",
-        "begin": "2018-03-15T07:00:00.000Z"
+        "site": "unext",
+        "id": "SID0050421",
+        "begin": "2020-08-05T03:00:00.000Z",
+        "broadcast": "R/2020-08-05T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "1320"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GNVHKN9PW",
+        "begin": "2024-11-21T17:00:00.000Z",
+        "broadcast": "R/2024-11-21T17:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/378108"
+      },
+      {
+        "site": "mal",
+        "id": "15227"
+      },
+      {
+        "site": "anidb",
+        "id": "9376"
+      },
+      {
+        "site": "aniList",
+        "id": "15227"
       }
     ]
   },
@@ -231,6 +391,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "天地无用! 魉皇鬼 第4期"
+      ],
+      "zh-Hant": [
+        "天地無用！魎皇鬼 第 4 期"
       ]
     },
     "type": "ova",
@@ -248,6 +411,40 @@
         "site": "youku",
         "id": "993682dfa0ce11e69e06",
         "begin": "2016-11-30T15:58:11.000Z"
+      },
+      {
+        "site": "nicovideo",
+        "id": "tenchimuyo4th",
+        "begin": "2022-01-07T03:00:00.000Z",
+        "broadcast": "R/2022-01-07T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0045515",
+        "begin": "2020-03-01T03:00:00.000Z",
+        "broadcast": "R/2020-03-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23230",
+        "begin": "2020-03-01T03:00:00.000Z",
+        "broadcast": "R/2020-03-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/43004/season/4"
+      },
+      {
+        "site": "mal",
+        "id": "31861"
+      },
+      {
+        "site": "anidb",
+        "id": "11715"
+      },
+      {
+        "site": "aniList",
+        "id": "21429"
       }
     ]
   },
@@ -272,7 +469,333 @@
       {
         "site": "bilibili",
         "id": "5924",
-        "begin": "2016-11-03T16:00:00.000Z"
+        "begin": "2016-11-03T16:00:00.000Z",
+        "broadcast": "R/2017-03-31T07:52:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0037188",
+        "begin": "2018-10-29T03:00:00.000Z",
+        "broadcast": "R/2018-10-29T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "1196"
+      },
+      {
+        "site": "danime",
+        "id": "24003",
+        "begin": "2020-07-10T01:00:00.000Z",
+        "broadcast": "R/2020-07-10T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/412381"
+      },
+      {
+        "site": "mal",
+        "id": "33025"
+      },
+      {
+        "site": "anidb",
+        "id": "12033"
+      },
+      {
+        "site": "aniList",
+        "id": "21750"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 艦これ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "舰队Collection 剧场版",
+        "舰队收藏 剧场版"
+      ],
+      "zh-Hant": [
+        "劇場版 艦隊 Collection"
+      ],
+      "en": [
+        "Fleet Girls Collection Kancolle Movie Sequence"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://kancolle-anime.jp/",
+    "begin": "2016-11-25T16:00:00.000Z",
+    "end": "2016-11-25T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "143093"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kancolle-movie",
+        "begin": "2022-08-31T15:00:00.000Z",
+        "broadcast": "R/2022-08-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0073256",
+        "begin": "2022-08-31T15:00:00.000Z",
+        "broadcast": "R/2022-08-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "1380"
+      },
+      {
+        "site": "danime",
+        "id": "25774",
+        "begin": "2022-08-31T15:00:00.000Z",
+        "broadcast": "R/2022-08-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/412383"
+      },
+      {
+        "site": "mal",
+        "id": "31418"
+      },
+      {
+        "site": "anidb",
+        "id": "11489"
+      },
+      {
+        "site": "aniList",
+        "id": "21295"
+      }
+    ]
+  },
+  {
+    "title": "暗殺教室 365日の時間",
+    "titleTranslate": {
+      "zh-Hans": [
+        "暗杀教室 365天的时间"
+      ],
+      "zh-Hant": [
+        "暗殺教室 365 日倒數計時"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://ansatsu-anime.com/365days",
+    "begin": "2016-11-18T16:00:00.000Z",
+    "end": "2016-11-18T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "186099"
+      },
+      {
+        "site": "gamer",
+        "id": "85224",
+        "begin": "2018-04-01T06:00:00.000Z",
+        "broadcast": "R/2018-04-01T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "19-138",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mikan",
+        "id": "1219"
+      },
+      {
+        "site": "unext",
+        "id": "SID0040535",
+        "begin": "2024-10-31T15:00:00.000Z",
+        "broadcast": "R/2024-10-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "22723",
+        "begin": "2019-04-02T01:00:00.000Z",
+        "broadcast": "R/2019-04-02T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UcjhXd9e2Y3a0Mlbn_NyaLeQ",
+        "url": "https://www.youtube.com/watch?v=iQZRL7ScSZE",
+        "begin": "2021-08-16T16:00:00.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/431808"
+      },
+      {
+        "site": "mal",
+        "id": "33513"
+      },
+      {
+        "site": "anidb",
+        "id": "12245"
+      },
+      {
+        "site": "aniList",
+        "id": "101102"
+      },
+      {
+        "site": "prime",
+        "id": "B0GKWPH97W",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "ストライク・ザ・ブラッド II",
+    "titleTranslate": {
+      "zh-Hans": [
+        "噬血狂袭 II"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.strike-the-blood.com/#/homepage",
+    "begin": "2016-11-22T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2017-05-23T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "182239"
+      },
+      {
+        "site": "unext",
+        "id": "SID0034629",
+        "begin": "2018-05-03T03:00:00.000Z",
+        "broadcast": "R/2018-05-03T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "1208"
+      },
+      {
+        "site": "danime",
+        "id": "21824",
+        "begin": "2017-10-13T01:00:00.000Z",
+        "broadcast": "R/2017-10-13T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/61440/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "33286"
+      },
+      {
+        "site": "anidb",
+        "id": "12121"
+      },
+      {
+        "site": "aniList",
+        "id": "21815"
+      }
+    ]
+  },
+  {
+    "title": "モンスター娘のいる日常 OAD",
+    "titleTranslate": {
+      "zh-Hans": [
+        "魔物娘的同居日常 OAD",
+        "魔物娘的相伴日常 OAD"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2016-11-11T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2017-04-12T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "169148"
+      },
+      {
+        "site": "mikan",
+        "id": "1313"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/63187/season/0"
+      },
+      {
+        "site": "mal",
+        "id": "32698"
+      },
+      {
+        "site": "anidb",
+        "id": "11926"
+      },
+      {
+        "site": "aniList",
+        "id": "21650"
+      }
+    ]
+  },
+  {
+    "title": "orange -未来-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "橘色奇迹 -未来-"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://movie.orange-anime.com/",
+    "begin": "2016-11-17T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2016-11-17T17:02:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "193639"
+      },
+      {
+        "site": "unext",
+        "id": "SID0028267",
+        "begin": "2019-12-08T03:00:00.000Z",
+        "broadcast": "R/2019-12-08T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "1199"
+      },
+      {
+        "site": "danime",
+        "id": "23451",
+        "begin": "2022-03-01T01:00:00.000Z",
+        "broadcast": "R/2022-03-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/419094"
+      },
+      {
+        "site": "mal",
+        "id": "34136"
+      },
+      {
+        "site": "anidb",
+        "id": "12431"
+      },
+      {
+        "site": "aniList",
+        "id": "97669"
       }
     ]
   }

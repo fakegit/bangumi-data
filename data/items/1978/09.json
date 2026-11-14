@@ -20,6 +20,167 @@
       {
         "site": "bangumi",
         "id": "10392"
+      },
+      {
+        "site": "unext",
+        "id": "SID0014586",
+        "begin": "2019-12-07T03:00:00.000Z",
+        "broadcast": "R/2019-12-07T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10486",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D",
+        "comment": "#38-74: 10564, #75-113: 10565"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/31709"
+      },
+      {
+        "site": "mal",
+        "id": "1491"
+      },
+      {
+        "site": "anidb",
+        "id": "484"
+      },
+      {
+        "site": "aniList",
+        "id": "1491"
+      }
+    ]
+  },
+  {
+    "title": "科学忍者隊ガッチャマンII",
+    "titleTranslate": {
+      "zh-Hans": [
+        "科学小飞侠II",
+        "科学小飞侠II（1978）",
+        "科学忍者队2",
+        "旋风小飞侠"
+      ],
+      "zh-Hant": [
+        "科學小飛俠 II"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1978-09-30T16:00:00.000Z",
+    "end": "1979-09-29T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "53772"
+      },
+      {
+        "site": "bilibili",
+        "id": "6144",
+        "begin": "2017-05-05T06:34:40.000Z",
+        "broadcast": "R/2017-05-05T06:34:40.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0017865",
+        "begin": "2019-08-26T03:00:00.000Z",
+        "broadcast": "R/2019-08-26T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23293",
+        "begin": "2020-02-07T01:00:00.000Z",
+        "broadcast": "R/2020-02-07T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/13549/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "6374"
+      },
+      {
+        "site": "aniList",
+        "id": "6374"
+      },
+      {
+        "site": "anidb",
+        "id": "1449"
+      },
+      {
+        "site": "tropics",
+        "id": "PLoGVqODys23BNV6AN4aNsdyt0CHOwOmbg",
+        "begin": "2026-05-23T12:30:06.000Z",
+        "broadcast": "R/2026-05-23T12:30:06.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "150783",
+        "begin": "2026-04-10T03:00:00.000Z",
+        "broadcast": "R/2026-04-10T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "150783",
+        "begin": "2026-04-10T03:00:00.000Z",
+        "broadcast": "R/2026-04-10T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "19-209",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "大雪山の勇者 牙王",
+    "titleTranslate": {
+      "zh-Hans": [
+        "大雪山的勇者 牙王"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1978-09-22T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1978-09-22T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "97133"
+      },
+      {
+        "site": "unext",
+        "id": "SID0055997",
+        "begin": "2021-03-29T03:00:00.000Z",
+        "broadcast": "R/2021-03-29T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "24680",
+        "begin": "2021-05-07T01:00:00.000Z",
+        "broadcast": "R/2021-05-07T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/763006"
+      },
+      {
+        "site": "mal",
+        "id": "6202"
+      },
+      {
+        "site": "anidb",
+        "id": "2018"
+      },
+      {
+        "site": "aniList",
+        "id": "6202"
       }
     ]
   }

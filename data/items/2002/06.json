@@ -13,11 +13,6 @@
     "end": "2002-09-24T16:00:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "3Qic5d99FtfNW1Dw",
-        "begin": ""
-      },
-      {
         "site": "qq",
         "id": "5/5xpkhs99erx3y89",
         "begin": ""
@@ -30,6 +25,34 @@
         "site": "bilibili",
         "id": "2029",
         "begin": "2002-06-01T16:00:00.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0014909",
+        "begin": "2024-09-01T03:00:00.000Z",
+        "broadcast": "R/2024-09-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10215",
+        "begin": "2022-03-08T01:00:00.000Z",
+        "broadcast": "R/2022-03-08T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/34771"
+      },
+      {
+        "site": "mal",
+        "id": "529"
+      },
+      {
+        "site": "anidb",
+        "id": "113"
+      },
+      {
+        "site": "aniList",
+        "id": "529"
       }
     ]
   },
@@ -50,6 +73,34 @@
       {
         "site": "bangumi",
         "id": "11875"
+      },
+      {
+        "site": "unext",
+        "id": "SID0015952",
+        "begin": "2022-12-01T03:00:00.000Z",
+        "broadcast": "R/2022-12-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "25929",
+        "begin": "2022-11-30T15:00:00.000Z",
+        "broadcast": "R/2022-11-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/36023/season/0"
+      },
+      {
+        "site": "mal",
+        "id": "299"
+      },
+      {
+        "site": "anidb",
+        "id": "222"
+      },
+      {
+        "site": "aniList",
+        "id": "299"
       }
     ]
   },
@@ -66,6 +117,47 @@
       {
         "site": "bangumi",
         "id": "68972"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1023542"
+      }
+    ]
+  },
+  {
+    "title": "ギルステイン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "兽星记基尔斯汀"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2002-06-14T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2002-06-14T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "158789"
+      },
+      {
+        "site": "mal",
+        "id": "11995"
+      },
+      {
+        "site": "anidb",
+        "id": "1855"
+      },
+      {
+        "site": "aniList",
+        "id": "11995"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/865356"
       }
     ]
   }

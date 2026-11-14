@@ -13,18 +13,8 @@
     "end": "1984-03-17T17:30:00.000Z",
     "sites": [
       {
-        "site": "letv",
-        "id": "80815",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "439"
-      },
-      {
-        "site": "pptv",
-        "id": "7qoHhe1TwwFk4ko",
-        "begin": ""
       },
       {
         "site": "qq",
@@ -34,7 +24,36 @@
       {
         "site": "bilibili",
         "id": "3867",
-        "begin": "1984-03-16T16:00:01.000Z"
+        "begin": "1984-03-16T16:00:01.000Z",
+        "broadcast": "R/2016-04-28T02:13:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "35-94",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0099848",
+        "begin": "2024-03-05T03:00:00.000Z",
+        "broadcast": "R/2024-03-05T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/161699"
+      },
+      {
+        "site": "mal",
+        "id": "2672"
+      },
+      {
+        "site": "aniList",
+        "id": "2672"
+      },
+      {
+        "site": "anidb",
+        "id": "6595"
       }
     ]
   },
@@ -59,6 +78,34 @@
         "site": "nicovideo",
         "id": "lupin-3rd-3rd",
         "begin": "2011-11-30T06:00:00.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002357",
+        "begin": "2015-12-25T03:00:00.000Z",
+        "broadcast": "R/2015-12-25T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "22002",
+        "begin": "2018-03-01T01:00:00.000Z",
+        "broadcast": "R/2018-03-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/31572/season/3"
+      },
+      {
+        "site": "mal",
+        "id": "1426"
+      },
+      {
+        "site": "anidb",
+        "id": "1485"
+      },
+      {
+        "site": "aniList",
+        "id": "1426"
       }
     ]
   },
@@ -80,9 +127,323 @@
         "id": "72554"
       },
       {
-        "site": "pptv",
-        "id": "DwzoZs40pOJFwys",
-        "begin": ""
+        "site": "unext",
+        "id": "SID0038629",
+        "begin": "2018-12-06T03:00:00.000Z",
+        "broadcast": "R/2018-12-06T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23341",
+        "begin": "2020-03-13T01:00:00.000Z",
+        "broadcast": "R/2020-03-13T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/332324"
+      },
+      {
+        "site": "mal",
+        "id": "15347"
+      },
+      {
+        "site": "aniList",
+        "id": "15347"
+      }
+    ]
+  },
+  {
+    "title": "風の谷のナウシカ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "风之谷"
+      ],
+      "zh-Hant": [
+        "風之谷"
+      ],
+      "en": [
+        "Nausicaä of the Valley of the Wind"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1984-03-10T16:00:00.000Z",
+    "end": "1984-03-10T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "295"
+      },
+      {
+        "site": "netflix",
+        "id": "70019062",
+        "begin": "2020-02-28T16:00:00.000Z",
+        "broadcast": "R/2020-02-28T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/81"
+      },
+      {
+        "site": "mal",
+        "id": "572"
+      },
+      {
+        "site": "anidb",
+        "id": "275"
+      },
+      {
+        "site": "aniList",
+        "id": "572"
+      }
+    ]
+  },
+  {
+    "title": "おしん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "阿信"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1984-03-16T16:00:00.000Z",
+    "end": "1984-03-16T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "77470"
+      },
+      {
+        "site": "bilibili",
+        "id": "6087",
+        "begin": "2017-05-03T01:52:00.000Z",
+        "broadcast": "R/2017-05-03T01:52:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "25560",
+        "begin": "2023-05-01T01:00:00.000Z",
+        "broadcast": "R/2023-05-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/602737"
+      },
+      {
+        "site": "mal",
+        "id": "9866"
+      },
+      {
+        "site": "anidb",
+        "id": "5505"
+      },
+      {
+        "site": "aniList",
+        "id": "9866"
+      }
+    ]
+  },
+  {
+    "title": "とんがり帽子のメモル",
+    "titleTranslate": {
+      "zh-Hans": [
+        "小小外星人",
+        "尖帽子的梅莫尔",
+        "尖帽子的记忆"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1984-03-02T16:00:00.000Z",
+    "end": "1985-03-02T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "16517"
+      },
+      {
+        "site": "bilibili",
+        "id": "2430",
+        "begin": "2013-06-14T17:42:15.000Z",
+        "broadcast": "R/2013-06-14T17:42:15.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0091511",
+        "begin": "2023-09-10T03:00:00.000Z",
+        "broadcast": "R/2023-09-10T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/43715"
+      },
+      {
+        "site": "mal",
+        "id": "3754"
+      },
+      {
+        "site": "anidb",
+        "id": "1933"
+      },
+      {
+        "site": "aniList",
+        "id": "3754"
+      }
+    ]
+  },
+  {
+    "title": "超人ロック",
+    "titleTranslate": {
+      "zh-Hans": [
+        "超人洛克"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1984-03-10T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1984-03-10T17:59:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "106691"
+      },
+      {
+        "site": "unext",
+        "id": "SID0041508",
+        "begin": "2019-06-10T03:00:00.000Z",
+        "broadcast": "R/2019-06-10T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "22927",
+        "begin": "2019-08-01T01:00:00.000Z",
+        "broadcast": "R/2019-08-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/123951"
+      },
+      {
+        "site": "mal",
+        "id": "3522"
+      },
+      {
+        "site": "aniList",
+        "id": "3522"
+      },
+      {
+        "site": "anidb",
+        "id": "1753"
+      }
+    ]
+  },
+  {
+    "title": "冒険者たち ガンバと7匹のなかま",
+    "titleTranslate": {
+      "zh-Hans": [
+        "冒险者们 刚巴与七位伙伴"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1984-03-03T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1984-03-03T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "314865"
+      },
+      {
+        "site": "mal",
+        "id": "28983"
+      },
+      {
+        "site": "anidb",
+        "id": "3142"
+      },
+      {
+        "site": "aniList",
+        "id": "145480"
+      }
+    ]
+  },
+  {
+    "title": "少年ケニヤ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "少年肯尼亚"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1984-03-09T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1984-03-09T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "110780"
+      },
+      {
+        "site": "mal",
+        "id": "2311"
+      },
+      {
+        "site": "anidb",
+        "id": "2279"
+      },
+      {
+        "site": "aniList",
+        "id": "2311"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/121495"
+      }
+    ]
+  },
+  {
+    "title": "忍者ハットリくん+パーマン 超能力ウォーズ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "忍者哈特利+小超人帕门 超能力战争"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1984-03-16T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1984-03-16T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "313462"
+      },
+      {
+        "site": "mal",
+        "id": "29235"
+      },
+      {
+        "site": "anidb",
+        "id": "4742"
+      },
+      {
+        "site": "aniList",
+        "id": "198768"
       }
     ]
   }

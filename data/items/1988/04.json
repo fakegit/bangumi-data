@@ -13,11 +13,6 @@
     "end": "1989-03-04T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "jKOeHITqWpj7eeE",
-        "begin": ""
-      },
-      {
         "site": "qq",
         "id": "b/brcjpi1z7crcl1x",
         "begin": ""
@@ -27,24 +22,36 @@
         "id": "3621"
       },
       {
-        "site": "letv",
-        "id": "29360",
-        "begin": ""
-      },
-      {
         "site": "iqiyi",
         "id": "a_19rrgih7m9",
         "begin": "2017-11-06T03:00:08.000Z"
       },
       {
-        "site": "bilibili",
-        "id": "2398",
-        "begin": "1988-04-29T16:00:00.000Z"
-      },
-      {
         "site": "youku",
         "id": "cc005886962411de83b1",
         "begin": "2019-08-08T02:56:45.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0017322",
+        "begin": "2025-09-09T09:00:00.000Z",
+        "broadcast": "R/2025-09-09T09:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/35993"
+      },
+      {
+        "site": "mal",
+        "id": "1264"
+      },
+      {
+        "site": "anidb",
+        "id": "460"
+      },
+      {
+        "site": "aniList",
+        "id": "1264"
       }
     ]
   },
@@ -62,11 +69,6 @@
     "end": "1989-06-25T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "Qo139V3DM3HUUro",
-        "begin": ""
-      },
-      {
         "site": "qq",
         "id": "q/qw6b1fadm18jpmr",
         "begin": ""
@@ -76,9 +78,32 @@
         "id": "8696"
       },
       {
-        "site": "bilibili",
-        "id": "4013",
-        "begin": "1988-04-24T16:00:01.000Z"
+        "site": "unext",
+        "id": "SID0014488",
+        "begin": "2018-06-04T03:00:00.000Z",
+        "broadcast": "R/2018-06-04T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10249",
+        "begin": "2018-12-21T01:00:00.000Z",
+        "broadcast": "R/2018-12-21T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/21738"
+      },
+      {
+        "site": "mal",
+        "id": "1096"
+      },
+      {
+        "site": "anidb",
+        "id": "395"
+      },
+      {
+        "site": "aniList",
+        "id": "1096"
       }
     ]
   },
@@ -87,6 +112,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "龙猫"
+      ],
+      "zh-Hant": [
+        "龍貓"
+      ],
+      "en": [
+        "My Neighbor Totoro"
       ]
     },
     "type": "movie",
@@ -103,6 +134,28 @@
       {
         "site": "bangumi",
         "id": "302"
+      },
+      {
+        "site": "netflix",
+        "id": "60032294",
+        "begin": "2020-01-30T16:00:00.000Z",
+        "broadcast": "R/2020-01-30T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/8392"
+      },
+      {
+        "site": "mal",
+        "id": "523"
+      },
+      {
+        "site": "anidb",
+        "id": "303"
+      },
+      {
+        "site": "aniList",
+        "id": "523"
       }
     ]
   },
@@ -120,13 +173,36 @@
     "end": "1988-12-21T12:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "ygQAfuZMvPpd20M",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "37511"
+      },
+      {
+        "site": "unext",
+        "id": "SID0004315",
+        "begin": "2016-03-24T03:00:00.000Z",
+        "broadcast": "R/2016-03-24T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10634",
+        "begin": "2012-09-28T01:00:00.000Z",
+        "broadcast": "R/2012-09-28T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/42823"
+      },
+      {
+        "site": "mal",
+        "id": "3035"
+      },
+      {
+        "site": "anidb",
+        "id": "3219"
+      },
+      {
+        "site": "aniList",
+        "id": "3035"
       }
     ]
   },
@@ -135,6 +211,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "魔神英雄传"
+      ],
+      "zh-Hant": [
+        "魔神英雄傳"
       ]
     },
     "type": "tv",
@@ -156,6 +235,34 @@
         "site": "iqiyi",
         "id": "a_19rrgyan2d",
         "begin": "2018-05-08T10:28:04.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0013418",
+        "begin": "2024-12-20T03:00:00.000Z",
+        "broadcast": "R/2024-12-20T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "11271",
+        "begin": "2017-08-10T01:00:00.000Z",
+        "broadcast": "R/2017-08-10T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/19612"
+      },
+      {
+        "site": "mal",
+        "id": "3837"
+      },
+      {
+        "site": "anidb",
+        "id": "3636"
+      },
+      {
+        "site": "aniList",
+        "id": "3837"
       }
     ]
   },
@@ -176,18 +283,283 @@
     "end": "1989-03-28T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "5lArqRF35yWIBm4",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "7667"
       },
       {
         "site": "bilibili",
         "id": "2391",
-        "begin": "1988-12-31T16:00:00.000Z"
+        "begin": "1988-12-31T16:00:00.000Z",
+        "broadcast": "R/2013-05-14T17:12:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/76666"
+      },
+      {
+        "site": "mal",
+        "id": "12039"
+      },
+      {
+        "site": "anidb",
+        "id": "6758"
+      },
+      {
+        "site": "aniList",
+        "id": "12039"
+      }
+    ]
+  },
+  {
+    "title": "シティーハンター2",
+    "titleTranslate": {
+      "zh-Hans": [
+        "城市猎人 第二季",
+        "城市猎人2"
+      ],
+      "zh-Hant": [
+        "城市獵人 2"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1988-04-02T09:00:00.000Z",
+    "end": "1989-07-01T09:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "53925"
+      },
+      {
+        "site": "bilibili",
+        "id": "2416",
+        "begin": "2020-04-26T09:57:00.000Z",
+        "broadcast": "R/2020-04-26T09:57:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0013054",
+        "begin": "2008-11-14T06:00:00.000Z",
+        "broadcast": "R/2008-11-14T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "30499",
+        "begin": "2019-08-08T02:30:00.000Z",
+        "broadcast": "R/2019-08-08T02:30:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "20157",
+        "begin": "2017-08-10T01:00:00.000Z",
+        "broadcast": "R/2017-08-10T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "30499",
+        "begin": "2019-08-08T02:30:00.000Z",
+        "broadcast": "R/2019-08-08T02:30:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/36046/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "1471"
+      },
+      {
+        "site": "anidb",
+        "id": "1563"
+      },
+      {
+        "site": "aniList",
+        "id": "1471"
+      }
+    ]
+  },
+  {
+    "title": "いきなりダゴン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "昆虫战士"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1988-04-08T16:00:00.000Z",
+    "broadcast": "R/1988-04-08T16:00:00.000Z/P7D",
+    "end": "1988-06-24T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "81529"
+      },
+      {
+        "site": "unext",
+        "id": "SID0056002",
+        "begin": "2021-04-26T03:00:00.000Z",
+        "broadcast": "R/2021-04-26T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "19965"
+      },
+      {
+        "site": "anidb",
+        "id": "2460"
+      },
+      {
+        "site": "aniList",
+        "id": "19965"
+      }
+    ]
+  },
+  {
+    "title": "トッポジージョ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "飞飞鼠"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1988-04-26T16:00:00.000Z",
+    "broadcast": "R/1988-04-26T16:00:00.000Z/P7D",
+    "end": "1988-09-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "188708"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002396",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23518",
+        "begin": "2020-04-24T01:00:00.000Z",
+        "broadcast": "R/2020-04-24T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/81081"
+      },
+      {
+        "site": "mal",
+        "id": "4584"
+      },
+      {
+        "site": "anidb",
+        "id": "5054"
+      },
+      {
+        "site": "aniList",
+        "id": "4584"
+      }
+    ]
+  },
+  {
+    "title": "火垂るの墓",
+    "titleTranslate": {
+      "zh-Hans": [
+        "萤火虫之墓"
+      ],
+      "zh-Hant": [
+        "再見螢火蟲",
+        "螢火蟲之墓"
+      ],
+      "en": [
+        "Grave of the Fireflies"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1988-04-15T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1988-04-15T17:28:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "382"
+      },
+      {
+        "site": "netflix",
+        "id": "557010",
+        "begin": "2024-09-14T16:00:00.000Z",
+        "broadcast": "R/2024-09-14T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/12477"
+      },
+      {
+        "site": "mal",
+        "id": "578"
+      },
+      {
+        "site": "anidb",
+        "id": "332"
+      },
+      {
+        "site": "aniList",
+        "id": "578"
+      }
+    ]
+  },
+  {
+    "title": "トランスフォーマー 超神マスターフォース",
+    "titleTranslate": {
+      "zh-Hans": [
+        "变形金刚：隐者战士",
+        "变形金刚：超神勇者之力",
+        "日版变形金刚G1第四季",
+        "变形金刚：超神 Master Force"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1988-04-11T16:00:00.000Z",
+    "broadcast": "R/1988-04-11T16:00:00.000Z/P7D",
+    "end": "1989-03-06T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "77219"
+      },
+      {
+        "site": "danime",
+        "id": "11491",
+        "begin": "2020-01-17T01:00:00.000Z",
+        "broadcast": "R/2020-01-17T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/11841"
+      },
+      {
+        "site": "mal",
+        "id": "924"
+      },
+      {
+        "site": "anidb",
+        "id": "2069"
+      },
+      {
+        "site": "aniList",
+        "id": "924"
       }
     ]
   }

@@ -13,13 +13,24 @@
     "end": "2007-12-13T14:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "zgH7eeFHticVY1j4",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "2733"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/26792/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "2929"
+      },
+      {
+        "site": "aniList",
+        "id": "2929"
+      },
+      {
+        "site": "anidb",
+        "id": "5020"
       }
     ]
   },
@@ -44,6 +55,28 @@
       {
         "site": "bangumi",
         "id": "3686"
+      },
+      {
+        "site": "unext",
+        "id": "SID0014710",
+        "begin": "2023-08-08T03:00:00.000Z",
+        "broadcast": "R/2023-08-08T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/16516"
+      },
+      {
+        "site": "mal",
+        "id": "1723"
+      },
+      {
+        "site": "anidb",
+        "id": "4402"
+      },
+      {
+        "site": "aniList",
+        "id": "1723"
       }
     ]
   },
@@ -52,7 +85,8 @@
     "titleTranslate": {
       "zh-Hans": [
         "新世纪福音战士剧场版：序",
-        "福音战士新剧场版：序"
+        "福音战士新剧场版：序",
+        "EVA 新世纪福音战士新剧场版1.11：序"
       ]
     },
     "type": "movie",
@@ -84,6 +118,40 @@
         "site": "youku",
         "id": "ef277d8e61ad11e0bea1",
         "begin": "2020-04-26T08:15:00.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "10332",
+        "begin": "2017-10-06T13:36:00.000Z",
+        "broadcast": "R/2017-10-06T13:36:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0038838",
+        "begin": "2019-11-30T15:00:00.000Z",
+        "broadcast": "R/2019-11-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0FM1V1HLS",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/15137"
+      },
+      {
+        "site": "mal",
+        "id": "2759"
+      },
+      {
+        "site": "anidb",
+        "id": "4847"
+      },
+      {
+        "site": "aniList",
+        "id": "2759"
       }
     ]
   },
@@ -110,9 +178,26 @@
         "begin": ""
       },
       {
-        "site": "bilibili",
-        "id": "3151",
-        "begin": "2007-09-29T16:00:00.000Z"
+        "site": "danime",
+        "id": "26875",
+        "begin": "2024-01-31T15:00:00.000Z",
+        "broadcast": "R/2024-01-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/13980"
+      },
+      {
+        "site": "mal",
+        "id": "2418"
+      },
+      {
+        "site": "anidb",
+        "id": "2185"
+      },
+      {
+        "site": "aniList",
+        "id": "2418"
       }
     ]
   },
@@ -138,6 +223,34 @@
         "site": "youku",
         "id": "badfc644af8c11e0a046",
         "begin": "2012-11-15T10:01:49.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002447",
+        "begin": "2009-06-19T06:00:00.000Z",
+        "broadcast": "R/2009-06-19T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10198",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/248043"
+      },
+      {
+        "site": "mal",
+        "id": "2563"
+      },
+      {
+        "site": "anidb",
+        "id": "5115"
+      },
+      {
+        "site": "aniList",
+        "id": "2563"
       }
     ]
   },
@@ -163,6 +276,78 @@
         "site": "nicovideo",
         "id": "movie-kiddygrade-reimeihen",
         "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "4011",
+        "begin": "2016-05-18T06:16:00.000Z",
+        "broadcast": "R/2016-05-18T06:16:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0042784",
+        "begin": "2019-11-30T03:00:00.000Z",
+        "broadcast": "R/2019-11-30T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10342",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/55881"
+      },
+      {
+        "site": "mal",
+        "id": "3223"
+      },
+      {
+        "site": "anidb",
+        "id": "5087"
+      },
+      {
+        "site": "aniList",
+        "id": "3223"
+      }
+    ]
+  },
+  {
+    "title": "ポケモン不思議のダンジョン 時の探検隊・闇の探検隊",
+    "titleTranslate": {
+      "zh-Hans": [
+        "神奇宝贝不可思议的迷宫 时之探险队・暗之探险队"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2007-09-08T16:00:00.000Z",
+    "end": "2007-09-08T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "99953"
+      },
+      {
+        "site": "bilibili",
+        "id": "4773",
+        "begin": "2016-06-14T02:46:00.000Z",
+        "broadcast": "R/2016-06-14T02:46:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/456679"
+      },
+      {
+        "site": "mal",
+        "id": "5256"
+      },
+      {
+        "site": "aniList",
+        "id": "5256"
       }
     ]
   }

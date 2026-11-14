@@ -23,6 +23,22 @@
       {
         "site": "bangumi",
         "id": "47152"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/150027"
+      },
+      {
+        "site": "mal",
+        "id": "1924"
+      },
+      {
+        "site": "anidb",
+        "id": "382"
+      },
+      {
+        "site": "aniList",
+        "id": "1924"
       }
     ]
   },
@@ -47,6 +63,22 @@
       {
         "site": "bangumi",
         "id": "211097"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/223509"
+      },
+      {
+        "site": "mal",
+        "id": "8158"
+      },
+      {
+        "site": "anidb",
+        "id": "1454"
+      },
+      {
+        "site": "aniList",
+        "id": "8158"
       }
     ]
   },
@@ -66,6 +98,40 @@
       {
         "site": "bangumi",
         "id": "103157"
+      },
+      {
+        "site": "unext",
+        "id": "SID0011176",
+        "begin": "2022-07-27T03:00:00.000Z",
+        "broadcast": "R/2022-07-27T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26189",
+        "begin": "2023-03-31T01:00:00.000Z",
+        "broadcast": "R/2023-03-31T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/88796"
+      },
+      {
+        "site": "mal",
+        "id": "2903"
+      },
+      {
+        "site": "anidb",
+        "id": "2070"
+      },
+      {
+        "site": "aniList",
+        "id": "2903"
+      },
+      {
+        "site": "prime",
+        "id": "B0GVTNM9C1",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -89,7 +155,24 @@
       {
         "site": "bilibili",
         "id": "2506",
-        "begin": "1988-02-05T16:00:00.000Z"
+        "begin": "1988-02-05T16:00:00.000Z",
+        "broadcast": "R/2011-12-28T07:24:04.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/301515"
+      },
+      {
+        "site": "mal",
+        "id": "2460"
+      },
+      {
+        "site": "anidb",
+        "id": "491"
+      },
+      {
+        "site": "aniList",
+        "id": "2460"
       }
     ]
   },
@@ -110,6 +193,28 @@
       {
         "site": "bangumi",
         "id": "39531"
+      },
+      {
+        "site": "bilibili",
+        "id": "3284",
+        "begin": "2016-01-12T09:14:00.000Z",
+        "broadcast": "R/2016-01-12T09:14:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0011073",
+        "begin": "2018-04-06T03:00:00.000Z",
+        "broadcast": "R/2018-04-06T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "20143",
+        "begin": "2015-06-19T01:00:00.000Z",
+        "broadcast": "R/2015-06-19T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/154738"
       }
     ]
   },
@@ -130,6 +235,227 @@
       {
         "site": "bangumi",
         "id": "16557"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/32377/season/0/episode/7"
+      },
+      {
+        "site": "danime",
+        "id": "28546",
+        "begin": "2025-12-12T15:00:00.000Z",
+        "broadcast": "R/2025-12-12T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "2585"
+      },
+      {
+        "site": "anidb",
+        "id": "4842"
+      },
+      {
+        "site": "aniList",
+        "id": "2585"
+      },
+      {
+        "site": "unext",
+        "id": "SID0013155",
+        "begin": "2026-10-08T03:00:00.000Z",
+        "broadcast": "R/2026-10-08T03:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "New Story of Aura Battler DUNBINE",
+    "titleTranslate": {
+      "zh-Hans": [
+        "圣战士登拜因 OVA"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1988-02-24T16:00:00.000Z",
+    "end": "1988-08-24T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "39869"
+      },
+      {
+        "site": "bilibili",
+        "id": "4005",
+        "begin": "2016-05-17T08:13:00.000Z",
+        "broadcast": "R/2016-05-17T08:13:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0040182",
+        "begin": "2019-03-19T03:00:00.000Z",
+        "broadcast": "R/2019-03-19T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/158349"
+      },
+      {
+        "site": "mal",
+        "id": "5372"
+      },
+      {
+        "site": "anidb",
+        "id": "2468"
+      },
+      {
+        "site": "aniList",
+        "id": "5372"
+      }
+    ]
+  },
+  {
+    "title": "レイナ剣狼伝説",
+    "titleTranslate": {
+      "zh-Hans": [
+        "蕾娜剑狼传说",
+        "Leina 剑狼传说"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1988-02-04T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1989-04-25T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "37243"
+      },
+      {
+        "site": "unext",
+        "id": "SID0004305",
+        "begin": "2016-03-24T03:00:00.000Z",
+        "broadcast": "R/2016-03-24T03:00:00.000Z/P7D",
+        "comment": "II: SID0004306, III: SID0004307"
+      },
+      {
+        "site": "danime",
+        "id": "10442",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D",
+        "comment": "Ⅱ: 10441, Ⅲ: 10440"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/14290/season/0"
+      },
+      {
+        "site": "mal",
+        "id": "6577"
+      },
+      {
+        "site": "anidb",
+        "id": "4110"
+      },
+      {
+        "site": "aniList",
+        "id": "6577"
+      }
+    ]
+  },
+  {
+    "title": "おそ松くん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "阿松",
+        "我系西瓜刨"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1988-02-12T16:00:00.000Z",
+    "broadcast": "R/1988-02-12T16:00:00.000Z/P7D",
+    "end": "1989-12-29T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "53765"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002500",
+        "begin": "2020-10-26T03:00:00.000Z",
+        "broadcast": "R/2020-10-26T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "20167",
+        "begin": "2015-06-19T01:00:00.000Z",
+        "broadcast": "R/2015-06-19T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/121372"
+      },
+      {
+        "site": "mal",
+        "id": "9883"
+      },
+      {
+        "site": "aniList",
+        "id": "9883"
+      },
+      {
+        "site": "anidb",
+        "id": "2702"
+      }
+    ]
+  },
+  {
+    "title": "ドラゴンズヘブン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "龙之天堂"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1988-02-24T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1988-02-24T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "37509"
+      },
+      {
+        "site": "danime",
+        "id": "10821",
+        "begin": "2014-08-01T02:00:00.000Z",
+        "broadcast": "R/2014-08-01T02:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/166795"
+      },
+      {
+        "site": "mal",
+        "id": "3135"
+      },
+      {
+        "site": "anidb",
+        "id": "2622"
+      },
+      {
+        "site": "aniList",
+        "id": "3135"
       }
     ]
   }

@@ -1,0 +1,88 @@
+[
+  {
+    "title": "宇宙戦士バルディオス 劇場版",
+    "titleTranslate": {
+      "zh-Hans": [
+        "宇宙战士巴鲁迪奥斯 剧场版"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1981-12-18T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1981-12-18T17:58:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "37278"
+      },
+      {
+        "site": "unext",
+        "id": "SID0004928",
+        "begin": "2016-03-24T03:00:00.000Z",
+        "broadcast": "R/2016-03-24T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10431",
+        "begin": "2012-09-28T01:00:00.000Z",
+        "broadcast": "R/2012-09-28T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/126741"
+      },
+      {
+        "site": "mal",
+        "id": "4371"
+      },
+      {
+        "site": "anidb",
+        "id": "4033"
+      },
+      {
+        "site": "aniList",
+        "id": "4371"
+      }
+    ]
+  },
+  {
+    "title": "シュンマオ物語 タオタオ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "熊猫的故事"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1981-12-27T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1981-12-27T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "66303"
+      },
+      {
+        "site": "mal",
+        "id": "24603"
+      },
+      {
+        "site": "anidb",
+        "id": "6562"
+      },
+      {
+        "site": "aniList",
+        "id": "102460"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/251627"
+      }
+    ]
+  }
+]

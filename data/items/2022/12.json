@@ -1,0 +1,547 @@
+[
+  {
+    "title": "僕とロボコ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "我与机器妹",
+        "我与机器子"
+      ],
+      "zh-Hant": [
+        "我與機器子"
+      ],
+      "en": [
+        "ME & ROBOCO"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://boku-to-roboco.com/",
+    "begin": "2022-12-04T15:40:00.000Z",
+    "broadcast": "R/2022-12-04T15:40:00.000Z/P7D",
+    "end": "2023-06-18T15:35:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "385411"
+      },
+      {
+        "site": "gamer",
+        "id": "125724",
+        "begin": "2022-12-04T17:00:00.000Z",
+        "broadcast": "R/2022-12-04T17:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "boku-to-roboc",
+        "begin": "2022-12-05T03:00:00.000Z",
+        "broadcast": "R/2022-12-05T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0075257",
+        "begin": "2022-12-05T03:00:00.000Z",
+        "broadcast": "R/2022-12-05T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "125724",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "63b58c3c441dff2ff8927e53"
+      },
+      {
+        "site": "mikan",
+        "id": "2878"
+      },
+      {
+        "site": "danime",
+        "id": "25955",
+        "begin": "2022-12-05T03:00:00.000Z",
+        "broadcast": "R/2022-12-05T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0DPCVSHTJ",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/203124"
+      },
+      {
+        "site": "mal",
+        "id": "51940"
+      },
+      {
+        "site": "aniList",
+        "id": "150117"
+      },
+      {
+        "site": "anidb",
+        "id": "17428"
+      },
+      {
+        "site": "acgnx",
+        "id": "我與機器"
+      },
+      {
+        "site": "dmhy",
+        "id": "我與機器"
+      }
+    ]
+  },
+  {
+    "title": "七つの大罪 怨嗟のエジンバラ 前編",
+    "titleTranslate": {
+      "zh-Hans": [
+        "七大罪 怨嗟的爱丁堡 前篇",
+        "七大罪：爱丁堡的恩怨 1"
+      ],
+      "zh-Hant": [
+        "七大罪：愛丁堡的恩怨 1"
+      ],
+      "en": [
+        "The Seven Deadly Sins: Grudge of Edinburgh Part 1"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2022-12-19T16:00:00.000Z",
+    "end": "2022-12-19T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "356670"
+      },
+      {
+        "site": "netflix",
+        "id": "81302750",
+        "begin": "2022-12-20T00:00:00.000Z",
+        "broadcast": "R/2022-12-20T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2881"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/989937"
+      },
+      {
+        "site": "mal",
+        "id": "50315"
+      },
+      {
+        "site": "aniList",
+        "id": "141352"
+      },
+      {
+        "site": "anidb",
+        "id": "16963"
+      }
+    ]
+  },
+  {
+    "title": "ぐでたま 〜母をたずねてどんくらい〜",
+    "titleTranslate": {
+      "zh-Hans": [
+        "蛋黄哥大冒险"
+      ],
+      "zh-Hant": [
+        "蛋黃哥大冒險"
+      ],
+      "en": [
+        "Gudetama: An Eggcellent Adventure"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2022-12-12T16:00:00.000Z",
+    "end": "2022-12-12T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "387346"
+      },
+      {
+        "site": "netflix",
+        "id": "81090127",
+        "begin": "2022-12-13T00:00:00.000Z",
+        "broadcast": "R/2022-12-13T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/203949"
+      }
+    ]
+  },
+  {
+    "title": "かぐや様は告らせたい-ファーストキッスは終わらない-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "辉夜大小姐想让我告白-初吻不会结束-",
+        "辉夜大小姐想让我告白 剧场版",
+        "辉夜大小姐想让我告白-初吻永不结束-"
+      ],
+      "en": [
+        "Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai",
+        "Kaguya-sama: Love Is War - The First Kiss That Never Ends"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2022-12-12T16:00:00.000Z",
+    "end": "2022-12-12T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "389474"
+      },
+      {
+        "site": "bilibili",
+        "id": "20140758",
+        "begin": "2023-04-29T16:00:01.000Z",
+        "broadcast": "R/2023-04-29T16:00:01.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2960"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/997317"
+      },
+      {
+        "site": "mal",
+        "id": "52198"
+      },
+      {
+        "site": "anidb",
+        "id": "17477"
+      },
+      {
+        "site": "aniList",
+        "id": "151384"
+      }
+    ]
+  },
+  {
+    "title": "鲤氏侦探事务所",
+    "titleTranslate": {
+      "zh-Hans": [
+        "鲤氏侦探事务所"
+      ],
+      "zh-Hant": [
+        "鯉氏偵探事務所"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://ak.hypergryph.com/lee",
+    "begin": "2022-12-23T11:00:00.000Z",
+    "broadcast": "R/2022-12-23T11:00:00.000Z/P7D",
+    "end": "2023-02-02T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "383649"
+      },
+      {
+        "site": "bilibili",
+        "id": "28351529",
+        "begin": "2022-12-23T11:00:01.000Z",
+        "broadcast": "R/2022-12-23T11:00:01.000Z/P7D",
+        "comment": "中配: 28351530"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/216062"
+      },
+      {
+        "site": "mal",
+        "id": "53852"
+      },
+      {
+        "site": "anidb",
+        "id": "17772"
+      },
+      {
+        "site": "aniList",
+        "id": "140665"
+      }
+    ]
+  },
+  {
+    "title": "映画かいけつゾロリ ラララ♪スターたんじょう",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2022-12-08T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2022-12-08T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "394570"
+      },
+      {
+        "site": "unext",
+        "id": "SID0091705",
+        "begin": "2023-08-28T03:00:00.000Z",
+        "broadcast": "R/2023-08-28T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26573",
+        "begin": "2023-08-28T03:00:00.000Z",
+        "broadcast": "R/2023-08-28T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1036794"
+      },
+      {
+        "site": "mal",
+        "id": "53391"
+      },
+      {
+        "site": "anidb",
+        "id": "17329"
+      },
+      {
+        "site": "aniList",
+        "id": "169794"
+      }
+    ]
+  },
+  {
+    "title": "かがみの孤城",
+    "titleTranslate": {
+      "zh-Hans": [
+        "镜之孤城"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2022-12-22T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2022-12-22T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "371890"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kagaminokojo",
+        "begin": "2023-06-28T03:00:00.000Z",
+        "broadcast": "R/2023-06-28T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0085128",
+        "begin": "2023-04-28T03:00:00.000Z",
+        "broadcast": "R/2023-04-28T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3041"
+      },
+      {
+        "site": "prime",
+        "id": "B0BZK7LXGL",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "27996",
+        "begin": "2025-05-31T15:00:00.000Z",
+        "broadcast": "R/2025-05-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/942881"
+      },
+      {
+        "site": "mal",
+        "id": "51116"
+      },
+      {
+        "site": "anidb",
+        "id": "17219"
+      },
+      {
+        "site": "aniList",
+        "id": "145739"
+      }
+    ]
+  },
+  {
+    "title": "ポケットモンスター 遥かなる青い空",
+    "titleTranslate": {
+      "zh-Hans": [
+        "宝可梦 遥远青空"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2022-12-22T16:00:00.000Z",
+    "broadcast": "R/2022-12-22T16:00:00.000Z/P7D",
+    "end": "2022-12-22T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "411248"
+      },
+      {
+        "site": "unext",
+        "id": "SID0103147",
+        "begin": "2024-06-01T03:00:00.000Z",
+        "broadcast": "R/2024-06-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26353",
+        "begin": "2023-04-20T15:00:00.000Z",
+        "broadcast": "R/2023-04-20T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/60572/season/0/episode/52"
+      },
+      {
+        "site": "mal",
+        "id": "53873"
+      },
+      {
+        "site": "aniList",
+        "id": "158869"
+      }
+    ]
+  },
+  {
+    "title": "THE FIRST SLAM DUNK",
+    "titleTranslate": {
+      "zh-Hans": [
+        "灌篮高手",
+        "灌篮高手 电影版",
+        "灌篮高手：THE FIRST",
+        "灌篮高手 THE FIRST SLAM DUNK"
+      ],
+      "zh-Hant": [
+        "THE FIRST SLAM DUNK",
+        "灌籃高手 THE FIRST SLAM DUNK"
+      ],
+      "en": [
+        "The First Slam Dunk"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://slamdunk-movie.jp/",
+    "begin": "2022-12-02T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2022-12-02T18:04:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "324720"
+      },
+      {
+        "site": "mikan",
+        "id": "3256"
+      },
+      {
+        "site": "netflix",
+        "id": "81765372",
+        "begin": "2025-03-29T16:00:00.000Z",
+        "broadcast": "R/2025-03-29T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/783675"
+      },
+      {
+        "site": "mal",
+        "id": "45649"
+      },
+      {
+        "site": "anidb",
+        "id": "15974"
+      },
+      {
+        "site": "aniList",
+        "id": "128207"
+      }
+    ]
+  },
+  {
+    "title": "LUPIN ZERO",
+    "titleTranslate": {
+      "zh-Hans": [
+        "鲁邦 零"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "http://www.lupin-zero.com",
+    "begin": "2022-12-15T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2023-01-12T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "405990"
+      },
+      {
+        "site": "mikan",
+        "id": "2880"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/213044"
+      },
+      {
+        "site": "mal",
+        "id": "53414"
+      },
+      {
+        "site": "anidb",
+        "id": "17679"
+      },
+      {
+        "site": "aniList",
+        "id": "155925"
+      },
+      {
+        "site": "acgnx",
+        "id": "LUPIN ZERO"
+      },
+      {
+        "site": "dmhy",
+        "id": "LUPIN ZERO"
+      }
+    ]
+  }
+]

@@ -13,6 +13,22 @@
       {
         "site": "bangumi",
         "id": "326921"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/122469"
+      },
+      {
+        "site": "mal",
+        "id": "45207"
+      },
+      {
+        "site": "anidb",
+        "id": "15942"
+      },
+      {
+        "site": "aniList",
+        "id": "127691"
       }
     ]
   },
@@ -23,7 +39,12 @@
         "Tropical-Rouge! Precure"
       ],
       "zh-Hans": [
-        "Tropical-Rouge！光之美少女"
+        "Tropical-Rouge！光之美少女",
+        "热情彩妆！光之美少女",
+        "热情闪耀！光之美少女",
+        "热带Q娃",
+        "热Q",
+        "妆Q"
       ]
     },
     "type": "tv",
@@ -37,6 +58,50 @@
       {
         "site": "bangumi",
         "id": "320857"
+      },
+      {
+        "site": "unext",
+        "id": "SID0089800",
+        "begin": "2023-07-23T03:00:00.000Z",
+        "broadcast": "R/2023-07-23T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "5ff0433484202e4c2e99e1a8"
+      },
+      {
+        "site": "mikan",
+        "id": "2419"
+      },
+      {
+        "site": "danime",
+        "id": "25872",
+        "begin": "2022-12-01T01:00:00.000Z",
+        "broadcast": "R/2022-12-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/119787"
+      },
+      {
+        "site": "mal",
+        "id": "44191"
+      },
+      {
+        "site": "anidb",
+        "id": "15872"
+      },
+      {
+        "site": "aniList",
+        "id": "126905"
+      },
+      {
+        "site": "acgnx",
+        "id": "光之"
+      },
+      {
+        "site": "dmhy",
+        "id": "光之"
       }
     ]
   },
@@ -61,16 +126,61 @@
       {
         "site": "nicovideo",
         "id": "ichigo-animation",
-        "begin": "",
-        "broadcast": ""
+        "begin": "2021-02-13T15:00:00.000Z",
+        "broadcast": "R/2021-02-13T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0050920",
+        "begin": "2021-02-13T15:00:00.000Z",
+        "broadcast": "R/2021-02-13T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "602dabb432f14c0007448b1c"
+      },
+      {
+        "site": "mikan",
+        "id": "2340"
+      },
+      {
+        "site": "danime",
+        "id": "24482",
+        "begin": "2021-02-13T15:00:00.000Z",
+        "broadcast": "R/2021-02-13T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/95203"
+      },
+      {
+        "site": "mal",
+        "id": "39990"
+      },
+      {
+        "site": "aniList",
+        "id": "110200"
+      },
+      {
+        "site": "anidb",
+        "id": "14966"
       }
     ]
   },
   {
-    "title": "キメツ学園 バレンタイン編",
+    "title": "鬼滅の刃 中高一貫!! キメツ学園物語",
     "titleTranslate": {
       "zh-Hans": [
-        "鬼灭学园 情人节篇"
+        "中高一贯！！鬼灭学园物语",
+        "初高中同校！！鬼灭学园物语"
+      ],
+      "zh-Hant": [
+        "國中高一貫！！鬼滅學園物語",
+        "國高中一貫！！鬼滅學園物語",
+        "國高中一貫!! 鬼滅學園物語"
+      ],
+      "en": [
+        "Junior High and High School!! Kimetsu Academy Story"
       ]
     },
     "type": "web",
@@ -87,8 +197,416 @@
       {
         "site": "nicovideo",
         "id": "kimetsugakuen",
+        "begin": "2021-03-15T03:00:00.000Z",
+        "broadcast": "R/2021-03-15T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "28234839",
+        "begin": "2021-07-26T10:00:00.000Z",
+        "broadcast": "R/2021-07-26T10:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0056317",
+        "begin": "2021-03-15T03:00:00.000Z",
+        "broadcast": "R/2021-03-15T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2413"
+      },
+      {
+        "site": "abema",
+        "id": "26-135",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "24550",
+        "begin": "2021-03-15T01:00:00.000Z",
+        "broadcast": "R/2021-03-15T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0F5G2LYVZ",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/85937/season/0"
+      },
+      {
+        "site": "mal",
+        "id": "47398"
+      },
+      {
+        "site": "anidb",
+        "id": "16056"
+      },
+      {
+        "site": "aniList",
+        "id": "129627"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 美少女戦士セーラームーンEternal 後編",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 美少女战士Eternal 后篇"
+      ],
+      "zh-Hant": [
+        "劇場版 美少女戰士Sailor Moon Eternal（下）",
+        "劇場版 美少女戰士Eternal（下）"
+      ],
+      "en": [
+        "Pretty Guardian Sailor Moon Eternal The Movie Part 2"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://sailormoon-movie.jp/",
+    "begin": "2021-02-10T16:00:00.000Z",
+    "end": "2021-02-10T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "218446"
+      },
+      {
+        "site": "netflix",
+        "id": "81214399",
+        "begin": "2021-06-02T16:00:00.000Z",
+        "broadcast": "R/2021-06-02T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0060711",
+        "begin": "2021-08-29T15:00:00.000Z",
+        "broadcast": "R/2021-08-29T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/784500"
+      },
+      {
+        "site": "mal",
+        "id": "40429"
+      },
+      {
+        "site": "aniList",
+        "id": "103712"
+      },
+      {
+        "site": "anidb",
+        "id": "12754"
+      }
+    ]
+  },
+  {
+    "title": "名探偵コナン 緋色の不在証明",
+    "titleTranslate": {
+      "zh-Hans": [
+        "名侦探柯南 绯色的不在场证明",
+        "名侦探柯南 绯色的不在证明"
+      ],
+      "zh-Hant": [
+        "名偵探柯南：緋色的不在場證明"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.conan-movie.jp/alibi",
+    "begin": "2021-02-10T16:00:00.000Z",
+    "end": "2021-02-10T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "327373"
+      },
+      {
+        "site": "bilibili",
+        "id": "28233853",
+        "begin": "2021-03-04T16:00:01.000Z",
+        "broadcast": "R/2021-03-04T16:00:01.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0DYKBLXR8",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/801293"
+      },
+      {
+        "site": "mal",
+        "id": "47413"
+      },
+      {
+        "site": "anidb",
+        "id": "15999"
+      },
+      {
+        "site": "aniList",
+        "id": "131770"
+      }
+    ]
+  },
+  {
+    "title": "新テニスの王子様 氷帝vs立海 Game of Future",
+    "titleTranslate": {
+      "zh-Hans": [
+        "新网球王子 冰帝 vs 立海 Game of Future",
+        "新网球王子 冰帝 vs 立海 未来之战"
+      ],
+      "zh-Hant": [
+        "新網球王子 冰帝 vs 立海 Game of Future"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2021-04-16T16:00:00.000Z",
+    "end": "2021-06-24T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "324788"
+      },
+      {
+        "site": "nicovideo",
+        "id": "tenipuri-game-of-future",
+        "begin": "2022-09-30T15:00:00.000Z",
+        "broadcast": "R/2022-09-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0054281",
+        "begin": "2021-02-13T05:30:00.000Z",
+        "broadcast": "R/2021-02-13T05:30:00.000Z/P7D",
+        "comment": "後篇: SID0055586"
+      },
+      {
+        "site": "bilibili",
+        "id": "28236482",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "25858",
+        "begin": "2022-10-08T01:00:00.000Z",
+        "broadcast": "R/2022-10-08T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/126323"
+      },
+      {
+        "site": "mal",
+        "id": "41842"
+      },
+      {
+        "site": "aniList",
+        "id": "123476"
+      },
+      {
+        "site": "anidb",
+        "id": "15536"
+      }
+    ]
+  },
+  {
+    "title": "囀る鳥は羽ばたかない Don’t stay gold",
+    "titleTranslate": {
+      "zh-Hans": [
+        "鸣鸟不飞 Don’t stay gold"
+      ],
+      "zh-Hant": [
+        "鳴鳥不飛：Don’t stay gold"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2021-02-28T16:00:00.000Z",
+    "end": "2021-02-28T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "317644"
+      },
+      {
+        "site": "gamer",
+        "id": "116199",
+        "begin": "2023-10-20T04:00:00.000Z",
+        "broadcast": "R/2023-10-20T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/673423"
+      },
+      {
+        "site": "mal",
+        "id": "41290"
+      },
+      {
+        "site": "anidb",
+        "id": "15395"
+      },
+      {
+        "site": "aniList",
+        "id": "115567"
+      }
+    ]
+  },
+  {
+    "title": "プリンセス・プリンシパル Crown Handler 第1章",
+    "titleTranslate": {
+      "zh-Hans": [
+        "Princess Principal Crown Handler 第1章",
+        "公主代理人 Crown Handler 第1章",
+        "公主委托人 Crown Handler 第1章",
+        "公主准则 Crown Handler 第1章"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.pripri-anime.jp",
+    "begin": "2021-02-10T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2021-02-10T16:53:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "244928"
+      },
+      {
+        "site": "unext",
+        "id": "SID0057920",
+        "begin": "2021-09-27T15:00:00.000Z",
+        "broadcast": "R/2021-09-27T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2519"
+      },
+      {
+        "site": "danime",
+        "id": "25933",
+        "begin": "2022-12-22T15:00:00.000Z",
+        "broadcast": "R/2022-12-22T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/542507"
+      },
+      {
+        "site": "mal",
+        "id": "37807"
+      },
+      {
+        "site": "aniList",
+        "id": "101595"
+      },
+      {
+        "site": "anidb",
+        "id": "14064"
+      }
+    ]
+  },
+  {
+    "title": "異能のアイシス",
+    "titleTranslate": {
+      "zh-Hans": [
+        "异能的艾希斯"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://www.projectaicis.com/nonocis/",
+    "begin": "2021-02-12T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2021-06-11T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "328582"
+      },
+      {
+        "site": "mikan",
+        "id": "2415"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/118465"
+      },
+      {
+        "site": "mal",
+        "id": "47537"
+      },
+      {
+        "site": "aniList",
+        "id": "130296"
+      },
+      {
+        "site": "anidb",
+        "id": "16046"
+      }
+    ]
+  },
+  {
+    "title": "Tokyo 7th シスターズ -僕らは青空になる-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "东京七姐妹 我们化作青空"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://project-t7s-a.jp/",
+    "begin": "2021-02-25T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2021-02-25T16:01:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "305411"
+      },
+      {
+        "site": "mikan",
+        "id": "2468"
+      },
+      {
+        "site": "danime",
+        "id": "25009",
+        "begin": "2021-09-24T01:00:00.000Z",
+        "broadcast": "R/2021-09-24T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/676643"
+      },
+      {
+        "site": "mal",
+        "id": "41307"
+      },
+      {
+        "site": "anidb",
+        "id": "15399"
+      },
+      {
+        "site": "aniList",
+        "id": "116069"
       }
     ]
   }

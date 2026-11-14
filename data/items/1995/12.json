@@ -15,6 +15,34 @@
       {
         "site": "bangumi",
         "id": "36963"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002818",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "11057",
+        "begin": "2017-06-01T01:00:00.000Z",
+        "broadcast": "R/2017-06-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/28460"
+      },
+      {
+        "site": "mal",
+        "id": "1240"
+      },
+      {
+        "site": "anidb",
+        "id": "2153"
+      },
+      {
+        "site": "aniList",
+        "id": "1240"
       }
     ]
   },
@@ -32,13 +60,269 @@
     "end": "1995-12-23T16:00:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "Gj0Ihu5UxAJl40s",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "3627"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/42994"
+      },
+      {
+        "site": "unext",
+        "id": "SID0017137",
+        "begin": "2025-12-22T15:00:00.000Z",
+        "broadcast": "R/2025-12-22T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23705",
+        "begin": "2025-12-22T15:00:00.000Z",
+        "broadcast": "R/2025-12-22T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "1462"
+      },
+      {
+        "site": "anidb",
+        "id": "262"
+      },
+      {
+        "site": "aniList",
+        "id": "1462"
+      }
+    ]
+  },
+  {
+    "title": "幽☆遊☆白書 映像白書II",
+    "titleTranslate": {
+      "zh-Hans": [
+        "幽游白书 映像白书2"
+      ],
+      "zh-Hant": [
+        "《幽遊白書：影像白書》"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1995-12-15T16:00:00.000Z",
+    "end": "1996-02-06T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "40931"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7Jj8sua9J47dAFfc_s24jT7X",
+        "begin": "2022-11-26T16:00:00.000Z",
+        "broadcast": "R/2022-11-28T02:25:50.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtSAEbBd8mgeEwaQgJtzbem6",
+        "begin": "2022-11-15T16:00:00.000Z",
+        "broadcast": "R/2022-11-17T02:52:42.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/30669/season/0/episode/3"
+      },
+      {
+        "site": "mal",
+        "id": "2126"
+      },
+      {
+        "site": "aniList",
+        "id": "2126"
+      }
+    ]
+  },
+  {
+    "title": "こどものおもちゃ OVA",
+    "titleTranslate": {
+      "zh-Hans": [
+        "玩偶游戏"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1995-12-15T16:00:00.000Z",
+    "end": "1995-12-15T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "134594"
+      },
+      {
+        "site": "bilibili",
+        "id": "5471",
+        "begin": "2016-08-24T03:45:00.000Z",
+        "broadcast": "R/2016-08-24T03:45:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/357673"
+      },
+      {
+        "site": "mal",
+        "id": "3421"
+      },
+      {
+        "site": "anidb",
+        "id": "2905"
+      },
+      {
+        "site": "aniList",
+        "id": "3421"
+      }
+    ]
+  },
+  {
+    "title": "美少女戦士セーラームーンSuperS外伝 亜美ちゃんの初恋",
+    "titleTranslate": {
+      "zh-Hans": [
+        "美少女战士SuperS外传 亚美的初恋"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1995-12-22T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1995-12-22T16:15:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "27357"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002817",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "11058",
+        "begin": "2017-06-01T01:00:00.000Z",
+        "broadcast": "R/2017-06-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/315945"
+      },
+      {
+        "site": "mal",
+        "id": "1278"
+      },
+      {
+        "site": "aniList",
+        "id": "1278"
+      }
+    ]
+  },
+  {
+    "title": "ダーティペア FLASH3",
+    "titleTranslate": {
+      "zh-Hans": [
+        "银河女警花 FLASH3",
+        "搞怪拍档 FLASH3"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.sunrise-anime.jp/sunrise-inc/works/detail.php?cid=109",
+    "begin": "1995-12-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1996-04-24T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "66397"
+      },
+      {
+        "site": "danime",
+        "id": "20501",
+        "begin": "2025-10-09T15:00:00.000Z",
+        "broadcast": "R/2025-10-09T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0015517",
+        "begin": "2025-10-20T15:00:00.000Z",
+        "broadcast": "R/2025-10-20T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/97421/season/1/episode/12"
+      },
+      {
+        "site": "mal",
+        "id": "12347"
+      },
+      {
+        "site": "aniList",
+        "id": "12347"
+      },
+      {
+        "site": "anidb",
+        "id": "19355"
+      }
+    ]
+  },
+  {
+    "title": "沈黙の艦隊",
+    "titleTranslate": {
+      "zh-Hans": [
+        "沉默的舰队"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1995-12-17T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1998-01-24T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "48679"
+      },
+      {
+        "site": "unext",
+        "id": "SID0020056",
+        "begin": "2019-04-04T03:00:00.000Z",
+        "broadcast": "R/2019-04-04T03:00:00.000Z/P7D",
+        "comment": "VOYAGE２: SID0020057, VOYAGE３: SID0020058"
+      },
+      {
+        "site": "danime",
+        "id": "22655",
+        "begin": "2023-02-24T01:00:00.000Z",
+        "broadcast": "R/2023-02-24T01:00:00.000Z/P7D",
+        "comment": "VOYAGE2: 22663, VOYAGE3: 22664"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/246643"
+      },
+      {
+        "site": "mal",
+        "id": "2881"
+      },
+      {
+        "site": "anidb",
+        "id": "1185"
+      },
+      {
+        "site": "aniList",
+        "id": "2881"
       }
     ]
   }

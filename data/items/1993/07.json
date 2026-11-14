@@ -22,14 +22,37 @@
         "begin": ""
       },
       {
-        "site": "pptv",
-        "id": "ibZ32dNxCsvBT0Tk",
-        "begin": ""
-      },
-      {
         "site": "bilibili",
         "id": "3935",
         "begin": "1993-07-22T16:00:01.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0013495",
+        "begin": "2019-01-31T03:00:00.000Z",
+        "broadcast": "R/2019-01-31T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "21754",
+        "begin": "2017-09-08T01:00:00.000Z",
+        "broadcast": "R/2017-09-08T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/76190"
+      },
+      {
+        "site": "mal",
+        "id": "1438"
+      },
+      {
+        "site": "anidb",
+        "id": "986"
+      },
+      {
+        "site": "aniList",
+        "id": "1438"
       }
     ]
   },
@@ -54,6 +77,22 @@
         "site": "iqiyi",
         "id": "a_19rrhb54vl",
         "begin": "2015-08-04T01:02:58.000Z"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/146092"
+      },
+      {
+        "site": "mal",
+        "id": "7157"
+      },
+      {
+        "site": "anidb",
+        "id": "6624"
+      },
+      {
+        "site": "aniList",
+        "id": "7157"
       }
     ]
   },
@@ -83,6 +122,34 @@
         "site": "iqiyi",
         "id": "a_19rrhb4015",
         "begin": "2016-02-04T10:34:13.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0010770",
+        "begin": "2018-07-27T03:00:00.000Z",
+        "broadcast": "R/2018-07-27T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0DW2ZB87C",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/39105"
+      },
+      {
+        "site": "mal",
+        "id": "902"
+      },
+      {
+        "site": "anidb",
+        "id": "1069"
+      },
+      {
+        "site": "aniList",
+        "id": "902"
       }
     ]
   },
@@ -91,6 +158,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "蜡笔小新之动感超人大战泳装魔王"
+      ],
+      "zh-Hant": [
+        "蠟筆小新：動感超人VS高衩魔王"
       ]
     },
     "type": "movie",
@@ -99,11 +169,6 @@
     "begin": "1993-07-24T16:00:00.000Z",
     "end": "1993-07-24T17:30:00.000Z",
     "sites": [
-      {
-        "site": "pptv",
-        "id": "3aGLCXHXR4XoZs4",
-        "begin": ""
-      },
       {
         "site": "iqiyi",
         "begin": "",
@@ -127,6 +192,52 @@
         "site": "youku",
         "id": "f070c1fa61ad11e0bea1",
         "begin": "2012-11-27T02:56:39.000Z"
+      },
+      {
+        "site": "abema",
+        "id": "35-59",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0010781",
+        "begin": "2024-03-06T03:00:00.000Z",
+        "broadcast": "R/2024-03-06T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "197",
+        "begin": "2024-02-01T04:00:00.000Z",
+        "broadcast": "R/2024-02-01T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "muse_tw",
+        "id": "PL12UaAf_xzfr3AnAFqWFYv5k0bl5DbbHa",
+        "begin": "2025-04-05T14:00:06.000Z",
+        "broadcast": "R/2025-04-05T14:00:06.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/128868"
+      },
+      {
+        "site": "mal",
+        "id": "8358"
+      },
+      {
+        "site": "anidb",
+        "id": "4624"
+      },
+      {
+        "site": "aniList",
+        "id": "8358"
+      },
+      {
+        "site": "danime",
+        "id": "28936",
+        "begin": "2026-06-30T15:00:00.000Z",
+        "broadcast": "R/2026-06-30T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -147,6 +258,316 @@
       {
         "site": "bangumi",
         "id": "8247"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/34758"
+      },
+      {
+        "site": "anidb",
+        "id": "12416"
+      },
+      {
+        "site": "aniList",
+        "id": "151765"
+      }
+    ]
+  },
+  {
+    "title": "幽☆遊☆白書",
+    "titleTranslate": {
+      "zh-Hans": [
+        "幽游白书 夜叉的阴谋"
+      ],
+      "zh-Hant": [
+        "幽遊白書：夜叉的陰謀"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1993-07-09T16:00:00.000Z",
+    "end": "1993-07-09T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "8805"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7Jj8sua9J47dAFfc_s24jT7X",
+        "begin": "2022-11-26T16:00:00.000Z",
+        "broadcast": "R/2022-11-28T02:25:50.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtSAEbBd8mgeEwaQgJtzbem6",
+        "begin": "2022-11-15T16:00:00.000Z",
+        "broadcast": "R/2022-11-17T02:52:42.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0014719",
+        "begin": "2021-07-12T03:00:00.000Z",
+        "broadcast": "R/2021-07-12T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "24825",
+        "begin": "2021-07-12T01:00:00.000Z",
+        "broadcast": "R/2021-07-12T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/45278"
+      },
+      {
+        "site": "mal",
+        "id": "882"
+      },
+      {
+        "site": "anidb",
+        "id": "1084"
+      },
+      {
+        "site": "aniList",
+        "id": "882"
+      }
+    ]
+  },
+  {
+    "title": "ろくでなしBLUES 1993",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1993-07-23T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1993-07-23T17:25:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "104006"
+      },
+      {
+        "site": "unext",
+        "id": "SID0045129",
+        "begin": "2019-12-27T03:00:00.000Z",
+        "broadcast": "R/2019-12-27T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/461499"
+      },
+      {
+        "site": "mal",
+        "id": "9078"
+      },
+      {
+        "site": "aniList",
+        "id": "9078"
+      },
+      {
+        "site": "anidb",
+        "id": "6813"
+      },
+      {
+        "site": "danime",
+        "id": "24702",
+        "begin": "2026-04-09T15:00:00.000Z",
+        "broadcast": "R/2026-04-09T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "それいけ!アンパンマン 恐竜ノッシーの大冒険",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.tms-e.co.jp/alltitles/anpanman/060308.html",
+    "begin": "1993-07-16T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1993-07-16T17:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "89701"
+      },
+      {
+        "site": "unext",
+        "id": "SID0018525",
+        "begin": "2015-06-01T06:00:00.000Z",
+        "broadcast": "R/2015-06-01T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/361500"
+      },
+      {
+        "site": "mal",
+        "id": "10056"
+      },
+      {
+        "site": "aniList",
+        "id": "10056"
+      },
+      {
+        "site": "anidb",
+        "id": "7549"
+      }
+    ]
+  },
+  {
+    "title": "ハローキティのしらゆきひめ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "凯蒂猫 白雪公主"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1993-07-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1993-07-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "315561"
+      },
+      {
+        "site": "danime",
+        "id": "25520",
+        "begin": "2023-01-20T01:00:00.000Z",
+        "broadcast": "R/2023-01-20T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "17951"
+      },
+      {
+        "site": "anidb",
+        "id": "7778"
+      }
+    ]
+  },
+  {
+    "title": "悪右衛門",
+    "titleTranslate": {
+      "zh-Hans": [
+        "恶右卫门"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "https://tezukaosamu.net/jp/anime/89.html",
+    "begin": "1993-07-15T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1993-07-15T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "306574"
+      },
+      {
+        "site": "danime",
+        "id": "24067",
+        "begin": "2020-07-10T01:00:00.000Z",
+        "broadcast": "R/2020-07-10T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/375972"
+      },
+      {
+        "site": "mal",
+        "id": "14231"
+      },
+      {
+        "site": "anidb",
+        "id": "3618"
+      },
+      {
+        "site": "aniList",
+        "id": "14231"
+      }
+    ]
+  },
+  {
+    "title": "お星さまのレール",
+    "titleTranslate": {
+      "zh-Hans": [
+        "星星的轨迹"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1993-07-09T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1993-07-09T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "63015"
+      },
+      {
+        "site": "mal",
+        "id": "1329"
+      },
+      {
+        "site": "anidb",
+        "id": "2794"
+      },
+      {
+        "site": "aniList",
+        "id": "1329"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/56316"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 かいけつゾロリ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 怪侠佐罗利"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1993-07-16T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1993-07-16T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "414761"
+      },
+      {
+        "site": "mal",
+        "id": "6965"
+      },
+      {
+        "site": "anidb",
+        "id": "5997"
+      },
+      {
+        "site": "aniList",
+        "id": "6965"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1110835"
       }
     ]
   }

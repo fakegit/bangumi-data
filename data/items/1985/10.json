@@ -13,11 +13,6 @@
     "end": "1986-07-13T10:00:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "ZtqlI4vxYZ8CgOg",
-        "begin": ""
-      },
-      {
         "site": "qq",
         "id": "e/eruda43t4yvxxx5",
         "begin": ""
@@ -30,6 +25,22 @@
         "site": "bilibili",
         "id": "2422",
         "begin": "1985-10-05T16:00:00.000Z"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/9168"
+      },
+      {
+        "site": "mal",
+        "id": "3059"
+      },
+      {
+        "site": "anidb",
+        "id": "1959"
+      },
+      {
+        "site": "aniList",
+        "id": "3059"
       }
     ]
   },
@@ -55,6 +66,42 @@
       {
         "site": "bangumi",
         "id": "53789"
+      },
+      {
+        "site": "unext",
+        "id": "SID0011131",
+        "begin": "2023-08-16T03:00:00.000Z",
+        "broadcast": "R/2023-08-16T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26158",
+        "begin": "2023-02-28T01:00:00.000Z",
+        "broadcast": "R/2023-02-28T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/115278"
+      },
+      {
+        "site": "mal",
+        "id": "7307"
+      },
+      {
+        "site": "aniList",
+        "id": "7307"
+      },
+      {
+        "site": "anidb",
+        "id": "1453"
+      },
+      {
+        "site": "acgnx",
+        "id": "鬼太郎"
+      },
+      {
+        "site": "dmhy",
+        "id": "鬼太郎"
       }
     ]
   },
@@ -76,14 +123,31 @@
         "id": "5430"
       },
       {
-        "site": "pptv",
-        "id": "Q4x49l7ENHLVU7s",
-        "begin": ""
-      },
-      {
         "site": "bilibili",
         "id": "2421",
         "begin": "1985-10-02T16:00:00.000Z"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/19829"
+      },
+      {
+        "site": "danime",
+        "id": "11270",
+        "begin": "2025-12-12T15:00:00.000Z",
+        "broadcast": "R/2025-12-12T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "3079"
+      },
+      {
+        "site": "anidb",
+        "id": "2154"
+      },
+      {
+        "site": "aniList",
+        "id": "3079"
       }
     ]
   },
@@ -102,7 +166,153 @@
     "sites": [
       {
         "site": "bangumi",
-        "id": "213642"
+        "id": "53738"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003138",
+        "begin": "2021-07-31T03:00:00.000Z",
+        "broadcast": "R/2021-07-31T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "11081",
+        "begin": "2020-06-19T01:00:00.000Z",
+        "broadcast": "R/2020-06-19T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/63265"
+      },
+      {
+        "site": "mal",
+        "id": "714"
+      },
+      {
+        "site": "anidb",
+        "id": "1356"
+      },
+      {
+        "site": "aniList",
+        "id": "714"
+      }
+    ]
+  },
+  {
+    "title": "戦え!!イクサー1",
+    "titleTranslate": {
+      "zh-Hans": [
+        "战斗吧!! 伊克萨1",
+        "战斗!! 伊库莎1"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1985-10-18T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1987-03-03T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "29326"
+      },
+      {
+        "site": "danime",
+        "id": "11321",
+        "begin": "2014-06-27T01:00:00.000Z",
+        "broadcast": "R/2014-06-27T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/97412"
+      },
+      {
+        "site": "mal",
+        "id": "2291"
+      },
+      {
+        "site": "anidb",
+        "id": "436"
+      },
+      {
+        "site": "aniList",
+        "id": "2291"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 ニルスのふしぎな旅",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 骑鹅旅行记"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1985-09-30T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1985-09-30T17:37:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "298392"
+      },
+      {
+        "site": "unext",
+        "id": "SID0016160",
+        "begin": "2018-12-31T03:00:00.000Z",
+        "broadcast": "R/2018-12-31T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "11616",
+        "begin": "2015-01-23T01:00:00.000Z",
+        "broadcast": "R/2015-01-23T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/529667"
+      }
+    ]
+  },
+  {
+    "title": "妖精フローレンス",
+    "titleTranslate": {
+      "zh-Hans": [
+        "妖精芙罗伦丝"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1985-10-18T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1985-10-18T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "307259"
+      },
+      {
+        "site": "mal",
+        "id": "4943"
+      },
+      {
+        "site": "anidb",
+        "id": "5479"
+      },
+      {
+        "site": "aniList",
+        "id": "4943"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/116318"
       }
     ]
   }

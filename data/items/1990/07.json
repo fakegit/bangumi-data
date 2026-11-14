@@ -22,14 +22,32 @@
         "begin": ""
       },
       {
-        "site": "pptv",
-        "id": "ibZ32dNxCsvBT0Tk",
-        "begin": ""
+        "site": "unext",
+        "id": "SID0016770",
+        "begin": "2019-01-10T03:00:00.000Z",
+        "broadcast": "R/2019-01-10T03:00:00.000Z/P7D"
       },
       {
-        "site": "bilibili",
-        "id": "3930",
-        "begin": "1990-07-19T16:00:01.000Z"
+        "site": "danime",
+        "id": "21751",
+        "begin": "2017-09-08T01:00:00.000Z",
+        "broadcast": "R/2017-09-08T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/80861"
+      },
+      {
+        "site": "mal",
+        "id": "1421"
+      },
+      {
+        "site": "anidb",
+        "id": "2014"
+      },
+      {
+        "site": "aniList",
+        "id": "1421"
       }
     ]
   },
@@ -59,6 +77,34 @@
         "site": "iqiyi",
         "id": "a_19rrhb4015",
         "begin": "2016-02-04T10:34:13.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0010764",
+        "begin": "2018-07-27T03:00:00.000Z",
+        "broadcast": "R/2018-07-27T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0F1282BGT",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/39101"
+      },
+      {
+        "site": "mal",
+        "id": "896"
+      },
+      {
+        "site": "anidb",
+        "id": "762"
+      },
+      {
+        "site": "aniList",
+        "id": "896"
       }
     ]
   },
@@ -76,13 +122,445 @@
     "end": "1992-10-28T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "sf3HRa0Tg8Ekogo",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "25728"
+      },
+      {
+        "site": "unext",
+        "id": "SID0017858",
+        "begin": "2022-04-28T03:00:00.000Z",
+        "broadcast": "R/2022-04-28T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23497",
+        "begin": "2020-05-15T01:00:00.000Z",
+        "broadcast": "R/2020-05-15T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/37578"
+      },
+      {
+        "site": "mal",
+        "id": "2543"
+      },
+      {
+        "site": "anidb",
+        "id": "1060"
+      },
+      {
+        "site": "aniList",
+        "id": "2543"
+      }
+    ]
+  },
+  {
+    "title": "ぽこぽんのゆかいな西遊記",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1990-07-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1990-07-20T17:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "308942"
+      },
+      {
+        "site": "unext",
+        "id": "SID0027612",
+        "begin": "2017-01-27T03:00:00.000Z",
+        "broadcast": "R/2017-01-27T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "25565",
+        "begin": "2023-05-01T01:00:00.000Z",
+        "broadcast": "R/2023-05-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1447695"
+      },
+      {
+        "site": "mal",
+        "id": "32621"
+      },
+      {
+        "site": "anidb",
+        "id": "8411"
+      },
+      {
+        "site": "aniList",
+        "id": "168868"
+      }
+    ]
+  },
+  {
+    "title": "藤子不二雄Aの夢魔子",
+    "titleTranslate": {
+      "zh-Hans": [
+        "藤子不二雄A的梦魔子"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1990-07-02T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1990-07-02T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "104562"
+      },
+      {
+        "site": "unext",
+        "id": "SID0053873",
+        "begin": "2020-12-27T03:00:00.000Z",
+        "broadcast": "R/2020-12-27T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23080",
+        "begin": "2020-02-21T01:00:00.000Z",
+        "broadcast": "R/2020-02-21T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/197276"
+      },
+      {
+        "site": "mal",
+        "id": "19533"
+      },
+      {
+        "site": "anidb",
+        "id": "9172"
+      },
+      {
+        "site": "aniList",
+        "id": "19533"
+      }
+    ]
+  },
+  {
+    "title": "A-Ko The VS",
+    "titleTranslate": {
+      "zh-Hans": [
+        "A子计划 外传"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1990-07-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1990-07-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "55061"
+      },
+      {
+        "site": "unext",
+        "id": "SID0019073",
+        "begin": "2016-03-24T03:00:00.000Z",
+        "broadcast": "R/2016-03-24T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "20285",
+        "begin": "2015-08-28T01:00:00.000Z",
+        "broadcast": "R/2015-08-28T01:00:00.000Z/P7D",
+        "comment": "GRAY SIDE, BLUE SIDE: 20286"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/134832"
+      },
+      {
+        "site": "mal",
+        "id": "1295"
+      },
+      {
+        "site": "anidb",
+        "id": "7685"
+      },
+      {
+        "site": "aniList",
+        "id": "1295"
+      }
+    ]
+  },
+  {
+    "title": "けろけろけろっぴの大冒険　ふしぎな豆の木",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1990-07-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1990-07-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "unext",
+        "id": "SID0027611",
+        "begin": "2017-01-27T03:00:00.000Z",
+        "broadcast": "R/2017-01-27T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "25485",
+        "begin": "2023-05-01T01:00:00.000Z",
+        "broadcast": "R/2023-05-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1251267"
+      },
+      {
+        "site": "mal",
+        "id": "17489"
+      },
+      {
+        "site": "anidb",
+        "id": "3073"
+      },
+      {
+        "site": "aniList",
+        "id": "17489"
+      }
+    ]
+  },
+  {
+    "title": "それいけ!アンパンマン おむすびまん",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.tms-e.co.jp/alltitles/anpanman/060303.html",
+    "begin": "1990-07-06T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1990-07-06T16:26:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "89689"
+      },
+      {
+        "site": "unext",
+        "id": "SID0018520",
+        "begin": "2015-06-01T06:00:00.000Z",
+        "broadcast": "R/2015-06-01T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/437942"
+      },
+      {
+        "site": "mal",
+        "id": "19433"
+      },
+      {
+        "site": "aniList",
+        "id": "19433"
+      },
+      {
+        "site": "anidb",
+        "id": "7746"
+      }
+    ]
+  },
+  {
+    "title": "それいけ!アンパンマン ばいきんまんの逆襲",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.tms-e.co.jp/alltitles/anpanman/060302.html",
+    "begin": "1990-07-13T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1990-07-13T17:10:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "418854"
+      },
+      {
+        "site": "unext",
+        "id": "SID0018519",
+        "begin": "2015-06-01T06:00:00.000Z",
+        "broadcast": "R/2015-06-01T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "27770",
+        "begin": "2025-04-29T15:00:00.000Z",
+        "broadcast": "R/2025-04-29T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/390947"
+      },
+      {
+        "site": "mal",
+        "id": "10061"
+      },
+      {
+        "site": "aniList",
+        "id": "10061"
+      },
+      {
+        "site": "anidb",
+        "id": "7396"
+      }
+    ]
+  },
+  {
+    "title": "キムの十字架",
+    "titleTranslate": {
+      "zh-Hans": [
+        "金的十字架"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1990-07-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1990-07-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "322643"
+      },
+      {
+        "site": "mal",
+        "id": "19941"
+      },
+      {
+        "site": "anidb",
+        "id": "5272"
+      },
+      {
+        "site": "aniList",
+        "id": "19941"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/787847"
+      }
+    ]
+  },
+  {
+    "title": "ハローキティのおやゆびひめ",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1990-07-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1990-07-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "89695"
+      },
+      {
+        "site": "mal",
+        "id": "32622"
+      },
+      {
+        "site": "anidb",
+        "id": "7780"
+      },
+      {
+        "site": "aniList",
+        "id": "150009"
+      }
+    ]
+  },
+  {
+    "title": "女戦士エフェ&ジーラ グーデの紋章",
+    "titleTranslate": {
+      "zh-Hans": [
+        "女战士艾菲拉和吉利欧拉 古德的纹章"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1990-07-22T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1990-07-22T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "92937"
+      },
+      {
+        "site": "mal",
+        "id": "2069"
+      },
+      {
+        "site": "anidb",
+        "id": "2790"
+      },
+      {
+        "site": "aniList",
+        "id": "2069"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/411217"
+      }
+    ]
+  },
+  {
+    "title": "クロがいた夏",
+    "titleTranslate": {
+      "zh-Hans": [
+        "有小黑的夏天"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1990-07-25T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1990-07-25T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "80177"
+      },
+      {
+        "site": "mal",
+        "id": "3866"
+      },
+      {
+        "site": "anidb",
+        "id": "4133"
+      },
+      {
+        "site": "aniList",
+        "id": "3866"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/452949"
       }
     ]
   }

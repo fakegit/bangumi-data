@@ -1,0 +1,121 @@
+[
+  {
+    "title": "マジンガーZ対暗黒大将軍",
+    "titleTranslate": {
+      "zh-Hans": [
+        "魔神Z对暗黑大将军",
+        "铁甲万能侠对暗黑大将军"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1974-07-24T15:00:00.000Z",
+    "broadcast": "",
+    "end": "1974-07-24T15:43:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "114705"
+      },
+      {
+        "site": "unext",
+        "id": "SID0045407",
+        "begin": "2019-12-23T03:00:00.000Z",
+        "broadcast": "R/2019-12-23T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "21924",
+        "begin": "2020-01-20T01:00:00.000Z",
+        "broadcast": "R/2020-01-20T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/74617"
+      },
+      {
+        "site": "mal",
+        "id": "4406"
+      },
+      {
+        "site": "anidb",
+        "id": "952"
+      },
+      {
+        "site": "aniList",
+        "id": "4406"
+      }
+    ]
+  },
+  {
+    "title": "ゲッターロボ 恐竜! 東京ジャック作戦",
+    "titleTranslate": {
+      "zh-Hans": [
+        "盖塔机器人 恐龙！东京劫持作战",
+        "盖塔机器人 剧场版"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1974-07-24T15:00:00.000Z",
+    "broadcast": "",
+    "end": "1974-07-24T15:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "329164"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/456478"
+      },
+      {
+        "site": "bilibili",
+        "id": "5920",
+        "begin": "2017-02-06T09:15:05.000Z",
+        "broadcast": "R/2017-02-06T09:15:05.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "ジャックと豆の木",
+    "titleTranslate": {
+      "zh-Hans": [
+        "杰克与豌豆"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1974-07-19T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1974-07-19T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "448680"
+      },
+      {
+        "site": "mal",
+        "id": "3720"
+      },
+      {
+        "site": "anidb",
+        "id": "4293"
+      },
+      {
+        "site": "aniList",
+        "id": "3720"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/34052"
+      }
+    ]
+  }
+]

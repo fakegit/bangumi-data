@@ -26,6 +26,22 @@
       {
         "site": "bangumi",
         "id": "40001"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/150023"
+      },
+      {
+        "site": "mal",
+        "id": "1920"
+      },
+      {
+        "site": "anidb",
+        "id": "378"
+      },
+      {
+        "site": "aniList",
+        "id": "1920"
       }
     ]
   },
@@ -50,6 +66,34 @@
         "site": "bilibili",
         "id": "2433",
         "begin": "1983-02-04T16:00:00.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0015400",
+        "begin": "2019-04-05T03:00:00.000Z",
+        "broadcast": "R/2019-04-05T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "11416",
+        "begin": "2018-02-16T01:00:00.000Z",
+        "broadcast": "R/2018-02-16T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/34190"
+      },
+      {
+        "site": "mal",
+        "id": "929"
+      },
+      {
+        "site": "anidb",
+        "id": "899"
+      },
+      {
+        "site": "aniList",
+        "id": "929"
       }
     ]
   }

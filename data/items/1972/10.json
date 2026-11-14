@@ -20,6 +20,34 @@
         "site": "nicovideo",
         "id": "dokonjou_gaeru",
         "begin": "2012-02-16T06:00:00.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0012507",
+        "begin": "2016-04-07T03:00:00.000Z",
+        "broadcast": "R/2016-04-07T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "20237",
+        "begin": "2015-07-24T01:00:00.000Z",
+        "broadcast": "R/2015-07-24T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/45356"
+      },
+      {
+        "site": "mal",
+        "id": "5618"
+      },
+      {
+        "site": "anidb",
+        "id": "4953"
+      },
+      {
+        "site": "aniList",
+        "id": "5618"
       }
     ]
   },
@@ -28,6 +56,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "科学小飞侠"
+      ],
+      "zh-Hant": [
+        "科學小飛俠"
       ]
     },
     "type": "tv",
@@ -43,7 +74,101 @@
       {
         "site": "bilibili",
         "id": "6246",
-        "begin": "1972-09-30T16:00:01.000Z"
+        "begin": "1972-09-30T16:00:01.000Z",
+        "broadcast": "R/2017-06-01T04:05:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002516",
+        "begin": "2019-08-26T03:00:00.000Z",
+        "broadcast": "R/2019-08-26T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10893",
+        "begin": "2017-03-17T01:00:00.000Z",
+        "broadcast": "R/2017-03-17T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tropics",
+        "id": "PLoGVqODys23CynJ60aTyjVAQaGVwMDCY-",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "36327",
+        "begin": "2025-11-07T04:00:00.000Z",
+        "broadcast": "R/2025-11-07T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "36327",
+        "begin": "2025-11-07T04:00:00.000Z",
+        "broadcast": "R/2025-11-07T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/13549"
+      },
+      {
+        "site": "mal",
+        "id": "2389"
+      },
+      {
+        "site": "anidb",
+        "id": "3513"
+      },
+      {
+        "site": "aniList",
+        "id": "2389"
+      },
+      {
+        "site": "abema",
+        "id": "19-209",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "アストロガンガー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "铁甲飞天侠"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1972-10-03T16:00:00.000Z",
+    "end": "1973-03-27T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "37231"
+      },
+      {
+        "site": "bilibili",
+        "id": "2482",
+        "begin": "2014-06-02T14:56:31.000Z",
+        "broadcast": "R/2014-06-02T14:56:31.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/44479"
+      },
+      {
+        "site": "mal",
+        "id": "5311"
+      },
+      {
+        "site": "anidb",
+        "id": "3079"
+      },
+      {
+        "site": "aniList",
+        "id": "5311"
       }
     ]
   }

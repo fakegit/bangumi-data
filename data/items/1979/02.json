@@ -20,6 +20,22 @@
       {
         "site": "bangumi",
         "id": "11683"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/68343"
+      },
+      {
+        "site": "mal",
+        "id": "2230"
+      },
+      {
+        "site": "anidb",
+        "id": "1919"
+      },
+      {
+        "site": "aniList",
+        "id": "2230"
       }
     ]
   },
@@ -42,6 +58,79 @@
       {
         "site": "bangumi",
         "id": "53757"
+      },
+      {
+        "site": "unext",
+        "id": "SID0017871",
+        "begin": "2019-09-18T03:00:00.000Z",
+        "broadcast": "R/2019-09-18T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "21275",
+        "begin": "2016-12-23T01:00:00.000Z",
+        "broadcast": "R/2016-12-23T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/96609"
+      },
+      {
+        "site": "mal",
+        "id": "6889"
+      },
+      {
+        "site": "anidb",
+        "id": "2547"
+      },
+      {
+        "site": "aniList",
+        "id": "6889"
+      },
+      {
+        "site": "abema",
+        "id": "19-213",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "がんばれ！ぼくらのヒットエンドラン",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1979-02-17T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1979-02-17T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "220036"
+      },
+      {
+        "site": "danime",
+        "id": "26113",
+        "begin": "2023-03-01T01:00:00.000Z",
+        "broadcast": "R/2023-03-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1029153"
+      },
+      {
+        "site": "mal",
+        "id": "11593"
+      },
+      {
+        "site": "anidb",
+        "id": "4258"
+      },
+      {
+        "site": "aniList",
+        "id": "11593"
       }
     ]
   }

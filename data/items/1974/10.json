@@ -20,6 +20,34 @@
         "site": "bilibili",
         "id": "10612",
         "begin": "1974-09-30T16:00:01.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002810",
+        "begin": "2019-08-27T03:00:00.000Z",
+        "broadcast": "R/2019-08-27T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "21274",
+        "begin": "2016-12-16T01:00:00.000Z",
+        "broadcast": "R/2016-12-16T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/8819"
+      },
+      {
+        "site": "mal",
+        "id": "4808"
+      },
+      {
+        "site": "anidb",
+        "id": "1562"
+      },
+      {
+        "site": "aniList",
+        "id": "4808"
       }
     ]
   },
@@ -39,6 +67,34 @@
       {
         "site": "bangumi",
         "id": "17873"
+      },
+      {
+        "site": "unext",
+        "id": "SID0011594",
+        "begin": "2018-12-18T03:00:00.000Z",
+        "broadcast": "R/2018-12-18T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23362",
+        "begin": "2020-03-13T01:00:00.000Z",
+        "broadcast": "R/2020-03-13T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/62139"
+      },
+      {
+        "site": "mal",
+        "id": "8763"
+      },
+      {
+        "site": "anidb",
+        "id": "3625"
+      },
+      {
+        "site": "aniList",
+        "id": "8763"
       }
     ]
   },
@@ -63,6 +119,40 @@
         "site": "bilibili",
         "id": "2451",
         "begin": "1974-10-05T16:00:00.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0174162",
+        "begin": "2025-03-14T03:00:00.000Z",
+        "broadcast": "R/2025-03-14T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0CBKZ5J7N",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "28380",
+        "begin": "2025-11-07T15:00:00.000Z",
+        "broadcast": "R/2025-11-07T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/13339"
+      },
+      {
+        "site": "mal",
+        "id": "1650"
+      },
+      {
+        "site": "anidb",
+        "id": "648"
+      },
+      {
+        "site": "aniList",
+        "id": "1650"
       }
     ]
   }

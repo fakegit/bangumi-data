@@ -4,6 +4,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "机动战士高达 剧场版II 哀・战士"
+      ],
+      "zh-Hant": [
+        "機動戰士高達 II：哀・戰士"
+      ],
+      "en": [
+        "Mobile Suit Gundam II: Soldiers of Sorrow"
       ]
     },
     "type": "movie",
@@ -20,6 +26,46 @@
       {
         "site": "bangumi",
         "id": "38436"
+      },
+      {
+        "site": "netflix",
+        "id": "70014612",
+        "begin": "2021-06-16T16:00:00.000Z",
+        "broadcast": "R/2021-06-16T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0012953",
+        "begin": "2008-10-31T15:00:00.000Z",
+        "broadcast": "R/2008-10-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B076ZV8RMJ",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "27905",
+        "begin": "2025-04-10T15:00:00.000Z",
+        "broadcast": "R/2025-04-10T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/39229"
+      },
+      {
+        "site": "mal",
+        "id": "1091"
+      },
+      {
+        "site": "anidb",
+        "id": "4166"
+      },
+      {
+        "site": "aniList",
+        "id": "1091"
       }
     ]
   },
@@ -44,6 +90,22 @@
         "site": "iqiyi",
         "id": "a_19rrhb54vl",
         "begin": "2015-08-04T01:02:58.000Z"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/115104"
+      },
+      {
+        "site": "mal",
+        "id": "7666"
+      },
+      {
+        "site": "anidb",
+        "id": "2269"
+      },
+      {
+        "site": "aniList",
+        "id": "7666"
       }
     ]
   },
@@ -63,6 +125,22 @@
       {
         "site": "bangumi",
         "id": "67755"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/288097"
+      },
+      {
+        "site": "mal",
+        "id": "2922"
+      },
+      {
+        "site": "aniList",
+        "id": "2922"
+      },
+      {
+        "site": "anidb",
+        "id": "4862"
       }
     ]
   },
@@ -82,6 +160,114 @@
       {
         "site": "bangumi",
         "id": "37256"
+      },
+      {
+        "site": "unext",
+        "id": "SID0010711",
+        "begin": "2016-03-24T03:00:00.000Z",
+        "broadcast": "R/2016-03-24T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10426",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/9474"
+      },
+      {
+        "site": "mal",
+        "id": "2510"
+      },
+      {
+        "site": "anidb",
+        "id": "1481"
+      },
+      {
+        "site": "aniList",
+        "id": "2510"
+      }
+    ]
+  },
+  {
+    "title": "シリウスの伝説",
+    "titleTranslate": {
+      "zh-Hans": [
+        "天狼星的传说"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1981-07-17T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1981-07-17T17:40:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "106359"
+      },
+      {
+        "site": "danime",
+        "id": "25555",
+        "begin": "2023-05-01T01:00:00.000Z",
+        "broadcast": "R/2023-05-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/42776"
+      },
+      {
+        "site": "mal",
+        "id": "2029"
+      },
+      {
+        "site": "anidb",
+        "id": "4989"
+      },
+      {
+        "site": "aniList",
+        "id": "2029"
+      }
+    ]
+  },
+  {
+    "title": "グリックの冒険",
+    "titleTranslate": {
+      "zh-Hans": [
+        "松鼠的冒险"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1981-07-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1981-07-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "296869"
+      },
+      {
+        "site": "mal",
+        "id": "7252"
+      },
+      {
+        "site": "anidb",
+        "id": "6634"
+      },
+      {
+        "site": "aniList",
+        "id": "7252"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/279987"
       }
     ]
   }

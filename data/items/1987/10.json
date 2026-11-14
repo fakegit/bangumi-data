@@ -14,19 +14,9 @@
     "end": "1988-03-30T23:00:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "OywIhu5UxAJl40s",
-        "begin": ""
-      },
-      {
         "site": "iqiyi",
         "id": "a_19rrk35gjh",
         "begin": "2015-01-09T07:11:23.000Z"
-      },
-      {
-        "site": "letv",
-        "id": "78829",
-        "begin": ""
       },
       {
         "site": "mgtv",
@@ -40,7 +30,36 @@
       {
         "site": "bilibili",
         "id": "2981",
-        "begin": "1987-10-20T16:00:00.000Z"
+        "begin": "1987-10-20T16:00:00.000Z",
+        "broadcast": "R/2015-11-07T06:40:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003161",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "24089",
+        "begin": "2020-08-07T01:00:00.000Z",
+        "broadcast": "R/2020-08-07T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/9892"
+      },
+      {
+        "site": "mal",
+        "id": "4060"
+      },
+      {
+        "site": "anidb",
+        "id": "947"
+      },
+      {
+        "site": "aniList",
+        "id": "4060"
       }
     ]
   },
@@ -69,6 +88,22 @@
       {
         "site": "bangumi",
         "id": "77901"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/44666"
+      },
+      {
+        "site": "mal",
+        "id": "2227"
+      },
+      {
+        "site": "anidb",
+        "id": "2068"
+      },
+      {
+        "site": "aniList",
+        "id": "2227"
       }
     ]
   },
@@ -98,6 +133,22 @@
         "site": "qq",
         "id": "g/g1l5q945mzbg5j7",
         "begin": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/20784"
+      },
+      {
+        "site": "mal",
+        "id": "2333"
+      },
+      {
+        "site": "aniList",
+        "id": "2333"
+      },
+      {
+        "site": "anidb",
+        "id": "1962"
       }
     ]
   },
@@ -117,6 +168,22 @@
       {
         "site": "bangumi",
         "id": "202147"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/114558"
+      },
+      {
+        "site": "mal",
+        "id": "13769"
+      },
+      {
+        "site": "anidb",
+        "id": "2073"
+      },
+      {
+        "site": "aniList",
+        "id": "13769"
       }
     ]
   },
@@ -125,6 +192,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "妙手小厨师"
+      ],
+      "zh-Hant": [
+        "妙手小廚師"
       ]
     },
     "type": "tv",
@@ -140,7 +210,247 @@
       {
         "site": "bilibili",
         "id": "2410",
-        "begin": "1987-10-08T16:00:00.000Z"
+        "begin": "1987-10-08T16:00:00.000Z",
+        "broadcast": "R/2012-01-22T11:01:03.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0020055",
+        "begin": "2023-01-14T15:00:00.000Z",
+        "broadcast": "R/2023-01-14T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "21435",
+        "begin": "2017-02-17T01:00:00.000Z",
+        "broadcast": "R/2017-02-17T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/34131"
+      },
+      {
+        "site": "mal",
+        "id": "3437"
+      },
+      {
+        "site": "anidb",
+        "id": "264"
+      },
+      {
+        "site": "aniList",
+        "id": "3437"
+      }
+    ]
+  },
+  {
+    "title": "ついでにとんちんかん",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1987-10-16T16:00:00.000Z",
+    "broadcast": "R/1987-10-16T16:00:00.000Z/P7D",
+    "end": "1988-09-30T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "53735"
+      },
+      {
+        "site": "unext",
+        "id": "SID0027125",
+        "begin": "2020-01-31T03:00:00.000Z",
+        "broadcast": "R/2020-01-31T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "20462",
+        "begin": "2016-11-25T01:00:00.000Z",
+        "broadcast": "R/2016-11-25T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/208221"
+      },
+      {
+        "site": "mal",
+        "id": "6917"
+      },
+      {
+        "site": "anidb",
+        "id": "5568"
+      },
+      {
+        "site": "aniList",
+        "id": "6917"
+      }
+    ]
+  },
+  {
+    "title": "ビックリマン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "仙魔大战",
+        "第一次聖魔大戦",
+        "第一次圣魔大战"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1987-10-10T16:00:00.000Z",
+    "broadcast": "R/1987-10-10T16:00:00.000Z/P7D",
+    "end": "1989-04-01T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "81569"
+      },
+      {
+        "site": "unext",
+        "id": "SID0089861",
+        "begin": "2023-09-05T03:00:00.000Z",
+        "broadcast": "R/2023-09-05T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23087",
+        "begin": "2023-02-28T01:00:00.000Z",
+        "broadcast": "R/2023-02-28T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/19343"
+      },
+      {
+        "site": "mal",
+        "id": "3909"
+      },
+      {
+        "site": "anidb",
+        "id": "2074"
+      },
+      {
+        "site": "aniList",
+        "id": "3909"
+      }
+    ]
+  },
+  {
+    "title": "おらぁグズラだど リメイク版",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1987-10-11T16:00:00.000Z",
+    "broadcast": "R/1987-10-11T16:00:00.000Z/P7D",
+    "end": "1988-09-19T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "308946"
+      },
+      {
+        "site": "unext",
+        "id": "SID0017856",
+        "begin": "2022-04-21T03:00:00.000Z",
+        "broadcast": "R/2022-04-21T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23486",
+        "begin": "2020-03-27T01:00:00.000Z",
+        "broadcast": "R/2020-03-27T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/208301"
+      }
+    ]
+  },
+  {
+    "title": "レモンエンジェル",
+    "titleTranslate": {
+      "zh-Hans": [
+        "柠檬天使"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1987-09-30T16:00:00.000Z",
+    "broadcast": "R/1987-09-30T16:00:00.000Z/P7D",
+    "end": "1988-09-14T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "67771"
+      },
+      {
+        "site": "danime",
+        "id": "27961",
+        "begin": "2025-05-15T15:00:00.000Z",
+        "broadcast": "R/2025-05-15T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/68928"
+      },
+      {
+        "site": "mal",
+        "id": "3259"
+      },
+      {
+        "site": "aniList",
+        "id": "3259"
+      },
+      {
+        "site": "anidb",
+        "id": "4211"
+      },
+      {
+        "site": "unext",
+        "id": "SID0312005",
+        "begin": "2026-09-01T15:00:00.000Z",
+        "broadcast": "R/2026-09-01T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "勝利投手",
+    "titleTranslate": {
+      "zh-Hans": [
+        "胜利投手"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1987-10-23T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1987-10-23T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "108331"
+      },
+      {
+        "site": "mal",
+        "id": "19887"
+      },
+      {
+        "site": "anidb",
+        "id": "2412"
+      },
+      {
+        "site": "aniList",
+        "id": "19887"
       }
     ]
   }

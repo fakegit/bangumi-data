@@ -1,0 +1,527 @@
+[
+  {
+    "title": "#神奈川に住んでるエルフ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "住在神奈川的精灵"
+      ],
+      "en": [
+        "Kanagawa ni Sunderu Elf"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://animationid.com/kanael/",
+    "begin": "2025-12-09T13:55:00.000Z",
+    "broadcast": "R/2025-12-09T13:55:00.000Z/P7D",
+    "end": "2026-03-17T14:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "580762"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kanael",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "prime",
+        "id": "B0FJXVZ2W5",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0246864",
+        "begin": "2025-12-09T14:00:00.000Z",
+        "broadcast": "R/2025-12-09T14:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "54-113",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "28508",
+        "begin": "2025-12-04T03:30:00.000Z",
+        "broadcast": "R/2025-12-04T03:30:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "62521"
+      },
+      {
+        "site": "anidb",
+        "id": "19565"
+      },
+      {
+        "site": "aniList",
+        "id": "199005"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/302233"
+      },
+      {
+        "site": "anibt",
+        "id": "580762"
+      }
+    ]
+  },
+  {
+    "title": "青のミブロ ―芹沢暗殺編―",
+    "titleTranslate": {
+      "zh-Hans": [
+        "青之壬生浪 -芹泽暗杀篇-",
+        "青之壬生浪 第二季"
+      ],
+      "zh-Hant": [
+        "青之壬生浪 第二季 芹澤暗殺篇"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://miburoanime.com/",
+    "begin": "2025-12-20T08:30:00.000Z",
+    "broadcast": "R/2025-12-20T08:30:00.000Z/P7D",
+    "end": "2026-03-28T09:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "548558"
+      },
+      {
+        "site": "danime",
+        "id": "28557",
+        "begin": "2025-12-20T09:00:00.000Z",
+        "broadcast": "R/2025-12-20T09:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0G6G93SB8",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "miburoanime2",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "147239",
+        "begin": "2025-12-27T09:30:00.000Z",
+        "broadcast": "R/2025-12-27T09:30:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "147239",
+        "begin": "2025-12-27T09:30:00.000Z",
+        "broadcast": "R/2025-12-27T09:30:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0251292",
+        "begin": "2025-12-20T09:00:00.000Z",
+        "broadcast": "R/2025-12-20T09:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3820"
+      },
+      {
+        "site": "mal",
+        "id": "61333"
+      },
+      {
+        "site": "anidb",
+        "id": "19258"
+      },
+      {
+        "site": "aniList",
+        "id": "189258"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/234776/season/2"
+      },
+      {
+        "site": "acgnx",
+        "id": "青之壬生浪"
+      },
+      {
+        "site": "anibt",
+        "id": "548558"
+      },
+      {
+        "site": "dmhy",
+        "id": "青之壬生浪"
+      }
+    ]
+  },
+  {
+    "title": "かぐや様は告らせたい 大人への階段",
+    "titleTranslate": {
+      "zh-Hans": [
+        "辉夜大小姐想让我告白 通往大人的阶梯"
+      ],
+      "zh-Hant": [
+        "輝夜姬想讓人告白 邁向大人的階梯"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://kaguya.love/",
+    "begin": "2025-12-31T13:00:00.000Z",
+    "broadcast": "R/2025-12-31T13:00:00.000Z/P7D",
+    "end": "2025-12-31T14:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "565802"
+      },
+      {
+        "site": "gamer",
+        "id": "145936",
+        "begin": "2025-12-31T14:30:00.000Z",
+        "broadcast": "R/2025-12-31T14:30:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "145936",
+        "begin": "2025-12-31T14:30:00.000Z",
+        "broadcast": "R/2025-12-31T14:30:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3869"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/83121/season/0/episode/6"
+      },
+      {
+        "site": "nicovideo",
+        "id": "kaguya_love5",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mal",
+        "id": "61903"
+      },
+      {
+        "site": "anidb",
+        "id": "19402"
+      },
+      {
+        "site": "aniList",
+        "id": "194884"
+      },
+      {
+        "site": "unext",
+        "id": "SID0267779",
+        "begin": "2026-01-31T15:00:00.000Z",
+        "broadcast": "R/2026-01-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0FXGDLWX2",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "anibt",
+        "id": "565802"
+      }
+    ]
+  },
+  {
+    "title": "シンデレラ・シェフ ～萌妻食神～ シーズン2",
+    "titleTranslate": {
+      "zh-Hans": [
+        "萌妻食神之再结良缘",
+        "萌妻食神 第二季"
+      ],
+      "en": [
+        "Cinderella Chef 2nd Season"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://chinaentame.com/cinderella_chef/",
+    "begin": "2025-12-24T13:00:00.000Z",
+    "broadcast": "R/2025-12-24T13:00:00.000Z/P7D",
+    "end": "2026-03-11T13:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "352153"
+      },
+      {
+        "site": "prime",
+        "id": "B0G6TYYTK9",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "28507",
+        "begin": "2025-12-24T09:00:00.000Z",
+        "broadcast": "R/2025-12-24T09:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/87978/season/2"
+      },
+      {
+        "site": "unext",
+        "id": "SID0260178",
+        "begin": "2026-01-19T09:00:00.000Z",
+        "broadcast": "R/2026-01-19T09:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "49847"
+      },
+      {
+        "site": "aniList",
+        "id": "139348"
+      },
+      {
+        "site": "anidb",
+        "id": "16986"
+      }
+    ]
+  },
+  {
+    "title": "アンデッドアンラック Winter編",
+    "titleTranslate": {
+      "zh-Hans": [
+        "不死不幸 冬季篇"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://undead-unluck.net/",
+    "begin": "2025-12-25T15:10:00.000Z",
+    "broadcast": "R/2025-12-25T15:10:00.000Z/P7D",
+    "end": "2025-12-25T15:10:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "506120"
+      },
+      {
+        "site": "prime",
+        "id": "B0G4SJQKZ6",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0250238",
+        "begin": "2025-12-25T16:10:00.000Z",
+        "broadcast": "R/2025-12-25T16:10:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "28433",
+        "begin": "2025-12-25T16:10:00.000Z",
+        "broadcast": "R/2025-12-25T16:10:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3872"
+      },
+      {
+        "site": "mal",
+        "id": "59435"
+      },
+      {
+        "site": "aniList",
+        "id": "179930"
+      },
+      {
+        "site": "anidb",
+        "id": "18789"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/209077/season/0"
+      },
+      {
+        "site": "anibt",
+        "id": "506120"
+      }
+    ]
+  },
+  {
+    "title": "ガールズ&パンツァー もっとらぶらぶ作戦です! 第1幕",
+    "titleTranslate": {
+      "zh-Hans": [
+        "少女与战车 lovelove大作战 第1幕"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://gup-mottolovelove.jp/",
+    "begin": "2025-12-25T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2025-12-25T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "544624"
+      },
+      {
+        "site": "mal",
+        "id": "61227"
+      },
+      {
+        "site": "anidb",
+        "id": "19220"
+      },
+      {
+        "site": "aniList",
+        "id": "188034"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1591447"
+      },
+      {
+        "site": "anibt",
+        "id": "544624"
+      },
+      {
+        "site": "nicovideo",
+        "id": "gup-mottolovelove-tv",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "abema",
+        "id": "13-222",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0319538",
+        "begin": "2026-10-08T15:00:00.000Z",
+        "broadcast": "R/2026-10-08T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "29194",
+        "begin": "2026-10-08T15:00:00.000Z",
+        "broadcast": "R/2026-10-08T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "4127"
+      }
+    ]
+  },
+  {
+    "title": "アイドリッシュセブン First BEAT! 劇場総集編 後編",
+    "titleTranslate": {
+      "zh-Hans": [
+        "IDOLiSH7-偶像星愿- 剧场总集篇 后篇"
+      ],
+      "zh-Hant": [
+        "IDOLiSH7 - 偶像星願 - First BEAT！ 劇場版總集篇 後篇"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://idolish7.com/aninana/firstbeat/",
+    "begin": "2025-12-04T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2025-12-04T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "555683"
+      },
+      {
+        "site": "nicovideo",
+        "id": "aninana_firstbeat",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0308924",
+        "begin": "2026-07-28T15:00:00.000Z",
+        "broadcast": "R/2026-07-28T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "153474",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer_hk",
+        "id": "153474",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "anibt",
+        "id": "555683"
+      }
+    ]
+  },
+  {
+    "title": "ペリリュー -楽園のゲルニカ-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "贝里琉岛 -乐园的格尔尼卡"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://peleliu-movie.jp/",
+    "begin": "2025-12-04T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2025-12-04T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "332677"
+      },
+      {
+        "site": "mal",
+        "id": "48701"
+      },
+      {
+        "site": "anidb",
+        "id": "16193"
+      },
+      {
+        "site": "aniList",
+        "id": "132776"
+      },
+      {
+        "site": "anibt",
+        "id": "332677"
+      }
+    ]
+  }
+]

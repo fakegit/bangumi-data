@@ -13,13 +13,168 @@
     "end": "1986-04-21T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "cqaiaIIjuXpzicfeU",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "57566"
+      },
+      {
+        "site": "unext",
+        "id": "SID0004289",
+        "begin": "2016-03-24T03:00:00.000Z",
+        "broadcast": "R/2016-03-24T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10141",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/334387"
+      },
+      {
+        "site": "mal",
+        "id": "2256"
+      },
+      {
+        "site": "anidb",
+        "id": "1742"
+      },
+      {
+        "site": "aniList",
+        "id": "2256"
+      }
+    ]
+  },
+  {
+    "title": "タッチ 背番号のないエース",
+    "titleTranslate": {
+      "zh-Hans": [
+        "棒球英豪 没有背号的王牌投手",
+        "棒球英豪 剧场版",
+        "邻家女孩剧场版 没有背号的王牌投手"
+      ],
+      "en": [
+        "Touch The Movie Ace without No",
+        "Touch: Sebangou no Nai Ace",
+        "Touch: Ace Without A Number On His Back"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1986-04-11T16:00:00.000Z",
+    "end": "1986-04-11T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "18041"
+      },
+      {
+        "site": "bilibili",
+        "id": "2426",
+        "begin": "2013-02-25T15:50:34.000Z",
+        "broadcast": "R/2013-02-25T15:50:34.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/411931"
+      },
+      {
+        "site": "mal",
+        "id": "2491"
+      },
+      {
+        "site": "anidb",
+        "id": "2556"
+      },
+      {
+        "site": "aniList",
+        "id": "2491"
+      }
+    ]
+  },
+  {
+    "title": "銀牙 -流れ星 銀-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "银牙",
+        "虎纹猎犬物语",
+        "银牙─流星银"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1986-04-06T16:00:00.000Z",
+    "broadcast": "R/1986-04-06T16:00:00.000Z/P7D",
+    "end": "1986-09-21T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "53728"
+      },
+      {
+        "site": "danime",
+        "id": "26188",
+        "begin": "2023-03-31T01:00:00.000Z",
+        "broadcast": "R/2023-03-31T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/89367"
+      },
+      {
+        "site": "mal",
+        "id": "589"
+      },
+      {
+        "site": "aniList",
+        "id": "589"
+      },
+      {
+        "site": "anidb",
+        "id": "1243"
+      }
+    ]
+  },
+  {
+    "title": "ワンダービートS",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1986-04-15T16:00:00.000Z",
+    "broadcast": "R/1986-04-15T16:00:00.000Z/P7D",
+    "end": "1986-11-18T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "102447"
+      },
+      {
+        "site": "danime",
+        "id": "27984",
+        "begin": "2025-05-30T15:00:00.000Z",
+        "broadcast": "R/2025-05-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/19374"
+      },
+      {
+        "site": "mal",
+        "id": "4083"
+      },
+      {
+        "site": "aniList",
+        "id": "4083"
+      },
+      {
+        "site": "anidb",
+        "id": "2875"
       }
     ]
   }

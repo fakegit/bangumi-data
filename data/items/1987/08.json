@@ -1,0 +1,122 @@
+[
+  {
+    "title": "バリバリ伝説",
+    "titleTranslate": {
+      "zh-Hans": [
+        "赛车传奇 剧场版",
+        "疾风传说",
+        "BARIBARI传说",
+        "冲劲传说"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1987-07-31T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1987-07-31T17:24:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "120018"
+      },
+      {
+        "site": "unext",
+        "id": "SID0158135",
+        "begin": "2024-10-10T15:00:00.000Z",
+        "broadcast": "R/2024-10-10T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "27385",
+        "begin": "2024-10-10T15:00:00.000Z",
+        "broadcast": "R/2024-10-10T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0DFVCLY89",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/228940"
+      },
+      {
+        "site": "mal",
+        "id": "12745"
+      },
+      {
+        "site": "anidb",
+        "id": "4786"
+      },
+      {
+        "site": "aniList",
+        "id": "12745"
+      }
+    ]
+  },
+  {
+    "title": "あいつとララバイ 水曜日のシンデレラ",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1987-07-31T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1987-07-31T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "139344"
+      },
+      {
+        "site": "mal",
+        "id": "14183"
+      },
+      {
+        "site": "anidb",
+        "id": "7571"
+      },
+      {
+        "site": "aniList",
+        "id": "14183"
+      }
+    ]
+  },
+  {
+    "title": "チロヌップのきつね",
+    "titleTranslate": {
+      "zh-Hans": [
+        "切洛努普的狐狸"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1987-08-14T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1987-08-14T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "111331"
+      },
+      {
+        "site": "mal",
+        "id": "17689"
+      },
+      {
+        "site": "anidb",
+        "id": "6695"
+      },
+      {
+        "site": "aniList",
+        "id": "17689"
+      }
+    ]
+  }
+]

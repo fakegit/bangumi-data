@@ -137,14 +137,19 @@ dist/                                --> 存放构建后数据的目录
 * [https://www.le.com/comic/<kbd>10029954</kbd>.html](https://www.le.com/comic/10029954.html)
 * [https://www.mgtv.com/h/<kbd>301218</kbd>.html](https://www.mgtv.com/h/301218.html)
 * [https://ch.nicovideo.jp/<kbd>kemono-friends</kbd>](https://ch.nicovideo.jp/kemono-friends)
-* [http://v.pptv.com/page/<kbd>adq2NJwCcrATkfk</kbd>.html](http://v.pptv.com/page/adq2NJwCcrATkfk.html)
-* [https://tv.sohu.com/<kbd>s2011/yjdwb</kbd>](https://tv.sohu.com/s2011/yjdwb/)
 * [https://v.qq.com/detail/<kbd>g/gyf3u5vx0m42531</kbd>.html](https://v.qq.com/detail/g/gyf3u5vx0m42531.html)
 * [https://list.youku.com/show/id_z<kbd>4d8cce35815111e6b16e</kbd>.html](https://list.youku.com/show/id_z4d8cce35815111e6b16</kbd>.html)
 * [https://www.netflix.com/title/<kbd>81033445</kbd>](https://www.netflix.com/title/81033445)
 * [https://acg.gamer.com.tw/acgDetail.php?s=<kbd>112745</kbd>](https://acg.gamer.com.tw/acgDetail.php?s=112745)
 * [https://www.youtube.com/playlist?list=<kbd>PLuxqoToY7UchI8eLvRPMGGFHxVD7ynzRI</kbd>](https://www.youtube.com/playlist?list=PLuxqoToY7UchI8eLvRPMGGFHxVD7ynzRI)
 * [https://www.viu.com/ott/hk/zh-hk/vod/<kbd>397958</kbd>/](https://www.viu.com/ott/hk/zh-hk/vod/397958/)
+* [https://www.mytvsuper.com/tc/programme/<kbd>397958</kbd>/](https://www.mytvsuper.com/tc/programme/yurucamp_115005/)
+* [https://www.disneyplus.com/series/view/<kbd>fet1h9jqmrAM</kbd>](https://www.disneyplus.com/series/view/fet1h9jqmrAM)
+* [https://abema.tv/video/title/<kbd>30-5</kbd>](https://abema.tv/video/title/30-5)
+* [https://video.unext.jp/title/<kbd>SID0079682</kbd>](https://video.unext.jp/title/SID0079682)
+* [https://www.crunchyroll.com/series/<kbd>G6QWV3976</kbd>](https://www.crunchyroll.com/series/G6QWV3976)
+* [https://animestore.docomo.ne.jp/animestore/ci_pc?workId=<kbd>20516</kbd>](https://animestore.docomo.ne.jp/animestore/ci_pc?workId=20516)
+* [https://www.amazon.co.jp/gp/video/detail/<kbd>B0CJRFZ6JD</kbd>](https://www.amazon.co.jp/gp/video/detail/B0CJRFZ6JD)
 
 ## 验证
 

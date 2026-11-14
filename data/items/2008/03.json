@@ -13,18 +13,42 @@
     "end": "2008-03-28T18:00:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "NgTicfeVLuiclc2kI",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "3760"
       },
       {
         "site": "nicovideo",
         "id": "busgamer",
-        "begin": "2017-04-07T06:00:00.000Z"
+        "begin": "2017-04-07T06:00:00.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0002819",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10076",
+        "begin": "2017-11-10T01:00:00.000Z",
+        "broadcast": "R/2017-11-10T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/43141"
+      },
+      {
+        "site": "mal",
+        "id": "3389"
+      },
+      {
+        "site": "anidb",
+        "id": "5547"
+      },
+      {
+        "site": "aniList",
+        "id": "3389"
       }
     ]
   },
@@ -33,7 +57,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "搞笑漫画日和3",
-        "搞笑漫画日和 第3季"
+        "搞笑漫画日和 第3季",
+        "增田幸助剧场 搞笑漫画日和3",
+        "搞笑漫画日和 第3期"
+      ],
+      "zh-Hant": [
+        "搞笑漫畫日和 3"
       ]
     },
     "type": "tv",
@@ -43,11 +72,6 @@
     "end": "2008-06-02T14:06:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "LhfycNgibruxPzTU",
-        "begin": ""
-      },
-      {
         "site": "iqiyi",
         "id": "a_19rrgjb89p",
         "begin": "2014-04-09T23:30:25.000Z"
@@ -55,11 +79,6 @@
       {
         "site": "qq",
         "id": "7/77mnuidmyfuyr5d",
-        "begin": ""
-      },
-      {
-        "site": "letv",
-        "id": "15967",
         "begin": ""
       },
       {
@@ -74,7 +93,54 @@
       {
         "site": "bilibili",
         "id": "1595",
-        "begin": "2008-03-16T16:00:00.000Z"
+        "begin": "2008-03-16T16:00:00.000Z",
+        "broadcast": "R/2015-01-20T07:13:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0014527",
+        "begin": "2024-12-22T04:00:00.000Z",
+        "broadcast": "R/2024-12-22T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "27642",
+        "begin": "2024-12-22T04:00:00.000Z",
+        "broadcast": "R/2024-12-22T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0FKMWHB7F",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "gagbi3",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "33457",
+        "begin": "2025-05-24T14:00:00.000Z",
+        "broadcast": "R/2025-05-24T14:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/80007/season/3"
+      },
+      {
+        "site": "mal",
+        "id": "4056"
+      },
+      {
+        "site": "anidb",
+        "id": "5774"
+      },
+      {
+        "site": "aniList",
+        "id": "4056"
       }
     ]
   },
@@ -85,7 +151,8 @@
         "Chi's Sweet Home"
       ],
       "zh-Hans": [
-        "甜甜私房猫"
+        "甜甜私房猫",
+        "起司猫"
       ]
     },
     "type": "tv",
@@ -97,6 +164,34 @@
       {
         "site": "bangumi",
         "id": "1511"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002247",
+        "begin": "2008-12-12T06:00:00.000Z",
+        "broadcast": "R/2008-12-12T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "20279",
+        "begin": "2015-08-28T01:00:00.000Z",
+        "broadcast": "R/2015-08-28T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/34186"
+      },
+      {
+        "site": "mal",
+        "id": "3841"
+      },
+      {
+        "site": "anidb",
+        "id": "5801"
+      },
+      {
+        "site": "aniList",
+        "id": "3841"
       }
     ]
   },
@@ -105,6 +200,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "哆啦A梦 大雄与绿巨人传"
+      ],
+      "zh-Hant": [
+        "電影 哆啦A夢 大雄與綠之巨人傳"
       ]
     },
     "type": "movie",
@@ -114,18 +212,8 @@
     "end": "2008-03-08T17:30:00.000Z",
     "sites": [
       {
-        "site": "letv",
-        "id": "81025",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "476"
-      },
-      {
-        "site": "pptv",
-        "id": "7qoHhe1TwwFk4ko",
-        "begin": ""
       },
       {
         "site": "qq",
@@ -140,7 +228,42 @@
       {
         "site": "bilibili",
         "id": "3875",
-        "begin": "2008-03-07T16:00:00.000Z"
+        "begin": "2008-03-07T16:00:00.000Z",
+        "broadcast": "R/2016-04-28T02:35:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "35-117",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0099878",
+        "begin": "2024-03-05T03:00:00.000Z",
+        "broadcast": "R/2024-03-05T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "26522",
+        "begin": "2023-03-16T02:00:00.000Z",
+        "broadcast": "R/2023-03-16T02:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/136686"
+      },
+      {
+        "site": "mal",
+        "id": "5096"
+      },
+      {
+        "site": "anidb",
+        "id": "6382"
+      },
+      {
+        "site": "aniList",
+        "id": "5096"
       }
     ]
   },
@@ -169,7 +292,36 @@
       {
         "site": "nicovideo",
         "id": "hokuto-no-ken",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0028277",
+        "begin": "2019-06-13T03:00:00.000Z",
+        "broadcast": "R/2019-06-13T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10477",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/114371"
+      },
+      {
+        "site": "mal",
+        "id": "4312"
+      },
+      {
+        "site": "anidb",
+        "id": "3041"
+      },
+      {
+        "site": "aniList",
+        "id": "4312"
       }
     ]
   },
@@ -195,6 +347,34 @@
       {
         "site": "bangumi",
         "id": "1486"
+      },
+      {
+        "site": "unext",
+        "id": "SID0011327",
+        "begin": "2018-05-18T03:00:00.000Z",
+        "broadcast": "R/2018-05-18T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "20132",
+        "begin": "2020-02-20T01:00:00.000Z",
+        "broadcast": "R/2020-02-20T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/67199/season/4"
+      },
+      {
+        "site": "mal",
+        "id": "3515"
+      },
+      {
+        "site": "anidb",
+        "id": "5670"
+      },
+      {
+        "site": "aniList",
+        "id": "3515"
       }
     ]
   },
@@ -203,6 +383,13 @@
     "titleTranslate": {
       "zh-Hans": [
         "海贼王 绽放在寒冬的奇迹樱花"
+      ],
+      "zh-Hant": [
+        "海賊王劇場版：索柏身世之謎：冬季綻放、奇跡的櫻花"
+      ],
+      "en": [
+        "One Piece: Episode of Chopper: Bloom in the Winter, Miracle Sakura",
+        "One Piece 9: Episode of Chopper"
       ]
     },
     "type": "movie",
@@ -214,6 +401,46 @@
       {
         "site": "bangumi",
         "id": "2000"
+      },
+      {
+        "site": "unext",
+        "id": "SID0012958",
+        "begin": "2019-07-01T03:00:00.000Z",
+        "broadcast": "R/2019-07-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "80998780",
+        "begin": "2024-02-13T16:00:00.000Z",
+        "broadcast": "R/2024-02-13T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26996",
+        "begin": "2024-03-07T15:00:00.000Z",
+        "broadcast": "R/2024-03-07T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0DY7M35KF",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/44731"
+      },
+      {
+        "site": "mal",
+        "id": "3848"
+      },
+      {
+        "site": "anidb",
+        "id": "5691"
+      },
+      {
+        "site": "aniList",
+        "id": "3848"
       }
     ]
   },
@@ -233,12 +460,44 @@
       {
         "site": "bangumi",
         "id": "161694"
+      },
+      {
+        "site": "unext",
+        "id": "SID0044349",
+        "begin": "2019-12-15T03:00:00.000Z",
+        "broadcast": "R/2019-12-15T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23856",
+        "begin": "2020-05-08T01:00:00.000Z",
+        "broadcast": "R/2020-05-08T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/34860"
+      },
+      {
+        "site": "mal",
+        "id": "1199"
+      },
+      {
+        "site": "anidb",
+        "id": "3626"
+      },
+      {
+        "site": "aniList",
+        "id": "1199"
       }
     ]
   },
   {
     "title": "ToHeart2 ad",
-    "titleTranslate": {},
+    "titleTranslate": {
+      "zh-Hans": [
+        "心之彼端2 Another Day"
+      ]
+    },
     "type": "ova",
     "lang": "ja",
     "officialSite": "http://aquaplus.jp/th2ad/product.html",
@@ -252,7 +511,42 @@
       {
         "site": "nicovideo",
         "id": "th2ad",
-        "begin": "2012-03-03T13:30:00.000Z"
+        "begin": "2012-03-03T13:30:00.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "4050",
+        "begin": "2016-05-25T03:24:00.000Z",
+        "broadcast": "R/2016-05-25T03:24:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003179",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10143",
+        "begin": "2017-11-10T01:00:00.000Z",
+        "broadcast": "R/2017-11-10T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/27438/season/0/episode/5"
+      },
+      {
+        "site": "mal",
+        "id": "4166"
+      },
+      {
+        "site": "anidb",
+        "id": "5592"
+      },
+      {
+        "site": "aniList",
+        "id": "4166"
       }
     ]
   },
@@ -274,9 +568,189 @@
         "id": "3763"
       },
       {
-        "site": "pptv",
-        "id": "9LQdmwNp2Rd6ibGA",
-        "begin": ""
+        "site": "bilibili",
+        "id": "28221038",
+        "begin": "2019-05-20T06:47:00.000Z",
+        "broadcast": "R/2019-05-20T06:47:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0014737",
+        "begin": "2019-03-08T03:00:00.000Z",
+        "broadcast": "R/2019-03-08T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "22215",
+        "begin": "2018-07-24T03:00:00.000Z",
+        "broadcast": "R/2018-07-24T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/112538"
+      },
+      {
+        "site": "mal",
+        "id": "5290"
+      },
+      {
+        "site": "anidb",
+        "id": "5956"
+      },
+      {
+        "site": "aniList",
+        "id": "5290"
+      }
+    ]
+  },
+  {
+    "title": "School Days OVA スペシャル ～マジカルハート☆こころちゃん～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "日在校园OVA 魔法少女小心心",
+        "School Days OVA 魔法少女小心心"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.schooldays-anime.com/",
+    "begin": "2008-03-27T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2008-03-27T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "489"
+      },
+      {
+        "site": "danime",
+        "id": "24177",
+        "begin": "2020-09-07T01:00:00.000Z",
+        "broadcast": "R/2020-09-07T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/28061/season/0/episode/3"
+      },
+      {
+        "site": "unext",
+        "id": "SID0050523",
+        "begin": "2025-11-22T03:00:00.000Z",
+        "broadcast": "R/2025-11-22T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "3328"
+      },
+      {
+        "site": "aniList",
+        "id": "3328"
+      },
+      {
+        "site": "anidb",
+        "id": "5536"
+      }
+    ]
+  },
+  {
+    "title": "Kite Liberator",
+    "titleTranslate": {
+      "zh-Hans": [
+        "放风筝的人",
+        "少女杀手"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.kite-liberator.com/",
+    "begin": "2008-03-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2008-03-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "3856"
+      },
+      {
+        "site": "unext",
+        "id": "SID0014288",
+        "begin": "2019-04-24T03:00:00.000Z",
+        "broadcast": "R/2019-04-24T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "11590",
+        "begin": "2015-01-09T01:00:00.000Z",
+        "broadcast": "R/2015-01-09T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/44885"
+      },
+      {
+        "site": "mal",
+        "id": "3323"
+      },
+      {
+        "site": "anidb",
+        "id": "5182"
+      },
+      {
+        "site": "aniList",
+        "id": "3323"
+      }
+    ]
+  },
+  {
+    "title": "楓ニュータウン",
+    "titleTranslate": {
+      "en": [
+        "Kaede New Town"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2008-03-05T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2008-03-05T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "unext",
+        "id": "SID0013599",
+        "begin": "2009-03-06T06:00:00.000Z",
+        "broadcast": "R/2009-03-06T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10180",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "5799"
+      },
+      {
+        "site": "aniList",
+        "id": "5799"
+      },
+      {
+        "site": "anidb",
+        "id": "6305"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/962828"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GMTE00192523",
+        "begin": "2008-12-31T07:59:00.000Z",
+        "broadcast": "R/2008-12-31T07:59:00.000Z/P7D"
       }
     ]
   }

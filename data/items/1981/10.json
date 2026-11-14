@@ -13,11 +13,6 @@
     "end": "1986-03-19T15:00:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "m7SPDXXbS4nsatI",
-        "begin": ""
-      },
-      {
         "site": "iqiyi",
         "id": "a_19rrha1of1",
         "begin": "2016-12-02T08:24:10.000Z"
@@ -25,6 +20,22 @@
       {
         "site": "bangumi",
         "id": "10388"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/34163"
+      },
+      {
+        "site": "mal",
+        "id": "1293"
+      },
+      {
+        "site": "anidb",
+        "id": "377"
+      },
+      {
+        "site": "aniList",
+        "id": "1293"
       }
     ]
   },
@@ -33,6 +44,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "六神合体雷霆王"
+      ],
+      "zh-Hant": [
+        "六神合體 雷霆王"
       ]
     },
     "type": "tv",
@@ -42,18 +56,42 @@
     "end": "1982-12-24T10:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "Yq2XFX3jU5H0cto",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "32213"
       },
       {
-        "site": "bilibili",
-        "id": "2444",
-        "begin": "1981-10-01T16:00:00.000Z"
+        "site": "unext",
+        "id": "SID0039468",
+        "begin": "2019-03-31T03:00:00.000Z",
+        "broadcast": "R/2019-03-31T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23367",
+        "begin": "2020-03-13T01:00:00.000Z",
+        "broadcast": "R/2020-03-13T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "31778",
+        "begin": "2025-04-11T04:00:00.000Z",
+        "broadcast": "R/2025-04-11T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/22310"
+      },
+      {
+        "site": "mal",
+        "id": "3399"
+      },
+      {
+        "site": "anidb",
+        "id": "967"
+      },
+      {
+        "site": "aniList",
+        "id": "3399"
       }
     ]
   },
@@ -69,6 +107,34 @@
       {
         "site": "bangumi",
         "id": "213652"
+      },
+      {
+        "site": "unext",
+        "id": "SID0011761",
+        "begin": "2019-01-08T03:00:00.000Z",
+        "broadcast": "R/2019-01-08T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "11508",
+        "begin": "2014-10-17T01:00:00.000Z",
+        "broadcast": "R/2014-10-17T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/44650"
+      },
+      {
+        "site": "mal",
+        "id": "3391"
+      },
+      {
+        "site": "anidb",
+        "id": "4056"
+      },
+      {
+        "site": "aniList",
+        "id": "3391"
       }
     ]
   },
@@ -88,6 +154,34 @@
       {
         "site": "bangumi",
         "id": "37196"
+      },
+      {
+        "site": "unext",
+        "id": "SID0020283",
+        "begin": "2015-11-26T03:00:00.000Z",
+        "broadcast": "R/2015-11-26T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "20474",
+        "begin": "2015-12-04T01:00:00.000Z",
+        "broadcast": "R/2015-12-04T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/19411"
+      },
+      {
+        "site": "mal",
+        "id": "4240"
+      },
+      {
+        "site": "anidb",
+        "id": "3117"
+      },
+      {
+        "site": "aniList",
+        "id": "4240"
       }
     ]
   },
@@ -103,6 +197,34 @@
       {
         "site": "bangumi",
         "id": "213654"
+      },
+      {
+        "site": "danime",
+        "id": "11558",
+        "begin": "2014-12-12T01:00:00.000Z",
+        "broadcast": "R/2014-12-12T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/76822"
+      },
+      {
+        "site": "mal",
+        "id": "3947"
+      },
+      {
+        "site": "aniList",
+        "id": "3947"
+      },
+      {
+        "site": "anidb",
+        "id": "2974"
+      },
+      {
+        "site": "unext",
+        "id": "SID0011244",
+        "begin": "2026-02-28T15:00:00.000Z",
+        "broadcast": "R/2026-02-28T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -127,6 +249,164 @@
         "site": "bilibili",
         "id": "2439",
         "begin": "1981-10-22T16:00:00.000Z"
+      },
+      {
+        "site": "danime",
+        "id": "11282",
+        "begin": "2020-06-01T01:00:00.000Z",
+        "broadcast": "R/2020-06-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/8909"
+      },
+      {
+        "site": "mal",
+        "id": "2257"
+      },
+      {
+        "site": "anidb",
+        "id": "2352"
+      },
+      {
+        "site": "aniList",
+        "id": "2257"
+      }
+    ]
+  },
+  {
+    "title": "ワンワン三銃士",
+    "titleTranslate": {
+      "zh-Hans": [
+        "汤恩与三剑客",
+        "三个火枪手"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1981-10-08T16:00:00.000Z",
+    "broadcast": "R/1981-10-08T16:00:00.000Z/P7D",
+    "end": "1982-03-25T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "272058"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002395",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23534",
+        "begin": "2020-04-24T01:00:00.000Z",
+        "broadcast": "R/2020-04-24T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/5341"
+      },
+      {
+        "site": "mal",
+        "id": "3761"
+      },
+      {
+        "site": "anidb",
+        "id": "2707"
+      },
+      {
+        "site": "aniList",
+        "id": "3761"
+      }
+    ]
+  },
+  {
+    "title": "アニメ 親子劇場",
+    "titleTranslate": {
+      "zh-Hans": [
+        "动画 亲子剧场"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://tatsunoko.co.jp/works/timebook",
+    "begin": "1981-10-08T16:00:00.000Z",
+    "broadcast": "R/1981-10-08T16:00:00.000Z/P7D",
+    "end": "1982-03-28T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "380722"
+      },
+      {
+        "site": "unext",
+        "id": "SID0017866",
+        "begin": "2022-04-19T03:00:00.000Z",
+        "broadcast": "R/2022-04-19T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "27930",
+        "begin": "2025-04-30T15:00:00.000Z",
+        "broadcast": "R/2025-04-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/21269"
+      },
+      {
+        "site": "mal",
+        "id": "2882"
+      },
+      {
+        "site": "anidb",
+        "id": "3081"
+      },
+      {
+        "site": "aniList",
+        "id": "2882"
+      }
+    ]
+  },
+  {
+    "title": "蓮如とその母",
+    "titleTranslate": {
+      "zh-Hans": [
+        "莲如与母亲"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1981-10-06T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1981-10-06T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "220070"
+      },
+      {
+        "site": "mal",
+        "id": "7473"
+      },
+      {
+        "site": "anidb",
+        "id": "7043"
+      },
+      {
+        "site": "aniList",
+        "id": "7473"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/365079"
       }
     ]
   }

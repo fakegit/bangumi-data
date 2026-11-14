@@ -35,6 +35,34 @@
         "site": "nicovideo",
         "id": "fullmetal-panic-fumoffu",
         "begin": "2019-10-14T06:00:00.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0013377",
+        "begin": "2018-04-20T03:00:00.000Z",
+        "broadcast": "R/2018-04-20T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10332",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/39379/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "72"
+      },
+      {
+        "site": "anidb",
+        "id": "959"
+      },
+      {
+        "site": "aniList",
+        "id": "72"
       }
     ]
   },
@@ -42,7 +70,8 @@
     "title": "まっすぐにいこう。",
     "titleTranslate": {
       "zh-Hans": [
-        "狗狗向前冲"
+        "狗狗向前冲",
+        "大城小狗"
       ]
     },
     "type": "tv",
@@ -54,6 +83,22 @@
       {
         "site": "bangumi",
         "id": "96047"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/22208"
+      },
+      {
+        "site": "mal",
+        "id": "1617"
+      },
+      {
+        "site": "anidb",
+        "id": "1029"
+      },
+      {
+        "site": "aniList",
+        "id": "1617"
       }
     ]
   },
@@ -80,14 +125,32 @@
         "begin": ""
       },
       {
-        "site": "pptv",
-        "id": "ibZ32dNxCsvBT0Tk",
-        "begin": ""
+        "site": "unext",
+        "id": "SID0014224",
+        "begin": "2019-04-11T03:00:00.000Z",
+        "broadcast": "R/2019-04-11T03:00:00.000Z/P7D"
       },
       {
-        "site": "bilibili",
-        "id": "3952",
-        "begin": "2003-07-31T16:00:01.000Z"
+        "site": "danime",
+        "id": "21762",
+        "begin": "2017-09-08T01:00:00.000Z",
+        "broadcast": "R/2017-09-08T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/80868"
+      },
+      {
+        "site": "mal",
+        "id": "1424"
+      },
+      {
+        "site": "aniList",
+        "id": "1424"
+      },
+      {
+        "site": "anidb",
+        "id": "2138"
       }
     ]
   },
@@ -109,14 +172,190 @@
         "id": "2415"
       },
       {
-        "site": "pptv",
-        "id": "CjsGhOxSwgBj4Uk",
-        "begin": ""
+        "site": "bilibili",
+        "id": "3969",
+        "begin": "2003-08-21T16:00:01.000Z",
+        "broadcast": "R/2016-05-06T07:24:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003406",
+        "begin": "2022-05-30T03:00:00.000Z",
+        "broadcast": "R/2022-05-30T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23640",
+        "begin": "2020-03-13T01:00:00.000Z",
+        "broadcast": "R/2020-03-13T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/22758/season/0"
+      },
+      {
+        "site": "mal",
+        "id": "1014"
+      },
+      {
+        "site": "anidb",
+        "id": "7300"
+      },
+      {
+        "site": "aniList",
+        "id": "1014"
+      }
+    ]
+  },
+  {
+    "title": "ラーゼフォンOVA 間奏曲「彼女と彼女自身と」",
+    "titleTranslate": {
+      "zh-Hans": [
+        "翼神传说 间奏曲：她与她自己"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2003-08-06T16:00:00.000Z",
+    "end": "2003-08-06T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "38936"
       },
       {
         "site": "bilibili",
-        "id": "3969",
-        "begin": "2003-08-21T16:00:01.000Z"
+        "id": "3960",
+        "begin": "2016-05-04T08:54:00.000Z",
+        "broadcast": "R/2016-05-04T08:54:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/982391"
+      }
+    ]
+  },
+  {
+    "title": "まほろまてぃっく夏のTVスペシャル 「えっちなのはいけないと思います!」",
+    "titleTranslate": {
+      "zh-Hans": [
+        "魔力女管家夏日TV特别篇 “我认为H是不对的！"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2003-08-13T16:00:00.000Z",
+    "broadcast": "R/2003-08-13T16:00:00.000Z/P7D",
+    "end": "2003-08-13T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "54727"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002882",
+        "begin": "2019-12-24T03:00:00.000Z",
+        "broadcast": "R/2019-12-24T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23215",
+        "begin": "2021-10-01T01:00:00.000Z",
+        "broadcast": "R/2021-10-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/42722/season/0/episode/3"
+      }
+    ]
+  },
+  {
+    "title": "円盤皇女ワるきゅーレ SPECIAL",
+    "titleTranslate": {
+      "zh-Hans": [
+        "圆盘皇女 乱七八糟新娘训练"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.tokinoyu.net/",
+    "begin": "2003-08-22T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2003-08-22T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "73260"
+      },
+      {
+        "site": "unext",
+        "id": "SID0017281",
+        "begin": "2020-11-19T15:00:00.000Z",
+        "broadcast": "R/2020-11-19T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10296",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/34149/season/0/episode/2"
+      }
+    ]
+  },
+  {
+    "title": "凧になったお母さん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "风筝的妈妈"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2003-08-14T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2003-08-14T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "409430"
+      },
+      {
+        "site": "unext",
+        "id": "SID0004908",
+        "begin": "2016-02-18T15:00:00.000Z",
+        "broadcast": "R/2016-02-18T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23314",
+        "begin": "2020-03-06T01:00:00.000Z",
+        "broadcast": "R/2020-03-06T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/758377"
+      },
+      {
+        "site": "mal",
+        "id": "20235"
+      },
+      {
+        "site": "anidb",
+        "id": "6201"
+      },
+      {
+        "site": "aniList",
+        "id": "20235"
       }
     ]
   }

@@ -3,7 +3,9 @@
     "title": "かみちゅ！",
     "titleTranslate": {
       "zh-Hans": [
-        "神是中学生"
+        "神是中学生",
+        "神中!",
+        "神样中学生"
       ]
     },
     "type": "tv",
@@ -13,18 +15,36 @@
     "end": "2012-07-21T00:02:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "kt2nJY3zY6EEguo",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "4235"
       },
       {
         "site": "bilibili",
         "id": "1858",
-        "begin": "2005-06-28T16:00:00.000Z"
+        "begin": "2005-06-28T16:00:00.000Z",
+        "broadcast": "R/2011-06-10T14:20:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10292",
+        "begin": "2020-03-13T01:00:00.000Z",
+        "broadcast": "R/2020-03-13T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/1096"
+      },
+      {
+        "site": "mal",
+        "id": "489"
+      },
+      {
+        "site": "anidb",
+        "id": "3195"
+      },
+      {
+        "site": "aniList",
+        "id": "489"
       }
     ]
   },
@@ -32,7 +52,9 @@
     "title": "パタリロ西遊記!",
     "titleTranslate": {
       "zh-Hans": [
-        "帕塔利洛西游记"
+        "帕塔利洛西游记",
+        "巴得利奥西游记！",
+        "巴得利奥！"
       ]
     },
     "type": "tv",
@@ -42,18 +64,24 @@
     "end": "2006-03-25T15:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "eMC7OaEHd7UYlv4",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "13384"
       },
       {
-        "site": "bilibili",
-        "id": "1832",
-        "begin": "2005-06-05T16:00:00.000Z"
+        "site": "tmdb",
+        "id": "tv/27347"
+      },
+      {
+        "site": "mal",
+        "id": "1035"
+      },
+      {
+        "site": "anidb",
+        "id": "3176"
+      },
+      {
+        "site": "aniList",
+        "id": "1035"
       }
     ]
   },
@@ -70,11 +98,6 @@
     "begin": "2005-06-20T16:00:00.000Z",
     "end": "2005-10-31T16:30:00.000Z",
     "sites": [
-      {
-        "site": "letv",
-        "id": "40002",
-        "begin": ""
-      },
       {
         "site": "bangumi",
         "id": "6752"
@@ -95,13 +118,102 @@
     "end": "2005-12-23T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "yic7KSLAWhsQnpQ0",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "216378"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/37514"
+      },
+      {
+        "site": "mal",
+        "id": "4314"
+      },
+      {
+        "site": "anidb",
+        "id": "3319"
+      },
+      {
+        "site": "aniList",
+        "id": "4314"
+      }
+    ]
+  },
+  {
+    "title": "永遠のアセリア",
+    "titleTranslate": {
+      "zh-Hans": [
+        "永远的艾塞莉娅"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2005-06-23T16:00:00.000Z",
+    "end": "2006-03-23T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "78071"
+      },
+      {
+        "site": "bilibili",
+        "id": "5077",
+        "begin": "2016-06-23T04:00:00.000Z",
+        "broadcast": "R/2016-06-23T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/53153"
+      },
+      {
+        "site": "mal",
+        "id": "503"
+      },
+      {
+        "site": "anidb",
+        "id": "2862"
+      },
+      {
+        "site": "aniList",
+        "id": "503"
+      }
+    ]
+  },
+  {
+    "title": "あした元気にな~れ!~半分のさつまいも~",
+    "titleTranslate": {
+      "zh-Hans": [
+        "明天也要精神百倍!~一半的甘薯~"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.ashita-genki.com/",
+    "begin": "2005-06-29T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2005-06-29T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "84587"
+      },
+      {
+        "site": "mal",
+        "id": "17493"
+      },
+      {
+        "site": "anidb",
+        "id": "3438"
+      },
+      {
+        "site": "aniList",
+        "id": "17493"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/734687"
       }
     ]
   }

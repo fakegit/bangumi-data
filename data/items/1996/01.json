@@ -8,6 +8,9 @@
       "en": [
         "Detective Conan",
         "Case Closed"
+      ],
+      "zh-Hant": [
+        "名偵探柯南"
       ]
     },
     "type": "tv",
@@ -30,12 +33,6 @@
         "broadcast": "R/2009-04-18T11:30:00.000Z/P7D"
       },
       {
-        "site": "pptv",
-        "id": "ac24Np4EdLIVkics",
-        "begin": "2009-04-18T11:30:00.000Z",
-        "broadcast": "R/2009-04-18T11:30:00.000Z/P7D"
-      },
-      {
         "site": "youku",
         "id": "cc003400962411de83b1",
         "begin": "2009-04-18T11:30:00.000Z",
@@ -48,17 +45,87 @@
       {
         "site": "netflix",
         "id": "80090370",
-        "begin": "2016-01-01T08:00:00.000Z"
+        "begin": "2016-01-01T08:00:00.000Z",
+        "broadcast": "R/2022-06-29T16:00:00.000Z/P7D",
+        "comment": "警察學校篇 Wild Police Story: 81666967"
       },
       {
         "site": "bilibili",
         "id": "28228775",
-        "begin": "2009-04-18T11:30:00.000Z"
+        "begin": "2009-04-18T11:30:00.000Z",
+        "broadcast": "R/2020-04-30T11:00:00.000Z/P7D",
+        "comment": "中配: 28228813"
       },
       {
         "site": "mgtv",
         "id": "8588",
         "begin": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0003424",
+        "begin": "2010-12-01T06:00:00.000Z",
+        "broadcast": "R/2010-12-01T06:00:00.000Z/P7D",
+        "comment": "第2季: SID0003429, 第3季: SID0004290, 第4季: SID0010686, 第5季: SID0010721, 第6季: SID0010734, 第7季: SID0010746, 第8季: SID0010747, 第9季: SID0010748, 第10季: SID0010692, 第11季: SID0010749, 第12季: SID0010750, 第13季: SID0010740, 第14季: SID0010751, 第15季: SID0010752, 第16季: SID0010753, 第17季: SID0010754, 第18季: SID0010755, 第19季: SID0019081, 第20季: SID0030619, 第21季: SID0034716, 第22季: SID0039277, 第23季: SID0045944, 第24季: SID0056821, 第25季: SID0067489, 第26季: SID0080262, 第27季: SID0100047, 警察学校編　Wild Police Story: SID0100688, 第28季: SID0181002, 第29季: SID0200133, 第30季: SID0234923, 第31季: SID0284835"
+      },
+      {
+        "site": "abema",
+        "id": "415-5",
+        "begin": "",
+        "broadcast": "",
+        "comment": "警察学校編 Wild Police Story: 415-62"
+      },
+      {
+        "site": "disneyplus",
+        "id": "6taKJzWEcINY",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "548fe27ef892774b140ac6e8"
+      },
+      {
+        "site": "mikan",
+        "id": "227"
+      },
+      {
+        "site": "gamer",
+        "id": "16478",
+        "begin": "2022-07-08T03:00:00.000Z",
+        "broadcast": "R/2022-07-08T03:00:00.000Z/P7D",
+        "comment": "紅之校外旅行: 118968,名偵探柯南 警察學校篇 Wild Police Story CASE.松田陣平: 120495, 名偵探柯南 警察學校篇 Wild Police Story CASE.伊達航: 128337, 名偵探柯南 警察學校篇 Wild Police Story CASE.萩原研二: 128408, 警察學校篇 Wild Police Story CASE.諸伏景光: 128409, 警察學校篇 Wild Police Story CASE.降谷零: 139240"
+      },
+      {
+        "site": "prime",
+        "id": "B0FZJPZL66",
+        "begin": "",
+        "broadcast": "",
+        "comment": "警察学校編 Wild Police Story: B0GMYLNYWL"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/30983"
+      },
+      {
+        "site": "mal",
+        "id": "235"
+      },
+      {
+        "site": "anidb",
+        "id": "266"
+      },
+      {
+        "site": "aniList",
+        "id": "235"
+      },
+      {
+        "site": "acgnx",
+        "id": "柯南"
+      },
+      {
+        "site": "dmhy",
+        "id": "柯南"
       }
     ]
   },
@@ -66,7 +133,9 @@
     "title": "爆走兄弟レッツ&ゴー!!",
     "titleTranslate": {
       "zh-Hans": [
-        "四驱兄弟"
+        "四驱兄弟",
+        "四驱兄弟 第一期",
+        "四驱赛车"
       ]
     },
     "type": "tv",
@@ -75,11 +144,6 @@
     "begin": "1996-01-08T09:00:00.000Z",
     "end": "1997-12-22T09:30:00.000Z",
     "sites": [
-      {
-        "site": "pptv",
-        "id": "BlkjoQlv3x2AicmY",
-        "begin": ""
-      },
       {
         "site": "iqiyi",
         "id": "a_19rriftxv1",
@@ -98,6 +162,35 @@
       {
         "site": "bangumi",
         "id": "9567"
+      },
+      {
+        "site": "bilibili",
+        "id": "2271",
+        "begin": "2010-11-09T03:30:00.000Z",
+        "broadcast": "R/2010-11-09T03:30:00.000Z/P7D",
+        "comment": "中文"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002283",
+        "begin": "2021-11-21T03:00:00.000Z",
+        "broadcast": "R/2021-11-21T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/81157"
+      },
+      {
+        "site": "mal",
+        "id": "2705"
+      },
+      {
+        "site": "anidb",
+        "id": "1171"
+      },
+      {
+        "site": "aniList",
+        "id": "2705"
       }
     ]
   },
@@ -106,6 +199,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "浪客剑心"
+      ],
+      "zh-Hant": [
+        "神劍闖江湖"
       ],
       "en": [
         "Rurouni Kenshin"
@@ -118,11 +214,6 @@
     "end": "1998-09-08T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "UfLNS7MZiaccqqBA",
-        "begin": ""
-      },
-      {
         "site": "qq",
         "id": "k/k6d2ovf4jl79n58",
         "begin": ""
@@ -133,18 +224,54 @@
       },
       {
         "site": "nicovideo",
-        "id": "rurouni-kenshin-tokyo",
-        "begin": "2014-09-13T06:00:00.000Z"
-      },
-      {
-        "site": "netflix",
-        "id": "80016571",
-        "begin": "2016-01-01T08:00:00.000Z"
+        "id": "rurouni-kenshin-tvorignal",
+        "begin": "2014-09-13T06:00:00.000Z",
+        "comment": "東京編: rurouni-kenshin-tokyo, 京都編: rurouni-kenshin-kyouto"
       },
       {
         "site": "bilibili",
         "id": "2303",
-        "begin": "1996-01-09T16:00:00.000Z"
+        "begin": "1996-01-09T16:00:00.000Z",
+        "broadcast": "R/2020-06-05T03:41:00.000Z/P7D",
+        "comment": "中配: 5412"
+      },
+      {
+        "site": "unext",
+        "id": "SID0029403",
+        "begin": "2025-12-19T15:00:00.000Z",
+        "broadcast": "R/2025-12-19T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "649efec568e7233aec4c96e3"
+      },
+      {
+        "site": "danime",
+        "id": "21591",
+        "begin": "2025-12-19T15:00:00.000Z",
+        "broadcast": "R/2025-12-19T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0B6SDHMJT",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/28136"
+      },
+      {
+        "site": "mal",
+        "id": "45"
+      },
+      {
+        "site": "anidb",
+        "id": "90"
+      },
+      {
+        "site": "aniList",
+        "id": "45"
       }
     ]
   },
@@ -175,9 +302,26 @@
         "id": "53940"
       },
       {
-        "site": "letv",
-        "id": "10004313",
-        "begin": ""
+        "site": "bilibili",
+        "id": "2496",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/38952"
+      },
+      {
+        "site": "mal",
+        "id": "1477"
+      },
+      {
+        "site": "anidb",
+        "id": "1569"
+      },
+      {
+        "site": "aniList",
+        "id": "1477"
       }
     ]
   },
@@ -195,11 +339,6 @@
     "end": "1999-07-25T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "fdSvLZX7a6kMiavI",
-        "begin": ""
-      },
-      {
         "site": "qq",
         "id": "8/87lrosxr1yta375",
         "begin": ""
@@ -207,6 +346,34 @@
       {
         "site": "bangumi",
         "id": "2664"
+      },
+      {
+        "site": "unext",
+        "id": "SID0012893",
+        "begin": "2008-10-31T15:00:00.000Z",
+        "broadcast": "R/2008-10-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26201",
+        "begin": "2025-04-10T15:00:00.000Z",
+        "broadcast": "R/2025-04-10T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/43887"
+      },
+      {
+        "site": "mal",
+        "id": "81"
+      },
+      {
+        "site": "anidb",
+        "id": "217"
+      },
+      {
+        "site": "aniList",
+        "id": "81"
       }
     ]
   },
@@ -232,6 +399,118 @@
       {
         "site": "bangumi",
         "id": "53741"
+      },
+      {
+        "site": "unext",
+        "id": "SID0011132",
+        "begin": "2023-08-23T03:00:00.000Z",
+        "broadcast": "R/2023-08-23T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26159",
+        "begin": "2023-02-28T01:00:00.000Z",
+        "broadcast": "R/2023-02-28T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/37144"
+      },
+      {
+        "site": "mal",
+        "id": "7619"
+      },
+      {
+        "site": "aniList",
+        "id": "7619"
+      },
+      {
+        "site": "anidb",
+        "id": "1455"
+      },
+      {
+        "site": "acgnx",
+        "id": "鬼太郎"
+      },
+      {
+        "site": "dmhy",
+        "id": "鬼太郎"
+      }
+    ]
+  },
+  {
+    "title": "バケツでごはん",
+    "titleTranslate": {
+      "zh-Hans": [
+        "企鹅掌门人"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1996-01-07T16:00:00.000Z",
+    "end": "1998-06-23T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "154123"
+      },
+      {
+        "site": "bilibili",
+        "id": "132152",
+        "begin": "2018-09-08T08:04:00.000Z",
+        "broadcast": "R/2018-09-08T08:04:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/198073"
+      },
+      {
+        "site": "mal",
+        "id": "9540"
+      },
+      {
+        "site": "anidb",
+        "id": "3549"
+      },
+      {
+        "site": "aniList",
+        "id": "9540"
+      }
+    ]
+  },
+  {
+    "title": "けろけろけろっぴのびっくり! おばけやしき",
+    "titleTranslate": {},
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1996-01-30T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1996-01-30T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "315776"
+      },
+      {
+        "site": "unext",
+        "id": "SID0027594",
+        "begin": "2017-01-13T03:00:00.000Z",
+        "broadcast": "R/2017-01-13T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "22641"
+      },
+      {
+        "site": "anidb",
+        "id": "7794"
+      },
+      {
+        "site": "aniList",
+        "id": "168871"
       }
     ]
   }

@@ -20,6 +20,303 @@
         "site": "iqiyi",
         "id": "a_19rrhb4kld",
         "begin": "2015-08-11T08:03:32.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003352",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "24687",
+        "begin": "2022-06-15T01:00:00.000Z",
+        "broadcast": "R/2022-06-15T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/603431"
+      },
+      {
+        "site": "mal",
+        "id": "8152"
+      },
+      {
+        "site": "aniList",
+        "id": "8152"
+      },
+      {
+        "site": "anidb",
+        "id": "2307"
+      }
+    ]
+  },
+  {
+    "title": "天使のたまご",
+    "titleTranslate": {
+      "zh-Hans": [
+        "天使之卵"
+      ],
+      "zh-Hant": [
+        "天使之卵"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1985-12-21T16:00:00.000Z",
+    "end": "1985-12-21T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "4188"
+      },
+      {
+        "site": "bilibili",
+        "id": "5582",
+        "begin": "2016-10-07T09:48:00.000Z",
+        "broadcast": "R/2016-10-07T09:48:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/15916"
+      },
+      {
+        "site": "mal",
+        "id": "885"
+      },
+      {
+        "site": "anidb",
+        "id": "318"
+      },
+      {
+        "site": "aniList",
+        "id": "885"
+      },
+      {
+        "site": "danime",
+        "id": "28919",
+        "begin": "2026-05-31T15:00:00.000Z",
+        "broadcast": "R/2026-05-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "netflix",
+        "id": "83054000",
+        "begin": "2026-09-29T16:00:00.000Z",
+        "broadcast": "R/2026-09-29T16:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "キン肉マン 晴れ姿!正義超人",
+    "titleTranslate": {
+      "zh-Hans": [
+        "筋肉人 愉快的身影！正义超人"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1985-12-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1985-12-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "215104"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003120",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "20318",
+        "begin": "2020-02-01T01:00:00.000Z",
+        "broadcast": "R/2020-02-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/672385"
+      },
+      {
+        "site": "mal",
+        "id": "3277"
+      },
+      {
+        "site": "anidb",
+        "id": "2305"
+      },
+      {
+        "site": "aniList",
+        "id": "3277"
+      }
+    ]
+  },
+  {
+    "title": "ダーティペアの大勝負 ノーランディアの謎",
+    "titleTranslate": {
+      "zh-Hans": [
+        "银河女警花的大胜负 诺兰蒂亚之谜",
+        "搞怪拍档的大胜负 诺兰蒂亚之谜",
+        "Dirty Pair的大胜负 诺兰蒂亚之谜"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.sunrise-anime.jp/sunrise-inc/works/detail.php?cid=105",
+    "begin": "1985-12-19T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1985-12-19T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "66391"
+      },
+      {
+        "site": "unext",
+        "id": "SID0021314",
+        "begin": "2023-02-16T03:00:00.000Z",
+        "broadcast": "R/2023-02-16T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "28357",
+        "begin": "2025-10-09T15:00:00.000Z",
+        "broadcast": "R/2025-10-09T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/68364"
+      },
+      {
+        "site": "mal",
+        "id": "1794"
+      },
+      {
+        "site": "anidb",
+        "id": "1381"
+      },
+      {
+        "site": "aniList",
+        "id": "1794"
+      }
+    ]
+  },
+  {
+    "title": "吸血鬼ハンターD",
+    "titleTranslate": {
+      "zh-Hans": [
+        "吸血鬼猎人D"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1985-12-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1985-12-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "34227"
+      },
+      {
+        "site": "danime",
+        "id": "28320",
+        "begin": "2025-09-30T15:00:00.000Z",
+        "broadcast": "R/2025-09-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/9463"
+      },
+      {
+        "site": "mal",
+        "id": "732"
+      },
+      {
+        "site": "anidb",
+        "id": "204"
+      },
+      {
+        "site": "aniList",
+        "id": "732"
+      }
+    ]
+  },
+  {
+    "title": "キャプテン翼 危うし!全日本Jr.",
+    "titleTranslate": {
+      "zh-Hans": [
+        "足球小将:危险!全日本少年队"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1985-12-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1985-12-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "312255"
+      },
+      {
+        "site": "mal",
+        "id": "2119"
+      },
+      {
+        "site": "anidb",
+        "id": "3560"
+      },
+      {
+        "site": "aniList",
+        "id": "2119"
+      }
+    ]
+  },
+  {
+    "title": "雪国の王子さま",
+    "titleTranslate": {
+      "zh-Hans": [
+        "雪之国的王子"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1985-12-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1985-12-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "382981"
+      },
+      {
+        "site": "mal",
+        "id": "23345"
+      },
+      {
+        "site": "anidb",
+        "id": "9063"
+      },
+      {
+        "site": "aniList",
+        "id": "121057"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1448277"
       }
     ]
   }

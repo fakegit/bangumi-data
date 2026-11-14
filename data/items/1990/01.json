@@ -14,11 +14,6 @@
     "end": "1991-12-23T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "TH5KyDCWBkSnJY0",
-        "begin": ""
-      },
-      {
         "site": "iqiyi",
         "id": "a_19rrk0gz0d",
         "begin": "2012-03-21T06:49:26.000Z"
@@ -38,9 +33,32 @@
         "begin": "1990-01-03T16:00:01.000Z"
       },
       {
-        "site": "letv",
-        "id": "29544",
-        "begin": ""
+        "site": "unext",
+        "id": "SID0002367",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "20248",
+        "begin": "2015-08-07T01:00:00.000Z",
+        "broadcast": "R/2015-08-07T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/8727"
+      },
+      {
+        "site": "mal",
+        "id": "1375"
+      },
+      {
+        "site": "anidb",
+        "id": "1955"
+      },
+      {
+        "site": "aniList",
+        "id": "1375"
       }
     ]
   },
@@ -59,19 +77,9 @@
     "end": "1992-09-27T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "gqaSEHjeTozvbdU",
-        "begin": ""
-      },
-      {
         "site": "iqiyi",
         "id": "a_19rrk1980p",
         "begin": "2014-04-09T23:53:55.000Z"
-      },
-      {
-        "site": "letv",
-        "id": "81066",
-        "begin": ""
       },
       {
         "site": "bangumi",
@@ -86,6 +94,42 @@
         "site": "youku",
         "id": "9ccb5542124911e4b2ad",
         "begin": "2014-08-19T06:34:20.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0085101",
+        "begin": "2023-04-28T03:00:00.000Z",
+        "broadcast": "R/2023-04-28T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "482-109",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/57775"
+      },
+      {
+        "site": "mal",
+        "id": "951"
+      },
+      {
+        "site": "anidb",
+        "id": "1841"
+      },
+      {
+        "site": "aniList",
+        "id": "951"
+      },
+      {
+        "site": "acgnx",
+        "id": "小丸子"
+      },
+      {
+        "site": "dmhy",
+        "id": "小丸子"
       }
     ]
   },
@@ -110,6 +154,139 @@
         "site": "nicovideo",
         "id": "heiseitensai-bakabon",
         "begin": "2018-07-03T15:00:00.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002319",
+        "begin": "2018-07-12T03:00:00.000Z",
+        "broadcast": "R/2018-07-12T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "20137",
+        "begin": "2015-05-22T01:00:00.000Z",
+        "broadcast": "R/2015-05-22T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/242732"
+      },
+      {
+        "site": "mal",
+        "id": "19961"
+      },
+      {
+        "site": "anidb",
+        "id": "3422"
+      },
+      {
+        "site": "aniList",
+        "id": "19961"
+      }
+    ]
+  },
+  {
+    "title": "BE-BOP-HIGHSCHOOL",
+    "titleTranslate": {
+      "zh-Hans": [
+        "高校生极乐传说"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1990-01-25T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1998-12-10T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "207565"
+      },
+      {
+        "site": "unext",
+        "id": "SID0011649",
+        "begin": "2019-11-19T03:00:00.000Z",
+        "broadcast": "R/2019-11-19T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "11300",
+        "begin": "2020-02-01T01:00:00.000Z",
+        "broadcast": "R/2020-02-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/118306"
+      },
+      {
+        "site": "mal",
+        "id": "9645"
+      },
+      {
+        "site": "anidb",
+        "id": "4235"
+      },
+      {
+        "site": "aniList",
+        "id": "9645"
+      },
+      {
+        "site": "prime",
+        "id": "B07X57ST1J",
+        "begin": "",
+        "broadcast": ""
+      }
+    ]
+  },
+  {
+    "title": "ダーティペア 謀略の005便",
+    "titleTranslate": {
+      "zh-Hans": [
+        "银河女警花 005班机阴谋",
+        "搞怪拍档 005班机阴谋"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.sunrise-anime.jp/sunrise-inc/works/detail.php?cid=106",
+    "begin": "1990-01-24T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1990-01-24T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "66394"
+      },
+      {
+        "site": "unext",
+        "id": "SID0022016",
+        "begin": "2023-02-16T03:00:00.000Z",
+        "broadcast": "R/2023-02-16T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "28358",
+        "begin": "2025-10-09T15:00:00.000Z",
+        "broadcast": "R/2025-10-09T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/68367"
+      },
+      {
+        "site": "mal",
+        "id": "1795"
+      },
+      {
+        "site": "anidb",
+        "id": "1174"
+      },
+      {
+        "site": "aniList",
+        "id": "1795"
       }
     ]
   }

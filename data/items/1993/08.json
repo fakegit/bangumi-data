@@ -4,6 +4,10 @@
     "titleTranslate": {
       "zh-Hans": [
         "机动警察 和平保卫战"
+      ],
+      "zh-Hant": [
+        "機動警察 劇場版2 和平保衛戰",
+        "機動警察 劇場版 2"
       ]
     },
     "type": "movie",
@@ -27,9 +31,133 @@
         "begin": ""
       },
       {
+        "site": "unext",
+        "id": "SID0014489",
+        "begin": "2018-06-04T03:00:00.000Z",
+        "broadcast": "R/2018-06-04T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10248",
+        "begin": "2020-03-13T01:00:00.000Z",
+        "broadcast": "R/2020-03-13T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "38222",
+        "begin": "2025-10-01T04:00:00.000Z",
+        "broadcast": "R/2025-10-01T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/14572"
+      },
+      {
+        "site": "mal",
+        "id": "1096"
+      },
+      {
+        "site": "anidb",
+        "id": "395"
+      },
+      {
+        "site": "aniList",
+        "id": "1096"
+      }
+    ]
+  },
+  {
+    "title": "キャシャーン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "卡辛",
+        "再造人卡辛"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1993-08-15T16:00:00.000Z",
+    "end": "1993-08-15T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "39274"
+      },
+      {
         "site": "bilibili",
-        "id": "4015",
-        "begin": "1993-08-06T16:00:01.000Z"
+        "id": "10832",
+        "begin": "2017-10-17T07:59:00.000Z",
+        "broadcast": "R/2017-10-17T07:59:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003357",
+        "begin": "2019-08-27T03:00:00.000Z",
+        "broadcast": "R/2019-08-27T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23495",
+        "begin": "2020-03-13T01:00:00.000Z",
+        "broadcast": "R/2020-03-13T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/20467"
+      },
+      {
+        "site": "mal",
+        "id": "1598"
+      },
+      {
+        "site": "aniList",
+        "id": "1598"
+      },
+      {
+        "site": "anidb",
+        "id": "1445"
+      }
+    ]
+  },
+  {
+    "title": "流星機ガクセイバー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "流星机学生霸"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1993-08-20T16:00:00.000Z",
+    "end": "1994-03-23T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "37406"
+      },
+      {
+        "site": "bilibili",
+        "id": "132132",
+        "begin": "2018-09-08T07:46:37.000Z",
+        "broadcast": "R/2018-09-08T07:46:37.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/125902"
+      },
+      {
+        "site": "mal",
+        "id": "3735"
+      },
+      {
+        "site": "anidb",
+        "id": "1491"
+      },
+      {
+        "site": "aniList",
+        "id": "3735"
       }
     ]
   }

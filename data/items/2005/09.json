@@ -15,6 +15,34 @@
       {
         "site": "bangumi",
         "id": "4756"
+      },
+      {
+        "site": "unext",
+        "id": "SID0033707",
+        "begin": "2024-10-26T03:00:00.000Z",
+        "broadcast": "R/2024-10-26T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "27447",
+        "begin": "2024-11-28T15:00:00.000Z",
+        "broadcast": "R/2024-11-28T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/5653/season/4"
+      },
+      {
+        "site": "mal",
+        "id": "2110"
+      },
+      {
+        "site": "anidb",
+        "id": "3621"
+      },
+      {
+        "site": "aniList",
+        "id": "2110"
       }
     ]
   },
@@ -22,7 +50,15 @@
     "title": "ファイナルファンタジーVII アドベントチルドレン",
     "titleTranslate": {
       "zh-Hans": [
-        "最终幻想VII：降临之子"
+        "最终幻想VII：降临之子",
+        "最终幻想7：圣子降临"
+      ],
+      "zh-Hant": [
+        "太空戰士七：降臨之子",
+        "太空戰士 VII：天子再臨"
+      ],
+      "en": [
+        "Final Fantasy VII: Advent Children"
       ]
     },
     "type": "ova",
@@ -37,11 +73,6 @@
         "url": "http://vip.iqiyi.com/20110909/2fbdedacafd41bd8.html"
       },
       {
-        "site": "letv",
-        "id": "76001",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "1890"
       },
@@ -49,6 +80,22 @@
         "site": "bilibili",
         "id": "4720",
         "begin": "2005-09-13T16:00:01.000Z"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/647"
+      },
+      {
+        "site": "mal",
+        "id": "317"
+      },
+      {
+        "site": "anidb",
+        "id": "1208"
+      },
+      {
+        "site": "aniList",
+        "id": "317"
       }
     ]
   },
@@ -70,9 +117,28 @@
         "id": "3153"
       },
       {
-        "site": "nicovideo",
-        "id": "jump-ani-gintama",
-        "begin": ""
+        "site": "unext",
+        "id": "SID0018064",
+        "begin": "2023-10-31T15:00:00.000Z",
+        "broadcast": "R/2023-10-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "24368",
+        "begin": "2023-10-31T15:00:00.000Z",
+        "broadcast": "R/2023-10-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/944487"
+      },
+      {
+        "site": "mal",
+        "id": "2951"
+      },
+      {
+        "site": "aniList",
+        "id": "2951"
       }
     ]
   }

@@ -9,13 +9,30 @@
     "broadcast": "R/2021-05-06T14:10:00.000Z/P7D",
     "end": "2021-05-27T14:17:00.000Z",
     "comment": "",
-    "sites": []
+    "sites": [
+      {
+        "site": "tmdb",
+        "id": "tv/195778"
+      },
+      {
+        "site": "mal",
+        "id": "48790"
+      },
+      {
+        "site": "aniList",
+        "id": "213462"
+      }
+    ]
   },
   {
     "title": "劇場版 Fate/Grand Order -神聖円卓領域キャメロット- 後編 Paladin; Agateram",
     "titleTranslate": {
       "zh-Hans": [
-        "剧场版 Fate/Grand Order 神圣圆桌领域卡美洛 后篇 Paladin; Agateram"
+        "剧场版 Fate/Grand Order 神圣圆桌领域卡美洛 后篇 Paladin; Agateram",
+        "命运-冠位指定 -神圣圆桌领域卡美洛- 后篇 圣骑士银之臂"
+      ],
+      "zh-Hant": [
+        "Fate/Grand Order - 神聖圓桌領域卡美洛 - Paladin; Agateram"
       ]
     },
     "type": "movie",
@@ -28,6 +45,58 @@
       {
         "site": "bangumi",
         "id": "255530"
+      },
+      {
+        "site": "gamer",
+        "id": "119155",
+        "begin": "2022-02-25T08:00:00.000Z",
+        "broadcast": "R/2022-02-25T08:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "20145263",
+        "begin": "2023-04-20T11:00:00.000Z",
+        "broadcast": "R/2023-04-20T11:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "movie-fgo-2pa",
+        "begin": "2022-04-20T03:00:00.000Z",
+        "broadcast": "R/2022-04-20T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0067491",
+        "begin": "2022-03-20T03:00:00.000Z",
+        "broadcast": "R/2022-03-20T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "119155",
+        "begin": "2022-02-25T08:00:00.000Z",
+        "broadcast": "R/2022-02-25T08:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2590"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/637462"
+      },
+      {
+        "site": "danime",
+        "id": "28511",
+        "begin": "2025-12-01T03:00:00.000Z",
+        "broadcast": "R/2025-12-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "38086"
+      },
+      {
+        "site": "aniList",
+        "id": "103277"
       }
     ]
   },
@@ -35,7 +104,8 @@
     "title": "えとたま ～猫客万来～",
     "titleTranslate": {
       "zh-Hans": [
-        "干支魂 ～猫客万来～"
+        "干支魂 ～猫客万来～",
+        "干支魂～猫客万来～"
       ]
     },
     "type": "web",
@@ -52,6 +122,159 @@
       {
         "site": "nicovideo",
         "id": "etotama-nyankyakubanrai",
+        "begin": "2021-08-31T15:00:00.000Z",
+        "broadcast": "R/2021-08-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "28234202",
+        "begin": "2021-05-25T17:00:01.000Z",
+        "broadcast": "R/2021-05-25T17:00:01.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0068329",
+        "begin": "2022-05-12T03:00:00.000Z",
+        "broadcast": "R/2022-05-12T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "25017",
+        "begin": "2021-09-01T01:00:00.000Z",
+        "broadcast": "R/2021-09-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/782541"
+      },
+      {
+        "site": "mal",
+        "id": "37346"
+      },
+      {
+        "site": "anidb",
+        "id": "12241"
+      },
+      {
+        "site": "aniList",
+        "id": "101216"
+      }
+    ]
+  },
+  {
+    "title": "エデン",
+    "titleTranslate": {
+      "zh-Hans": [
+        "伊甸"
+      ],
+      "zh-Hant": [
+        "伊甸"
+      ],
+      "en": [
+        "Eden"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2021-05-26T16:00:00.000Z",
+    "end": "2021-05-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "280654"
+      },
+      {
+        "site": "netflix",
+        "id": "80992783",
+        "begin": "2021-05-26T16:00:00.000Z",
+        "broadcast": "R/2021-05-26T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2484"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/92584"
+      },
+      {
+        "site": "mal",
+        "id": "39728"
+      },
+      {
+        "site": "anidb",
+        "id": "14825"
+      },
+      {
+        "site": "aniList",
+        "id": "109217"
+      }
+    ]
+  },
+  {
+    "title": "かぐや様は告らせたい？～天才たちの恋愛頭脳戦～ OVA",
+    "titleTranslate": {
+      "zh-Hans": [
+        "辉夜大小姐想让我告白？～天才们的恋爱头脑战～ OVA"
+      ],
+      "zh-Hant": [
+        "輝夜姬想讓人告白？～天才們的戀愛頭腦戰～ 第二季  OVA"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2021-05-18T16:00:00.000Z",
+    "end": "2021-05-18T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "317614"
+      },
+      {
+        "site": "gamer",
+        "id": "123795",
+        "begin": "2022-04-07T16:00:00.000Z",
+        "broadcast": "R/2022-04-07T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "123795",
+        "begin": "2022-04-07T16:00:00.000Z",
+        "broadcast": "R/2022-04-07T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2483"
+      },
+      {
+        "site": "unext",
+        "id": "SID0125057",
+        "begin": "2024-08-01T03:00:00.000Z",
+        "broadcast": "R/2024-08-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/83121/season/0/episode/2"
+      },
+      {
+        "site": "mal",
+        "id": "43609"
+      },
+      {
+        "site": "anidb",
+        "id": "15807"
+      },
+      {
+        "site": "aniList",
+        "id": "125368"
+      },
+      {
+        "site": "abema",
+        "id": "26-66",
         "begin": "",
         "broadcast": ""
       }

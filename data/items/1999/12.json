@@ -17,14 +17,38 @@
         "id": "20930"
       },
       {
-        "site": "pptv",
-        "id": "zwLibfORKuvhb2UE",
-        "begin": ""
-      },
-      {
         "site": "bilibili",
         "id": "28229287",
-        "begin": "2020-06-22T16:00:00.000Z"
+        "begin": "2020-06-22T16:00:00.000Z",
+        "broadcast": "R/2020-06-23T06:52:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0047108",
+        "begin": "2020-04-02T03:00:00.000Z",
+        "broadcast": "R/2020-04-02T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "11094",
+        "begin": "2014-01-10T01:00:00.000Z",
+        "broadcast": "R/2014-01-10T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/74944/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "1166"
+      },
+      {
+        "site": "anidb",
+        "id": "1103"
+      },
+      {
+        "site": "aniList",
+        "id": "1166"
       }
     ]
   },
@@ -45,6 +69,40 @@
       {
         "site": "bangumi",
         "id": "79678"
+      },
+      {
+        "site": "unext",
+        "id": "SID0012538",
+        "begin": "2018-04-06T03:00:00.000Z",
+        "broadcast": "R/2018-04-06T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "20173",
+        "begin": "2015-07-10T01:00:00.000Z",
+        "broadcast": "R/2015-07-10T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B08M12CDX3",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/68312/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "3665"
+      },
+      {
+        "site": "anidb",
+        "id": "1311"
+      },
+      {
+        "site": "aniList",
+        "id": "3665"
       }
     ]
   },
@@ -70,6 +128,199 @@
         "site": "qq",
         "id": "r/rnjpu9bsbfirqjt",
         "begin": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/89579/season/1/episode/4"
+      },
+      {
+        "site": "anidb",
+        "id": "7191"
+      }
+    ]
+  },
+  {
+    "title": "ピカチュウのふゆやすみ2000",
+    "titleTranslate": {
+      "zh-Hans": [
+        "皮卡丘的寒假2000"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1999-12-21T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1999-12-21T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "90014"
+      },
+      {
+        "site": "unext",
+        "id": "SID0088547",
+        "begin": "2023-07-14T03:00:00.000Z",
+        "broadcast": "R/2023-07-14T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/268998"
+      },
+      {
+        "site": "danime",
+        "id": "26019",
+        "begin": "2025-12-19T15:00:00.000Z",
+        "broadcast": "R/2025-12-19T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "10916"
+      },
+      {
+        "site": "anidb",
+        "id": "3492"
+      },
+      {
+        "site": "aniList",
+        "id": "10916"
+      }
+    ]
+  },
+  {
+    "title": "リボンの騎士",
+    "titleTranslate": {
+      "zh-Hans": [
+        "蓝宝石王子",
+        "蓝宝石王子 1999"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1999-12-03T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1999-12-03T16:08:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "138356"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003342",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "11465",
+        "begin": "2014-10-03T01:00:00.000Z",
+        "broadcast": "R/2014-10-03T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/705779"
+      },
+      {
+        "site": "mal",
+        "id": "14249"
+      },
+      {
+        "site": "aniList",
+        "id": "14249"
+      },
+      {
+        "site": "anidb",
+        "id": "8628"
+      }
+    ]
+  },
+  {
+    "title": "こちら葛飾区亀有公園前派出所 THE MOVIE",
+    "titleTranslate": {
+      "zh-Hans": [
+        "乌龙派出所 剧场版：史上最恶爆弹大作战"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1999-12-22T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1999-12-22T17:35:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "54607"
+      },
+      {
+        "site": "unext",
+        "id": "SID0027788",
+        "begin": "2016-12-31T03:00:00.000Z",
+        "broadcast": "R/2016-12-31T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "21456",
+        "begin": "2017-02-24T01:00:00.000Z",
+        "broadcast": "R/2017-02-24T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/68537"
+      },
+      {
+        "site": "mal",
+        "id": "2901"
+      },
+      {
+        "site": "anidb",
+        "id": "1823"
+      },
+      {
+        "site": "aniList",
+        "id": "2901"
+      }
+    ]
+  },
+  {
+    "title": "Pia♥キャロットへようこそ!!2 DX",
+    "titleTranslate": {
+      "zh-Hans": [
+        "快餐厅之恋"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1999-12-17T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2000-10-24T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "103453"
+      },
+      {
+        "site": "bilibili",
+        "id": "22908980",
+        "begin": "2019-03-20T03:56:00.000Z",
+        "broadcast": "R/2019-03-20T03:56:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "20008",
+        "begin": "2015-02-06T01:00:00.000Z",
+        "broadcast": "R/2015-02-06T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/89547"
       }
     ]
   }

@@ -16,6 +16,34 @@
       {
         "site": "bangumi",
         "id": "119364"
+      },
+      {
+        "site": "unext",
+        "id": "SID0013614",
+        "begin": "2015-06-04T06:00:00.000Z",
+        "broadcast": "R/2015-06-04T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23950",
+        "begin": "2021-06-30T01:00:00.000Z",
+        "broadcast": "R/2021-06-30T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/455097"
+      },
+      {
+        "site": "mal",
+        "id": "25143"
+      },
+      {
+        "site": "aniList",
+        "id": "20781"
+      },
+      {
+        "site": "anidb",
+        "id": "10731"
       }
     ]
   },
@@ -34,23 +62,35 @@
     "end": "2015-10-09T16:15:00.000Z",
     "sites": [
       {
-        "site": "letv",
-        "id": "10006626",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "116370"
       },
       {
         "site": "nicovideo",
         "id": "animatorexpo",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "youku",
         "id": "5960a6026e0811e4a080",
         "begin": "2015-09-11T07:34:26.000Z"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/103927"
+      },
+      {
+        "site": "mal",
+        "id": "28149"
+      },
+      {
+        "site": "anidb",
+        "id": "10896"
+      },
+      {
+        "site": "aniList",
+        "id": "20947"
       }
     ]
   },
@@ -71,18 +111,46 @@
     "end": "2014-11-15T17:45:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "PiawIhu5UxAJl40s",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "37395"
       },
       {
-        "site": "netflix",
-        "id": "80038207",
-        "begin": "2015-06-01T07:00:00.000Z"
+        "site": "unext",
+        "id": "SID0027233",
+        "begin": "2019-12-07T03:00:00.000Z",
+        "broadcast": "R/2019-12-07T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "5596f468a0b788232ee352f3"
+      },
+      {
+        "site": "danime",
+        "id": "22718",
+        "begin": "2020-05-01T01:00:00.000Z",
+        "broadcast": "R/2020-05-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "5-16",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/304023"
+      },
+      {
+        "site": "mal",
+        "id": "13391"
+      },
+      {
+        "site": "anidb",
+        "id": "9088"
+      },
+      {
+        "site": "aniList",
+        "id": "13391"
       }
     ]
   },
@@ -100,13 +168,24 @@
     "end": "2014-11-28T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "JQDsatI4qOZJxy8",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "93258"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/453729"
+      },
+      {
+        "site": "mal",
+        "id": "22295"
+      },
+      {
+        "site": "anidb",
+        "id": "10591"
+      },
+      {
+        "site": "aniList",
+        "id": "20939"
       }
     ]
   },
@@ -124,23 +203,33 @@
     "end": "2015-04-04T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "wWFLyTGXB0WoJo4",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "86870"
-      },
-      {
-        "site": "bilibili",
-        "id": "3568",
-        "begin": "2014-11-20T16:00:01.000Z"
       },
       {
         "site": "youku",
         "id": "6cada7784adb11e4b432",
         "begin": "2014-10-02T05:31:42.000Z"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "551374991fe5c31a190a0720"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/55011/season/0/episode/17"
+      },
+      {
+        "site": "mal",
+        "id": "23319"
+      },
+      {
+        "site": "aniList",
+        "id": "20449"
+      },
+      {
+        "site": "anidb",
+        "id": "10549"
       }
     ]
   },
@@ -164,7 +253,24 @@
       {
         "site": "nicovideo",
         "id": "zeushi-kun",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/113071/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "28185"
+      },
+      {
+        "site": "anidb",
+        "id": "11914"
+      },
+      {
+        "site": "aniList",
+        "id": "119794"
       }
     ]
   },
@@ -186,9 +292,8 @@
         "id": "108595"
       },
       {
-        "site": "pptv",
-        "id": "OBz4dt5EtPJV0zs",
-        "begin": ""
+        "site": "tmdb",
+        "id": "tv/60761/season/0"
       }
     ]
   },
@@ -206,9 +311,20 @@
         "id": "103813"
       },
       {
-        "site": "pptv",
-        "id": "1nBc2kKoGFa5N58",
-        "begin": ""
+        "site": "tmdb",
+        "id": "tv/61534/season/0"
+      },
+      {
+        "site": "mal",
+        "id": "23441"
+      },
+      {
+        "site": "anidb",
+        "id": "10575"
+      },
+      {
+        "site": "aniList",
+        "id": "20960"
       }
     ]
   },
@@ -226,14 +342,14 @@
         "id": "144637"
       },
       {
-        "site": "letv",
-        "id": "10008560",
-        "begin": ""
-      },
-      {
         "site": "bilibili",
         "id": "87232",
-        "begin": "2015-11-13T16:00:00.000Z"
+        "begin": "2015-11-13T16:00:00.000Z",
+        "broadcast": "R/2018-04-24T06:54:30.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/62211"
       }
     ]
   },
@@ -257,7 +373,8 @@
       {
         "site": "bilibili",
         "id": "4356",
-        "begin": "2014-11-25T16:00:01.000Z"
+        "begin": "2014-11-25T16:00:01.000Z",
+        "broadcast": "R/2016-09-13T09:48:00.000Z/P7D"
       }
     ]
   },
@@ -266,6 +383,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "剧场版 进击的巨人 前篇～红莲的弓矢～"
+      ],
+      "zh-Hant": [
+        "劇場版 進擊的巨人 前編 紅蓮的弓矢"
       ]
     },
     "type": "movie",
@@ -281,7 +401,112 @@
       {
         "site": "nicovideo",
         "id": "shingeki_movie",
-        "begin": "2018-12-27T03:00:00.000Z"
+        "begin": "2018-12-27T03:00:00.000Z",
+        "broadcast": "R/2018-12-27T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "68751",
+        "begin": "2022-08-18T09:00:00.000Z",
+        "broadcast": "R/2022-08-18T09:00:00.000Z/P7D"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UchkFx6Rl70VbQeT10lIKoL7",
+        "begin": "2023-06-11T13:55:55.059Z",
+        "broadcast": "R/2023-06-11T13:55:55.059Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0018728",
+        "begin": "2018-09-01T03:00:00.000Z",
+        "broadcast": "R/2018-09-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "68751",
+        "begin": "2022-08-18T09:00:00.000Z",
+        "broadcast": "R/2022-08-18T09:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "21865",
+        "begin": "2021-06-09T01:00:00.000Z",
+        "broadcast": "R/2021-06-09T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "muse_tw",
+        "id": "PL12UaAf_xzfrMeRvKrk2OnxkpTArc_4HN",
+        "begin": "2021-11-29T05:00:08.000Z",
+        "broadcast": "R/2021-11-29T05:00:08.000Z/P7D",
+        "comment": "國語: PL12UaAf_xzfqPNx7M21380CnVsYqEyRcO"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/379088"
+      },
+      {
+        "site": "mal",
+        "id": "23775"
+      },
+      {
+        "site": "aniList",
+        "id": "20691"
+      },
+      {
+        "site": "anidb",
+        "id": "10583"
+      }
+    ]
+  },
+  {
+    "title": "IS〈インフィニット・ストラトス〉2 OVA ワールド・パージ編",
+    "titleTranslate": {
+      "zh-Hans": [
+        "IS2 OVA 世界清洗篇",
+        "IS〈无限斯特拉托斯〉2 世界清洗篇",
+        "Infinite Stratos 2 OVA World Purge篇"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "http://www.tbs.co.jp/anime/is2",
+    "begin": "2014-11-25T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2014-11-25T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "90967"
+      },
+      {
+        "site": "unext",
+        "id": "SID0017768",
+        "begin": "2023-02-12T03:00:00.000Z",
+        "broadcast": "R/2023-02-12T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "20339",
+        "begin": "2015-09-18T01:00:00.000Z",
+        "broadcast": "R/2015-09-18T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/46025/season/0/episode/5"
+      },
+      {
+        "site": "mal",
+        "id": "21653"
+      },
+      {
+        "site": "anidb",
+        "id": "10329"
+      },
+      {
+        "site": "aniList",
+        "id": "20571"
       }
     ]
   }

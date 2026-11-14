@@ -4,6 +4,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "杀老师Quest！"
+      ],
+      "zh-Hant": [
+        "殺老師 Q！"
       ]
     },
     "type": "web",
@@ -15,6 +18,34 @@
       {
         "site": "bangumi",
         "id": "186072"
+      },
+      {
+        "site": "unext",
+        "id": "SID0027529",
+        "begin": "2016-12-23T03:00:00.000Z",
+        "broadcast": "R/2016-12-23T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/69453"
+      },
+      {
+        "site": "mal",
+        "id": "34389"
+      },
+      {
+        "site": "anidb",
+        "id": "12548"
+      },
+      {
+        "site": "aniList",
+        "id": "97985"
+      },
+      {
+        "site": "prime",
+        "id": "B0GK62K8GX",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -37,11 +68,50 @@
       {
         "site": "bilibili",
         "id": "5747",
-        "begin": "2016-12-31T15:00:00.000Z"
+        "begin": "2016-12-31T15:00:00.000Z",
+        "broadcast": "R/2016-12-31T15:00:00.000Z/P7D"
       },
       {
         "site": "bangumi",
         "id": "196773"
+      },
+      {
+        "site": "nicovideo",
+        "id": "fgo-first-order",
+        "begin": "2022-02-18T03:00:00.000Z",
+        "broadcast": "R/2022-02-18T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0066390",
+        "begin": "2022-02-18T03:00:00.000Z",
+        "broadcast": "R/2022-02-18T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "1205"
+      },
+      {
+        "site": "danime",
+        "id": "25265",
+        "begin": "2022-02-18T03:00:00.000Z",
+        "broadcast": "R/2022-02-18T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/428142"
+      },
+      {
+        "site": "mal",
+        "id": "34321"
+      },
+      {
+        "site": "anidb",
+        "id": "12519"
+      },
+      {
+        "site": "aniList",
+        "id": "97815"
       }
     ]
   },
@@ -59,18 +129,34 @@
     "end": "2016-12-25T16:30:00.000Z",
     "sites": [
       {
-        "site": "letv",
-        "id": "10033860",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "187502"
       },
       {
         "site": "bilibili",
         "id": "5833",
-        "begin": "2016-12-24T16:00:01.000Z"
+        "begin": "2016-12-24T16:00:01.000Z",
+        "broadcast": "R/2016-12-27T02:36:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "1207"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/471278"
+      },
+      {
+        "site": "mal",
+        "id": "33697"
+      },
+      {
+        "site": "anidb",
+        "id": "11596"
+      },
+      {
+        "site": "aniList",
+        "id": "98004"
       }
     ]
   },
@@ -79,10 +165,16 @@
     "titleTranslate": {
       "zh-Hans": [
         "黑子的篮球 Winter Cup总集篇 ～大门的另一边～",
-        "黑子的篮球 总集篇 第3季 门的另一边"
+        "黑子的篮球 总集篇 第3季 门的另一边",
+        "黑子的篮球：冬季杯总集篇～门的另一侧～"
       ],
       "zh-Hant": [
-        "影子籃球員 冬季選拔賽總集篇 門的彼端"
+        "影子籃球員 冬季選拔賽總集篇 門的彼端",
+        "影子籃球員：冬季選拔賽總集篇：門的彼端",
+        "幻影籃球王：冬季盃選拔賽總集篇：門的彼端"
+      ],
+      "en": [
+        "Kuroko’s Basketball: Winter Cup Highlights  ~Crossing the Door~"
       ]
     },
     "type": "movie",
@@ -92,19 +184,9 @@
     "end": "2016-12-03T18:00:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "rZN9ib2PJOXfaWMA",
-        "begin": ""
-      },
-      {
         "site": "iqiyi",
         "id": "a_19rrh9ar69",
         "begin": "2017-02-28T16:00:59.000Z"
-      },
-      {
-        "site": "letv",
-        "id": "10035150",
-        "begin": ""
       },
       {
         "site": "bangumi",
@@ -123,12 +205,48 @@
       {
         "site": "bilibili",
         "id": "5938",
-        "begin": "2016-09-02T16:00:00.000Z"
+        "begin": "2016-09-02T16:00:00.000Z",
+        "broadcast": ""
       },
       {
         "site": "ani_one_asia",
         "id": "PLxSscENEp7JgGW7SQC-DYAY6zZWVnZZu2",
-        "begin": "2022-07-12T16:00:00.000Z"
+        "begin": "2022-07-12T16:00:00.000Z",
+        "broadcast": "R/2022-07-12T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28481062",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0039042",
+        "begin": "2022-04-01T15:00:00.000Z",
+        "broadcast": "R/2022-04-01T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "1152"
+      },
+      {
+        "site": "danime",
+        "id": "22533",
+        "begin": "2022-04-01T15:00:00.000Z",
+        "broadcast": "R/2022-04-01T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/448969"
+      },
+      {
+        "site": "mal",
+        "id": "32871"
+      },
+      {
+        "site": "aniList",
+        "id": "102839"
       }
     ]
   },
@@ -151,18 +269,36 @@
         "begin": ""
       },
       {
-        "site": "letv",
-        "id": "10033176",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "195110"
       },
       {
         "site": "bilibili",
         "id": "5763",
-        "begin": "2016-12-13T06:30:00.000Z"
+        "begin": "2016-12-13T06:30:00.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "21339",
+        "begin": "2016-12-21T03:00:00.000Z",
+        "broadcast": "R/2016-12-21T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/866019"
+      },
+      {
+        "site": "mal",
+        "id": "34238"
+      },
+      {
+        "site": "aniList",
+        "id": "97915"
+      },
+      {
+        "site": "anidb",
+        "id": "12472"
       }
     ]
   },
@@ -180,23 +316,26 @@
     "end": "2016-12-20T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "WibrGRKwSgsAjoQk",
-        "begin": ""
-      },
-      {
-        "site": "letv",
-        "id": "10033637",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "183394"
       },
       {
         "site": "bilibili",
         "id": "5882",
-        "begin": "2016-12-19T16:00:01.000Z"
+        "begin": "2016-12-19T16:00:01.000Z",
+        "broadcast": "R/2017-01-15T02:40:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "1220"
+      },
+      {
+        "site": "mal",
+        "id": "33323"
+      },
+      {
+        "site": "aniList",
+        "id": "98033"
       }
     ]
   },
@@ -206,6 +345,9 @@
       "zh-Hans": [
         "锁链战记～赫克瑟塔斯之光～ 第1章",
         "锁链战记 赫克瑟塔斯之光"
+      ],
+      "zh-Hant": [
+        "鎖鏈戰記 赫克瑟塔斯之光"
       ]
     },
     "type": "movie",
@@ -214,11 +356,6 @@
     "begin": "2016-12-03T16:00:00.000Z",
     "end": "2016-12-03T17:30:00.000Z",
     "sites": [
-      {
-        "site": "pptv",
-        "id": "IhQAfuZMvPpd20M",
-        "begin": ""
-      },
       {
         "site": "iqiyi",
         "id": "a_19rrha8tqp",
@@ -231,12 +368,41 @@
       {
         "site": "bilibili",
         "id": "5769",
-        "begin": "2016-12-15T16:00:01.000Z"
+        "begin": "2016-12-15T16:00:01.000Z",
+        "broadcast": ""
       },
       {
         "site": "youku",
         "id": "47f4a9a898d411e69e06",
         "begin": "2016-12-16T09:02:00.000Z"
+      },
+      {
+        "site": "gamer",
+        "id": "74561",
+        "begin": "2016-12-16T09:20:00.000Z",
+        "broadcast": "R/2016-12-16T09:20:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "74561",
+        "begin": "2016-12-16T09:20:00.000Z",
+        "broadcast": "R/2016-12-16T09:20:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/415282"
+      },
+      {
+        "site": "mal",
+        "id": "33728"
+      },
+      {
+        "site": "aniList",
+        "id": "87505"
+      },
+      {
+        "site": "anidb",
+        "id": "12291"
       }
     ]
   },
@@ -265,7 +431,40 @@
       {
         "site": "nicovideo",
         "id": "popin-q",
-        "begin": ""
+        "begin": "2016-08-31T09:00:00.000Z",
+        "broadcast": "R/2016-08-31T09:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0027724",
+        "begin": "2021-01-07T03:00:00.000Z",
+        "broadcast": "R/2021-01-07T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "1253"
+      },
+      {
+        "site": "danime",
+        "id": "26170",
+        "begin": "2023-02-28T01:00:00.000Z",
+        "broadcast": "R/2023-02-28T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/415283"
+      },
+      {
+        "site": "mal",
+        "id": "30695"
+      },
+      {
+        "site": "anidb",
+        "id": "11211"
+      },
+      {
+        "site": "aniList",
+        "id": "21412"
       }
     ]
   },
@@ -294,7 +493,36 @@
       {
         "site": "bilibili",
         "id": "28228779",
-        "begin": "2020-04-29T16:00:00.000Z"
+        "begin": "2020-04-29T16:00:00.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/573364"
+      },
+      {
+        "site": "unext",
+        "id": "SID0264598",
+        "begin": "2026-01-23T13:54:00.000Z",
+        "broadcast": "R/2026-01-23T13:54:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "415-68",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mal",
+        "id": "34036"
+      },
+      {
+        "site": "anidb",
+        "id": "12644"
+      },
+      {
+        "site": "aniList",
+        "id": "98604"
       }
     ]
   },
@@ -312,13 +540,16 @@
     "end": "2017-02-20T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "Ixj0ctpAsO5Rzzc",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "209956"
+      },
+      {
+        "site": "mal",
+        "id": "34642"
+      },
+      {
+        "site": "aniList",
+        "id": "98629"
       }
     ]
   },
@@ -327,6 +558,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "期待在地下城邂逅有错吗 OVA"
+      ],
+      "zh-Hant": [
+        "在地下城尋求邂逅是否搞錯了什麼 OVA"
       ]
     },
     "type": "ova",
@@ -336,13 +570,65 @@
     "end": "2016-12-07T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "DTgUkvpg0A5x71c",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "169942"
+      },
+      {
+        "site": "unext",
+        "id": "SID0038693",
+        "begin": "2018-12-03T03:00:00.000Z",
+        "broadcast": "R/2018-12-03T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UcjJRtW-6ARI19jYmjSNC028",
+        "begin": "2024-03-24T16:00:00.000Z",
+        "broadcast": "R/2024-03-24T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "1212"
+      },
+      {
+        "site": "abema",
+        "id": "174-3",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "22016",
+        "begin": "2018-02-28T01:00:00.000Z",
+        "broadcast": "R/2018-02-28T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0DWRJZZJ6",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/62745/season/0"
+      },
+      {
+        "site": "mal",
+        "id": "32801"
+      },
+      {
+        "site": "aniList",
+        "id": "21660"
+      },
+      {
+        "site": "anidb",
+        "id": "11941"
+      },
+      {
+        "site": "muse_tw",
+        "id": "PLT5T-P2Hg_e4",
+        "url": "https://www.youtube.com/show/VLPLT5T-P2Hg_e4?sbp=KgtIYnVCdkJTYW4xUUAB",
+        "begin": "2024-06-01T13:30:06.000Z",
+        "broadcast": "R/2024-06-01T13:30:06.000Z/P7D"
       }
     ]
   },
@@ -351,6 +637,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "闪电宅急送"
+      ],
+      "en": [
+        "INAZMA DELIVERY"
       ]
     },
     "type": "web",
@@ -364,11 +653,6 @@
         "id": "227230"
       },
       {
-        "site": "nicovideo",
-        "id": "inazma-delivery-new",
-        "begin": ""
-      },
-      {
         "site": "iqiyi",
         "id": "a_19rrhcbahx",
         "begin": "2017-09-30T11:00:05.000Z"
@@ -377,6 +661,34 @@
         "site": "youku",
         "id": "efbfbdefbfbd6d43efbf",
         "begin": "2017-09-30T10:58:00.000Z"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "G79H23WQ7",
+        "begin": "2021-11-23T14:00:00.000Z",
+        "broadcast": "R/2021-11-23T14:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "21853",
+        "begin": "2021-04-30T01:00:00.000Z",
+        "broadcast": "R/2021-04-30T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/194625"
+      },
+      {
+        "site": "mal",
+        "id": "34502"
+      },
+      {
+        "site": "aniList",
+        "id": "102940"
+      },
+      {
+        "site": "anidb",
+        "id": "12607"
       }
     ]
   },
@@ -385,6 +697,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "喜欢上你的那个瞬间。～告白实行委员会～"
+      ],
+      "zh-Hant": [
+        "喜歡上你的那瞬間"
       ]
     },
     "type": "movie",
@@ -400,12 +715,58 @@
       {
         "site": "nicovideo",
         "id": "sukininarusonoshunkanwo",
-        "begin": ""
+        "begin": "2018-07-31T15:00:00.000Z",
+        "broadcast": "R/2018-07-31T15:00:00.000Z/P7D"
       },
       {
         "site": "bilibili",
         "id": "5576",
-        "begin": "2016-12-16T16:00:01.000Z"
+        "begin": "2016-12-16T16:00:01.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "84428",
+        "begin": "2022-06-03T01:30:00.000Z",
+        "broadcast": "R/2022-06-03T01:30:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0038982",
+        "begin": "2018-12-24T03:00:00.000Z",
+        "broadcast": "R/2018-12-24T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "1254"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "84428",
+        "begin": "2022-06-03T01:30:00.000Z",
+        "broadcast": "R/2022-06-03T01:30:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "22754",
+        "begin": "2019-05-17T01:00:00.000Z",
+        "broadcast": "R/2019-05-17T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/472516"
+      },
+      {
+        "site": "mal",
+        "id": "33036"
+      },
+      {
+        "site": "anidb",
+        "id": "12041"
+      },
+      {
+        "site": "aniList",
+        "id": "21757"
       }
     ]
   },
@@ -430,7 +791,271 @@
       {
         "site": "bilibili",
         "id": "6136",
-        "begin": "2016-12-30T16:00:00.000Z"
+        "begin": "2016-12-30T16:00:00.000Z",
+        "broadcast": "R/2017-05-04T10:34:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23074",
+        "begin": "2019-12-16T01:00:00.000Z",
+        "broadcast": "R/2019-12-16T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/415286"
+      },
+      {
+        "site": "mal",
+        "id": "33308"
+      },
+      {
+        "site": "aniList",
+        "id": "87533"
+      },
+      {
+        "site": "anidb",
+        "id": "12130"
+      }
+    ]
+  },
+  {
+    "title": "映画 妖怪ウォッチ 空飛ぶクジラとダブル世界の大冒険だニャン！",
+    "titleTranslate": {
+      "zh-Hans": [
+        "妖怪手表 飞翔鲸鱼与两个世界的冒险喵"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.eiga-yokai.jp/",
+    "begin": "2016-12-16T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2016-12-16T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "159489"
+      },
+      {
+        "site": "unext",
+        "id": "SID0030298",
+        "begin": "2020-06-06T03:00:00.000Z",
+        "broadcast": "R/2020-06-06T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "1477"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/433145"
+      },
+      {
+        "site": "mal",
+        "id": "32222"
+      },
+      {
+        "site": "anidb",
+        "id": "11816"
+      },
+      {
+        "site": "aniList",
+        "id": "121663"
+      }
+    ]
+  },
+  {
+    "title": "算法少女",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2016-12-23T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2016-12-23T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "387111"
+      },
+      {
+        "site": "unext",
+        "id": "SID0096103",
+        "begin": "2023-12-16T03:00:00.000Z",
+        "broadcast": "R/2023-12-16T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0CL5MWMDR",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1420836"
+      },
+      {
+        "site": "mal",
+        "id": "37878"
+      },
+      {
+        "site": "anidb",
+        "id": "13202"
+      },
+      {
+        "site": "aniList",
+        "id": "181869"
+      }
+    ]
+  },
+  {
+    "title": "甲鉄城のカバネリ 総集編 前編 集う光",
+    "titleTranslate": {
+      "zh-Hans": [
+        "甲铁城的卡巴内利 总集篇 前篇 聚光"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://kabaneri.com/",
+    "begin": "2016-12-30T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2016-12-30T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "186160"
+      },
+      {
+        "site": "unext",
+        "id": "SID0158550",
+        "begin": "2024-10-31T15:00:00.000Z",
+        "broadcast": "R/2024-10-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "27583",
+        "begin": "2024-12-15T15:00:00.000Z",
+        "broadcast": "R/2024-12-15T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/431802"
+      },
+      {
+        "site": "anidb",
+        "id": "12246"
+      }
+    ]
+  },
+  {
+    "title": "シックスハートプリンセス",
+    "titleTranslate": {
+      "zh-Hans": [
+        "六心公主"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2016-12-29T16:00:00.000Z",
+    "broadcast": "R/2016-12-29T16:00:00.000Z/P7D",
+    "end": "2019-09-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "122772"
+      },
+      {
+        "site": "mikan",
+        "id": "1214"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/223523"
+      },
+      {
+        "site": "mal",
+        "id": "29643"
+      },
+      {
+        "site": "anidb",
+        "id": "12682"
+      },
+      {
+        "site": "aniList",
+        "id": "21025"
+      }
+    ]
+  },
+  {
+    "title": "シルバニア村のたからもの",
+    "titleTranslate": {},
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://www.sylvanianfamilies.com/ja-jp/special/tv/1st/",
+    "begin": "2016-12-15T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2016-12-15T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "407237"
+      },
+      {
+        "site": "danime",
+        "id": "25755",
+        "begin": "2022-09-21T01:00:00.000Z",
+        "broadcast": "R/2022-09-21T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "62375"
+      }
+    ]
+  },
+  {
+    "title": "モンスターストライク THE MOVIE はじまりの場所へ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "怪物弹珠 THE MOVIE 前往起始之地"
+      ],
+      "en": [
+        "Monster Strike The Movie: Hajimari no Basho e"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://anime-movie.monster-strike.com/sp/",
+    "begin": "2016-12-09T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2016-12-09T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "187935"
+      },
+      {
+        "site": "mal",
+        "id": "33724"
+      },
+      {
+        "site": "anidb",
+        "id": "12284"
+      },
+      {
+        "site": "aniList",
+        "id": "87499"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/415287"
       }
     ]
   }

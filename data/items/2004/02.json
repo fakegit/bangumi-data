@@ -13,18 +13,36 @@
     "end": "2004-05-17T15:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "DCEcmgJo2BZ5918",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "843"
       },
       {
-        "site": "bilibili",
-        "id": "1917",
-        "begin": "2004-02-01T16:00:00.000Z"
+        "site": "unext",
+        "id": "SID0017149",
+        "begin": "2019-12-01T03:00:00.000Z",
+        "broadcast": "R/2019-12-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10250",
+        "begin": "2018-12-21T01:00:00.000Z",
+        "broadcast": "R/2018-12-21T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/9343"
+      },
+      {
+        "site": "mal",
+        "id": "323"
+      },
+      {
+        "site": "anidb",
+        "id": "1265"
+      },
+      {
+        "site": "aniList",
+        "id": "323"
       }
     ]
   },
@@ -32,7 +50,8 @@
     "title": "勇午",
     "titleTranslate": {
       "zh-Hans": [
-        "交涉人勇午"
+        "交涉人勇午",
+        "勇午交涉人"
       ]
     },
     "type": "tv",
@@ -42,13 +61,30 @@
     "end": "2004-05-25T15:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "uIeCAGjOPnzfXcU",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "3305"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/34730"
+      },
+      {
+        "site": "danime",
+        "id": "28423",
+        "begin": "2025-11-22T15:00:00.000Z",
+        "broadcast": "R/2025-11-22T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "1246"
+      },
+      {
+        "site": "anidb",
+        "id": "1429"
+      },
+      {
+        "site": "aniList",
+        "id": "1246"
       }
     ]
   },
@@ -66,13 +102,30 @@
     "end": "2004-02-21T17:40:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "xayIBm7URILlY8s",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "60195"
+      },
+      {
+        "site": "unext",
+        "id": "SID0071220",
+        "begin": "2022-07-25T03:00:00.000Z",
+        "broadcast": "R/2022-07-25T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/20062"
+      },
+      {
+        "site": "mal",
+        "id": "1203"
+      },
+      {
+        "site": "anidb",
+        "id": "587"
+      },
+      {
+        "site": "aniList",
+        "id": "1203"
       }
     ]
   },
@@ -102,6 +155,102 @@
         "site": "iqiyi",
         "id": "a_19rrhb4um9",
         "begin": "2016-02-16T07:22:34.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0011326",
+        "begin": "2022-06-22T03:00:00.000Z",
+        "broadcast": "R/2022-06-22T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/50253"
+      }
+    ]
+  },
+  {
+    "title": "Phantom -PHANTOM THE ANIMATION-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "幻影"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2004-02-26T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2004-11-25T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "2217"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002832",
+        "begin": "2022-10-22T03:00:00.000Z",
+        "broadcast": "R/2022-10-22T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10830",
+        "begin": "2013-06-07T01:00:00.000Z",
+        "broadcast": "R/2013-06-07T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/62176"
+      },
+      {
+        "site": "mal",
+        "id": "438"
+      },
+      {
+        "site": "anidb",
+        "id": "1625"
+      },
+      {
+        "site": "aniList",
+        "id": "438"
+      }
+    ]
+  },
+  {
+    "title": "ASTRO BOY 鉄腕アトム特別編 輝ける地球〜あなたは青く、美しい…〜",
+    "titleTranslate": {
+      "zh-Hans": [
+        "铁臂阿童木特别篇 辉煌的地球"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://tezukaosamu.net/jp/anime/128.html",
+    "begin": "2004-02-06T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2004-02-06T16:20:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "425945"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002414",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "11458",
+        "begin": "2014-10-03T01:00:00.000Z",
+        "broadcast": "R/2014-10-03T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1293125"
       }
     ]
   }

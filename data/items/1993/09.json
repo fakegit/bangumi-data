@@ -20,6 +20,201 @@
       {
         "site": "bangumi",
         "id": "52827"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/70337"
+      },
+      {
+        "site": "mal",
+        "id": "2017"
+      },
+      {
+        "site": "anidb",
+        "id": "1300"
+      },
+      {
+        "site": "aniList",
+        "id": "2017"
+      }
+    ]
+  },
+  {
+    "title": "ハローキティのかぐや姫",
+    "titleTranslate": {
+      "zh-Hans": [
+        "凯蒂猫 辉夜姬"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1993-09-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1993-09-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "315563"
+      },
+      {
+        "site": "unext",
+        "id": "SID0093066",
+        "begin": "2023-10-01T03:00:00.000Z",
+        "broadcast": "R/2023-10-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "25524",
+        "begin": "2023-01-20T01:00:00.000Z",
+        "broadcast": "R/2023-01-20T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "22497"
+      },
+      {
+        "site": "anidb",
+        "id": "7779"
+      }
+    ]
+  },
+  {
+    "title": "ムカムカパラダイス",
+    "titleTranslate": {
+      "zh-Hans": [
+        "为食龙少爷",
+        "家有贱龙",
+        "家有恐龙",
+        "五更龙宝宝"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1993-09-03T16:00:00.000Z",
+    "broadcast": "R/1993-09-03T16:00:00.000Z/P7D",
+    "end": "1994-08-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "55775"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002376",
+        "begin": "2023-02-01T03:00:00.000Z",
+        "broadcast": "R/2023-02-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/129060"
+      },
+      {
+        "site": "mal",
+        "id": "4086"
+      },
+      {
+        "site": "anidb",
+        "id": "3686"
+      },
+      {
+        "site": "aniList",
+        "id": "4086"
+      }
+    ]
+  },
+  {
+    "title": "難波金融伝・ミナミの帝王",
+    "titleTranslate": {
+      "zh-Hans": [
+        "难波金融传 南街帝王",
+        "难波金融传 南之帝王"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1993-09-21T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1993-09-21T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "80127"
+      },
+      {
+        "site": "unext",
+        "id": "SID0010776",
+        "begin": "2022-10-27T03:00:00.000Z",
+        "broadcast": "R/2022-10-27T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10269",
+        "begin": "2013-05-02T01:00:00.000Z",
+        "broadcast": "R/2013-05-02T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "18631"
+      },
+      {
+        "site": "anidb",
+        "id": "8987"
+      },
+      {
+        "site": "aniList",
+        "id": "18631"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1126101"
+      }
+    ]
+  },
+  {
+    "title": "BADBOYS",
+    "titleTranslate": {},
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1993-09-24T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1998-12-31T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "93008"
+      },
+      {
+        "site": "unext",
+        "id": "SID0078559",
+        "begin": "2023-03-01T03:00:00.000Z",
+        "broadcast": "R/2023-03-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "28033",
+        "begin": "2025-06-19T15:00:00.000Z",
+        "broadcast": "R/2025-06-19T15:00:00.000Z/P7D",
+        "comment": "2: 28034, 3 BEST FRIENDS: 28035, 4 狂連合篇: 28036, 5:28037"
+      },
+      {
+        "site": "mal",
+        "id": "6096"
+      },
+      {
+        "site": "anidb",
+        "id": "5295"
+      },
+      {
+        "site": "aniList",
+        "id": "6096"
       }
     ]
   }

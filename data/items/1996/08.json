@@ -22,14 +22,32 @@
         "begin": ""
       },
       {
-        "site": "pptv",
-        "id": "ibZ32dNxCsvBT0Tk",
-        "begin": ""
+        "site": "unext",
+        "id": "SID0013267",
+        "begin": "2019-02-21T03:00:00.000Z",
+        "broadcast": "R/2019-02-21T03:00:00.000Z/P7D"
       },
       {
-        "site": "bilibili",
-        "id": "3941",
-        "begin": "1996-08-01T16:00:01.000Z"
+        "site": "danime",
+        "id": "21757",
+        "begin": "2017-09-08T01:00:00.000Z",
+        "broadcast": "R/2017-09-08T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/53894"
+      },
+      {
+        "site": "mal",
+        "id": "1436"
+      },
+      {
+        "site": "aniList",
+        "id": "1436"
+      },
+      {
+        "site": "anidb",
+        "id": "810"
       }
     ]
   },
@@ -38,6 +56,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "秀逗魔导士RETURN"
+      ],
+      "zh-Hant": [
+        "秀逗魔導士 RETURN"
       ]
     },
     "type": "movie",
@@ -56,19 +77,31 @@
         "id": "42095"
       },
       {
-        "site": "pptv",
-        "id": "RfTgXsYsnNo9uyM",
-        "begin": ""
-      },
-      {
         "site": "bilibili",
         "id": "3906",
-        "begin": "1996-08-02T16:00:01.000Z"
+        "begin": "1996-08-02T16:00:01.000Z",
+        "broadcast": "R/2016-05-03T03:40:00.000Z/P7D"
       },
       {
         "site": "iqiyi",
         "id": "a_19rrhwb7ed",
         "begin": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0013124",
+        "begin": "2019-10-02T03:00:00.000Z",
+        "broadcast": "R/2019-10-02T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10016",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/125521"
       }
     ]
   },
@@ -76,10 +109,13 @@
     "title": "新世紀GPXサイバーフォーミュラSAGA",
     "titleTranslate": {
       "zh-Hans": [
-        "高智能方程式：SAGA"
+        "高智能方程式：SAGA",
+        "閃電霹靂車SAGA"
       ],
       "zh-Hant": [
-        "高智能方程式SAGA"
+        "高智能方程式SAGA",
+        "閃電霹靂車SAGA",
+        "閃電霹靂車 SAGA"
       ]
     },
     "type": "ova",
@@ -89,22 +125,230 @@
     "end": "1997-07-01T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "NnlDwSmPicz2gHoY",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "1957"
       },
       {
-        "site": "bilibili",
-        "id": "3810",
-        "begin": "1996-07-31T16:00:01.000Z"
-      },{
+        "site": "unext",
+        "id": "SID0016636",
+        "begin": "2023-02-14T03:00:00.000Z",
+        "broadcast": "R/2023-02-14T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "11580",
+        "begin": "2021-12-24T01:00:00.000Z",
+        "broadcast": "R/2021-12-24T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/9320/season/4"
+      },
+      {
+        "site": "mal",
+        "id": "1394"
+      },
+      {
+        "site": "anidb",
+        "id": "2149"
+      },
+      {
+        "site": "aniList",
+        "id": "1394"
+      },
+      {
         "site": "ani_one_asia",
-        "id": "PLxSscENEp7JgQvieGk4fBN7k5kOkV39n7",
-        "begin": ""
+        "id": "PLMgfBc8o7fro",
+        "url": "https://www.youtube.com/show/VLPLMgfBc8o7fro?season=4&sbp=CgE0GgAqC0JwbHlFT1BiaTZJQAFKDVBTZk1vVEhkWTRxdUU%253D",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "gamer",
+        "id": "19796",
+        "begin": "2026-10-15T04:00:00.000Z",
+        "broadcast": "R/2026-10-15T04:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "19796",
+        "begin": "2026-10-15T04:00:00.000Z",
+        "broadcast": "R/2026-10-15T04:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "地獄堂霊界通信",
+    "titleTranslate": {
+      "zh-Hans": [
+        "地狱堂灵界通信"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1996-08-08T16:00:00.000Z",
+    "end": "1996-08-08T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "9980"
+      },
+      {
+        "site": "bilibili",
+        "id": "5573",
+        "begin": "2016-09-28T08:13:00.000Z",
+        "broadcast": "R/2016-09-28T08:13:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0091518",
+        "begin": "2023-09-10T03:00:00.000Z",
+        "broadcast": "R/2023-09-10T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "28042",
+        "begin": "2025-06-19T15:00:00.000Z",
+        "broadcast": "R/2025-06-19T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/578374"
+      },
+      {
+        "site": "mal",
+        "id": "9824"
+      },
+      {
+        "site": "anidb",
+        "id": "7935"
+      },
+      {
+        "site": "aniList",
+        "id": "9824"
+      }
+    ]
+  },
+  {
+    "title": "X -エックス-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "X战记 剧场版"
+      ],
+      "en": [
+        "X: The Movie"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1996-08-02T16:00:00.000Z",
+    "end": "1996-08-02T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "36262"
+      },
+      {
+        "site": "bilibili",
+        "id": "2099",
+        "begin": "2019-03-05T06:27:00.000Z",
+        "broadcast": "R/2019-03-05T06:27:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/44587"
+      },
+      {
+        "site": "mal",
+        "id": "155"
+      },
+      {
+        "site": "aniList",
+        "id": "155"
+      },
+      {
+        "site": "anidb",
+        "id": "429"
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GMTE00380050",
+        "begin": "1996-08-03T00:00:00.000Z",
+        "broadcast": "R/1996-08-03T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "29175",
+        "begin": "2026-08-13T15:00:00.000Z",
+        "broadcast": "R/2026-08-13T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "マヤの一生",
+    "titleTranslate": {
+      "zh-Hans": [
+        "马亚的一生"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.mushi-pro.co.jp/2010/08/%E3%83%9E%E3%83%A4%E3%81%AE%E4%B8%80%E7%94%9F/",
+    "begin": "1996-08-19T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1996-08-19T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "310063"
+      },
+      {
+        "site": "mal",
+        "id": "25301"
+      },
+      {
+        "site": "anidb",
+        "id": "6358"
+      },
+      {
+        "site": "aniList",
+        "id": "117933"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/598110"
+      }
+    ]
+  },
+  {
+    "title": "賢治のトランク",
+    "titleTranslate": {
+      "zh-Hans": [
+        "贤治的皮箱"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1996-08-23T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1996-08-23T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "89707"
+      },
+      {
+        "site": "mal",
+        "id": "21099"
+      },
+      {
+        "site": "anidb",
+        "id": "7720"
       }
     ]
   }

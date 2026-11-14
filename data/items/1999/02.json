@@ -3,7 +3,8 @@
     "title": "Bビーダマン爆外伝V",
     "titleTranslate": {
       "zh-Hans": [
-        "弹珠警察"
+        "弹珠警察",
+        "劲爆BOM BOM弹珠人"
       ]
     },
     "type": "tv",
@@ -19,7 +20,36 @@
       {
         "site": "bilibili",
         "id": "2221",
-        "begin": "1999-02-06T16:00:00.000Z"
+        "begin": "1999-02-06T16:00:00.000Z",
+        "broadcast": "R/2014-06-28T12:32:17.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0012665",
+        "begin": "2024-02-21T03:00:00.000Z",
+        "broadcast": "R/2024-02-21T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26707",
+        "begin": "2023-11-16T15:00:00.000Z",
+        "broadcast": "R/2023-11-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/250761"
+      },
+      {
+        "site": "mal",
+        "id": "1673"
+      },
+      {
+        "site": "anidb",
+        "id": "3586"
+      },
+      {
+        "site": "aniList",
+        "id": "1673"
       }
     ]
   },
@@ -49,6 +79,34 @@
         "site": "nicovideo",
         "id": "doremi",
         "begin": "2016-06-15T06:00:00.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0014217",
+        "begin": "2019-11-09T03:00:00.000Z",
+        "broadcast": "R/2019-11-09T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "22626",
+        "begin": "2019-03-01T01:00:00.000Z",
+        "broadcast": "R/2019-03-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/20353"
+      },
+      {
+        "site": "mal",
+        "id": "350"
+      },
+      {
+        "site": "anidb",
+        "id": "888"
+      },
+      {
+        "site": "aniList",
+        "id": "350"
       }
     ]
   },
@@ -72,7 +130,30 @@
       {
         "site": "bilibili",
         "id": "5478",
-        "begin": "1999-02-04T16:00:01.000Z"
+        "begin": "1999-02-04T16:00:01.000Z",
+        "broadcast": "R/2016-08-30T02:33:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "11563",
+        "begin": "2020-06-19T01:00:00.000Z",
+        "broadcast": "R/2020-06-19T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/124191/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "3690"
+      },
+      {
+        "site": "anidb",
+        "id": "4666"
+      },
+      {
+        "site": "aniList",
+        "id": "3690"
       }
     ]
   },
@@ -92,6 +173,22 @@
       {
         "site": "bangumi",
         "id": "157214"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/11828"
+      },
+      {
+        "site": "mal",
+        "id": "6511"
+      },
+      {
+        "site": "anidb",
+        "id": "4202"
+      },
+      {
+        "site": "aniList",
+        "id": "6511"
       }
     ]
   },
@@ -100,6 +197,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "浪客剑心 追忆篇"
+      ],
+      "zh-Hant": [
+        "神劍闖江湖 追憶篇"
       ]
     },
     "type": "ova",
@@ -108,11 +208,6 @@
     "begin": "1999-02-20T16:00:00.000Z",
     "end": "1999-09-22T16:30:00.000Z",
     "sites": [
-      {
-        "site": "pptv",
-        "id": "UvXQTrYcjMotqxM",
-        "begin": ""
-      },
       {
         "site": "qq",
         "id": "c/cz3xrrh4apzn2o1",
@@ -126,6 +221,46 @@
         "site": "nicovideo",
         "id": "rurouni-kenshin-tuioku",
         "begin": "2014-09-13T06:00:00.000Z"
+      },
+      {
+        "site": "bilibili",
+        "id": "28229015",
+        "begin": "2020-05-29T09:13:00.000Z",
+        "broadcast": "R/2020-05-29T09:13:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/28136/season/0/episode/2"
+      },
+      {
+        "site": "unext",
+        "id": "SID0017450",
+        "begin": "2025-12-19T15:00:00.000Z",
+        "broadcast": "R/2025-12-19T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "44"
+      },
+      {
+        "site": "anidb",
+        "id": "73"
+      },
+      {
+        "site": "aniList",
+        "id": "44"
+      },
+      {
+        "site": "danime",
+        "id": "21726",
+        "begin": "2025-12-19T15:00:00.000Z",
+        "broadcast": "R/2025-12-19T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0GK7JXGVD",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -143,18 +278,36 @@
     "end": "2000-01-29T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "TYB8ibmLIOHbZV78",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "2788"
       },
       {
-        "site": "letv",
-        "id": "19710",
-        "begin": ""
+        "site": "unext",
+        "id": "SID0014373",
+        "begin": "2021-01-07T03:00:00.000Z",
+        "broadcast": "R/2021-01-07T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23088",
+        "begin": "2022-08-01T01:00:00.000Z",
+        "broadcast": "R/2022-08-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/34729"
+      },
+      {
+        "site": "mal",
+        "id": "142"
+      },
+      {
+        "site": "anidb",
+        "id": "354"
+      },
+      {
+        "site": "aniList",
+        "id": "142"
       }
     ]
   }

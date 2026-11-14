@@ -3,7 +3,8 @@
     "title": "涼宮ハルヒちゃんの憂鬱",
     "titleTranslate": {
       "zh-Hans": [
-        "凉宫春日酱的忧郁"
+        "凉宫春日酱的忧郁",
+        "小凉宫春日的忧郁"
       ]
     },
     "type": "web",
@@ -13,18 +14,42 @@
     "end": "2009-05-08T13:04:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "7CUfnQVr2xl8ibmI",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "1372"
       },
       {
-        "site": "letv",
-        "id": "6311",
-        "begin": ""
+        "site": "bilibili",
+        "id": "4735",
+        "begin": "2019-05-13T07:15:00.000Z",
+        "broadcast": "R/2019-05-13T07:15:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0044564",
+        "begin": "2019-12-08T03:00:00.000Z",
+        "broadcast": "R/2019-12-08T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "11078",
+        "begin": "2013-12-17T19:23:00.000Z",
+        "broadcast": "R/2013-12-17T19:23:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/95710"
+      },
+      {
+        "site": "mal",
+        "id": "5118"
+      },
+      {
+        "site": "anidb",
+        "id": "5335"
+      },
+      {
+        "site": "aniList",
+        "id": "5118"
       }
     ]
   },
@@ -32,7 +57,8 @@
     "title": "にょろーん☆ちゅるやさん",
     "titleTranslate": {
       "zh-Hans": [
-        "鹤屋和熏干酪"
+        "鹤屋和熏干酪",
+        "Nyoron☆小鹤屋学姐"
       ]
     },
     "type": "web",
@@ -42,18 +68,36 @@
     "end": "2009-05-08T13:02:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "fdKtK5P5aacKiaPA",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "1545"
       },
       {
         "site": "bilibili",
         "id": "4734",
-        "begin": "2009-02-13T16:00:01.000Z"
+        "begin": "2009-02-13T16:00:01.000Z",
+        "broadcast": "R/2016-06-13T03:56:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "11079",
+        "begin": "2013-12-17T19:23:00.000Z",
+        "broadcast": "R/2013-12-17T19:23:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/53297"
+      },
+      {
+        "site": "mal",
+        "id": "5957"
+      },
+      {
+        "site": "aniList",
+        "id": "5957"
+      },
+      {
+        "site": "anidb",
+        "id": "6377"
       }
     ]
   },
@@ -71,18 +115,30 @@
     "end": "2009-06-23T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "tI5591icFNXPWVLw",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "2898"
       },
       {
         "site": "bilibili",
         "id": "3390",
-        "begin": "2009-02-16T16:00:01.000Z"
+        "begin": "2009-02-16T16:00:01.000Z",
+        "broadcast": "R/2016-03-08T03:16:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/36250/season/0"
+      },
+      {
+        "site": "mal",
+        "id": "4918"
+      },
+      {
+        "site": "anidb",
+        "id": "6192"
+      },
+      {
+        "site": "aniList",
+        "id": "4918"
       }
     ]
   },
@@ -107,6 +163,76 @@
         "site": "nicovideo",
         "id": "oyashirosama03",
         "begin": "2017-06-16T15:00:00.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0016489",
+        "begin": "2018-06-28T03:00:00.000Z",
+        "broadcast": "R/2018-06-28T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "11147",
+        "begin": "2014-02-07T01:00:00.000Z",
+        "broadcast": "R/2014-02-07T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/25760/season/0/episode/2"
+      },
+      {
+        "site": "mal",
+        "id": "3652"
+      },
+      {
+        "site": "anidb",
+        "id": "5634"
+      },
+      {
+        "site": "aniList",
+        "id": "3652"
+      }
+    ]
+  },
+  {
+    "title": "ストリートファイターIV〜新たなる絆〜",
+    "titleTranslate": {
+      "zh-Hans": [
+        "街头霸王4 新的羁绊",
+        "街头霸王 OVA"
+      ]
+    },
+    "type": "ova",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2009-02-11T16:00:00.000Z",
+    "end": "2009-02-11T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "36829"
+      },
+      {
+        "site": "bilibili",
+        "id": "2488",
+        "begin": "2015-03-21T01:57:42.000Z",
+        "broadcast": "R/2015-03-21T01:57:42.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/16257"
+      },
+      {
+        "site": "mal",
+        "id": "5369"
+      },
+      {
+        "site": "anidb",
+        "id": "6283"
+      },
+      {
+        "site": "aniList",
+        "id": "5369"
       }
     ]
   }

@@ -16,16 +16,6 @@
     "end": "2016-06-25T17:20:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "iarehH4ftXZvibfOQ",
-        "begin": ""
-      },
-      {
-        "site": "letv",
-        "id": "10024292",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "174147"
       },
@@ -33,6 +23,38 @@
         "site": "youku",
         "id": "e2b1ccd83f3511e69b6d",
         "begin": "2016-07-01T09:52:10.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0025630",
+        "begin": "2020-11-30T03:00:00.000Z",
+        "broadcast": "R/2020-11-30T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "749"
+      },
+      {
+        "site": "danime",
+        "id": "20981",
+        "begin": "2022-09-01T01:00:00.000Z",
+        "broadcast": "R/2022-09-01T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/423124"
+      },
+      {
+        "site": "mal",
+        "id": "32950"
+      },
+      {
+        "site": "anidb",
+        "id": "11592"
+      },
+      {
+        "site": "aniList",
+        "id": "21705"
       }
     ]
   },
@@ -40,11 +62,16 @@
     "title": "不機嫌なモノノケ庵",
     "titleTranslate": {
       "zh-Hans": [
-        "忧郁的物怪庵"
+        "忧郁的物怪庵",
+        "不愉快的妖怪庵"
       ],
       "en": [
         "The Morose Mononokean",
         "Fukigen na Mononokean"
+      ],
+      "zh-Hant": [
+        "不愉快的妖怪庵",
+        "不愉快的怪物庵"
       ]
     },
     "type": "tv",
@@ -53,11 +80,6 @@
     "begin": "2016-06-28T14:30:00.000Z",
     "end": "2016-09-20T15:00:00.000Z",
     "sites": [
-      {
-        "site": "pptv",
-        "id": "oZF7ibWHHN3XYVr4",
-        "begin": "2016-06-30T15:30:00.000Z"
-      },
       {
         "site": "bangumi",
         "id": "168905"
@@ -75,7 +97,58 @@
       {
         "site": "bilibili",
         "id": "8061448",
-        "begin": "2019-01-04T16:00:01.000Z"
+        "begin": "2019-01-04T16:00:01.000Z",
+        "broadcast": "R/2019-01-14T10:02:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "81932",
+        "begin": "2020-06-05T06:00:00.000Z",
+        "broadcast": "R/2020-06-05T06:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili_tw",
+        "id": "5014",
+        "begin": "2016-08-01T06:44:49.000Z",
+        "broadcast": "R/2016-08-01T06:44:49.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "怪庵"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "57765d70ca607f850f3f9316"
+      },
+      {
+        "site": "mikan",
+        "id": "750"
+      },
+      {
+        "site": "danime",
+        "id": "20979",
+        "begin": "2016-07-06T03:00:00.000Z",
+        "broadcast": "R/2016-07-06T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/65956"
+      },
+      {
+        "site": "mal",
+        "id": "32696"
+      },
+      {
+        "site": "anidb",
+        "id": "11924"
+      },
+      {
+        "site": "aniList",
+        "id": "21643"
+      },
+      {
+        "site": "acgnx",
+        "id": "怪庵"
       }
     ]
   },
@@ -97,18 +170,34 @@
     "end": "2016-06-17T15:10:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "h7KeHITqWpj7eeE",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "180670"
       },
       {
         "site": "bilibili",
         "id": "5125",
-        "begin": "2016-06-05T16:00:01.000Z"
+        "begin": "2016-06-05T16:00:01.000Z",
+        "broadcast": "R/2016-07-07T07:34:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "56fd5b8bc6dbe72e14a0d36a"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/68405"
+      },
+      {
+        "site": "mal",
+        "id": "33241"
+      },
+      {
+        "site": "anidb",
+        "id": "12102"
+      },
+      {
+        "site": "aniList",
+        "id": "21795"
       }
     ]
   },
@@ -129,6 +218,22 @@
       {
         "site": "bangumi",
         "id": "175460"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/69344"
+      },
+      {
+        "site": "mal",
+        "id": "33605"
+      },
+      {
+        "site": "anidb",
+        "id": "12656"
+      },
+      {
+        "site": "aniList",
+        "id": "98031"
       }
     ]
   },
@@ -149,6 +254,18 @@
       {
         "site": "bangumi",
         "id": "185176"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/107564"
+      },
+      {
+        "site": "mal",
+        "id": "33755"
+      },
+      {
+        "site": "aniList",
+        "id": "102035"
       }
     ]
   },
@@ -166,18 +283,22 @@
     "end": "2016-12-22T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "xm5KyDCWBkSnJY0",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "199270"
       },
       {
         "site": "bilibili",
         "id": "6036",
-        "begin": "2016-06-23T16:00:01.000Z"
+        "begin": "2016-06-23T16:00:01.000Z",
+        "broadcast": "R/2017-03-29T07:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "33157"
+      },
+      {
+        "site": "aniList",
+        "id": "21786"
       }
     ]
   },
@@ -195,13 +316,24 @@
     "end": "2016-09-23T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "IBLibfORKuvhb2UE",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "185837"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/65942/season/0/episode/12"
+      },
+      {
+        "site": "mal",
+        "id": "33569"
+      },
+      {
+        "site": "aniList",
+        "id": "21891"
+      },
+      {
+        "site": "anidb",
+        "id": "12385"
       }
     ]
   },
@@ -219,13 +351,24 @@
     "end": "2017-07-24T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "eciakIorwYJ4Bfibc",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "162771"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/65844/season/0"
+      },
+      {
+        "site": "mal",
+        "id": "34626"
+      },
+      {
+        "site": "aniList",
+        "id": "97996"
+      },
+      {
+        "site": "anidb",
+        "id": "13317"
       }
     ]
   },
@@ -243,9 +386,26 @@
         "id": "211023"
       },
       {
-        "site": "nicovideo",
-        "id": "ippou-mukashibanashi",
-        "begin": "2017-07-16T15:00:00.000Z"
+        "site": "danime",
+        "id": "21023",
+        "begin": "2016-07-29T01:00:00.000Z",
+        "broadcast": "R/2016-07-29T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/287175"
+      },
+      {
+        "site": "mal",
+        "id": "33387"
+      },
+      {
+        "site": "anidb",
+        "id": "12152"
+      },
+      {
+        "site": "aniList",
+        "id": "126179"
       }
     ]
   },
@@ -267,9 +427,32 @@
         "id": "166348"
       },
       {
-        "site": "pptv",
-        "id": "HC0Hhe1TwwFk4ko",
-        "begin": ""
+        "site": "unext",
+        "id": "SID0097700",
+        "begin": "2024-01-26T03:00:00.000Z",
+        "broadcast": "R/2024-01-26T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26842",
+        "begin": "2023-12-31T15:00:00.000Z",
+        "broadcast": "R/2023-12-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/62327/season/0/episode/3"
+      },
+      {
+        "site": "mal",
+        "id": "32574"
+      },
+      {
+        "site": "anidb",
+        "id": "11889"
+      },
+      {
+        "site": "aniList",
+        "id": "21640"
       }
     ]
   },
@@ -294,7 +477,61 @@
       {
         "site": "bilibili",
         "id": "5405",
-        "begin": "2016-06-30T16:00:00.000Z"
+        "begin": "2016-06-30T16:00:00.000Z",
+        "broadcast": "R/2016-07-29T10:44:48.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/198074"
+      }
+    ]
+  },
+  {
+    "title": "機動戦士ガンダム サンダーボルト DECEMBER SKY",
+    "titleTranslate": {
+      "zh-Hans": [
+        "机动战士高达 雷霆宙域 DECEMBER SKY"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://gundam-tb.net/",
+    "begin": "2016-06-24T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2016-06-24T17:10:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "180172"
+      },
+      {
+        "site": "unext",
+        "id": "SID0025468",
+        "begin": "2016-06-24T23:00:00.000Z",
+        "broadcast": "R/2016-06-24T23:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "25428",
+        "begin": "2025-04-10T15:00:00.000Z",
+        "broadcast": "R/2025-04-10T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/404114"
+      },
+      {
+        "site": "mal",
+        "id": "33221"
+      },
+      {
+        "site": "anidb",
+        "id": "12098"
+      },
+      {
+        "site": "aniList",
+        "id": "21893"
       }
     ]
   }

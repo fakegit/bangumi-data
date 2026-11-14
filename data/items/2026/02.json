@@ -1,0 +1,671 @@
+[
+  {
+    "title": "名探偵プリキュア！",
+    "titleTranslate": {
+      "zh-Hans": [
+        "名侦探光之美少女！",
+        "探Q（侦探Q娃）"
+      ],
+      "en": [
+        "Star Detective Precure!"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://www.toei-anim.co.jp/tv/star-detective_precure/",
+    "begin": "2026-01-31T23:30:00.000Z",
+    "broadcast": "R/2026-01-31T23:30:00.000Z/P7D",
+    "end": "",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "611077"
+      },
+      {
+        "site": "unext",
+        "id": "SID0252765",
+        "begin": "2026-02-01T00:00:00.000Z",
+        "broadcast": "R/2026-02-01T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "detective_precure",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mal",
+        "id": "63042"
+      },
+      {
+        "site": "anidb",
+        "id": "19742"
+      },
+      {
+        "site": "aniList",
+        "id": "202957"
+      },
+      {
+        "site": "prime",
+        "id": "B0GD53WFYG",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/306721"
+      },
+      {
+        "site": "abema",
+        "id": "5-79",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "28457",
+        "begin": "2026-02-03T15:00:00.000Z",
+        "broadcast": "R/2026-02-03T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "3883"
+      },
+      {
+        "site": "acgnx",
+        "id": "光之"
+      },
+      {
+        "site": "anibt",
+        "id": "611077"
+      },
+      {
+        "site": "dmhy",
+        "id": "光之"
+      }
+    ]
+  },
+  {
+    "title": "天穂のサクナヒメ ココロワ稲作日誌",
+    "titleTranslate": {
+      "zh-Hans": [
+        "天穗之咲稻姬 心轮的稻作日记",
+        "天穗之咲稻姬 心轮的种稻日记"
+      ],
+      "zh-Hant": [
+        "天穗之咲稻姬 心環的稻作日記"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://sakuna-anime.com/",
+    "begin": "2026-02-14T16:00:00.000Z",
+    "broadcast": "R/2026-02-14T16:00:00.000Z/P7D",
+    "end": "2026-02-22T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "524128"
+      },
+      {
+        "site": "danime",
+        "id": "28678",
+        "begin": "2026-02-15T08:15:00.000Z",
+        "broadcast": "R/2026-02-15T08:15:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0264079",
+        "begin": "2026-02-15T08:15:00.000Z",
+        "broadcast": "R/2026-02-15T08:15:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "138263",
+        "begin": "2026-02-14T16:00:00.000Z",
+        "broadcast": "R/2026-02-14T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "138263",
+        "begin": "2026-02-14T16:00:00.000Z",
+        "broadcast": "R/2026-02-14T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one",
+        "id": "PLC18xlbCdwtTjJqpl5w61JX4qISyG5T73",
+        "begin": "2026-02-14T16:00:00.000Z",
+        "broadcast": "R/2026-02-14T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JjFLq3eULh4CEX2ieIZv085",
+        "begin": "2026-02-14T16:00:00.000Z",
+        "broadcast": "R/2026-02-14T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "19-200",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "mal",
+        "id": "60294"
+      },
+      {
+        "site": "aniList",
+        "id": "184280"
+      },
+      {
+        "site": "anidb",
+        "id": "18986"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/255492/season/0"
+      },
+      {
+        "site": "anibt",
+        "id": "524128"
+      }
+    ]
+  },
+  {
+    "title": "Duel Masters LOST ～忘却の太陽～",
+    "titleTranslate": {
+      "zh-Hans": [
+        "决斗大师 LOST ～忘却的太阳～"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://www.shopro.co.jp/anime/duelmasters_lost/",
+    "begin": "2026-02-05T16:00:00.000Z",
+    "broadcast": "R/2026-02-05T16:00:00.000Z/P7D",
+    "end": "2026-03-05T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "540453"
+      },
+      {
+        "site": "unext",
+        "id": "SID0251576",
+        "begin": "2026-02-10T03:00:00.000Z",
+        "broadcast": "R/2026-02-10T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "61119"
+      },
+      {
+        "site": "aniList",
+        "id": "187508"
+      },
+      {
+        "site": "danime",
+        "id": "28584",
+        "begin": "2026-02-10T03:00:00.000Z",
+        "broadcast": "R/2026-02-10T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "13-204",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "anidb",
+        "id": "19884"
+      },
+      {
+        "site": "anibt",
+        "id": "540453"
+      }
+    ]
+  },
+  {
+    "title": "刃牙道",
+    "titleTranslate": {
+      "zh-Hans": [
+        "刃牙道",
+        "刃牙道：无敌武士"
+      ],
+      "zh-Hant": [
+        "刃牙道：無敵武士"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://baki-anime.jp/",
+    "begin": "2026-02-25T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2026-02-25T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "487716"
+      },
+      {
+        "site": "netflix",
+        "id": "81922765",
+        "begin": "2026-02-25T16:00:00.000Z",
+        "broadcast": "R/2026-02-25T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "58573"
+      },
+      {
+        "site": "aniList",
+        "id": "176509"
+      },
+      {
+        "site": "anidb",
+        "id": "18579"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/300054"
+      },
+      {
+        "site": "acgnx",
+        "id": "刃牙道"
+      },
+      {
+        "site": "anibt",
+        "id": "487716"
+      },
+      {
+        "site": "dmhy",
+        "id": "刃牙道"
+      }
+    ]
+  },
+  {
+    "title": "ヤマトよ永遠に REBEL3199 第五章 白熱の銀河大戦",
+    "titleTranslate": {
+      "zh-Hans": [
+        "永远的大和号 REBEL3199 第五章 白热的银河大战"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://starblazers-yamato.net/index.html",
+    "begin": "2026-02-19T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2026-02-19T17:41:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "473415"
+      },
+      {
+        "site": "unext",
+        "id": "SID0301475",
+        "begin": "2026-05-25T15:00:00.000Z",
+        "broadcast": "R/2026-05-25T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "yamato-rebel3199",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1638697"
+      },
+      {
+        "site": "anibt",
+        "id": "473415"
+      }
+    ]
+  },
+  {
+    "title": "銀河特急 ミルキー☆サブウェイ 各駅停車劇場行き",
+    "titleTranslate": {
+      "zh-Hans": [
+        "银河特急 Milky✩Subway 各站停车前往剧场"
+      ],
+      "zh-Hant": [
+        "銀河特急 Milky☆Subway 開往戲院的列車"
+      ],
+      "en": [
+        "Milky☆Subway: The Galactic Limited Express – the Movie"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://milkygalacticuniverse.com/movie/",
+    "begin": "2026-02-05T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2026-02-05T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "586102"
+      },
+      {
+        "site": "netflix",
+        "id": "82703490",
+        "begin": "2026-05-30T16:00:00.000Z",
+        "broadcast": "R/2026-05-30T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "62518"
+      },
+      {
+        "site": "aniList",
+        "id": "204949"
+      },
+      {
+        "site": "anidb",
+        "id": "19807"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1598785"
+      },
+      {
+        "site": "anibt",
+        "id": "586102"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 転生したらスライムだった件 蒼海の涙編",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 关于我转生变成史莱姆这档事 苍海之泪篇"
+      ],
+      "zh-Hant": [
+        "劇場版 關於我轉生變成史萊姆這檔事 蒼海之淚篇",
+        "關於我轉生變成史萊姆這檔事劇場版：蒼海之淚篇"
+      ],
+      "en": [
+        "That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://movie02.ten-sura.com/",
+    "begin": "2026-02-26T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2026-02-26T17:44:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "515595"
+      },
+      {
+        "site": "unext",
+        "id": "SID0307489",
+        "begin": "2026-06-25T15:00:00.000Z",
+        "broadcast": "R/2026-06-25T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "143537",
+        "begin": "2026-06-30T16:00:00.000Z",
+        "broadcast": "R/2026-06-30T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "59971"
+      },
+      {
+        "site": "aniList",
+        "id": "182206"
+      },
+      {
+        "site": "anidb",
+        "id": "18885"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1363974"
+      },
+      {
+        "site": "mikan",
+        "id": "3973"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "143537",
+        "begin": "2026-07-21T16:00:00.000Z",
+        "broadcast": "R/2026-07-21T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "ten-sura_movie",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "anibt",
+        "id": "515595"
+      },
+      {
+        "site": "netflix",
+        "id": "83134736",
+        "begin": "2026-09-19T16:00:00.000Z",
+        "broadcast": "R/2026-09-19T16:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 僕の心のヤバイやつ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 我心里危险的东西"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://bokuyaba-anime-movie.com/",
+    "begin": "2026-02-12T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2026-02-12T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "515869"
+      },
+      {
+        "site": "mikan",
+        "id": "4051"
+      },
+      {
+        "site": "mal",
+        "id": "59985"
+      },
+      {
+        "site": "aniList",
+        "id": "182317"
+      },
+      {
+        "site": "anidb",
+        "id": "18890"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1363979"
+      },
+      {
+        "site": "anibt",
+        "id": "515869"
+      }
+    ]
+  },
+  {
+    "title": "映画ドラえもん 新・のび太の海底鬼岩城",
+    "titleTranslate": {
+      "zh-Hans": [
+        "哆啦A梦:新・大雄的海底鬼岩城"
+      ],
+      "en": [
+        "Doraemon Movie 45: Shin Nobita no Kaitei Kiganjou"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://doraeiga.com/2026/",
+    "begin": "2026-02-26T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2026-02-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "583519"
+      },
+      {
+        "site": "mal",
+        "id": "62508"
+      },
+      {
+        "site": "aniList",
+        "id": "198368"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1542261"
+      },
+      {
+        "site": "mikan",
+        "id": "4053"
+      },
+      {
+        "site": "anibt",
+        "id": "583519"
+      },
+      {
+        "site": "anidb",
+        "id": "19711"
+      }
+    ]
+  },
+  {
+    "title": "新劇場版 銀魂 -吉原大炎上-",
+    "titleTranslate": {
+      "zh-Hans": [
+        "新剧场版 银魂 -吉原大炎上-"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://wwws.warnerbros.co.jp/shingintamamovie/",
+    "begin": "2026-02-12T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2026-02-12T18:04:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "578766"
+      },
+      {
+        "site": "mikan",
+        "id": "4054"
+      },
+      {
+        "site": "mal",
+        "id": "62277"
+      },
+      {
+        "site": "aniList",
+        "id": "197474"
+      },
+      {
+        "site": "anidb",
+        "id": "19528"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/1530941"
+      },
+      {
+        "site": "anibt",
+        "id": "578766"
+      }
+    ]
+  },
+  {
+    "title": "時光代理人 -LINK CLICK- 英都篇",
+    "titleTranslate": {
+      "zh-Hans": [
+        "时光代理人 英都篇"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://link-click.jp/",
+    "begin": "2026-02-04T16:20:00.000Z",
+    "broadcast": "R/2026-02-04T16:20:00.000Z/P7D",
+    "end": "2026-03-25T16:20:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "456165"
+      },
+      {
+        "site": "unext",
+        "id": "SID0251575",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "nicovideo",
+        "id": "link-click3",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/123542/season/3"
+      },
+      {
+        "site": "mal",
+        "id": "56752"
+      },
+      {
+        "site": "anidb",
+        "id": "19078"
+      },
+      {
+        "site": "aniList",
+        "id": "170166"
+      },
+      {
+        "site": "danime",
+        "id": "28629",
+        "begin": "2026-02-04T16:50:00.000Z",
+        "broadcast": "R/2026-02-04T16:50:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0GKCDM9C3",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "crunchyroll",
+        "id": "GP5HJ8E81",
+        "begin": "2022-05-17T09:00:00.000Z",
+        "broadcast": "R/2022-05-17T09:00:00.000Z/P7D"
+      }
+    ]
+  }
+]

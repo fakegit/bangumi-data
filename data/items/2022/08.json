@@ -4,6 +4,12 @@
     "titleTranslate": {
       "zh-Hans": [
         "风都侦探"
+      ],
+      "zh-Hant": [
+        "風都偵探"
+      ],
+      "en": [
+        "FUUTO PI"
       ]
     },
     "type": "tv",
@@ -11,12 +17,92 @@
     "officialSite": "https://www.kamen-rider-official.com/fuuto/",
     "begin": "2022-08-08T13:00:00.000Z",
     "broadcast": "R/2022-08-08T13:00:00.000Z/P7D",
-    "end": "",
+    "end": "2022-10-24T13:30:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "332133"
+      },
+      {
+        "site": "gamer",
+        "id": "118966",
+        "begin": "2022-07-31T16:00:00.000Z",
+        "broadcast": "R/2022-07-31T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "muse_hk",
+        "id": "PLuxqoToY7UcicT-1ToKgzWzzS5BxjbQFi",
+        "begin": "2023-03-07T16:00:00.000Z",
+        "broadcast": "R/2023-03-07T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0069660",
+        "begin": "2022-07-31T15:00:00.000Z",
+        "broadcast": "R/2022-07-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "118966",
+        "begin": "2022-07-31T16:00:00.000Z",
+        "broadcast": "R/2022-07-31T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "dmhy",
+        "id": "風都偵探"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "62c125a72fc3ee0d0016bf34"
+      },
+      {
+        "site": "mikan",
+        "id": "2786"
+      },
+      {
+        "site": "danime",
+        "id": "27135",
+        "begin": "2024-06-30T15:00:00.000Z",
+        "broadcast": "R/2024-06-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "muse_tw",
+        "id": "PL12UaAf_xzfqngwlvkXxNdzW6V0w0Mkv9",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "prime",
+        "id": "B0B8NDF9F5",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "28403222",
+        "begin": "2025-08-02T03:00:00.000Z",
+        "broadcast": "R/2025-08-02T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/122369"
+      },
+      {
+        "site": "mal",
+        "id": "48649"
+      },
+      {
+        "site": "anidb",
+        "id": "16186"
+      },
+      {
+        "site": "aniList",
+        "id": "131912"
+      },
+      {
+        "site": "acgnx",
+        "id": "風都偵探"
       }
     ]
   },
@@ -25,6 +111,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "关于养猫我一直是新手"
+      ],
+      "zh-Hant": [
+        "今晚有貓伴身邊"
       ]
     },
     "type": "web",
@@ -32,12 +121,56 @@
     "officialSite": "https://yoruneko-pr.com/",
     "begin": "2022-08-03T11:00:00.000Z",
     "broadcast": "R/2022-08-03T11:00:00.000Z/P7D",
-    "end": "",
+    "end": "2022-09-28T11:03:00.000Z",
     "comment": "",
     "sites": [
       {
         "site": "bangumi",
         "id": "379456"
+      },
+      {
+        "site": "bilibili",
+        "id": "28338863",
+        "begin": "2022-09-21T17:00:01.000Z",
+        "broadcast": "R/2022-09-21T17:00:01.000Z/P7D"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28338797",
+        "begin": "2022-08-03T18:00:00.000Z",
+        "broadcast": "R/2022-08-03T18:00:00.000Z/P7D"
+      },
+      {
+        "site": "bangumi_moe",
+        "id": "62c125ae2fc3ee0d0016bf50"
+      },
+      {
+        "site": "mikan",
+        "id": "2796"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/199928"
+      },
+      {
+        "site": "mal",
+        "id": "51692"
+      },
+      {
+        "site": "anidb",
+        "id": "17336"
+      },
+      {
+        "site": "aniList",
+        "id": "148042"
+      },
+      {
+        "site": "acgnx",
+        "id": "今晚有貓"
+      },
+      {
+        "site": "dmhy",
+        "id": "今晚有貓"
       }
     ]
   },
@@ -49,8 +182,492 @@
     "officialSite": "https://www.konami.com/amusement/psm/slot/bombergirl/comic.html",
     "begin": "2022-08-22T02:15:00.000Z",
     "broadcast": "R/2022-08-22T02:15:00.000Z/P7D",
-    "end": "",
+    "end": "2022-09-07T01:02:00.000Z",
     "comment": "",
     "sites": []
+  },
+  {
+    "title": "賭ケグルイ双",
+    "titleTranslate": {
+      "zh-Hans": [
+        "狂赌之渊：双"
+      ],
+      "zh-Hant": [
+        "狂賭之淵：雙"
+      ],
+      "en": [
+        "KAKEGURUI TWIN"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://kakegurui-twin-anime.com/",
+    "begin": "2022-08-03T16:00:00.000Z",
+    "end": "2022-08-03T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "356658"
+      },
+      {
+        "site": "netflix",
+        "id": "81176966",
+        "begin": "2022-08-03T16:00:00.000Z",
+        "broadcast": "R/2022-08-03T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2797"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/138183"
+      },
+      {
+        "site": "mal",
+        "id": "50339"
+      },
+      {
+        "site": "anidb",
+        "id": "16967"
+      },
+      {
+        "site": "aniList",
+        "id": "141351"
+      },
+      {
+        "site": "acgnx",
+        "id": "狂賭之淵"
+      },
+      {
+        "site": "dmhy",
+        "id": "狂賭之淵"
+      }
+    ]
+  },
+  {
+    "title": "リラックマと遊園地",
+    "titleTranslate": {
+      "zh-Hans": [
+        "轻松小熊：主题乐园大冒险"
+      ],
+      "zh-Hant": [
+        "拉拉熊：主題樂園大冒險",
+        "輕鬆小熊：主題樂園大冒險"
+      ],
+      "en": [
+        "Rilakkuma's Theme Park Adventure"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://www.san-x.co.jp/rilakkuma/theme_park_adventure/",
+    "begin": "2022-08-24T16:00:00.000Z",
+    "end": "2022-08-24T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "317694"
+      },
+      {
+        "site": "netflix",
+        "id": "81341765",
+        "begin": "2022-08-24T16:00:00.000Z",
+        "broadcast": "R/2022-08-24T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/138273"
+      },
+      {
+        "site": "mal",
+        "id": "43694"
+      },
+      {
+        "site": "anidb",
+        "id": "15814"
+      },
+      {
+        "site": "aniList",
+        "id": "125440"
+      }
+    ]
+  },
+  {
+    "title": "TEKKEN BLOODLINE",
+    "titleTranslate": {
+      "zh-Hans": [
+        "铁拳：血脉"
+      ],
+      "zh-Hant": [
+        "鐵拳：血脈",
+        "鐵拳：血統"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2022-08-24T16:00:00.000Z",
+    "end": "2022-08-24T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "375216"
+      },
+      {
+        "site": "netflix",
+        "id": "81002441",
+        "begin": "2022-08-17T16:00:00.000Z",
+        "broadcast": "R/2022-08-17T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/195530"
+      },
+      {
+        "site": "mal",
+        "id": "51347"
+      },
+      {
+        "site": "anidb",
+        "id": "17578"
+      },
+      {
+        "site": "aniList",
+        "id": "153906"
+      }
+    ]
+  },
+  {
+    "title": "D4DJ Double Mix",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "https://d4dj-pj.com/",
+    "begin": "2022-08-19T14:00:00.000Z",
+    "broadcast": "R/2023-08-19T14:00:00.000Z/P0D",
+    "end": "2022-08-19T14:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "374228"
+      },
+      {
+        "site": "ani_one_asia",
+        "id": "PLxSscENEp7JgktevgxFe5yuP-CWHB5IO6",
+        "begin": "2023-03-10T16:00:00.000Z",
+        "broadcast": "R/2023-03-10T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "129504",
+        "begin": "2023-01-06T15:30:00.000Z",
+        "broadcast": "R/2023-01-06T15:30:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0072510",
+        "begin": "2022-08-19T14:00:00.000Z",
+        "broadcast": "R/2022-08-19T14:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2803"
+      },
+      {
+        "site": "danime",
+        "id": "25765",
+        "begin": "2022-08-19T14:00:00.000Z",
+        "broadcast": "R/2022-08-19T14:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer_hk",
+        "id": "129504",
+        "begin": "2023-01-06T15:30:00.000Z",
+        "broadcast": "R/2023-01-06T15:30:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/972231"
+      },
+      {
+        "site": "mal",
+        "id": "51251"
+      },
+      {
+        "site": "anidb",
+        "id": "17255"
+      },
+      {
+        "site": "aniList",
+        "id": "146321"
+      }
+    ]
+  },
+  {
+    "title": "世界の終わりに柴犬と",
+    "titleTranslate": {
+      "zh-Hans": [
+        "世界末日柴犬为伴"
+      ],
+      "zh-Hant": [
+        "世界末日柴犬為伴"
+      ]
+    },
+    "type": "web",
+    "lang": "ja",
+    "officialSite": "https://www.youtube.com/@sekashibachannel",
+    "begin": "2022-08-01T16:00:00.000Z",
+    "broadcast": "R/2022-08-01T16:00:00.000Z/P1D",
+    "end": "2023-02-04T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "386628"
+      },
+      {
+        "site": "bilibili",
+        "id": "28338646",
+        "begin": "2022-08-30T10:00:01.000Z",
+        "broadcast": "R/2022-08-30T10:00:01.000Z/P7D"
+      },
+      {
+        "site": "bilibili_hk_mo_tw",
+        "id": "28338741",
+        "begin": "2022-08-02T10:00:00.000Z",
+        "broadcast": "R/2022-08-02T10:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "sekashiba_anime",
+        "begin": "2023-10-27T10:00:00.000Z",
+        "broadcast": "R/2023-10-27T10:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2799"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/205343"
+      },
+      {
+        "site": "mal",
+        "id": "52020"
+      },
+      {
+        "site": "anidb",
+        "id": "17443"
+      },
+      {
+        "site": "aniList",
+        "id": "150575"
+      }
+    ]
+  },
+  {
+    "title": "ONE PIECE FILM RED",
+    "titleTranslate": {
+      "zh-Hans": [
+        "海贼王 红发歌姬",
+        "航海王：红发歌姬"
+      ],
+      "zh-Hant": [
+        "航海王劇場版：紅髮歌姬"
+      ],
+      "en": [
+        "One Piece Film: Red"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.onepiece-film.jp/",
+    "begin": "2022-08-05T16:00:00.000Z",
+    "end": "2022-08-05T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "358803"
+      },
+      {
+        "site": "netflix",
+        "id": "81700392",
+        "begin": "2023-12-14T00:00:00.000Z",
+        "broadcast": "R/2023-12-14T00:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0099619",
+        "begin": "2024-03-07T15:00:00.000Z",
+        "broadcast": "R/2024-03-07T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "bilibili",
+        "id": "28368476",
+        "begin": "2023-05-31T08:00:00.000Z",
+        "broadcast": "R/2023-05-31T08:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2955"
+      },
+      {
+        "site": "prime",
+        "id": "B0B66J8GVM",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/900667"
+      },
+      {
+        "site": "mal",
+        "id": "50410"
+      },
+      {
+        "site": "anidb",
+        "id": "16983"
+      },
+      {
+        "site": "aniList",
+        "id": "141902"
+      }
+    ]
+  },
+  {
+    "title": "劇場版 Gのレコンギスタ Ⅴ 死線を越えて",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 高达G之复国运动 Ⅴ 越过死线"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://g-reco.net/",
+    "begin": "2022-08-04T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2022-08-04T17:35:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "286127"
+      },
+      {
+        "site": "unext",
+        "id": "SID0076422",
+        "begin": "2022-12-22T15:00:00.000Z",
+        "broadcast": "R/2022-12-22T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "g-reco-movie5",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/994319"
+      },
+      {
+        "site": "danime",
+        "id": "26438",
+        "begin": "2025-12-19T15:00:00.000Z",
+        "broadcast": "R/2025-12-19T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "劇場版ツルネ －はじまりの一射－",
+    "titleTranslate": {
+      "zh-Hans": [
+        "剧场版 弦音 -起始的一箭-",
+        "剧场版 弦音 -最初的一射-",
+        "剧场版 弦音 -开始的一射-"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://tsurune.com/movie/",
+    "begin": "2022-08-18T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2022-08-18T17:42:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "317376"
+      },
+      {
+        "site": "unext",
+        "id": "SID0078089",
+        "begin": "2023-01-18T03:00:00.000Z",
+        "broadcast": "R/2023-01-18T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "mikan",
+        "id": "2937"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/756234"
+      },
+      {
+        "site": "mal",
+        "id": "43556"
+      },
+      {
+        "site": "anidb",
+        "id": "15801"
+      },
+      {
+        "site": "aniList",
+        "id": "125261"
+      }
+    ]
+  },
+  {
+    "title": "がんばれ！長州くん",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2022-08-01T01:15:00.000Z",
+    "broadcast": "",
+    "end": "2022-12-08T01:15:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "unext",
+        "id": "SID0076025",
+        "begin": "2022-12-22T15:00:00.000Z",
+        "broadcast": "R/2022-12-22T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "25797",
+        "begin": "2022-09-15T15:00:00.000Z",
+        "broadcast": "R/2022-09-15T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "mal",
+        "id": "52815"
+      },
+      {
+        "site": "anidb",
+        "id": "17537"
+      },
+      {
+        "site": "aniList",
+        "id": "187517"
+      }
+    ]
   }
 ]

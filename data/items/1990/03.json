@@ -4,6 +4,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "魔神英雄传2"
+      ],
+      "zh-Hant": [
+        "魔神英雄傳 2"
       ]
     },
     "type": "tv",
@@ -12,11 +15,6 @@
     "begin": "1990-03-09T16:00:00.000Z",
     "end": "1991-03-08T16:30:00.000Z",
     "sites": [
-      {
-        "site": "pptv",
-        "id": "XOvWVLwiaktAzsRk",
-        "begin": ""
-      },
       {
         "site": "bangumi",
         "id": "1973"
@@ -30,6 +28,28 @@
         "site": "iqiyi",
         "id": "a_19rrgyamz9",
         "begin": "2018-05-16T08:31:01.000Z"
+      },
+      {
+        "site": "danime",
+        "id": "11522",
+        "begin": "2024-12-25T15:00:00.000Z",
+        "broadcast": "R/2024-12-25T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/19612/season/2"
+      },
+      {
+        "site": "mal",
+        "id": "4807"
+      },
+      {
+        "site": "anidb",
+        "id": "3637"
+      },
+      {
+        "site": "aniList",
+        "id": "4807"
       }
     ]
   },
@@ -59,6 +79,28 @@
         "site": "iqiyi",
         "id": "a_19rrhb4015",
         "begin": "2016-02-04T10:34:13.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0010763",
+        "begin": "2018-07-27T03:00:00.000Z",
+        "broadcast": "R/2018-07-27T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/39100"
+      },
+      {
+        "site": "mal",
+        "id": "895"
+      },
+      {
+        "site": "anidb",
+        "id": "1044"
+      },
+      {
+        "site": "aniList",
+        "id": "895"
       }
     ]
   },
@@ -67,6 +109,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "哆啦A梦：大雄与动物行星"
+      ],
+      "zh-Hant": [
+        "電影 哆啦A夢 大雄與惑星之迷"
       ]
     },
     "type": "movie",
@@ -75,11 +120,6 @@
     "begin": "1990-03-10T16:00:00.000Z",
     "end": "1990-03-10T17:30:00.000Z",
     "sites": [
-      {
-        "site": "letv",
-        "id": "80869",
-        "begin": ""
-      },
       {
         "site": "bangumi",
         "id": "449"
@@ -92,7 +132,274 @@
       {
         "site": "bilibili",
         "id": "2558",
-        "begin": "1990-03-09T16:00:00.000Z"
+        "begin": "1990-03-09T16:00:00.000Z",
+        "broadcast": "R/2015-02-27T07:08:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "35-100",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0099855",
+        "begin": "2024-03-05T03:00:00.000Z",
+        "broadcast": "R/2024-03-05T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "32675",
+        "begin": "2023-03-16T02:00:00.000Z",
+        "broadcast": "R/2023-03-16T02:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/161707"
+      },
+      {
+        "site": "mal",
+        "id": "2677"
+      },
+      {
+        "site": "aniList",
+        "id": "2677"
+      },
+      {
+        "site": "anidb",
+        "id": "4673"
+      }
+    ]
+  },
+  {
+    "title": "雲のように風のように",
+    "titleTranslate": {
+      "zh-Hans": [
+        "如风如云",
+        "如风似云",
+        "像云，像风"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1990-03-20T16:00:00.000Z",
+    "end": "1990-03-20T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "25425"
+      },
+      {
+        "site": "bilibili",
+        "id": "5949",
+        "begin": "2017-03-20T03:04:00.000Z",
+        "broadcast": "R/2017-03-20T03:04:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/35589"
+      },
+      {
+        "site": "mal",
+        "id": "1032"
+      },
+      {
+        "site": "anidb",
+        "id": "502"
+      },
+      {
+        "site": "aniList",
+        "id": "1032"
+      }
+    ]
+  },
+  {
+    "title": "CAROL",
+    "titleTranslate": {
+      "zh-Hans": [
+        "卡罗尔"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1990-03-20T16:00:00.000Z",
+    "end": "1990-03-20T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "38312"
+      },
+      {
+        "site": "bilibili",
+        "id": "3279",
+        "begin": "2016-01-09T03:54:00.000Z",
+        "broadcast": "R/2016-01-09T03:54:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/166787"
+      },
+      {
+        "site": "mal",
+        "id": "2054"
+      },
+      {
+        "site": "anidb",
+        "id": "4001"
+      },
+      {
+        "site": "aniList",
+        "id": "2054"
+      }
+    ]
+  },
+  {
+    "title": "魔法使いサリー 劇場版",
+    "titleTranslate": {
+      "zh-Hans": [
+        "魔法使莎莉 剧场版"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1990-03-09T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1990-03-09T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "403045"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003374",
+        "begin": "2020-01-19T03:00:00.000Z",
+        "broadcast": "R/2020-01-19T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/589462"
+      },
+      {
+        "site": "danime",
+        "id": "24938",
+        "begin": "2025-12-21T15:00:00.000Z",
+        "broadcast": "R/2025-12-21T15:00:00.000Z/P7D"
+      }
+    ]
+  },
+  {
+    "title": "悪魔くん ようこそ悪魔ランドへ！！",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://lineup.toei-anim.co.jp/ja/movie/movie_akuma_akumaland",
+    "begin": "1990-03-09T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1990-03-09T16:26:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "414961"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002432",
+        "begin": "2020-01-11T03:00:00.000Z",
+        "broadcast": "R/2020-01-11T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "24915",
+        "begin": "2021-07-30T01:00:00.000Z",
+        "broadcast": "R/2021-07-30T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/778521"
+      },
+      {
+        "site": "mal",
+        "id": "8227"
+      },
+      {
+        "site": "anidb",
+        "id": "2051"
+      },
+      {
+        "site": "aniList",
+        "id": "8227"
+      }
+    ]
+  },
+  {
+    "title": "チンプイ エリさま活動大写真",
+    "titleTranslate": {
+      "zh-Hans": [
+        "大耳鼠 惠理大人的活动写真"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1990-03-09T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1990-03-09T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "89691"
+      },
+      {
+        "site": "mal",
+        "id": "10040"
+      },
+      {
+        "site": "anidb",
+        "id": "5228"
+      },
+      {
+        "site": "aniList",
+        "id": "10040"
+      }
+    ]
+  },
+  {
+    "title": "MAROKO 麿子",
+    "titleTranslate": {
+      "zh-Hans": [
+        "祖先大人万万岁 剧场版"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1990-03-18T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1990-03-18T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "54903"
+      },
+      {
+        "site": "mal",
+        "id": "4640"
+      },
+      {
+        "site": "anidb",
+        "id": "1866"
+      },
+      {
+        "site": "aniList",
+        "id": "4640"
       }
     ]
   }

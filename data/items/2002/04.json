@@ -13,11 +13,6 @@
     "end": "2003-03-29T16:15:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "Iwz3dd1DsicFU0jo",
-        "begin": ""
-      },
-      {
         "site": "qq",
         "id": "b/bkwnwgi75yqk7zs",
         "begin": ""
@@ -29,7 +24,24 @@
       {
         "site": "bilibili",
         "id": "2042",
-        "begin": "2002-04-05T16:00:00.000Z"
+        "begin": "2002-04-05T16:00:00.000Z",
+        "broadcast": "R/2011-04-08T19:33:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/42565"
+      },
+      {
+        "site": "mal",
+        "id": "200"
+      },
+      {
+        "site": "anidb",
+        "id": "75"
+      },
+      {
+        "site": "aniList",
+        "id": "200"
       }
     ]
   },
@@ -37,6 +49,10 @@
     "title": "わがまま☆フェアリー ミルモでポン！",
     "titleTranslate": {
       "zh-Hans": [
+        "魔法咪路咪路",
+        "魔法小米路"
+      ],
+      "zh-Hant": [
         "魔法咪路咪路"
       ]
     },
@@ -49,6 +65,28 @@
       {
         "site": "bangumi",
         "id": "23443"
+      },
+      {
+        "site": "unext",
+        "id": "SID0032912",
+        "begin": "2024-01-17T03:00:00.000Z",
+        "broadcast": "R/2024-01-17T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/5719"
+      },
+      {
+        "site": "mal",
+        "id": "1744"
+      },
+      {
+        "site": "anidb",
+        "id": "1063"
+      },
+      {
+        "site": "aniList",
+        "id": "1744"
       }
     ]
   },
@@ -56,7 +94,10 @@
     "title": "東京ミュウミュウ",
     "titleTranslate": {
       "zh-Hans": [
-        "东京猫猫"
+        "东京猫猫",
+        "东京喵喵",
+        "东京Mew Mew",
+        "猫猫战队"
       ]
     },
     "type": "tv",
@@ -66,18 +107,42 @@
     "end": "2003-03-28T23:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "v6SQDnbcTIrta9M",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "19615"
       },
       {
         "site": "bilibili",
         "id": "2040",
-        "begin": "2002-04-05T16:00:00.000Z"
+        "begin": "2002-04-05T16:00:00.000Z",
+        "broadcast": "R/2014-03-29T15:02:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0044608",
+        "begin": "2019-11-30T03:00:00.000Z",
+        "broadcast": "R/2019-11-30T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23122",
+        "begin": "2019-11-30T01:00:00.000Z",
+        "broadcast": "R/2019-11-30T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/46345"
+      },
+      {
+        "site": "mal",
+        "id": "687"
+      },
+      {
+        "site": "anidb",
+        "id": "161"
+      },
+      {
+        "site": "aniList",
+        "id": "687"
       }
     ]
   },
@@ -85,7 +150,10 @@
     "title": "電光超特急ヒカリアン",
     "titleTranslate": {
       "zh-Hans": [
-        "铁胆火车侠2"
+        "铁胆火车侠2",
+        "电光铁胆火车侠",
+        "电光快车侠2",
+        "鐵膽火車俠2"
       ]
     },
     "type": "tv",
@@ -101,7 +169,24 @@
       {
         "site": "bilibili",
         "id": "2032",
-        "begin": "2002-04-06T16:00:00.000Z"
+        "begin": "2002-04-06T16:00:00.000Z",
+        "broadcast": "R/2014-07-16T11:28:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/100581"
+      },
+      {
+        "site": "mal",
+        "id": "8956"
+      },
+      {
+        "site": "anidb",
+        "id": "4064"
+      },
+      {
+        "site": "aniList",
+        "id": "8956"
       }
     ]
   },
@@ -109,7 +194,9 @@
     "title": "あずまんが大王",
     "titleTranslate": {
       "zh-Hans": [
-        "阿滋漫画大王"
+        "阿滋漫画大王",
+        "笑园漫画大王",
+        "阿兹漫画大王"
       ]
     },
     "type": "tv",
@@ -126,6 +213,52 @@
         "site": "youku",
         "id": "cc003cd4962411de83b1",
         "begin": "2012-06-21T19:43:05.000Z"
+      },
+      {
+        "site": "nicovideo",
+        "id": "azumangadaio",
+        "begin": "2022-10-07T15:00:00.000Z",
+        "broadcast": "R/2022-10-07T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0013731",
+        "begin": "2022-10-23T03:00:00.000Z",
+        "broadcast": "R/2022-10-23T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10405",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0B6S51LZ2",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/12143"
+      },
+      {
+        "site": "mal",
+        "id": "66"
+      },
+      {
+        "site": "anidb",
+        "id": "106"
+      },
+      {
+        "site": "aniList",
+        "id": "66"
+      },
+      {
+        "site": "abema",
+        "id": "19-8xttichcgpg",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -134,6 +267,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "我们这一家"
+      ],
+      "zh-Hant": [
+        "我們這一家"
       ]
     },
     "type": "tv",
@@ -157,9 +293,57 @@
         "begin": ""
       },
       {
-        "site": "pptv",
-        "id": "6qESkPhezgxv7VU",
-        "begin": ""
+        "site": "bilibili",
+        "id": "2038",
+        "begin": "2014-05-30T16:21:00.000Z",
+        "broadcast": "R/2014-05-30T16:21:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "35-34",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0030083",
+        "begin": "2017-07-27T03:00:00.000Z",
+        "broadcast": "R/2017-07-27T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "11092",
+        "begin": "2014-01-10T01:00:00.000Z",
+        "broadcast": "R/2014-01-10T01:00:00.000Z/P7D",
+        "comment": "第27-52話: 20404, 第53-78話: 22463, 第79-104話: 27469, 第105-130話: 27470, 第131-156話: 27471, 第157-182話: 27472, 第183-208話: 27473, 第209-234話: 27474, 第235-260話: 27475, 第261-286話: 27476, 第287-312話: 27477, 第313-331話: 27478"
+      },
+      {
+        "site": "muse_tw",
+        "id": "PL12UaAf_xzfosvQXXDEQLM5CGi3SNSPDO",
+        "begin": "2021-06-21T12:30:10.000Z",
+        "broadcast": "R/2021-06-21T12:30:10.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/9537"
+      },
+      {
+        "site": "mal",
+        "id": "3006"
+      },
+      {
+        "site": "anidb",
+        "id": "325"
+      },
+      {
+        "site": "aniList",
+        "id": "3006"
+      },
+      {
+        "site": "gamer",
+        "id": "308",
+        "begin": "",
+        "broadcast": ""
       }
     ]
   },
@@ -168,7 +352,11 @@
     "titleTranslate": {
       "zh-Hans": [
         "数码暴龙04无限地带",
-        "数码宝贝04 无限地带"
+        "数码宝贝04 无限地带",
+        "数码宝贝无限地带",
+        "数码兽前线地带",
+        "数码兽边缘地带",
+        "数码宝贝04最前线"
       ]
     },
     "type": "tv",
@@ -185,6 +373,34 @@
       {
         "site": "bangumi",
         "id": "3131"
+      },
+      {
+        "site": "unext",
+        "id": "SID0015780",
+        "begin": "2020-06-27T03:00:00.000Z",
+        "broadcast": "R/2020-06-27T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "24401",
+        "begin": "2021-01-29T01:00:00.000Z",
+        "broadcast": "R/2021-01-29T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/8991"
+      },
+      {
+        "site": "mal",
+        "id": "1132"
+      },
+      {
+        "site": "anidb",
+        "id": "464"
+      },
+      {
+        "site": "aniList",
+        "id": "1132"
       }
     ]
   },
@@ -192,7 +408,8 @@
     "title": "満月をさがして",
     "titleTranslate": {
       "zh-Hans": [
-        "寻找满月"
+        "寻找满月",
+        "星河满月"
       ]
     },
     "type": "tv",
@@ -202,23 +419,36 @@
     "end": "2003-03-28T23:00:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "HTkEgupQwP5h30c",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "10406"
       },
       {
-        "site": "letv",
-        "id": "41889",
-        "begin": ""
+        "site": "unext",
+        "id": "SID0027070",
+        "begin": "2020-01-31T03:00:00.000Z",
+        "broadcast": "R/2020-01-31T03:00:00.000Z/P7D"
       },
       {
-        "site": "bilibili",
-        "id": "2021",
-        "begin": "2002-04-05T16:00:00.000Z"
+        "site": "danime",
+        "id": "20915",
+        "begin": "2016-04-28T01:00:00.000Z",
+        "broadcast": "R/2016-04-28T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/21918"
+      },
+      {
+        "site": "mal",
+        "id": "122"
+      },
+      {
+        "site": "anidb",
+        "id": "21"
+      },
+      {
+        "site": "aniList",
+        "id": "122"
       }
     ]
   },
@@ -236,11 +466,6 @@
     "end": "2002-09-25T01:00:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "PW5a2ECmFlS3NZ0",
-        "begin": ""
-      },
-      {
         "site": "qq",
         "id": "u/us1x4gwz0ud1ih0",
         "begin": ""
@@ -252,12 +477,36 @@
       {
         "site": "nicovideo",
         "id": "aiyoriaoshi_",
-        "begin": "2012-08-29T15:00:00.000Z"
+        "begin": "2012-08-29T15:00:00.000Z",
+        "broadcast": "R/2012-08-29T15:00:00.000Z/P7D"
       },
       {
-        "site": "bilibili",
-        "id": "2018",
-        "begin": "2002-04-09T16:00:00.000Z"
+        "site": "unext",
+        "id": "SID0002136",
+        "begin": "2018-04-13T03:00:00.000Z",
+        "broadcast": "R/2018-04-13T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23278",
+        "begin": "2020-03-13T01:00:00.000Z",
+        "broadcast": "R/2020-03-13T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/42567"
+      },
+      {
+        "site": "mal",
+        "id": "53"
+      },
+      {
+        "site": "anidb",
+        "id": "74"
+      },
+      {
+        "site": "aniList",
+        "id": "53"
       }
     ]
   },
@@ -265,7 +514,8 @@
     "title": ".hack//SIGN",
     "titleTranslate": {
       "zh-Hans": [
-        ".hack//时空"
+        ".hack//时空",
+        "骇客时空"
       ]
     },
     "type": "tv",
@@ -275,11 +525,6 @@
     "end": "2002-09-25T13:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "hsmzMZnicb60QjvY",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "1997"
       },
@@ -287,6 +532,46 @@
         "site": "qq",
         "id": "x/xf7fiqqipab0lt0",
         "begin": ""
+      },
+      {
+        "site": "bilibili",
+        "id": "2036",
+        "begin": "2017-03-19T06:40:00.000Z",
+        "broadcast": "R/2017-03-19T06:40:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0015948",
+        "begin": "2022-12-01T03:00:00.000Z",
+        "broadcast": "R/2022-12-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "nicovideo",
+        "id": "hack-sign",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "25928",
+        "begin": "2022-11-30T15:00:00.000Z",
+        "broadcast": "R/2022-11-30T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/8864"
+      },
+      {
+        "site": "mal",
+        "id": "48"
+      },
+      {
+        "site": "anidb",
+        "id": "24"
+      },
+      {
+        "site": "aniList",
+        "id": "48"
       }
     ]
   },
@@ -306,6 +591,22 @@
       {
         "site": "bangumi",
         "id": "38951"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/34684"
+      },
+      {
+        "site": "mal",
+        "id": "197"
+      },
+      {
+        "site": "anidb",
+        "id": "19"
+      },
+      {
+        "site": "aniList",
+        "id": "197"
       }
     ]
   },
@@ -329,7 +630,30 @@
       {
         "site": "bilibili",
         "id": "2075",
-        "begin": "2002-04-06T16:00:00.000Z"
+        "begin": "2002-04-06T16:00:00.000Z",
+        "broadcast": "R/2011-06-04T11:28:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "26882",
+        "begin": "2024-01-31T15:00:00.000Z",
+        "broadcast": "R/2024-01-31T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/27952"
+      },
+      {
+        "site": "mal",
+        "id": "162"
+      },
+      {
+        "site": "anidb",
+        "id": "323"
+      },
+      {
+        "site": "aniList",
+        "id": "162"
       }
     ]
   },
@@ -351,18 +675,8 @@
     "end": "2002-09-24T19:00:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "qo149l7ENHLVU7s",
-        "begin": ""
-      },
-      {
         "site": "qq",
         "id": "q/q8djn5p1r06jvbn",
-        "begin": ""
-      },
-      {
-        "site": "letv",
-        "id": "38691",
         "begin": ""
       },
       {
@@ -372,12 +686,41 @@
       {
         "site": "bilibili",
         "id": "2061",
-        "begin": "2002-04-01T16:00:00.000Z"
+        "begin": "2002-04-01T16:00:00.000Z",
+        "broadcast": "R/2011-06-22T20:44:00.000Z/P7D"
       },
       {
         "site": "iqiyi",
         "id": "a_19rrhuee75",
         "begin": "2019-01-25T03:14:50.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0004810",
+        "begin": "2022-05-30T03:00:00.000Z",
+        "broadcast": "R/2022-05-30T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23639",
+        "begin": "2022-12-16T01:00:00.000Z",
+        "broadcast": "R/2022-12-16T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/37527"
+      },
+      {
+        "site": "mal",
+        "id": "59"
+      },
+      {
+        "site": "anidb",
+        "id": "12"
+      },
+      {
+        "site": "aniList",
+        "id": "59"
       }
     ]
   },
@@ -398,11 +741,6 @@
     "end": "2003-08-30T10:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "ooRicicWXLO3ncWsI",
-        "begin": ""
-      },
-      {
         "site": "iqiyi",
         "id": "a_19rrhc0299",
         "begin": "2014-11-03T10:06:18.000Z"
@@ -419,12 +757,8 @@
       {
         "site": "bilibili",
         "id": "2069",
-        "begin": "2002-04-08T16:00:00.000Z"
-      },
-      {
-        "site": "letv",
-        "id": "44845",
-        "begin": ""
+        "begin": "2002-04-08T16:00:00.000Z",
+        "broadcast": "R/2010-12-31T16:03:00.000Z/P7D"
       },
       {
         "site": "youku",
@@ -432,10 +766,32 @@
         "begin": "2020-02-11T06:38:57.000Z"
       },
       {
-        "site": "muse_hk",
-        "id": "PLuxqoToY7UciotMkNyzHcSp1EJtPF1dY1",
-        "begin": "2022-01-27T16:00:00.000Z",
-        "broadcast": "R/2022-01-27T16:00:00.000Z/P7D"
+        "site": "unext",
+        "id": "SID0002220",
+        "begin": "2023-04-17T03:00:00.000Z",
+        "broadcast": "R/2023-04-17T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "11296",
+        "begin": "2015-10-01T02:00:00.000Z",
+        "broadcast": "R/2015-10-01T02:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/42729"
+      },
+      {
+        "site": "mal",
+        "id": "153"
+      },
+      {
+        "site": "anidb",
+        "id": "26"
+      },
+      {
+        "site": "aniList",
+        "id": "153"
       }
     ]
   },
@@ -459,7 +815,36 @@
       {
         "site": "bilibili",
         "id": "2035",
-        "begin": "2002-04-01T16:00:00.000Z"
+        "begin": "2002-04-01T16:00:00.000Z",
+        "broadcast": "R/2012-05-04T03:39:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/34834"
+      },
+      {
+        "site": "mal",
+        "id": "175"
+      },
+      {
+        "site": "anidb",
+        "id": "20"
+      },
+      {
+        "site": "aniList",
+        "id": "175"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003325",
+        "begin": "2026-04-27T15:00:00.000Z",
+        "broadcast": "R/2026-04-27T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10464",
+        "begin": "2026-04-27T15:00:00.000Z",
+        "broadcast": "R/2026-04-27T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -468,6 +853,9 @@
     "titleTranslate": {
       "zh-Hans": [
         "蜡笔小新 呼风唤雨！战国大合战"
+      ],
+      "zh-Hant": [
+        "蠟筆小新：風起雲湧！壯烈！戰國大會戰"
       ]
     },
     "type": "movie",
@@ -493,12 +881,53 @@
       {
         "site": "bilibili",
         "id": "39112",
-        "begin": "2002-04-19T16:00:01.000Z"
+        "begin": "2002-04-19T16:00:01.000Z",
+        "broadcast": "R/2018-01-03T16:00:00.000Z/P7D"
       },
       {
         "site": "youku",
         "id": "f072c2ac61ad11e0bea1",
         "begin": "2012-11-27T09:56:17.000Z"
+      },
+      {
+        "site": "abema",
+        "id": "35-68",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0010790",
+        "begin": "2024-03-06T03:00:00.000Z",
+        "broadcast": "R/2024-03-06T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "gamer",
+        "id": "19760",
+        "begin": "2023-12-07T04:55:00.000Z",
+        "broadcast": "R/2023-12-07T04:55:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/117084"
+      },
+      {
+        "site": "mal",
+        "id": "3744"
+      },
+      {
+        "site": "anidb",
+        "id": "3316"
+      },
+      {
+        "site": "aniList",
+        "id": "3744"
+      },
+      {
+        "site": "danime",
+        "id": "28945",
+        "begin": "2026-06-30T15:00:00.000Z",
+        "broadcast": "R/2026-06-30T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -507,6 +936,13 @@
     "titleTranslate": {
       "zh-Hans": [
         "名侦探柯南 贝克街的亡灵"
+      ],
+      "zh-Hant": [
+        "名偵探柯南：貝克街的亡靈"
+      ],
+      "en": [
+        "Detective Conan: The Phantom of Baker Street",
+        "Detective Conan the Movie: The Phantom of Baker Street"
       ]
     },
     "type": "movie",
@@ -525,11 +961,6 @@
         "id": "2972"
       },
       {
-        "site": "pptv",
-        "id": "NQHradE3pibVIxia4",
-        "begin": ""
-      },
-      {
         "site": "qq",
         "id": "b/bu8qr3h1vbia2kd",
         "begin": ""
@@ -542,7 +973,36 @@
       {
         "site": "bilibili",
         "id": "28228946",
-        "begin": "2020-05-21T16:00:00.000Z"
+        "begin": "2020-05-21T16:00:00.000Z",
+        "broadcast": ""
+      },
+      {
+        "site": "prime",
+        "id": "B06Y233HJF",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "netflix",
+        "id": "70129025",
+        "begin": "2025-04-30T16:00:00.000Z",
+        "broadcast": "R/2025-04-30T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/26662"
+      },
+      {
+        "site": "mal",
+        "id": "1365"
+      },
+      {
+        "site": "anidb",
+        "id": "867"
+      },
+      {
+        "site": "aniList",
+        "id": "1365"
       }
     ]
   },
@@ -562,6 +1022,22 @@
       {
         "site": "bangumi",
         "id": "161688"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/34860"
+      },
+      {
+        "site": "mal",
+        "id": "1199"
+      },
+      {
+        "site": "anidb",
+        "id": "3626"
+      },
+      {
+        "site": "aniList",
+        "id": "1199"
       }
     ]
   },
@@ -579,13 +1055,36 @@
     "end": "2002-05-24T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "jb6KCHDWRoTnZc0",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "14653"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002792",
+        "begin": "2022-10-29T03:00:00.000Z",
+        "broadcast": "R/2022-10-29T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10117",
+        "begin": "2013-05-02T01:00:00.000Z",
+        "broadcast": "R/2013-05-02T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/12427"
+      },
+      {
+        "site": "mal",
+        "id": "260"
+      },
+      {
+        "site": "anidb",
+        "id": "33"
+      },
+      {
+        "site": "aniList",
+        "id": "260"
       }
     ]
   },
@@ -603,13 +1102,36 @@
     "end": "2002-09-25T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "qibXfXcUrm9k8uiaI",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "56626"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002732",
+        "begin": "2019-08-12T03:00:00.000Z",
+        "broadcast": "R/2019-08-12T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "11533",
+        "begin": "2014-11-14T01:00:00.000Z",
+        "broadcast": "R/2014-11-14T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/42881"
+      },
+      {
+        "site": "mal",
+        "id": "1133"
+      },
+      {
+        "site": "anidb",
+        "id": "358"
+      },
+      {
+        "site": "aniList",
+        "id": "1133"
       }
     ]
   },
@@ -627,18 +1149,36 @@
     "end": "2002-06-27T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "8VsmpAxy4iaCDAWk",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "6937"
       },
       {
         "site": "bilibili",
         "id": "2043",
-        "begin": "2002-04-03T16:00:00.000Z"
+        "begin": "2002-04-03T16:00:00.000Z",
+        "broadcast": "R/2014-03-06T10:10:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10255",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/12144"
+      },
+      {
+        "site": "mal",
+        "id": "306"
+      },
+      {
+        "site": "anidb",
+        "id": "70"
+      },
+      {
+        "site": "aniList",
+        "id": "306"
       }
     ]
   },
@@ -660,9 +1200,26 @@
         "id": "19040"
       },
       {
-        "site": "pptv",
-        "id": "mNKuLJT6aqgLiafE",
-        "begin": ""
+        "site": "danime",
+        "id": "10040",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/255965"
+      },
+      {
+        "site": "mal",
+        "id": "128"
+      },
+      {
+        "site": "anidb",
+        "id": "248"
+      },
+      {
+        "site": "aniList",
+        "id": "128"
       }
     ]
   },
@@ -684,14 +1241,191 @@
         "id": "84990"
       },
       {
-        "site": "pptv",
-        "id": "ibZ32dNxCsvBT0Tk",
-        "begin": ""
+        "site": "bilibili",
+        "id": "3933",
+        "begin": "2002-04-02T16:00:01.000Z",
+        "broadcast": "R/2016-05-04T04:11:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/33176"
+      },
+      {
+        "site": "mal",
+        "id": "1427"
+      },
+      {
+        "site": "aniList",
+        "id": "1427"
+      },
+      {
+        "site": "anidb",
+        "id": "803"
+      }
+    ]
+  },
+  {
+    "title": "爆闘宣言ダイガンダー",
+    "titleTranslate": {
+      "zh-Hans": [
+        "爆斗宣言大钢弹"
+      ]
+    },
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2002-04-04T16:00:00.000Z",
+    "end": "2002-12-26T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "37496"
       },
       {
         "site": "bilibili",
-        "id": "3933",
-        "begin": "2002-04-02T16:00:01.000Z"
+        "id": "131752",
+        "begin": "2018-09-07T09:01:00.000Z",
+        "broadcast": "R/2018-09-07T09:01:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/44231"
+      },
+      {
+        "site": "mal",
+        "id": "3271"
+      },
+      {
+        "site": "anidb",
+        "id": "920"
+      },
+      {
+        "site": "aniList",
+        "id": "3271"
+      }
+    ]
+  },
+  {
+    "title": "ワイルド7 another 謀略運河",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2002-04-26T16:00:00.000Z",
+    "broadcast": "R/2002-04-26T16:00:00.000Z/P7D",
+    "end": "2002-08-30T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "293623"
+      },
+      {
+        "site": "unext",
+        "id": "SID0044487",
+        "begin": "2019-11-25T03:00:00.000Z",
+        "broadcast": "R/2019-11-25T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "10284",
+        "begin": "2012-06-26T15:00:00.000Z",
+        "broadcast": "R/2012-06-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/53424"
+      },
+      {
+        "site": "mal",
+        "id": "1745"
+      },
+      {
+        "site": "anidb",
+        "id": "4100"
+      },
+      {
+        "site": "aniList",
+        "id": "1745"
+      }
+    ]
+  },
+  {
+    "title": "レッチュ ゲッチュ サルゲッチュ",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2002-04-07T16:00:00.000Z",
+    "end": "2007-09-28T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "316896"
+      },
+      {
+        "site": "unext",
+        "id": "SID0003276",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/12437"
+      },
+      {
+        "site": "mal",
+        "id": "31054"
+      },
+      {
+        "site": "anidb",
+        "id": "11837"
+      },
+      {
+        "site": "aniList",
+        "id": "139884"
+      }
+    ]
+  },
+  {
+    "title": "エクスドライバー the Movie",
+    "titleTranslate": {
+      "zh-Hans": [
+        "极速战警剧场版"
+      ],
+      "en": [
+        "eX-Driver the Movie"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "2002-04-19T16:00:00.000Z",
+    "broadcast": "",
+    "end": "2002-04-19T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "172156"
+      },
+      {
+        "site": "mal",
+        "id": "378"
+      },
+      {
+        "site": "anidb",
+        "id": "440"
+      },
+      {
+        "site": "aniList",
+        "id": "378"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/41421"
       }
     ]
   }

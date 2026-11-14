@@ -1,0 +1,47 @@
+[
+  {
+    "title": "がんばれ!!タブチくん!!",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "https://www.tms-e.co.jp/alltitles/1970s/027301.html",
+    "begin": "1979-11-09T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1979-11-09T17:35:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "414719"
+      },
+      {
+        "site": "unext",
+        "id": "SID0038238",
+        "begin": "2018-11-27T03:00:00.000Z",
+        "broadcast": "R/2018-11-27T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "danime",
+        "id": "23332",
+        "begin": "2020-03-13T01:00:00.000Z",
+        "broadcast": "R/2020-03-13T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/531700"
+      },
+      {
+        "site": "mal",
+        "id": "32835"
+      },
+      {
+        "site": "anidb",
+        "id": "3538"
+      },
+      {
+        "site": "aniList",
+        "id": "116016"
+      }
+    ]
+  }
+]

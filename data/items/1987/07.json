@@ -25,6 +25,28 @@
         "site": "iqiyi",
         "id": "a_19rrhb4015",
         "begin": "2016-02-04T10:34:13.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0010760",
+        "begin": "2018-07-27T03:00:00.000Z",
+        "broadcast": "R/2018-07-27T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/39145"
+      },
+      {
+        "site": "mal",
+        "id": "891"
+      },
+      {
+        "site": "aniList",
+        "id": "891"
+      },
+      {
+        "site": "anidb",
+        "id": "1954"
       }
     ]
   },
@@ -54,6 +76,34 @@
         "site": "iqiyi",
         "id": "a_19rrhb4um9",
         "begin": "2016-02-16T07:22:34.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0011324",
+        "begin": "2019-12-26T03:00:00.000Z",
+        "broadcast": "R/2019-12-26T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/83090"
+      },
+      {
+        "site": "mal",
+        "id": "1256"
+      },
+      {
+        "site": "anidb",
+        "id": "1884"
+      },
+      {
+        "site": "aniList",
+        "id": "1256"
+      },
+      {
+        "site": "danime",
+        "id": "24704",
+        "begin": "2026-04-09T15:00:00.000Z",
+        "broadcast": "R/2026-04-09T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -78,6 +128,28 @@
         "site": "qq",
         "id": "p/pre4y0gnrshqogq",
         "begin": ""
+      },
+      {
+        "site": "danime",
+        "id": "11490",
+        "begin": "2020-01-17T01:00:00.000Z",
+        "broadcast": "R/2020-01-17T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/19237"
+      },
+      {
+        "site": "mal",
+        "id": "925"
+      },
+      {
+        "site": "aniList",
+        "id": "925"
+      },
+      {
+        "site": "anidb",
+        "id": "2077"
       }
     ]
   },
@@ -99,9 +171,123 @@
         "id": "11895"
       },
       {
-        "site": "letv",
-        "id": "10002045",
-        "begin": ""
+        "site": "tmdb",
+        "id": "movie/33441"
+      },
+      {
+        "site": "mal",
+        "id": "2182"
+      },
+      {
+        "site": "anidb",
+        "id": "1163"
+      },
+      {
+        "site": "aniList",
+        "id": "2182"
+      }
+    ]
+  },
+  {
+    "title": "TWD EXPRESS ローリングテイクオフ",
+    "titleTranslate": {
+      "zh-Hans": [
+        "TWD EXPRESS ROLLING TAKEOFF"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1987-07-13T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1987-07-13T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "110815"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/335174"
+      },
+      {
+        "site": "mal",
+        "id": "12901"
+      },
+      {
+        "site": "anidb",
+        "id": "6811"
+      },
+      {
+        "site": "aniList",
+        "id": "12901"
+      }
+    ]
+  },
+  {
+    "title": "マップス 伝説のさまよえる星人たち",
+    "titleTranslate": {
+      "zh-Hans": [
+        "星图传说 剧场版"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1987-07-13T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1987-07-13T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "80860"
+      },
+      {
+        "site": "mal",
+        "id": "3183"
+      },
+      {
+        "site": "anidb",
+        "id": "2081"
+      },
+      {
+        "site": "aniList",
+        "id": "3183"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/335066"
+      }
+    ]
+  },
+  {
+    "title": "Bugってハニー メガロム少女舞4622",
+    "titleTranslate": {},
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1987-07-20T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1987-07-20T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "231946"
+      },
+      {
+        "site": "mal",
+        "id": "31868"
+      },
+      {
+        "site": "anidb",
+        "id": "6601"
+      },
+      {
+        "site": "aniList",
+        "id": "132268"
       }
     ]
   }

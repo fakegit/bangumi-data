@@ -13,11 +13,6 @@
     "end": "1988-09-19T16:30:00.000Z",
     "sites": [
       {
-        "site": "pptv",
-        "id": "9GpGxCySAkCjIYk",
-        "begin": ""
-      },
-      {
         "site": "qq",
         "id": "m/m1w0lxz5okp36s4",
         "begin": ""
@@ -29,7 +24,24 @@
       {
         "site": "bilibili",
         "id": "2401",
-        "begin": "1988-03-13T16:00:00.000Z"
+        "begin": "1988-03-13T16:00:00.000Z",
+        "broadcast": "R/2011-06-01T14:05:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/108970"
+      },
+      {
+        "site": "mal",
+        "id": "6067"
+      },
+      {
+        "site": "anidb",
+        "id": "4009"
+      },
+      {
+        "site": "aniList",
+        "id": "6067"
       }
     ]
   },
@@ -37,7 +49,15 @@
     "title": "機動戦士ガンダム 逆襲のシャア",
     "titleTranslate": {
       "zh-Hans": [
-        "机动战士高达 逆袭的夏亚"
+        "机动战士高达 逆袭的夏亚",
+        "机动战士高达：逆袭的夏亚"
+      ],
+      "zh-Hant": [
+        "機動戰士鋼彈：逆襲的夏亞",
+        "機動戰士高達：馬沙之反擊"
+      ],
+      "en": [
+        "Mobile Suit Gundam: Char's Counterattack"
       ]
     },
     "type": "movie",
@@ -46,11 +66,6 @@
     "begin": "1988-03-12T16:00:00.000Z",
     "end": "1988-03-12T18:00:00.000Z",
     "sites": [
-      {
-        "site": "pptv",
-        "id": "Im1X1T2jE1G0Mpo",
-        "begin": ""
-      },
       {
         "site": "qq",
         "id": "8/80yxlsuq5pxurlq",
@@ -61,10 +76,50 @@
         "id": "4583"
       },
       {
+        "site": "netflix",
+        "id": "60024179",
+        "begin": "2021-06-16T16:00:00.000Z",
+        "broadcast": "R/2021-06-16T16:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0012890",
+        "begin": "2008-10-23T06:00:00.000Z",
+        "broadcast": "R/2008-10-23T06:00:00.000Z/P7D"
+      },
+      {
         "site": "nicovideo",
         "id": "gundam-cca",
         "begin": "",
         "broadcast": ""
+      },
+      {
+        "site": "prime",
+        "id": "B0DZY6M1H8",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "danime",
+        "id": "26209",
+        "begin": "2025-04-10T15:00:00.000Z",
+        "broadcast": "R/2025-04-10T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/16157"
+      },
+      {
+        "site": "mal",
+        "id": "87"
+      },
+      {
+        "site": "anidb",
+        "id": "720"
+      },
+      {
+        "site": "aniList",
+        "id": "87"
       }
     ]
   },
@@ -88,12 +143,41 @@
       {
         "site": "nicovideo",
         "id": "saint_seiya",
-        "begin": ""
+        "begin": "",
+        "broadcast": ""
       },
       {
         "site": "iqiyi",
         "id": "a_19rrhb4um9",
         "begin": "2016-02-16T07:22:34.000Z"
+      },
+      {
+        "site": "unext",
+        "id": "SID0011322",
+        "begin": "2019-12-26T03:00:00.000Z",
+        "broadcast": "R/2019-12-26T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/83091"
+      },
+      {
+        "site": "mal",
+        "id": "1258"
+      },
+      {
+        "site": "anidb",
+        "id": "1886"
+      },
+      {
+        "site": "aniList",
+        "id": "1258"
+      },
+      {
+        "site": "danime",
+        "id": "24705",
+        "begin": "2026-04-09T15:00:00.000Z",
+        "broadcast": "R/2026-04-09T15:00:00.000Z/P7D"
       }
     ]
   },
@@ -123,6 +207,22 @@
         "site": "mgtv",
         "id": "56434",
         "begin": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/80609"
+      },
+      {
+        "site": "mal",
+        "id": "6509"
+      },
+      {
+        "site": "anidb",
+        "id": "2723"
+      },
+      {
+        "site": "aniList",
+        "id": "6509"
       }
     ]
   },
@@ -140,18 +240,8 @@
     "end": "1988-03-12T17:30:00.000Z",
     "sites": [
       {
-        "site": "letv",
-        "id": "80865",
-        "begin": ""
-      },
-      {
         "site": "bangumi",
         "id": "446"
-      },
-      {
-        "site": "pptv",
-        "id": "7qoHhe1TwwFk4ko",
-        "begin": ""
       },
       {
         "site": "qq",
@@ -161,7 +251,214 @@
       {
         "site": "bilibili",
         "id": "2556",
-        "begin": "1988-03-11T16:00:00.000Z"
+        "begin": "1988-03-11T16:00:00.000Z",
+        "broadcast": "R/2015-02-14T09:22:00.000Z/P7D"
+      },
+      {
+        "site": "abema",
+        "id": "35-98",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "unext",
+        "id": "SID0099853",
+        "begin": "2024-03-05T03:00:00.000Z",
+        "broadcast": "R/2024-03-05T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "prime",
+        "id": "B0FLYP16B4",
+        "begin": "",
+        "broadcast": ""
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/136241"
+      },
+      {
+        "site": "mal",
+        "id": "2658"
+      },
+      {
+        "site": "aniList",
+        "id": "2658"
+      },
+      {
+        "site": "anidb",
+        "id": "6592"
+      }
+    ]
+  },
+  {
+    "title": "エスパー魔美 星空のダンシングドール",
+    "titleTranslate": {
+      "zh-Hans": [
+        "超能力魔美 星空的跳舞娃娃"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1988-03-11T16:00:00.000Z",
+    "end": "1988-03-11T16:00:00.000Z",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "121738"
+      },
+      {
+        "site": "bilibili",
+        "id": "2495",
+        "begin": "2013-08-04T04:20:34.000Z",
+        "broadcast": "R/2013-08-04T04:20:34.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/117349"
+      },
+      {
+        "site": "mal",
+        "id": "9880"
+      },
+      {
+        "site": "anidb",
+        "id": "6273"
+      },
+      {
+        "site": "aniList",
+        "id": "9880"
+      }
+    ]
+  },
+  {
+    "title": "機動戦士SDガンダム",
+    "titleTranslate": {
+      "zh-Hans": [
+        "机动战士SD高达"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "http://www.sunrise-inc.co.jp/sd-gundam/",
+    "begin": "1988-03-11T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1988-03-11T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "298572"
+      },
+      {
+        "site": "unext",
+        "id": "SID0077804",
+        "begin": "2023-01-26T15:00:00.000Z",
+        "broadcast": "R/2023-01-26T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/508108"
+      },
+      {
+        "site": "mal",
+        "id": "2302"
+      },
+      {
+        "site": "anidb",
+        "id": "596"
+      },
+      {
+        "site": "aniList",
+        "id": "2302"
+      }
+    ]
+  },
+  {
+    "title": "ビックリマン 第一次聖魔大戦",
+    "titleTranslate": {
+      "zh-Hans": [
+        "仙魔大战 第一次圣魔大战"
+      ]
+    },
+    "type": "movie",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1988-03-11T16:00:00.000Z",
+    "broadcast": "",
+    "end": "1988-03-11T16:30:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "487091"
+      },
+      {
+        "site": "danime",
+        "id": "24699",
+        "begin": "2022-06-15T01:00:00.000Z",
+        "broadcast": "R/2022-06-15T01:00:00.000Z/P7D"
+      },
+      {
+        "site": "unext",
+        "id": "SID0002821",
+        "begin": "2015-02-16T15:00:00.000Z",
+        "broadcast": "R/2015-02-16T15:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "movie/743146"
+      },
+      {
+        "site": "mal",
+        "id": "10203"
+      },
+      {
+        "site": "anidb",
+        "id": "2318"
+      },
+      {
+        "site": "aniList",
+        "id": "10203"
+      }
+    ]
+  },
+  {
+    "title": "つるピカハゲ丸くん",
+    "titleTranslate": {},
+    "type": "tv",
+    "lang": "ja",
+    "officialSite": "",
+    "begin": "1988-03-02T16:00:00.000Z",
+    "broadcast": "R/1988-03-02T16:00:00.000Z/P7D",
+    "end": "1989-10-05T16:00:00.000Z",
+    "comment": "",
+    "sites": [
+      {
+        "site": "bangumi",
+        "id": "188450"
+      },
+      {
+        "site": "unext",
+        "id": "SID0004811",
+        "begin": "2025-03-01T03:00:00.000Z",
+        "broadcast": "R/2025-03-01T03:00:00.000Z/P7D"
+      },
+      {
+        "site": "tmdb",
+        "id": "tv/209246"
+      },
+      {
+        "site": "mal",
+        "id": "5830"
+      },
+      {
+        "site": "anidb",
+        "id": "6521"
+      },
+      {
+        "site": "aniList",
+        "id": "5830"
       }
     ]
   }
